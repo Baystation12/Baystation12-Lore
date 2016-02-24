@@ -8,4 +8,5 @@ Welcome to the Lore Wiki for Baystation12. This is where you can find all the ba
 * So You Want to Go Corporate?
 * Colonies, From Mining Hubs to New New New York!
 * Terrorism and You!
+* What Else Do You Want to Know?
 * Glossary of Terms
