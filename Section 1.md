@@ -20,7 +20,8 @@ ___
 
 ###The Races
 
-**Humanity** (picture will be here along with info)
+[**Humanity**](https://wiki.baystation12.net/images/6/60/Background-humans.png) 
+
 Humanity, everything and nothing can be said about them. They are the primary driving force for rapid space expansion and perhaps the most populated (known and sentient) species in the galaxy. The vast majority of Trans-Stellar Corporations are owned by humans. By this time men and women are treated all but equal, however there may still be exceptions. 
 
 While most humans are accepting of other species and simply want to earn an honest paycheck, the best and worst are found among them. You never know what a human is going to be like when you first meet them. Due their prevalence in current known space, and their ability to encompass all traits, good and bad, humanity is often considered the 'status quo'.
