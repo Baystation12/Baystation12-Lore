@@ -21,6 +21,7 @@ ___
 ###The Races
 
 **Humanity**
+
 ![Humanity](https://wiki.baystation12.net/images/6/60/Background-humans.png) 
 
 Humanity, everything and nothing can be said about them. They are the primary driving force for rapid space expansion and perhaps the most populated (known and sentient) species in the galaxy. The vast majority of Trans-Stellar Corporations are owned by humans. By this time men and women are treated all but equal, however there may still be exceptions. 
@@ -28,6 +29,7 @@ Humanity, everything and nothing can be said about them. They are the primary dr
 While most humans are accepting of other species and simply want to earn an honest paycheck, the best and worst are found among them. You never know what a human is going to be like when you first meet them. Due their prevalence in current known space, and their ability to encompass all traits, good and bad, humanity is often considered the 'status quo'.
 
 **Skrell** 
+
 ![Skrell](https://wiki.baystation12.net/images/4/4d/Background-Skrell.png)
 
 The Skrell are a species of amphibious humanoids, distinguished by their green-blue gelatinous appearance and head tentacles. Skrell warble from the world of Qerrbalak (or as the lore once called it, Jargon 4), a humid planet with plenty of swamps and jungles. Currently more technologically advanced than humanity, they emphasize the study of the mind above all else.
@@ -35,7 +37,9 @@ The Skrell are a species of amphibious humanoids, distinguished by their green-b
 Gender has little meaning to Skrell outside of reproduction, and in fact many other species have a difficult time telling the difference between male and female Skrell apart. The most obvious signs (voice in a slightly higher register, longer head-tails for females) are never a guarantee. Due to their scientific focus of the mind and body, Skrell tend to be more peaceful and their colonization has been slow, swiftly outpaced by humanity. They were the first contact sentient species, and are humanity's longest, and closest, ally in space.
 
 **Unathi** 
-![Unathi](https://wiki.baystation12.net/File:Background-unathi.png)
+
+![Unathi](https://wiki.baystation12.net/images/f/f8/Background-unathi.png)
+
 Raging in from Moghes, the Unathi are a race of tall, reptilian humanoids that possess both crocodile-like and serpent-like features. They are a proud, warlike species that favours honour and strength, their home, Moghes, is a desert planet but was once believed to be full of life. Of all the currently known sentient species, the Unathi are the most unequal in gender with females tending to be property of the males.
 
 Most Unathi outside of Moghes tend to be exiles however, and with influence of other species the gender difference is not nearly as pronounced. Unathi were humanity's second contact, and despite their aggressive nature, seem to get along well enough with humanity, though are often considered to be 'second-class' citizens and are rarely seen in jobs other than where muscle is needed.
@@ -43,12 +47,15 @@ Most Unathi outside of Moghes tend to be exiles however, and with influence of o
 **Tajara** 
 
 ![Tajara](https://wiki.baystation12.net/images/9/92/Background-tajaran.png)
+
 The Tajaran are a humanoid race possessing cat-like features. Hailing from Ahdomai, the smaller of two twin planets, they possess insulative fur and felinoid stability to better survive in their harsh native environment. Their home planet is a cold planet of vast tundra and arctic zones. For generations the tajaran were practically enslaved by the leading class who were recently overthrown. While males and females are treated roughly equal, the true division is between the young and the old. 
 
 Remembering their days of being ruled the older generation pride themselves on loyalty, while the younger generation are often seen as headstrong. Third and most recent contact by humanity. While plenty of Tajaran hold reservations with their new allies, over all the alliance is accepted and welcome. Though like the Unathi plenty of humans take advantage of the less than modern education and slave past history, and it is rare to see a Tajaran in a position of command.
 
-**Dionaea** 
+**Dionaea**
+
 ![Dionaea](https://wiki.baystation12.net/images/3/33/Dionaea-background.png)
+
 The dionaea are a group of omnivorous, slow-metabolism plantlike organisms that are in fact clusters of individual, smaller organisms. They exhibit a high degree of structural flexibility, and come in a wide variety of shapes and colours to reflect the intelligence of each individual creature. They were discovered by the Skrell in 2294CE, not on a planet, but in open space between three stars, a figurative hell that made it difficult to discover, much less contact them.
 
 Dionaea spread by seeds and are asexual, no gender.
