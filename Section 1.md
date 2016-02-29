@@ -64,9 +64,28 @@ When grown into their small 'nymph' state, they are known to eat large amounts o
 **Resomi** (picture will be here along with info)
 
 
-**Vox** (picture will be here along with info)
+**Vox**
+
+![Vox](https://wiki.baystation12.net/images/c/cf/Background-vox.png)
+
+A bird-like alien species, these scavengers commonly raid stations and ships for supplies and hardware. Often considered barely organized rabble, they are usually only a threat to ships or stations out alone without any backup, or those with lazy or incompetent security personnel. Cowardly, they tend to only attack when numbers are in their favour, and if not will either run or attempt to bargain worthless trash to gather what they want.
+
+
 
 **Synthetics** (picture will be here along with info)
+
+![Borg](https://wiki.baystation12.net/images/f/f1/Generic_borg.png)
+
+Synthetics are spread throughout known space and serve a myriad variety of roles that range from a tiny drone scrubbing a floor to a nearly omnipotent AI in command of an entire battle cruiser. Most known sentient races use synthetics in some way or fashion, very often as prosthetic bodies when their own bodies fail. There are three basic kinds of synthetic found in the universe today:
+
+Android: An android is a robot that runs off of a positronic brain and is usually introspective, calm, and thoughtful. Positronic brains are currently in a turmoil of whether or not they are considered property or free-willed beings that should not be lawbound.
+
+Cyborg: A cyborg is a robot that uses an organic brain to function via an MMI. Cyborgs come in many shapes and sizes and most of the sentient beings that are cyborgs are free-willed. Some companies have used canine brains and brains of other animals to ensure a cheap workforce that doesn't rely on cutting-edge technology.
+
+Robot: A robot is the term to use for any robot that uses more basic forms of intelligence. These are thought of as property in the vast majority of instances and are usually the robots that do the menial tasks that higher functioning beings choose not to do.
+
+Important Groups[edit]
+
 
 ___
 
