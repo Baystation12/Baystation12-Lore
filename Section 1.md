@@ -20,7 +20,7 @@ ___
 
 ###The Races
 
-[**Humanity**](https://wiki.baystation12.net/images/6/60/Background-humans.png) 
+![**Humanity**](https://wiki.baystation12.net/images/6/60/Background-humans.png) 
 
 Humanity, everything and nothing can be said about them. They are the primary driving force for rapid space expansion and perhaps the most populated (known and sentient) species in the galaxy. The vast majority of Trans-Stellar Corporations are owned by humans. By this time men and women are treated all but equal, however there may still be exceptions. 
 
