@@ -84,8 +84,6 @@ Cyborg: A cyborg is a robot that uses an organic brain to function via an MMI. C
 
 Robot: A robot is the term to use for any robot that uses more basic forms of intelligence. These are thought of as property in the vast majority of instances and are usually the robots that do the menial tasks that higher functioning beings choose not to do.
 
-Important Groups[edit]
-
 
 ___
 
