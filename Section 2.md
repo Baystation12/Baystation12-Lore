@@ -32,7 +32,7 @@ Anyways, these species were already described on the previous Section in short l
 (information and page link to DIONAEA
 
 ____
-##That's only five aliens, where's the other two?
+##That's only five Aliens, where's the other two?
 
 As you can imagine, not every species gets along. The Kharmaani Ascent and the Vox also exist amongst the stars. The Kharmaani Ascent are much more powerful than the Vox, but currently things are at cold conflict, with nothing actually happening but general distrust on both sides. The Vox are relatable to Somali pirates in the 21st century when it comes to Human Policy. There is open conflict against the ones that attack our vessels, but overall no war has been declared as they are not a unified civilization.
 
