@@ -1,3 +1,3 @@
-# So You Want to go Corporate?
+# So You Want to Go Corporate?
 
 
