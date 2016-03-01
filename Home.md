@@ -4,7 +4,7 @@ Welcome to the Lore Wiki for Baystation12. This is where you can find all the ba
 ## Sections
 
 * [Welcome to the Milky Way, Circa 2560](https://baystation12.net/lore/Section-1)
-* Humans, Aliens, and Monsters oh my!
+* [Humans, Aliens, and Monsters oh my!](https://baystation12.net/lore/Section-2)
 * So You Want to Go Corporate?
 * Colonies, From Mining Hubs to New New New York!
 * Terrorism and You!
