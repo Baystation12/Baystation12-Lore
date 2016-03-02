@@ -8,32 +8,32 @@ ____
 
 There are Seven Trans-Stellar Corporations that really shape what happens in the Outer Rims of space, and control markets of goods throughout the stars. These seven TSCs are NanoTrasen, Ward-Takahashi GMB, Githari Exports, Grayson Manufactories Ltd., Aether Atmospherics and Recycling, Zeng-Hu Pharmaceuticals, and Hesphaistos Industries. These are the wealthiest, most powerful, greedy, and controlling TSCs currently in existance. 
 
-- **NanoTrasen**
+- ![**NanoTrasen**](https://baystation12.net/lore/NanoTrasen)
 
 A high-tech research company with a majority holding on phoron claims in the Nyx system and throughout the galaxy.
 
-- **Ward-Takahashi GMB**
+- ![**Ward-Takahashi GMB**](https://baystation12.net/lore/Ward-Takahashi-GMB)
 
 A manufacturing company that produces everything from consumer electronics, like PDAs and laptop computers, to home appliances and other miscellaneous items.
 
-- **Githari Exports**
+- ![**Githari Exports**](https://baystation12.net/lore/Githari-Exports)
 
 A large producer of luxury and alcoholic goods based out of their headquarters on Mars.
 
-- **Grayson Manufactories Ltd.
+- ![**Grayson Manufactories Ltd.**](https://baystation12.net/lore/Grayson-Manufactories-Ltd.)
 
 A mining company that serves as one of the largest providers of raw materials in known space. Recently, it has also begun to sell generic assembly materials for use in construction projects (metal beams, lattice, coils, etc.)
 
-- **Aether Atmospherics and Recycling**
+- ![**Aether Atmospherics and Recycling**](https://baystation12.net/lore/Aether-Atmospherics-and-Recycling)
 
 An atmospherics and recycling company based in the Sol system.
 
 
-- **Zeng-Hu Pharmaceuticals**
+- ![**Zeng-Hu Pharmaceuticals**](https://baystation12.net/lore/Zeng-Hu-Pharmaceuticals)
 
 A pharmaceutical company renown for its recent advancements in medicine and questionable business practices.
 
-- **Hesphaistos Industries**
+- ![**Hesphaistos Industries**](https://baystation12.net/lore/Hesphaistos-Industries)
 
 A renown arms manufacturing and general security equipment company. Commonly known as the first trans-stellar to develop after the formation of Sol Central.
 
