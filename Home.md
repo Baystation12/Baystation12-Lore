@@ -1,8 +1,8 @@
-![BS12](https://baystation12.net/forums/logo.png) 
 
-# Welcome
+# Welcome  ![BS12](https://baystation12.net/forums/logo.png) 
 
-Welcome to the Lore Wiki for Baystation12. This is where you can find all the background, fluff, lore, and information for the universe of our server in an easy to read gui
+
+Welcome to the Lore Wiki for Baystation12. This is where you can find all the background, fluff, lore, and information for the universe of our server in an easy to read guides.
 
 ## Sections
 
