@@ -32,7 +32,7 @@ Hailing from the jungles and marshes of Qerr'balak, Humanity's oldest ally, and 
 
 ____
 
-##That's only five Aliens, where's the other two?
+##That's Only Five Aliens
 
 As you can imagine, not every species gets along. The Kharmaan Ascent and the Vox also exist amongst the stars. The Kharmaan Ascent are much more powerful than the Vox, but currently things are at cold conflict, with nothing actually happening but general distrust on both sides. The Vox are relatable to Somali pirates in the 21st century when it comes to Human Policy. There is open conflict against the ones that attack our vessels, but overall no war has been declared as they are not a unified civilization.
 
@@ -47,7 +47,7 @@ The Kharmaan Ascent is an interstellar power located in neighbouring space to th
 
 ____
 
-##What's this about Monsters?
+##What's This About Monsters?
 
 Space is a very dangerous place, and not just because there's no air. Various creatures lurk throughout the stars, all wanting to eat you. The most common are the Carp, Pikes, the main focus of the Xenobiological field- The Slimes, Giant Spiders, and Cortical Borers.
 
