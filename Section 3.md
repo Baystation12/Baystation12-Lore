@@ -12,7 +12,7 @@ There are Seven Trans-Stellar Corporations that really shape what happens in the
 
 A high-tech research company with a majority holding on phoron claims in the Nyx system and throughout the galaxy.
 
-- ![Ward-Takahashi GMB](https://baystation12.net/lore/Ward-Takahashi-GMB)
+- [Ward-Takahashi GMB](https://baystation12.net/lore/Ward-Takahashi-GMB)
 
 A manufacturing company that produces everything from consumer electronics, like PDAs and laptop computers, to home appliances and other miscellaneous items.
 
