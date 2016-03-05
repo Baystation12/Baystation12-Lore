@@ -64,6 +64,9 @@ When grown into their small 'nymph' state, they are known to eat large amounts o
 **Resomi** (picture will be here along with info)
 
 
+**IPCs** (picture will be here along with info.
+
+
 **Vox**
 
 ![Vox](https://wiki.baystation12.net/images/c/cf/Background-vox.png)
