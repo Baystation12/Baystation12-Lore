@@ -14,9 +14,9 @@ One of the more prominent species in our area of the Galaxy, Humanity has certai
 
 Hailing from the jungles and marshes of Qerr'balak, Humanity's oldest ally, and one of the two most powerful known civilizations: the Skrell. They are far more technologically advanced than Humanity, and have been around this point for near 600 years, with technological advancements stagnating (though still far ahead of Humanity). They are at the top of Galactic prowess, with them being the firsrt Empire Humanity ever met in the stars. They are responsible for many advancements that Humanity has acquired, and for keeping the Peace, mostly, between the younger species. In the 25th century, the Skrell's war with the Kharmaani Ascent came to a close, bringing in the 26th Century with it and today's society.
 
-**Unathi**
+[**Unathi**](http://baystation12.net/lore/The-Unathi)
 
-(information and page link to UNATHI)
+a proud race of reptilians hailing from the desert planet of Moghes, the Unathi are a recent addition to the International Community. They are a highly sexist society, and to some, considered xenophobic too. They are very much in keeping with their own traditions and staying out of intergalactic affairs, and as such, it is rare to see them out in the stars and away from home.
 
 **Tajara**
 
@@ -28,7 +28,7 @@ Hailing from the jungles and marshes of Qerr'balak, Humanity's oldest ally, and 
 
 **Dionaea**
 
-(information and page link to DIONAEA
+(information and page link to DIONAEA)
 
 ____
 
