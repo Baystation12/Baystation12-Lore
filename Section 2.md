@@ -10,7 +10,7 @@ Anyways, these species were already described on the previous Section in short l
 
 One of the more prominent species in our area of the Galaxy, Humanity has certainly expanded across the stars since their first contact with the Skrell in the 25th century. Since then, they have spread out, colonized or conquered, and built for themseles a Solar Empire that is under control of the powerful Sol Central (or Sol Gov), based out of the heart of Human Politics, the Terran Commonwealth. Trans-Stellar Corporations push Humanity into further reaches of space, and are at the bleeding edge of new technology. In recent days, the discovery of the phoron giant in Nyx have fueled investments and jobs, brining many Humans to the outer rim of their controlled systems, as well as many subversive organizations that have a variety of different agendas. 
 
-**Skrell**
+(**Skrell**)[https://baystation12.net/lore/The-Skrell]
 
 Hailing from the jungles and marshes of Qerr'balak, Humanity's oldest ally, and one of the two most powerful known civilizations: the Skrell. They are far more technologically advanced than Humanity, and have been around this point for near 600 years, with technological advancements stagnating (though still far ahead of Humanity). They are at the top of Galactic prowess, with them being the firsrt Empire Humanity ever met in the stars. They are responsible for many advancements that Humanity has acquired, and for keeping the Peace, mostly, between the younger species. In the 25th century, the Skrell's war with the Kharmaani Ascent came to a close, bringing in the 26th Century with it and today's society.
 
