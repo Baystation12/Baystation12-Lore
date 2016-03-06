@@ -18,21 +18,21 @@ Hailing from the jungles and marshes of Qerr'balak, Humanity's oldest ally, and 
 
 a proud race of reptilians hailing from the desert planet of Moghes, the Unathi are a recent addition to the International Community. They are a highly sexist society, and to some, considered xenophobic too. They are very much in keeping with their own traditions and staying out of intergalactic affairs, and as such, it is rare to see them out in the stars and away from home.
 
-**Tajara**
+[**Tajara**](https://baystation12.net/lore/The-Tajara)
 
-(information and page link to TAJARA)
+A newer addition to the galactic community, the Tajara are a form of cheap labor throughout the stars, and they haven't been found to do much else. For a long time until a revolution took place they were ruled over by a class known as the "Slavemasters" and in recent years finally made it on their own into the stars, but society is still very divided for them. They're based around family, traditions, and hard work.
 
-**Resomi**
+[**Resomi**](http://baystation12.net/lore/The-Resomi)
 
 (information and page link to RESOMI)
 
-**Dionaea**
+[**Dionaea**](http://baystation12.net/lore/The-Dionaea)
 
 (information and page link to DIONAEA)
 
 ____
 
-##That's Only Five Aliens
+## That's Only Five Aliens
 
 As you can imagine, not every species gets along. The Kharmaan Ascent and the Vox also exist amongst the stars. The Kharmaan Ascent are much more powerful than the Vox, but currently things are at cold conflict, with nothing actually happening but general distrust on both sides. The Vox are relatable to Somali pirates in the 21st century when it comes to Human Policy. There is open conflict against the ones that attack our vessels, but overall no war has been declared as they are not a unified civilization.
 
@@ -46,6 +46,13 @@ The Kharmaan Ascent is an interstellar power located in neighbouring space to th
 (information and page link to VOX)
 
 ____
+
+## Anything Else?
+
+[**The IPC**](http://baystation12.net/lore/The-IPCs)
+
+**Vat Born**
+
 
 ##What's This About Monsters?
 
