@@ -6,7 +6,7 @@
 As you may have noticed from your time on our server, Humanity is not alone in the stars. So far, there are seven other alien civilizations that we have discovered, and that's just the start of our galaxy! Who knows what else lurks in the dark corners...
 Anyways, these species were already described on the previous Section in short little paragraphs that gave you a basic idea. This section is meant to give you a more comprehensive understanding of these Aliens, and perhaps prepare you to even play them!
 
-[**Humanity**](http://baystaton12.net/Humanity)
+[**Humanity**](http://baystaton12.net/lore/Humanity)
 
 One of the more prominent species in our area of the Galaxy, Humanity has certainly expanded across the stars since their first contact with the Skrell in the 25th century. Since then, they have spread out, colonized or conquered, and built for themseles a Solar Empire that is under control of the powerful Sol Central (or Sol Gov), based out of the heart of Human Politics, the Terran Commonwealth. Trans-Stellar Corporations push Humanity into further reaches of space, and are at the bleeding edge of new technology. In recent days, the discovery of the phoron giant in Nyx have fueled investments and jobs, brining many Humans to the outer rim of their controlled systems, as well as many subversive organizations that have a variety of different agendas. 
 
