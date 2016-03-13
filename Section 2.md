@@ -55,6 +55,11 @@ ____
 
 **Vat Born**
 
+With cloning on the forefront of human scientific advancement, cheap mass production of bodies is a very real and rather ethically grey industry. Vat-grown humans tend to be paler than baseline, with no appendix and fewer inherited genetic disabilities, but a weakened metabolism. From this baseline version, there are two other variants. 
+
+* Grav-Adapted Humans: Heavier and stronger than a baseline human, gravity-adapted people have thick radiation-resistant skin with a high lead content, denser bones, and recessed eyes beneath a prominent brow in order to shield them from the glare of a dangerously bright, alien sun. This comes at the cost of mobility, flexibility, and increased oxygen requirements to support their robust metabolism.
+* Space-Adapted Humans: Lithe and frail, these sickly folk were engineered for work in environments that lack both light and atmosphere. As such, they're quite resistant to asphyxiation as well as toxins, but they suffer from weakened bone structure and a marked vulnerability to bright lights. 
+
 
 ##What's This About Monsters?
 
