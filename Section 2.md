@@ -22,9 +22,11 @@ a proud race of reptilians hailing from the desert planet of Moghes, the Unathi 
 
 A newer addition to the galactic community, the Tajara are a form of cheap labor throughout the stars, and they haven't been found to do much else. For a long time until a revolution took place they were ruled over by a class known as the "Slavemasters" and in recent years finally made it on their own into the stars, but society is still very divided for them. They're based around family, traditions, and hard work.
 
-[**Resomi**](http://baystation12.net/lore/The-Resomi)
+[**Resomi**](http://baystation12.net/lore/Resomi)
 
-(information and page link to RESOMI)
+The Resomi are a species of (quite small) feathered reptiles from a barren and freezing planet on the far spinward side of Skrellian territory from Sol. Their society is built around unity and strong familial and social ties; a lone Resomi is not capable of functioning well for long, and will rapidly fall into loneliness and paranoia. Despite, or perhaps because of, their small stature, the Resomi wrought a multi-system-spanning empire when humanity was building pyramids, achieving great feats of engineering, mechanics and material fabrication. At their height, the unified empire bent vast amounts of matter into shape around their home stars to build machines that harnessed staggering quantities of power, supplying a true utopia for the Resomi people.
+
+This, however, has proven unsustainable, and without the driving forces of innovation, social entropy, or a drive to escape death, the Resomi empire has fallen from its peak, with outlying systems splintering away as the ruling government, bolstered by life-extending technology, has fallen into self-contemplation and corruption. While the Resomi are still a powerful inter-system trading force, responsible for supplying medical and materials technology (far outstripping a lot of what humans can offer) to the general market, they are not the industrial and military juggernaut they were five hundred years ago, and often must rely on applying force to the commercial markets to try and press their political claims.
 
 [**Dionaea**](http://baystation12.net/lore/The-Dionaea)
 
@@ -36,7 +38,7 @@ ____
 
 As you can imagine, not every species gets along. The Kharmaan Ascent and the Vox also exist amongst the stars. The Kharmaan Ascent are much more powerful than the Vox, but currently things are at cold conflict, with nothing actually happening but general distrust on both sides. The Vox are relatable to Somali pirates in the 21st century when it comes to Human Policy. There is open conflict against the ones that attack our vessels, but overall no war has been declared as they are not a unified civilization.
 
-**Kharmaan Ascent**
+[**Kharmaan Ascent**](http://baystation12.net/lore/Kharmaan)
 
 The Kharmaan Ascent is an interstellar power located in neighbouring space to the Skrell. The full extent of their territory is unknown, as it abuts the intergalactic gulf and Humanity is walled off from it by a narrow buffer of several Skrellian systems. Access to Ascent space is solely afforded through a series of interdicted DMZ systems littered with the debris of space battles both ancient and modern, and their borders are policed by breathtakingly violent and reactionary automated military squadrons. They are enormously advanced, insectoid in appearance, and number amongst the most vicious and violent aliens Humanity has ever encountered.
 
