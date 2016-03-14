@@ -28,7 +28,9 @@ The Resomi are a dimunitive race of what can be best described as raptor-birds. 
 
 [**Dionaea**](http://baystation12.net/lore/The-Dionaea)
 
-(information and page link to DIONAEA)
+Commonly referred to (erroneously) as 'plant people', the Dionaea are a strange space-dwelling collective species hailing from Epsilon Ursae Minoris. Each 'diona' is a cluster of numerous cat-sized organisms called nymphs; there is no effective upper limit to the number that can fuse in gestalt, and reports exist of the Epsilon Ursae Minoris primary being ringed with a cloud of singing space-station-sized entities.
+
+The Dionaea coexist peacefully with all known species, especially the Skrell. Their communal mind makes them slow to react, and they have difficulty understanding even the simplest concepts of other minds. Their alien physiology allows them survive happily off a diet of nothing but light, water and other radiation.
 
 ____
 
@@ -50,6 +52,8 @@ ____
 ## Anything Else?
 
 [**The IPC**](http://baystation12.net/lore/The-IPCs)
+
+Positronic intelligence really took off in the 26th century, and it is not uncommon to see independant, free-willed robots on many human stations, particularly in fringe systems where standards are slightly lax and public opinion less relevant to corporate operations. IPCs (Integrated Positronic Chassis) are a loose category of self-willed robots with a humanoid form, generally self-owned after being 'born' into servitude; they are reliable and dedicated workers, albeit more than slightly inhuman in outlook and perspective.
 
 **Vat Born**
 
