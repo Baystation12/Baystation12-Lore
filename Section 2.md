@@ -41,9 +41,9 @@ As you can imagine, not every species gets along. The Kharmaan Ascent and the Vo
 The Kharmaan Ascent is an interstellar power located in neighbouring space to the Skrell. The full extent of their territory is unknown, as it abuts the intergalactic gulf and Humanity is walled off from it by a narrow buffer of several Skrellian systems. Access to Ascent space is solely afforded through a series of interdicted DMZ systems littered with the debris of space battles both ancient and modern, and their borders are policed by breathtakingly violent and reactionary automated military squadrons. They are enormously advanced, insectoid in appearance, and number amongst the most vicious and violent aliens Humanity has ever encountered.
 
 
-**Vox**
+[**Vox**](http://baystation12.net/lore/Vox)
 
-(information and page link to VOX)
+The Vox were once a large star-faring civilization that were extremely advanced for their time, according to the Vox, at least. It is said that they unlocked the very code of life itself, forming it, and shaping it to their very will. So says the Vox, at least. The Vox also say they know the secrets of the universe and will sell it to you for the low, low price of twenty thalers. Its unfortunate, but you can’t put much stock into Vox history. It is in a constant state of flux, changing at will to suit a crafty Vox merchant or a prideful Vox scavenger. Whatever their history is, it must be long as they’ve been in space as long as recorded history cares to remember them.
 
 ____
 
