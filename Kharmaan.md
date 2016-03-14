@@ -1,6 +1,6 @@
 # The Kharmaan Ascent
 
-The Kharmaan Ascent *(singular Kharmaan, plural Kharmaani)* is an interstellar power located in neighbouring space to the Skrell. The full extent of their territory is unknown, as it abuts the intergalactic gulf and Humanity is walled off from it by a narrow buffer of several Skrellian systems. Access to Ascent space is solely afforded through a series of interdicted DMZ systems littered with the debris of space battles both ancient and modern, and their borders are policed by breathtakingly violent and reactionary automated military squadrons. They are enormously advanced, insectoid in appearance, and number amongst the most vicious and violent aliens Humanity has ever encountered.
+The Kharmaan Ascent *(singular Kharmaan, plural Kharmaani)* is an interstellar power located in neighbouring space to the Skrell. The full extent of their territory is unknown, as it abuts the intergalactic gulf and Humanity is walled off from it by a narrow buffer of several Skrellian systems, and DMZ zones.
 
 ## Physiology and Biology
 
