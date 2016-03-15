@@ -70,9 +70,23 @@ A colonial start-up, O'Niell Manufacturing meets the demands of a growing commun
 
 A younger corporation, the simply named Falco Designs first came onto the radar in the early 2500s. Its founder Giuseppe Cecilio, at the time a minor Billionaire, purchased the entirety of the asteroid Ceres. Ceres had originally been a stepping stone for the exploration of Sol, though by the 26th century it had been long defunct, stripped of resources and populated by those whose grandparents' grandparents hadn't had the money to leave. Cecilio however, saw opportunity in those people. He paid the indigenous population to refit Ceres as a large manufacturing facility, and began producing luxury spacecraft. Cruise liners, yachts, and high class couriers filled a market for executive space travel that hadn't been largely exploited at that time. Capitalizing on the positive attention his company received for employing and uplifting a hereditary lower class, Cecilio made Falco into the name in luxury spacecraft. If you somehow find yourself a passenger aboard a spacecraft made by Falco, it's likely you've made it to a level of success most people will never even dream of.
 
+- **Sterling Manufactures**
+- 
+A small company founded on the brink of 22nd century by a group of Commonwealth privateers, it focuses on the utmost of luxury goods, with specialty on manual production and only using technologies from 20th or 21st century. With a focus on perfection and quality through dinstinctive cratfsmanship, and goods ranging from fine liquours through cigars to furniture and cloths, prices are at the highest when dealing with this company, yet given its very limited production volume, it does not produce the revenue and numbers to go up the charts, regardless of high demand for its products.
+
+
 - **Major Bill's Transportation and Shipping**
 
 While hauling freight may not be the most romantic career in modern times, Major Bill's Shipping is partly responsible for the rapid growth of inter-colonial commerce. Employing a massive fleet of freighters, tankers, and haulers, Major Bill's operates in the majority of human space. While many TSCs employ their own shipping, corporations like Major Bill's connect the many colonies, unaffiliated habitats, and settlements across the known galaxy. Lately however, the expansion of trade into areas outside of SolGov has necessitated the hiring of security contractors to maintain the safety of trade vessels, and the integrity of their cargo.
+
+- **Focal Point Energestics**
+
+Created from a fusion of energy companies as well as electrical engineering companies, like General Electric, E.ON, RWE, Petronas, Škoda Works, and even most of EPPSA (European Power Plant Supplier Association), this company is considered a Megacorporation. This company focuses, as its composure suggests, on providing a unified solution for resources and engineering for a fully integrated power grid, even on a planetary scale.
+
+While it does not yet possess technologies like Gravitational Singularity reactor or Supermatter reactor (which to my knowledge is exclusive to NT), it finds no match in producing other devices and components of a proper working power grid, like underground shielded long-range transmission wiring, high-efficiency transformers (up to 99.8%), and superior gas turbines and TEGs. They are designers of PSU racks, and later the SMES.
+
+While usually the larger corporations devise their own power grid and manage their own planets/moons/stations, FPE is often consulted and hired when a less than usual approach needs to be taken, and their products are on high demand.
+
 
 ### Minor Corporations
 
@@ -100,7 +114,15 @@ While it might not make it to the headlines, Phoenix Foundries is a necessary pr
 
 Relatively underwhelming compared to medical giants such as Vey-Med, SaniCorp's products are largely behind the scenes medical gear. Many sanitation sprayers, gauze, sterile gloves, and autoinjector casings are made by SaniCorp. There is one notable exception to their somewhat pedestrian medical offerings, their prosthetics. While not offering as many flashy options as some augments, SaniCorp offers a range of comfortable, easy to maintain, clean, and operate prosthetic limb replacements and augmentations.
 
+- **Mars Security Industries (M.S.I)**
 
+Founded during the first colonisation of Mars, M.S.I. intended to take advantage of the rich metal deposits to make cheap, mass produced small arms. When the colonies on Mars became more developed, they opened factories to reduce costs by producing the arms locally. To this day, M.S.I. produces some of the cheapest ballistic weapons to be found in the Sol system.
+
+- **SAARE (Stealth Assault, Accrual and Reconnaissance Enterprise)**
+
+SAARE is a very recently instated PMC company that has been founded by a number of Hephaistos Dedicated Explorer regimen members. Composed from dropouts or veterans from armies of various governments and security forces, it is a multi-racial corporation much more so than most other companies claim. The company seeks out soldiers with a specific skill-set, specializing on Black Ops for their clients, missions silent and loud, as well as utilizing presently unorthodox tactics like guerrila warfare, where a handful of SAARE operatives can disrupt operations of an expansive security force.
+
+SAARE's services are relatively expensive and have seen little action as a corporation, and given their very recent establishment and investment, it shall take time before its margins rise it up the ranks of corporations, however demand is slowly rising for SAARE to perform operations around Sol, as well as Nyx, for different corporations.
 ____
 
 ##The Free Trade Union
@@ -108,3 +130,25 @@ ____
 The Free Trade Union is different from other tran-stellars in that they are not just a company, but they are a big conglomerate of various traders and merchants from all over the galaxy. They control a sizable fleet of vessels of various sizes which are given autonomy from the central command to engage in trading. They also host a fleet of combat vessels which respond directly to the central command for defending traders when necessary. They are in control of many large scale trade stations across the known galaxy, even in non-human space. Generally, they are multi-purpose stations but they always keep areas filled with duty-free shops. Almost anything is sold there and products that are forbidden or have insanely high taxes in other places are generally sold in the duty-free shops at very cheap and low prices.
 They are the creators of the Tradeband language, created specially for being a lingua franca where every merchant can understand each other independent of language or nationality.
 
+____
+##Other Notable Corporations
+
+- **Empire of Sirisai Ministry of Foreign Affairs**
+
+While not a corporation in it's own right, the Ministry of Foreign Affairs handles all the trade economical factors on an interstellar scale for the Empire of Sirisai. Formed thousands of years ago by Rameriti, it is a hulking beast of a ministry that, even today, shows extreme competence, despite it's overbloated mass. Due to the palace economy of the Empire of Sirisai, no 'true' interstellar corporations exist in the Empire, and instead all production is done by the Ministry of Internal Affairs. The Ministry of Foreign Affairs takes these resources, and exports them to various markets. In this case, it essentially acts as a Resomi corporation would, except that it is every corporation that could be rolled into one.
+
+It began trading with humanity back soon after the first contact even with the Skrell, providing small medical imports to humanity here and there. Only recently within the few hundred years has it opened the floodgates. Due to the advanced technology available in the empire -- Life extension is a commodity not to be taken lightly, even in the face of cloning -- it has began making incredible waves in markets traditionally dominated by the Free Trade Union. Providing both preassembled technology bits to simply reliable, cheap, and mass produced basic materials such as bolts and screws, many corporations have come to rely upon the Empire of Sirisai for their pure manufacturing ability.
+
+In return, the Ministry of Foreign Affairs imports an incredible amount of raw materials, being any mining corporation's best friend. They currently have an exclusive deal for phoron with Nanotrasen. Not only that, but Nanotrasen is one of the largest non-Resomi employers for Resomi workers, working closely with the Ministry to form employment contracts and trade agreements.
+
+- **Inuvaios Eclestra**
+
+A company more commonly known with its GalCom translation as Eclipse Innovations, or simply as Eclestra, the communication in Tradeband is so common there that it influenced its official name. When the human relations with other races improved, joint research efforts as well as collaborations in other industries began. Eclestra is one of the lasting initiatives, despite presence of giants in RnD like NanoTrasen, as well as relative self-sufficiency of other TSCs/megacorps in that regard, and accepts scientists and researchers regardless of race, gender, religion and all those things that could possibly make someone discriminate someone.
+
+Economy analysts suggest few reasons for the company's sustained operation. Smaller corporations usually cannot afford developing their own technology by themselves, and so when a need for chemical reactions revisions, reverse-engineering, material solution optimization, and most importantly maintenance and proper calibrations of performance/precision measurement equipment is needed, Eclestra can be relied upon to perform these tasks at a reasonable price, albeit at a slow pace, due to qualified, but inexperienced personnel. This may not sound as the most desirable employment roster, but it is entirely purposeful for Eclestra.
+
+This leads to the second possible cause of Eclestra's lasting; excellent reputation among scientific community. As mentioned before, Eclestra does not strive to maintain a roster of experienced scientists, but it collaborates closely with many universities and other education institutions, exchanging information on latest research and discoveries with them freely, offering students internships and sometimes scholarships during their study, as well as permanent employment after graduation, offering aid in composing thesis, etc.. Eclestra has taken a humanitarian approach to science as opposed to corporate one: No capitalization and experimentation without thought of consequence, only to seek income. Information should be freely available to everyone, developed and verified collectively, and used for the advancement of all races.
+
+Third possible reason is that people in Eclestra very well understand their position on the market, and keep in it. The Heads of Staff are aware that even though they could increase prices of their services and increase pay for scientists to keep the bright, ambitious minds on board, they have plenty of megacorporations to deal with, not to mention NanoTrasen likely putting up a lobby to discredit the initiative. Instead they offer services no giant corporation would ever dare to offer and support the whole scientific community, making this its philosophy. The income is mostly used for maintaining the corporation, some is set aside for development and improvements, and some is of course used for salary, albeit those are not particularly high even for prominent members.
+
+Inuvaios Eclestra as a corporation stands only among the small ones, but it is widely renown for growing new, fine scientific minds, making a very good mark in one's resume should their ambitions grow for a more corporate interest. Their economical statistics are truly unremarkable as opposed to other corporations of their size, but it has never been about money for the people of the initiative, but the belief information should be the effort of all races, and free to all races.
