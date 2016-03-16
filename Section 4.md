@@ -2,6 +2,6 @@
 
 | Colonies   | Founders   | System   | World   | Summary   | Author  |
 |:-:|---|---|---|---|---|
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
+| Luna |  a | b  | c |  d | asd  |
+| Mars  | d  | d  | dd  | sd  | asd  |
+| Sirius  | f  |  d | e  |  e | e  |
