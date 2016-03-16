@@ -1,4 +1,4 @@
-#So You Want to Go Corporate?
+#So You Want to Learn About the Corporate World?
 
 Everything you'll encounter out in the Nyx System will probably have a label on it, from either NanoTrasen, Githari Exports, Hesphaistos Industries, one of the other Trans-Stellar Corporations, or even the Free Trade Union; marketing is everywhere. That is why you should know your ways around their inner workings, and what they're about. 
 
