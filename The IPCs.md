@@ -78,3 +78,7 @@ In today's time, IPCs, especially those interacting with organics, are starting 
 
 Due to their relatively independent nature, IPCs have no recognized religion. Many IPCs have no religion at all, though a select few are believed to participate in radical Technologism. Some of these IPCs are believed to be part of Aleph, a xeno-human pro-synthetic terrorist conglomerate that has conducted numerous terrorist attacks in parts of various stellar governments.
 
+### The Homeworld, Root
+
+IPCs have no defined home planet except for members who are part of the Positronic Union. The Union recognizes its home planet as Root, a forest planet roughly three-fourths the size of Earth but with a higher density. Root is capable of sustaining organic life and is rich in non-sentient flora and fauna. Root's population is roughly 500,000 and steadily growing due to improving relations with other stellar governments.
+
