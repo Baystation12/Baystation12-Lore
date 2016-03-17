@@ -12,12 +12,12 @@ ____
  |
 |
 
-| ![Flag of the Kingdom of Victoria.][1] |
+| ![Flag of the Kingdom of Victoria][1] |
 | Flag |   |
 
  |
 | **Motto: **Justitia virtutem rex |
-| **Anthem: **God Save the King (de facto)  
+| **Anthem: **God Save the King (de facto)  |
 **Royal anthem: **God Save the King |
 | **Location**  |  [Mars][2], [Sol system][3] |
 | **Capital** | Victoria Capital District |
@@ -171,9 +171,9 @@ LGBT rights have progressed a fair way, as well, but the more conservative Alevi
 
 Victoria's national sport is rugby. Victoria competes internationally in the Mars World Cup, held every three years, and regionally in the 10 Islands Derby, held annually. Victoria's national stadium is the VBC Dome, located on a fully artificial island some three miles from Victoria itself. The decision was made to construct the stadium there to ensure the maximum amount of land on the island proper was available. The Victorian national rugby team are nicknamed The Turks, due to the large number of Alevi players and coaches. Other popular sports include football, sailing, badminton and video games.
 
-[1]: https://wiki.baystation12.net/images/thumb/5/53/Flag-of-victoria.png/125px-Flag-of-victoria.png
+[1]: https://wiki.baystation12.net/images/5/53/Flag-of-victoria.png
 [2]: /index.php?title=Mars&action=edit&redlink=1 "Mars (page does not exist)"
-[3]: /Sol_system "Sol system
+[3]: /Sol_system "Sol system"
 
 ____
 
@@ -443,7 +443,7 @@ About all recreational drugs are legalized in most of the territories, however t
 
 ## Geography and climate
 
-The Martian landmass in which the Vorcian Federation is based on has been [terraformed][5] to an acceptable degree. Man-made forests and national parks exist all over the nation, being strictly protected by the government. The temperature on the territory can feel fairly extreme: usually ranging from -20บ to 50บ celsius. Occasional rain exists, but it's not too intense which makes it good for agricultural operations.
+The Martian landmass in which the Vorcian Federation is based on has been [terraformed][5] to an acceptable degree. Man-made forests and national parks exist all over the nation, being strictly protected by the government. The temperature on the territory can feel fairly extreme: usually ranging from -20ยบ to 50ยบ celsius. Occasional rain exists, but it's not too intense which makes it good for agricultural operations.
 
 A huge chunk of the territory is being used for farming: roughly a 70% of it. By default, the soil is acceptable for farming. With modern technologies however, the farming efficiency is improved significantly which allows for far more land to be cultivated.
 
