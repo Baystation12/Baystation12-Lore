@@ -225,13 +225,10 @@ The Magistrate of House is the colony's "Leader." They serve as both Executive a
 
 [List of Guilds][4] (coming soon to a wiki near you!)
 
-## New Liberty
+## New Liberty - The City
 
 ![](5)
-
-![](6)
-
-A color-coded map of the colony
+_A color-coded map of the colony_
 
 New Liberty has four seperate space ports,one on each side of the city. Three of these are "Secondary" ports, existing almost soley for nearby industry and commercial needs to be handled. Each Secondary Port has three cargo ship docks and one passenger dock.
 
@@ -287,12 +284,11 @@ On top of this, New Liberty was built where colonies exist, but no real way to t
 
 New Liberty also serves much of Mars' food problems. The four massive biodomes mass-produce fruits, vegetables, grain, dairy, and raises cattle, to supply the city using modern hydroponic systems similiar to trays onboard many stations, but on a much larger scale. Roughly 20% of what is produced is shipped off, sent to other colonies as imports to help earn capital and satisfy the planets importation needs.
 
-[1]: https://wiki.baystation12.net/images/thumb/e/ec/NewLibertyMars.png/125px-NewLibertyMars.png
+[1]: https://wiki.baystation12.net/images/thumb/e/ec/NewLibertyMars.png/799px-NewLibertyMars.png
 [2]: /index.php?title=Mars&action=edit&redlink=1 "Mars (page does not exist)"
 [3]: /Sol_system "Sol system"
 [4]: /index.php?title=List_of_Guilds&action=edit&redlink=1 "List of Guilds (page does not exist)"
-[5]: https://wiki.baystation12.net/images/thumb/c/cf/NewLiberty.png/180px-NewLiberty.png
-[6]: https://wiki.baystation12.net/skins/common/images/magnify-clip.png
+[5]: https://wiki.baystation12.net/images/thumb/c/cf/NewLiberty.png/799px-NewLiberty.png
 
 ____
 
