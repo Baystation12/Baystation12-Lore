@@ -2,41 +2,32 @@
 
 Mars is a hotbed of Politics in the 26th Century. Currently, there are three central powers on the planet- the Kingdom of Victoria, the City of New Liberty, and the Vorcian Federation.
 
-____
+___
 
-| ----- |
+## Kingdom of Victoria
 
-| Kingdom of Victoria  
- |
-| Victoria  
- |
-|
-
-| ![Flag of the Kingdom of Victoria][1] |
-| Flag |   |
-
- |
-| **Motto: **Justitia virtutem rex |
-| **Anthem: **God Save the King (de facto)  |
-**Royal anthem: **God Save the King |
-| **Location**  |  [Mars][2], [Sol system][3] |
-| **Capital** | Victoria Capital District |
-| Official languages |  Victorian English |
-| Recognised national languages |  Welsh, Levantine Arabic, Sol Common |
-| Demonym |  Victorian |
-| Government |  Parliamentary constitutional elective monarchy |
-|  -  |  King |  Frederick III |
-|  -  |  First Minister |  Albert Huer |
-|  -  |  Speaker of the House of Lords Ex. |  Cynthia Bowen |
-|  -  |  Speaker of the House of Lords Temp. |  Kemal Twintrees |
-| Legislature |  Parliament |   |
-|  -  |  Upper house |  House of Lords Exceptional |
-|  -  |  Lower house |  House of Lords Temporal |
-| Population |   | |
-|  -  |  2550 census |  5,4351,931 |
-|  Currency |  Commonwealth pound, thaler  |   |
-| Drives on the |  left |
-| Created by: |  sabiram |
+ ![Flag of the Kingdom of Victoria][https://wiki.baystation12.net/images/5/53/Flag-of-victoria.png] 
+ 
+* **Motto: **Justitia virtutem rex 
+ **Anthem: **God Save the King (de facto)  |
+ * **Royal anthem: **God Save the King |
+ * **Location**  |  [Mars][2], [Sol system][3] |
+ * **Capital** | Victoria Capital District |
+ *Official languages   Victorian English 
+ * Recognised national languages   Welsh, Levantine Arabic, Sol Common 
+ * Demonym   _Victorian_
+ ###### Government |  Parliamentary constitutional elective monarchy |
+  * King   Frederick III 
+  *  First Minister   Albert Huer 
+  *  Speaker of the House of Lords Ex.   Cynthia Bowen 
+  *  Speaker of the House of Lords Temp.   Kemal Twintrees 
+ * ###### Legislature
+  * Upper house - House of Lords Exceptional 
+  * Lower house -  House of Lords Temporal 
+ * Population -  2550 census |  5,4351,931 |
+ * Currency Commonwealth pound, thaler 
+ * Drives on the left 
+ * Created by:  sabiram
 
 ## Demographics
 
@@ -171,7 +162,6 @@ LGBT rights have progressed a fair way, as well, but the more conservative Alevi
 
 Victoria's national sport is rugby. Victoria competes internationally in the Mars World Cup, held every three years, and regionally in the 10 Islands Derby, held annually. Victoria's national stadium is the VBC Dome, located on a fully artificial island some three miles from Victoria itself. The decision was made to construct the stadium there to ensure the maximum amount of land on the island proper was available. The Victorian national rugby team are nicknamed The Turks, due to the large number of Alevi players and coaches. Other popular sports include football, sailing, badminton and video games.
 
-[1]: https://wiki.baystation12.net/images/5/53/Flag-of-victoria.png
 [2]: /index.php?title=Mars&action=edit&redlink=1 "Mars (page does not exist)"
 [3]: /Sol_system "Sol system"
 
