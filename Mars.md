@@ -10,18 +10,18 @@ ____
   
 
 * Basic Info 
- * **Motto: **Liberty, economy, commerce 
- * **Anthem: **The Song of Liberty 
- * **Location**    [Mars][2], [Sol system][3] 
- * **Capital**  New Liberty Government District 
- * Official languages   Sol Common, Tradeband, Galactic Common 
- * Demonym   _New Libertarianite_ 
- * Government - Presidential corporate dictatorship 
- * Magistrate -  Sir Davis Wilfrey 
- * Legislature   Court of Regents   
+  * **Motto:** **Liberty, economy, commerce 
+  * **Anthem:** **The Song of Liberty 
+  * **Location:**    [Mars][2], [Sol system][3] 
+  * **Capital:**  New Liberty Government District 
+  * Official languages   Sol Common, Tradeband, Galactic Common 
+  * Demonym   _New Libertarianite_ 
+* Government - Presidential corporate dictatorship 
+  * Magistrate -  Sir Davis Wilfrey 
+  * Legislature   Court of Regents   
 * Other Info
- * Population - 2559 census |  645,350 |
- * Created by:   Crushtoe
+  * Population - 2559 census |  645,350 |
+  * Created by:   Crushtoe
 
 ## Demographics
 
@@ -132,15 +132,15 @@ ____
  ![Flag of the Kingdom of Victoria](https://wiki.baystation12.net/images/5/53/Flag-of-victoria.png) 
  
 * Basic Info
- * **Anthem: *Vorcia, Rise* 
- * **Location**    [Mars][1], [Sol system][2] 
- * **Capital**  Vorcia City 
- * Demonym   _Vorcian_ 
+  * **Anthem:** *Vorcia, Rise* 
+  * **Location:**    [Mars][1], [Sol system][2] 
+  * **Capital:**  Vorcia City 
+  * Demonym   _Vorcian_ 
 * Government - Federal presidential constitutional republic 
- * President Samuel Mirko
+  * President Samuel Mirko
 * Other Info
- * Population - 2559 estimate |  1,900,000,000 |
- * Created by:   Fiskap
+  * Population - 2559 estimate |  1,900,000,000 |
+  * Created by:   Fiskap
 
 ## Demographics
 
