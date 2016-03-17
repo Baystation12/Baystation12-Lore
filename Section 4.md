@@ -5,20 +5,27 @@ As population has grown, so has the need for more land. As technology has progre
 ## Sol
   * [Luna](https://baystation12.net/lore/Luna)
   * [Mars](https://baystation12.net/lore/Mars)
-## Other Systems
-  *
-  *
-  *
-  *
-  *
-  *
-  *
-(etc.)
+  * [UIL-OMR](https://wiki.baystation12.net/UIL-OMR)
+  * [Phobos](https://wiki.baystation12.net/Penal_Colony,_Phobos)
 
+## Other Systems
+
+  * Magnitka Federation
+  * Brinkburn
+  * Yuclite
+  * Roanake
+  * Caldurk
+  * Casser
+  * Paraiso a Astres
+  * GES Sycophant
+  * Kingdom of Avalon
+  * Tiamat
+  * Eremus
+  * Republic of Feldspar
+  * Zzarlaanis
+  * etc.
 ## Non-Human Colonies
-  *
-  *
-  *
-  *
-  *
-  (etc.)
+
+  * Harr'qac
+  * Qerrna-Lakirr
+  * etc.
