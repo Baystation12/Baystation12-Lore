@@ -130,14 +130,15 @@ ____
 
 
  ![Flag of the Kingdom of Victoria](https://wiki.baystation12.net/images/5/53/Flag-of-victoria.png) 
-*Basic Info
- * **Anthem: **Vorcia, Rise 
+ 
+* Basic Info
+ * **Anthem: *Vorcia, Rise* 
  * **Location**    [Mars][1], [Sol system][2] 
  * **Capital**  Vorcia City 
  * Demonym   _Vorcian_ 
 * Government - Federal presidential constitutional republic 
- *President Samuel Mirko
-*Other Info
+ * President Samuel Mirko
+* Other Info
  * Population - 2559 estimate |  1,900,000,000 |
  * Created by:   Fiskap
 
