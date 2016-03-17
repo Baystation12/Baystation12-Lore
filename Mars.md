@@ -170,30 +170,22 @@ ____
 
 ## New Liberty
 
-| ----- |
+ ![](1) 
+  
 
-| City-State of New Liberty  
- |
-| New Liberty City  
- |
-|
-
-| ![][1] |
-| Flag |   |
-
- |
-| **Motto: **Liberty, economy, commerce |
-| **Anthem: **The Song of Liberty |
-| **Location**  |  [Mars][2], [Sol system][3] |
-| **Capital** | New Liberty Government District |
-| Official languages |  Sol Common, Tradeband, Galactic Common |
-| Demonym |  New Libertarianite |
-| Government |  Presidential corporate dictatorship |
-|  -  |  Magistrate |  Sir Davis Wilfrey |
-| Legislature |  Court of Regents |   |
-| Population |   |
-|  -  |  2559 census |  645,350 |
-| Created by: |  Crushtoe |   |
+* Basic Info 
+ * **Motto: **Liberty, economy, commerce 
+ * **Anthem: **The Song of Liberty 
+ * **Location**    [Mars][2], [Sol system][3] 
+ * **Capital**  New Liberty Government District 
+ * Official languages   Sol Common, Tradeband, Galactic Common 
+ * Demonym   _New Libertarianite_ 
+ * Government - Presidential corporate dictatorship 
+ * Magistrate -  Sir Davis Wilfrey 
+ * Legislature   Court of Regents   
+* Other Info
+ * Population - 2559 census |  645,350 |
+ * Created by:   Crushtoe
 
 ## Demographics
 
@@ -235,9 +227,9 @@ The Magistrate of House is the colony's "Leader." They serve as both Executive a
 
 ## New Liberty
 
-![][5]
+![](5)
 
-![][6]
+![](6)
 
 A color-coded map of the colony
 
