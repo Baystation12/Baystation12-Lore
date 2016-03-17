@@ -1,6 +1,6 @@
 # Lunar Confederation
 
- ![The flag of the Lunar Confederation](1)
+ ![The flag of the Lunar Confederation](https://wiki.baystation12.net/images/2/2d/Flag-of-luna-conf.png)
 
 * Basic Info 
    * **Location:**    [Luna][2] (Earth I), [Sol system][3] 
