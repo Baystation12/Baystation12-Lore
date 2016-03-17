@@ -6,24 +6,25 @@ ___
 
 ## Kingdom of Victoria
 
- ![Flag of the Kingdom of Victoria][https://wiki.baystation12.net/images/5/53/Flag-of-victoria.png] 
- 
-* **Motto: **Justitia virtutem rex 
- **Anthem: **God Save the King (de facto)  |
- * **Royal anthem: **God Save the King |
- * **Location**  |  [Mars][2], [Sol system][3] |
- * **Capital** | Victoria Capital District |
+ ![Flag of the Kingdom of Victoria](https://wiki.baystation12.net/images/5/53/Flag-of-victoria.png) 
+* Basic Info 
+ * **Motto: **Justitia virtutem rex 
+ * **Anthem: **God Save the King (de facto)  
+ * **Royal anthem: **God Save the King** 
+ * **Location**  :  [Mars][2], [Sol system][3] 
+ * **Capital** : Victoria Capital District 
  *Official languages   Victorian English 
  * Recognised national languages   Welsh, Levantine Arabic, Sol Common 
  * Demonym   _Victorian_
- ###### Government |  Parliamentary constitutional elective monarchy |
+* Government |  Parliamentary constitutional elective monarchy |
   * King   Frederick III 
   *  First Minister   Albert Huer 
   *  Speaker of the House of Lords Ex.   Cynthia Bowen 
   *  Speaker of the House of Lords Temp.   Kemal Twintrees 
- * ###### Legislature
+* Legislature
   * Upper house - House of Lords Exceptional 
   * Lower house -  House of Lords Temporal 
+* More Info 
  * Population -  2550 census |  5,4351,931 |
  * Currency Commonwealth pound, thaler 
  * Drives on the left 
