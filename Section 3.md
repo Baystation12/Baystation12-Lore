@@ -120,7 +120,7 @@ Formerly possessing Megacorporation status, the Earth-based Walton Industries ma
 
 - **Blackstone Foundries**
 
-While it might not make it to the headlines, Phoenix Foundries is a necessary provider of low to medium-end planetary and orbital vehicles. Many cheap shuttles and interplanetary couriers were churned out at one of Phoenix's many automated plants, as well as an almost endless line of terrestrial crawlers, speeders, and exosuits. Recently, Phoenix has been looking at upsizing and trying to break into the larger vessel market, though only time will tell if it succeeds.
+While it might not make it to the headlines, Blackstone Foundries is a necessary provider of low to medium-end planetary and orbital vehicles. Many cheap shuttles and interplanetary couriers were churned out at one of Blackstone's many automated plants, as well as an almost endless line of terrestrial crawlers, speeders, and exosuits. Recently, Blackstone has been looking at upsizing and trying to break into the larger vessel market, though only time will tell if it succeeds.
 
 - **Dawnlight Celestial Defence**
 
