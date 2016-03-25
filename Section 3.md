@@ -118,7 +118,7 @@ A minor player in the spacecraft industry, Vu-Cheong is not a common household n
 
 Formerly possessing Megacorporation status, the Earth-based Walton Industries manufactured cheap consumer goods using impoverished labor on Earth, however industrial growth and new advances in automation technology in the 25th century made it far cheaper to produce goods among the colonies, than to import them from Sol. With the successes of corporations such as Ward-Takahashi, Walton Industries has fallen on hard times, and is looking to readjust their business model in order to stay afloat.
 
-- **Phoenix Foundries**
+- **Blackstone Foundries**
 
 While it might not make it to the headlines, Phoenix Foundries is a necessary provider of low to medium-end planetary and orbital vehicles. Many cheap shuttles and interplanetary couriers were churned out at one of Phoenix's many automated plants, as well as an almost endless line of terrestrial crawlers, speeders, and exosuits. Recently, Phoenix has been looking at upsizing and trying to break into the larger vessel market, though only time will tell if it succeeds.
 
