@@ -8,6 +8,13 @@ As population has grown, so has the need for more land. As technology has progre
   * [UIL-OMR](https://wiki.baystation12.net/UIL-OMR)
   * [Phobos](https://wiki.baystation12.net/Penal_Colony,_Phobos)
 
+## Nyx
+  * [The System itself](https://baystation12.net/lore/The%20Nyx%20System)
+  * [Brinkburn](https://baystation12.net/lore/Brinkburn)
+  * [Caldurk](https://baystation12.net/lore/Caldurk)
+  * [Roanake](https://baystation12.net/lore/Roanake)
+  * [Yuclite](https://baystation12.net/lore/Yuclite)
+
 ## Other Systems
 
   * Magnitka Federation
