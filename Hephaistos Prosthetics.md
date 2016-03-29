@@ -10,7 +10,7 @@ Less powerful versions stripped of some features or replaced with lower quality 
 
 ##Prosthetic models
 
-Honoring the naming scheme that the TSC sticks to, the main HI-Fi and X series models are Prometheus, Taurus, Helios, Icarus, Adrasteia, Ares, Nostos and Atlas.
+Honoring the naming scheme that the TSC sticks to, the main HI-Fi and X series models are Prometheus, Minotaurus, Helios, Icarus, Adrasteia, Ares, Nostos and Atlas.
 
 ###X-01 Prometheus
 
