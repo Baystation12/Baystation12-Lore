@@ -1,10 +1,12 @@
 #Hephaestus Industries Prosthetic Lineup
 
-As of general position on the prosthetics market, Hephaestus is definitely not negligible, but not the greatest either, that position should be held by Zeng-Hu Pharmaceuticals (maybe call it Zheng Hu, sounds a lil more Chinese?). Hephaestus offers more bland and somewhat cheaper prosthetics then the lineup I lay out here, but that sees little demand as the audience that would go for this kind of products go to other companies where they can get it at a more reasonable price.
+As of general position on the prosthetics market, Hephaestus is definitely not negligible, but not the greatest either, that position should be held by Zeng-Hu Pharmaceuticals (maybe call it Zheng Hu, sounds a lil more Chinese?). Hephaistos has seen some cooperation with them, namely during development of X-06 and X-07 models.
+
+Hephaestus offers more bland and somewhat cheaper prosthetics then the lineup I lay out here, but that sees little demand as the audience that would go for this kind of products go to other companies where they can get it at a more reasonable price.
 
 Hephaestus is focusing their prosthetics on mil-spec, specialized products, with most sets operable even if not the entirety of it is ordered (for example the model can feature all limbs, but only legs may be ordered, and it works accordingly).
 
-The X series features models specialized for a given role in the military, or for soldiers of fortune, and are priced adequately to that. This makes for a relatively low volume sold which results in Hephaistos' undeniable, but still not top position on this market.
+The X series features models specialized for a given role in the military, or for soldiers of fortune, and are priced adequately to that. This makes for a relatively low volume sold which results in Hephaistos' undeniable, but still not top position on this market. Although the prosthetics were developed for military at first, some of the models are sold to wealthy citizens.
 
 Less powerful versions stripped of some features or replaced with lower quality components can be ordered. They do retain their model name, but are only classified as HI-Fi models (Hephaestus Industries Fidelity). Those see comparatively higher demand to X series.
 
@@ -14,7 +16,7 @@ Honoring the naming scheme that the TSC sticks to, the main HI-Fi and X series m
 
 ###X-01 Prometheus
 
-Prometheus has been developed as one of the first, to alleviate as many issues as possible for veterans that may have lost a limb, or other body part. However this does not only include issues associated with getting used to the new body part, but also the social and official aspects that were associated with any prosthetic compartment, as at the time of development, biomechanical augmentations were on the rise, causing moral disputes over both actual augmentations and regular prosthetic replacements (blablabla Deus Ex blabla).
+Prometheus has been developed as one of the first, to alleviate as many issues as possible for veterans that may have lost a limb, or other body part. However this does not only include issues associated with getting used to the new body part, but also the social and official aspects that were associated with any prosthetic compartment, as at the time of development, biomechanical augmentations were on the rise, causing moral disputes over both actual augmentations and regular prosthetic replacements (blablabla Deus Ex blabla). They saw use not just with veterans, but with wealthy citizens as well.
 
 The augment was designed to look entirely natural to look, feel, smell, as well as to fool all conventional sensory arrays. It is capable of simulating response to some injuries like capillary bleeding, fractures, and bruises. It is even possible to allow administration of medicine and extraction of blood samples via a special channel that ends in a small reservoir near the elbow, thighs, and wrists, that also accomodate simulation of deeper cuts, but only for a very limited time to prevent actual harm to user, only giving time to mend the 'wound' to prevent suspicion.
 
@@ -50,5 +52,32 @@ Another aspect Hephaistos decided to focus on to outfit the military were specif
 
 Limbs can be also further augmented to integrate a wingsuit, this has been taken as far as to develop an experimental configuration of implanting wings to facilitate a full blown flight. However, this is exceptionally rare, and even the known cases tend to be regarded as rumors, as the extensive spinal modifications mostly resulted in catastrophic failures, causing patient's death, or impairment that warranted a lenghty series of surgery and reconvalescence. The humanoid body is simply incompatible with this evolutionary feature.
 
-Icarus can actually be configured to be so unintrusive it can be combined with other prosthetic models to a small extent, most compatible ones being the Helios and Nostos. Veteran field medics and recon specialists often make use of these combinations, should they afford the cost. The procedure is regarded very risky as commanding officers and medics on the field are commonly targeted. Despite the maneuverability of Icarus combined with acute awareness of Helios making for a very hard-to-kill individual, Icarus users are a prized kill, which makes for great creativity in effort of dispatching them.
+Icarus can actually be configured to be so unintrusive it can be combined with other prosthetic models to a small extent, most compatible ones being the Helios and Nostos. Veteran field medics and recon specialists often make use of these combinations, should they afford the cost and the time to accustom to changes. The procedure is regarded very risky as commanding officers and medics on the field are commonly targeted. Despite the maneuverability of Icarus combined with acute awareness of Helios making for a very hard-to-kill individual, Icarus users are a prized kill, which makes for great creativity in effort of dispatching them.
+
+###X-05 Adrasteia
+
+After accomodating most of, if not the entire spectrum of military use with its prosthetics product range, Hephaistos moved on to applications more suiting (though not exclusively) for private applications in the mercenary realm. The first released one was Adrasteia, suited for specialists, assassins, or pilots of small spacecraft and aircraft.
+
+Adrasteia is characteristic in that there are few characteristics to it. Mercenaries accustomed to working alone are prone to eccentricism as well as frequent tinkering and fine-tuning of their equipment, and so their requirements for prosthetics are fairly specific and diverse. It is not uncommon for a client to have their order changed, or to revisit a Hephaistos facility to have their model modified.
+
+That is why, among other things, Adrasteia was designed to be modular to a small extent. This allows some flexibility without need of specialized personnel, and if they are available, changes may be done fairly quickly and in a broad range. This includes, but is not limited to:
+
+- Realistic (not fully) skin coverage, resistance to screening
+- Reflex boosters, adrenaline boosters (or other medicine)
+- Embedded night vision, backscatter, magnification
+- Embedded target acquisition for heavy craftborne/stationed weaponry or some small arms
+- Special musculature to aid superb agility and acrobatic skills
+- Concealed weaponry - either embedded, or deployable - daggers, small pistols, sabers, bows/crossbows and more
+
+The specific Adrasteia unit can be composed of nearly any combination of those upgrades and is modifiable, which is of course heftily paid to Hephaistos due to repeated 'unessential' maintenance, but the quality and leancy that Adrasteia offers seems to be worth the cost for quite a part of the more shady side of the universe.
+
+###X-06 Ares
+
+Ares is favoured mostly among people who favour tactics and martial arts over guns and lasers, but also among civilians. Although it may be suggested such a person may simply order a customized Adrasteia, it is very rare for this to occur. It was introduced fairly recently in the beginning of 26th century, only months apart from Nostos. Since its release, professional martial artists, military veterans, wealthy, unfortunate citizens, and even some mercenaries have their prior prosthetics removed or their limb stumps cleaned out, and replaced with the Ares unit.
+
+Ares is actually not exactly purposed for combat in general, not as much as for absolute, complete integration into the host body. Ares is the first and one of very, very few to completely alleviate issues like possibility of rejection by the body, accustoming to using a new limb, or need of any auxilliary implantations or augments.
+
+Ares has even managed to come so far in this regard as to possess the feature that draws many martial arts professionals, surgeons, mercenaries, and other people that rely on high-precision motor-skills. Ares has the unique ability to preserve muscle memory to a large extent, requiring a brief re-learning period of about a fortnight or even less. After this, it feels entirely natural to the user ++subjectively++, in motion, response, strength, physiology, nerve perception, and any other regard.
+
+Of course, a superb production as this one is among the most complicated to perform on a client; the entire process of application takes approximately two months on average, and for some time the person is rendered without any prosthetic, which may pose a large issue for some. Furthermore, even though there is no maintenance cost, repair is lengthy and expensive, as is the fabrication. However, to most clients requesting Ares, having the hope of having their arm back again, to use it just like they used to, having waited for this opportunity for years, it is a small price to pay.
 
