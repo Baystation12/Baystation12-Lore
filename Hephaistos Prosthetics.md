@@ -8,11 +8,11 @@ Hephaestus is focusing their prosthetics on mil-spec, specialized products, with
 
 The X series features models specialized for a given role in the military, or for soldiers of fortune, and are priced adequately to that. This makes for a relatively low volume sold which results in Hephaistos' undeniable, but still not top position on this market. Although the prosthetics were developed for military at first, some of the models are sold to wealthy citizens.
 
-Less powerful versions stripped of some features or replaced with lower quality components can be ordered. They do retain their model name, but are only classified as HI-Fi models (Hephaestus Industries Fidelity). Those see comparatively higher demand to X series.
+Less powerful versions stripped of some features or replaced with lower quality components can be ordered. They do retain their model name, but are only classified as HIF models (Hephaestus Industries Fidelity). Those see comparatively higher demand to X series.
 
 ##Prosthetic models
 
-Honoring the naming scheme that the TSC sticks to, the main HI-Fi and X series models are Prometheus, Taurus, Helios, Icarus, Adrasteia, Ares, Nostos and Atlas.
+Honoring the naming scheme that the TSC sticks to, the main HIF and X series models are Prometheus, Taurus, Helios, Icarus, Adrasteia, Ares, Nostos and Atlas.
 
 ###X-01 Prometheus
 
@@ -80,4 +80,18 @@ Ares is actually not exactly purposed for combat in general, not as much as for 
 Ares has even managed to come so far in this regard as to possess the feature that draws many martial arts professionals, surgeons, mercenaries, and other people that rely on high-precision motor-skills. Ares has the unique ability to preserve muscle memory to a large extent, requiring a brief re-learning period of about a fortnight or even less. After this, it feels entirely natural to the user ++subjectively++, in motion, response, strength, physiology, nerve perception, and any other regard.
 
 Of course, a superb production as this one is among the most complicated to perform on a client; the entire process of application takes approximately two months on average, and for some time the person is rendered without any prosthetic, which may pose a large issue for some. Furthermore, even though there is no maintenance cost, repair is lengthy and expensive, as is the fabrication. However, to most clients requesting Ares, having the hope of having their arm back again, to use it just like they used to, having waited for this opportunity for years, it is a small price to pay.
+
+###X-07 Nostos
+
+As one of the newest prosthesis, it was in development for the longest time, nearly a century, and it would not be finished without a great contribution from Zeng-Hu Pharmaceuticals. While primarily purposed for medical personnel, field medics have been seen using Nostos, which introduced optional light armor plating shortly after release.
+
+A full set of Nostos prosthetics and augmentations makes for an individual that can fix most medium injuries and some heavy injuries, as well as most maladies, with nothing but their hands. The fingers and hands are equipped with advanced sensors, making for very sensitive and acute sense of touch. Much of the loadout can be altered by an educated Biomechanical Engineer, although the users mostly stick to the loadout they have chosen at purchase.
+
+Fingers can be equipped with tools like scalpels, hyposprays, penlights, bioglue and ointment dispensers. Palms may feature integrated scanners for x-ray, EEG, and other bands that allow for immediate diagnostics, and may have a fabricator/reel for bandages. Arms further amplify the capabilities with more powerbanks, IV drip outlets, storage for splints and medication/blood samples.
+
+
+Nostos augmentations to torso allow for near perpetual power supply of prosthetics through nutrients or external charging, and are also able to use those nutrients to fabricate medicine to be administered to patients. Prosthetics to torso allow for more storage. Augmentations are still relatively compact, and so allow for compatibility with some other prosthetic systems, though it is very rare to use anything but X-04 Icarus for that and is usually only done with field medics.
+
+Even though changes to the loadout and maintenance may be done by averagely qualified personnel, if a component is actually damaged, it makes for a costly repair that must be performed by expert engineers, due to great technological complexity of Nostos that calls for expertise and high-quality components. While implementation procedure is fairly simple compared to other X-series prosthesis, it is slightly more expensive, and carries a prolonged period of adaptation due to different nature of administering aid.
+
 
