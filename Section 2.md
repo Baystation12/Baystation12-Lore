@@ -69,11 +69,11 @@ Space is a very dangerous place, and not just because there's no air. Various cr
 
 *The Carp*
 
-(information and Photo(s))
+The Carp are a breed of well...space fish, that come from the phoron giant Erebus. Somehow, scientists aren't quite sure yet, the Carp are imbued with the Phoron in their DNA, allowing for them to travel unaided through the vast void of Space, without gravity, air, anything. They are very dangerous to space travellers are they are highly aggressive and carnivorous. They often break windows and the like on space stations hoping to get in to eat the crew.
 
 *The Pikes*
 
-(information and Photo)
+The more dangerous cousins of the Carp, Pikes are larger, stronger, and overall much much more dangerous than the Carp. They are extremely volatile creatures, more so than the Carp, and attack any living or moving things, even other Pikes and Carp. They also come from Erebus, though how these creatures, and the carp, came into existance-  is still unknown.
 
 *The Slimes*
 
@@ -81,7 +81,7 @@ Space is a very dangerous place, and not just because there's no air. Various cr
 
 *The Spiders*
 
-(information and Photo(s))
+The bluespace travel, and usage of Phoron seems to have altered the genes of spiders that live on the Ships and Stations, their bodies becoming huge and grosteque. They have also become extremely aggressive to space travellers, and are a serious threat. They originally come from Earth, yes, but Phoron seems to have done something different with them than what it does with other species, changing Spiders into something far worse than what they used to be.
 
 *Cortical Borers*
 

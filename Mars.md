@@ -1,208 +1,27 @@
 # Mars
 
-Mars is a hotbed of Politics in the 26th Century. Currently, there are three central powers on the planet- the Kingdom of Victoria, the City of New Liberty, and the Vorcian Federation.
-
-____
-
-| ----- |
-
-| Kingdom of Victoria  
- |
-| Victoria  
- |
-|
-
-| ![Flag of the Kingdom of Victoria.][1] |
-| Flag |   |
-
- |
-| **Motto: **Justitia virtutem rex |
-| **Anthem: **God Save the King (de facto)  
-**Royal anthem: **God Save the King |
-| **Location**  |  [Mars][2], [Sol system][3] |
-| **Capital** | Victoria Capital District |
-| Official languages |  Victorian English |
-| Recognised national languages |  Welsh, Levantine Arabic, Sol Common |
-| Demonym |  Victorian |
-| Government |  Parliamentary constitutional elective monarchy |
-|  -  |  King |  Frederick III |
-|  -  |  First Minister |  Albert Huer |
-|  -  |  Speaker of the House of Lords Ex. |  Cynthia Bowen |
-|  -  |  Speaker of the House of Lords Temp. |  Kemal Twintrees |
-| Legislature |  Parliament |   |
-|  -  |  Upper house |  House of Lords Exceptional |
-|  -  |  Lower house |  House of Lords Temporal |
-| Population |   | |
-|  -  |  2550 census |  5,4351,931 |
-|  Currency |  Commonwealth pound, thaler  |   |
-| Drives on the |  left |
-| Created by: |  sabiram |
-
-## Demographics
-
-### Species makeup
-
-Human: 99.98%  
-Other: 0.02%
-
-### Other species makeup
-
-94% Skrell  
-5% Tajaran  
-1% Unathi
-
-Skrell, Tajara, and Unathi ethnic and religious information not collected.
-
-### Human racial/ethnic makeup
-
-Mixed: 56% (One or more race/ethnicity)  
-European: 18% (incl. British & Irish isles, North Africa, Turkey, Americas)  
-Asian: 14% (incl. Levant, Arabia, Persia, Indian Subcontinent)  
-African: 8%  
-Other or undisclosed: 4%
-
-### Religious makeup
-
-Irreligious group: 48% (incl. atheist, nihilist, agnostic, transhuman)  
-Unitarian: 33%  
-Deist group: 9%  
-Alevi Islam: 8%  
-Other or undisclosed: 2%
-
-## History
-
-To-do~!
-
-## Politics
-
-Victoria enjoys a robust democracy in the parliamentary style common today. The general flavour of policies put in place could be generally seen as socially liberal and economically socialist. For example, diversity in workplaces and schools are enforced, and education and health care are universally free.
-
-### Major parties
-
-There are over thirty registered political parties in Victoria, but the big three hold the lion's share of representatives.
-
-Socialist Party: Also known as the Footballers, as the building which houses their headquarters also houses the Victorian Rugby Federation. A left-wing party espousing equal rights, fairness in business, international neutrality, and social justice. Generally irreligious, moderately monarchist.
-
-The Socialist and Labour parties make up a coalition that has been in place, and in power, since little more than a decade ago, with the Socialist Party as the senior member.
-
-Labour Party: Centre-left party espousing much the same as above, but more willing to compromise with moderate and centre-right issues and parties. They broke away from the Socialist party shortly a few decades after Victoria's founding. Generally more religious than the Socialists, about as monarchistic.
-
-Blue Party: Centre-right party representing business interests and the more conservative sections of the populace who do not support the Black Flag. Generally Unitarian, generally monarchist.
-
-### Other notable parties
-
-Green Party: Centre-left environmentalists. Seek to end Victoria's destructive island extension program in favour of colonizing adjacent islands.
-
-Victorian Republic Party: Left-wing ideals, but push for dissolution of the Lords Exceptional, and the monarchy, to a much lesser extent.
-
-Black Flag: Far right-wing alliance made up of a hodge-podge of smaller right-wing parties. They push for militarization, expulsion of non-humans and restricting use of cyborgs and artificial intelligence. Strongly religious, staunchly monarchist.
-
-### Parliament
-
-Parliament is made up of two houses: The House of Lords Temporal, and the House of Lords Exceptional.
-
-Lords Temporal are elected by the populace every three years. Victoria is split into 42 electorates, each with equal population, and each elect two Lords Temporal. Each Lord Temporal has one vote in Parliament. Entry into the house of Lords Temporal confers the title The Honourable, except when higher titles take precedence. The majority party's leader is appointed First Minister by the monarch, and is the head of government.
-
-Lords Exceptional are appointed by the Lords Temporal at the monarch's suggestion. Lords Exceptional hold their title for life, or until revoked. Lords Exceptional are usually peers, retired politicians, religious leaders, researchers, doctors, and other scientific leaders. Lords Exceptional do not vote, and only provide guidance to the Lords Temporal. Entry into the House of Lords Exceptional confers the title The Right Honourable, except when higher titles take precedence.
-
-### Monarchy
-
-King Frederick III is the current monarch, of the house Glendower-Windsor. The succession is elective, with no restrictions on gender or religiosity. Every member, of voting age, of House Glendower votes privately for one of the late monarch's children to take the throne. If the late monarch had no legitimate children, the candidates for the throne are their siblings, then their uncles/aunts, then closest cousins, and so on. There are presently around 120 legitimate members of House Glendower. Children of female royals are full members of House Glendower, even if they take their father's name. Adopted children of royals are only admitted to House Glendower by petition to the monarch; they are nearly always approved. However, they cannot take the throne, though they can inherit courtesy titles below the rank of Duke.
-
-Royal members of the House Glendower-Windsor, legally, have no surname. The Duke of Earl's son, named Andrew, would, and is legally permitted to, sign as Prince Andrew of Earl. The surname 'Glendower' is adopted where regulations, or local custom, require it.
-
-The monarchy follows the constitutional model; the monarch themselves have few legal powers, instead acting as a figurehead and focus of unity for the populace. The monarch retains their royal prerogative. They, by law, have the power to dissolve parliament, issue passports, and annex or cede territory; but, in practice, nearly all prerogative powers require parliamentary approval, or are carried out by governmental agencies. An example of a prerogative that remains firmly in the hands of the monarch is the granting of courtesy titles.
-
-Titles are granted to Victorians influential in culture, economics, sport or the sciences. The most common title given is that of Sir/Dame, a knighthood. This honour becomes extinct on the subject's death. Senior to the knight is the Baron/Baroness, which is the most common inherited honour bestowed. The other titles are, in increasing seniority: Viscount/Viscountess (rarely granted), Earl/Countess, Marquess/Marchioness (rarely granted due to military connotation, but several Marquesses exist), and Duke/Duchess. Duchies are only ever granted to members of the immediate royal family; usually the eldest child of the monarch. By custom, courtesy titles are granted to the eldest child of the holder, if that holder takes the throne on election. Earldoms are customarily granted to grandchildren and siblings of the monarch on their marriage.
-
-### International affiliations
-
-The Kingdom of Victoria is a part of the Galactic Commonwealth, a cultural union between the Earth-side British community and diaspora and colonies of British design. On Mars, Victoria is a founding member of the Ten Islands League, a mutual defense and trade pact between the island colonies that share the surrounding seas.
-
-In addition, Victoria is a signatory party to the Mars Anti Nuclear Arms (MANA) agreement, a non-binding treaty designed to limit the manufacture of nuclear weapons.
-
-### Law & order
-
-Citizenship to the Kingdom of Victoria is voluntary. Any individual who reaches her shores can elect to become a citizen, as long as they speak English, Welsh, Arabic, or Sol Common. This has made the island state a prime target for refugees on Mars. Citizenship proceedings end with a spoken oath:
-
-_I, [name], [swear by (Almighty) God OR do solemnly, sincerely and truly affirm and declare] that, on becoming a Victorian citizen, I will be faithful and bear true allegiance to His Majesty King Frederick III, his heirs and successors, according to law._
-
-By constitution, the Kingdom of Victoria is restricted from having a standing army. Instead, all Victorian citizens, (except those whose personal/religious convictions forbid it) are required to enroll in a one-week training camp. There, they learn the maintenance and use of small arms. Upon graduation, they are given a laser pistol with a special cell that only activates when the signal is broadcast from the Citadel, in the case of invasion. Unfortunately, the signal is not as complex as they had planned, and the pistols result in tens of homicides a year.
-
-Personal use of drugs we consider dangerous today are decriminalized, but restricted to sale and use in 'pleasure cafes' (more correctly known as supervised injection/ingestion sites) where medical staff are on hand to both administer and monitor use. The drugs on offer there are taxed heavily, and prohibitively expensive. Many users instead opt to purchase them cheaper, illegally on the street, which is often ignored by Victoria's understaffed, underpaid and under-equipped police force.
-
-As a result of Victoria's lax stance on narcotic use, it has a proportionately high rate of abuse for a state of its size. In addition, universally free healthcare has resulted in an industry of 'doctor shopping'. An individual will obtain medication, either for genuine needs or for falsified injuries, and then sell that medication to individuals outside the Kingdom for recreational use. Victoria, solidly, has the highest rate of prescription drug abuse on Mars, from the lowliest laborer up to, in a few cases, senior royals; the Socialist coalition does not view it as an issue worth focusing on at the moment.
-
-Although prostitution is technically fully legalized, the government has not issued a license for a brothel since the law's inception. High class, and illegal, brothels do business semi-clandestinely, disguised and marketed as lounges and clubs. Seedier establishments go underground, literally and figuratively, and are nests of drug abuse and violence. Disinterest by the government in enforcement has made Victoria a sex tourism capital.
-
-## Economy
-
-Victoria's economy is mostly people power, and tourism. With few natural resources on the island, the founders instead invested on creating world-class education systems, in partnership with British and Arabian universities on Earth. They also saw the potential in establishing Victoria as a player in the casino trade. All casinos are owned by the government, but operated by the same mogul families since their founding.
-
-Another notable economy is shipping. Victoria's position requires the importation of many necessities, including nearly half of its food supply. To ensure Victorians at least partially benefit from this relationship, the Victorian Trading Company was founded. This, too is owned by the government, but in practice, it is run by an independent board of executives from privately-owned corporations.
-
-Due to Victoria's recent population boom, unemployment, especially among the young, is increasing at a dangerous rate. This has led to many young Victorians leaving their homes to find work elsewhere. Although education is free, and the University of Victoria is generally accepted as a top 10 school, wealthy Victorians have more options. Policy put in place by the Blues, and fervently defended by them in opposition, has established a system wherein you can pay to attend additional lectures, labs, and seminars, all exclusively for paying students. Individuals who graduate after receiving this extra education are considered above those who do not, in effect creating an additional degree level entirely.
-
-## Geography
-
-The Kingdom of Victoria is a city-state situated on an partially artificial island, about twice the size of Malta, growing yearly. It is very densely populated, with skyscrapers towering over the streets below. At the center of the city is Victoria Capital District, and at the center of that, the Citadel, where Parliament and the royal residences are situated.
-
-Affluent individuals can expect to pay a fair portion of their salary for an apartment at the very top of these buildings. Government policy set by the Socialists require that a quarter of all accommodation in the city be affordable for the poorest individuals. As a result of this policy, very few Victorians are truly homeless.
-
-Unfortunately, this has recently led to property magnates building that quarter of their apartments underground, leaving everything above ground to be also above the poorest man's pay grade.
-
-## Culture and Society
-
-Victorian culture is the result of years of intermingling between colonists from around Earth, but mostly takes its cues from modern-day Britain.
-
-### Media
-
-The Victorian Broadcasting Corporation, or VBC, is the largest cultural institution, and produces, records and broadcasts a majority of the island's television, music and movies. VBC News is trusted Mars-wide for its impartiality in international affairs, though it is accused often of having a left-wing bias.
-
-### Equality
-
-As a result of Victoria's colonial history, a majority of the population is of mixed race. Racism is mostly eradicated, and is a passion reserved mostly for the very bottom and very top of the social ladder. Alevi and black individuals can still expect abuse from some sections of the white community, who see the minorities as having received preferential treatment by the government.
-
-Women are universally treated as equal, and policy demands equal pay. Abortion is fully legal before significant fetus development, but the government offers substantial subsidies for women to give birth and then offer for adoption.
-
-LGBT rights have progressed a fair way, as well, but the more conservative Alevi community still have some reservations. Regardless, they are free to marry and adopt, and have the same rights and recognition as other couples. Individuals who wish to 'transition' have a portion of the expenses by the government.
-
-### Sport
-
-Victoria's national sport is rugby. Victoria competes internationally in the Mars World Cup, held every three years, and regionally in the 10 Islands Derby, held annually. Victoria's national stadium is the VBC Dome, located on a fully artificial island some three miles from Victoria itself. The decision was made to construct the stadium there to ensure the maximum amount of land on the island proper was available. The Victorian national rugby team are nicknamed The Turks, due to the large number of Alevi players and coaches. Other popular sports include football, sailing, badminton and video games.
-
-[1]: https://wiki.baystation12.net/images/thumb/5/53/Flag-of-victoria.png/125px-Flag-of-victoria.png
-[2]: /index.php?title=Mars&action=edit&redlink=1 "Mars (page does not exist)"
-[3]: /Sol_system "Sol system
+Mars is a hotbed of Politics in the 26th Century. For the most part, Mars is completely under the control of Sol Gov, but there are still other colonial governments that exist outside of that immediate control, most notable of those are New Liberty, and Vorcian Federation. 
 
 ____
 
 ## New Liberty
 
-| ----- |
+ ![](https://wiki.baystation12.net/images/thumb/e/ec/NewLibertyMars.png/799px-NewLibertyMars.png) 
+  
 
-| City-State of New Liberty  
- |
-| New Liberty City  
- |
-|
-
-| ![][1] |
-| Flag |   |
-
- |
-| **Motto: **Liberty, economy, commerce |
-| **Anthem: **The Song of Liberty |
-| **Location**  |  [Mars][2], [Sol system][3] |
-| **Capital** | New Liberty Government District |
-| Official languages |  Sol Common, Tradeband, Galactic Common |
-| Demonym |  New Libertarianite |
-| Government |  Presidential corporate dictatorship |
-|  -  |  Magistrate |  Sir Davis Wilfrey |
-| Legislature |  Court of Regents |   |
-| Population |   |
-|  -  |  2559 census |  645,350 |
-| Created by: |  Crushtoe |   |
+* Basic Info 
+  * **Motto:** **Liberty, economy, commerce 
+  * **Anthem:** **The Song of Liberty 
+  * **Location:**    [Mars][2], [Sol system][3] 
+  * **Capital:**  New Liberty Government District 
+  * Official languages   Sol Common, Tradeband, Galactic Common 
+  * Demonym   _New Libertarianite_ 
+* Government - Presidential corporate dictatorship 
+  * Magistrate -  Sir Davis Wilfrey 
+  * Legislature   Court of Regents   
+* Other Info
+  * Population - 2559 census |  645,350 |
+  * Created by:   Crushtoe
 
 ## Demographics
 
@@ -242,13 +61,10 @@ The Magistrate of House is the colony's "Leader." They serve as both Executive a
 
 [List of Guilds][4] (coming soon to a wiki near you!)
 
-## New Liberty
+## New Liberty - The City
 
-![][5]
-
-![][6]
-
-A color-coded map of the colony
+![](https://wiki.baystation12.net/images/thumb/c/cf/NewLiberty.png/799px-NewLiberty.png)
+_A color-coded map of the colony_
 
 New Liberty has four seperate space ports,one on each side of the city. Three of these are "Secondary" ports, existing almost soley for nearby industry and commercial needs to be handled. Each Secondary Port has three cargo ship docks and one passenger dock.
 
@@ -304,30 +120,27 @@ On top of this, New Liberty was built where colonies exist, but no real way to t
 
 New Liberty also serves much of Mars' food problems. The four massive biodomes mass-produce fruits, vegetables, grain, dairy, and raises cattle, to supply the city using modern hydroponic systems similiar to trays onboard many stations, but on a much larger scale. Roughly 20% of what is produced is shipped off, sent to other colonies as imports to help earn capital and satisfy the planets importation needs.
 
-[1]: https://wiki.baystation12.net/images/thumb/e/ec/NewLibertyMars.png/125px-NewLibertyMars.png
 [2]: /index.php?title=Mars&action=edit&redlink=1 "Mars (page does not exist)"
 [3]: /Sol_system "Sol system"
 [4]: /index.php?title=List_of_Guilds&action=edit&redlink=1 "List of Guilds (page does not exist)"
-[5]: https://wiki.baystation12.net/images/thumb/c/cf/NewLiberty.png/180px-NewLiberty.png
-[6]: https://wiki.baystation12.net/skins/common/images/magnify-clip.png
 
 ____
 
-| ----- |
+## Vorcian Federation  
 
-| Vorcian Federation  
- |
-| Vorcia  
- |
-| **Anthem: **Vorcia, Rise |
-| **Location**  |  [Mars][1], [Sol system][2] |
-| **Capital** | Vorcia City |
-| Demonym |  Vorcian |
-| Government |  Federal presidential constitutional republic |
-|  -  |  President |  Samuel Mirko |
-| Population |   | |
-|  -  |  2559 estimate |  1,900,000,000 |
-| Created by: |  Fiskap |   |
+
+ ![Flag of the Kingdom of Victoria](https://wiki.baystation12.net/images/5/53/Flag-of-victoria.png) 
+ 
+* Basic Info
+  * **Anthem:** *Vorcia, Rise* 
+  * **Location:**    [Mars][1], [Sol system][2] 
+  * **Capital:**  Vorcia City 
+  * Demonym   _Vorcian_ 
+* Government - Federal presidential constitutional republic 
+  * President Samuel Mirko
+* Other Info
+  * Population - 2559 estimate |  1,900,000,000 |
+  * Created by:   Fiskap
 
 ## Demographics
 
@@ -443,7 +256,7 @@ About all recreational drugs are legalized in most of the territories, however t
 
 ## Geography and climate
 
-The Martian landmass in which the Vorcian Federation is based on has been [terraformed][5] to an acceptable degree. Man-made forests and national parks exist all over the nation, being strictly protected by the government. The temperature on the territory can feel fairly extreme: usually ranging from -20บ to 50บ celsius. Occasional rain exists, but it's not too intense which makes it good for agricultural operations.
+The Martian landmass in which the Vorcian Federation is based on has been [terraformed][5] to an acceptable degree. Man-made forests and national parks exist all over the nation, being strictly protected by the government. The temperature on the territory can feel fairly extreme: usually ranging from -20ยบ to 50ยบ celsius. Occasional rain exists, but it's not too intense which makes it good for agricultural operations.
 
 A huge chunk of the territory is being used for farming: roughly a 70% of it. By default, the soil is acceptable for farming. With modern technologies however, the farming efficiency is improved significantly which allows for far more land to be cultivated.
 
