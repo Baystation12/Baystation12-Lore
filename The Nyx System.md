@@ -10,7 +10,7 @@ A red dwarf flare star far out in the frontier. There are four planets orbiting 
 
 Itself was regarded for centuries as an uninteresting substellar companion to Nyx, itself a relatively uninteresting red dwarf. Massing at 44.7 times that of Jupiter, Erebus is a T-Class brown dwarf with a surface temperature of 963K, just above the melting point of aluminium. However, the presence of [Phoron][8] in and around Erebus has driven much of the activity of the first half of the 26th century in the Nyx system. Orbiting 39.8 AU from Nyx with an eccentricity of 4%, it takes a bit more than 315 standard years for Erebus to orbit Nyx. With over 80 moons with diameters more than 5 kilometers and hundreds smaller than that, Erebus is a hub of mining and corporate warfare. The most notable moon, but not the largest, is [Roanake][11], a dwarf planet in its own right, which orbits with a high enough eccentricity to have significant volcanic activity due to tidal heating.
 
-## Planets
+## Planets and Populated Moons
 
 * [**Moros][1]** (a.k.a. Cinder, Hell) - A mercurial planet, [Moros][1] is tidally locked to Nyx with a dayside surface temperature of 980K. Unsettled, although several geological surveys have been performed on the night side. Undergoing orbital decay due to the influence of Euthenia; expected to break apart due to tidal forces within 50 million years.
 
@@ -21,6 +21,8 @@ Itself was regarded for centuries as an uninteresting substellar companion to Ny
 * [**Yuclite][3]**\- A superearth near the outer edge of the habitable zone, [Yuclite][3] has 40% higher surface gravity than Earth. Has been a hotbed of xenoarcheology for decades, due to the remains of a civilization that existed on this world approximately 570 million years ago.
 
 * [**Euthenia][4]** \- A superneptune massing at 46 time that of Earth, [Euthenia][4] is one of the few planets still commonly called it's original survey designation. (The surveyor is noted to have a preference for ancient Greek mythology) As an ice giant, [Euthenia][4] has had consistent economic stability thanks to the presence of fuel depots supplied by the giants atmosphere.
+
+*[**Caldurk**][12) A mid-sized moon orbiting Brinkburn. It has the Mining Hub Republic of Caldurk on it, and is about the same size as Luna.
 
 ### Notable Space Stations are:
 
@@ -53,3 +55,4 @@ Some even call the Star home, as the sprawling asteroid-station offers hotel ser
 [9]: /Mercenary "Mercenary"
 [10]: /Exodus "Exodus"
 [11]: /Roanake "Roanake"
+[12]: /lore/Caldurk "Caldurk"
