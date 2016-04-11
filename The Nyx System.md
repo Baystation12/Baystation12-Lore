@@ -14,15 +14,15 @@ Itself was regarded for centuries as an uninteresting substellar companion to Ny
 
 * [**Moros][1]** (a.k.a. Cinder, Hell) - A mercurial planet, [Moros][1] is tidally locked to Nyx with a dayside surface temperature of 980K. Unsettled, although several geological surveys have been performed on the night side. Undergoing orbital decay due to the influence of Euthenia; expected to break apart due to tidal forces within 50 million years.
 
-* [**Brinkburn][2]** \- A martian planet, [Brinkburn][2] is small and dry yet is hot enough to be habitable. Possesses a dense ring system, theorised to be the fate of primordial moons, which makes it difficult to enter or exit orbit.
+* **(Brinkburn)[https://baystation12.net/lore/Brinkburn]** \- A martian planet, [Brinkburn][2] is small and dry yet is hot enough to be habitable. Possesses a dense ring system, theorised to be the fate of primordial moons, which makes it difficult to enter or exit orbit.
 
-* [**Hauler's Tragedy][2]** \- A thick asteroid belt that's full of pirate activity, mining operations, and trade depots. Very few corporate interests are active in the area.
+* **Hauler's Tragedy** \- A thick asteroid belt that's full of pirate activity, mining operations, and trade depots. Very few corporate interests are active in the area.
 
-* [**Yuclite][3]**\- A superearth near the outer edge of the habitable zone, [Yuclite][3] has 40% higher surface gravity than Earth. Has been a hotbed of xenoarcheology for decades, due to the remains of a civilization that existed on this world approximately 570 million years ago.
+* **Yuclite)** \- A superearth near the outer edge of the habitable zone, [Yuclite][3] has 40% higher surface gravity than Earth. Has been a hotbed of xenoarcheology for decades, due to the remains of a civilization that existed on this world approximately 570 million years ago.
 
-* [**Euthenia][4]** \- A superneptune massing at 46 time that of Earth, [Euthenia][4] is one of the few planets still commonly called it's original survey designation. (The surveyor is noted to have a preference for ancient Greek mythology) As an ice giant, [Euthenia][4] has had consistent economic stability thanks to the presence of fuel depots supplied by the giants atmosphere.
+* **Euthenia** \- A superneptune massing at 46 time that of Earth, [Euthenia][4] is one of the few planets still commonly called it's original survey designation. (The surveyor is noted to have a preference for ancient Greek mythology) As an ice giant, [Euthenia][4] has had consistent economic stability thanks to the presence of fuel depots supplied by the giants atmosphere.
 
-*[**Caldurk**][12) A mid-sized moon orbiting Brinkburn. It has the Mining Hub Republic of Caldurk on it, and is about the same size as Luna.
+* **(Caldurk)**[https://baystation12.net/lore/Caldurk] A mid-sized moon orbiting Brinkburn. It has the Mining Hub Republic of Caldurk on it, and is about the same size as Luna.
 
 ### Notable Space Stations are:
 
