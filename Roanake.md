@@ -1,7 +1,7 @@
 # Roanake
 
 
-* **Location:**  Erebus II, [Nyx system][1] 
+* **Location:**  Erebus II, [Nyx](https://baystation12.net/lore/The%20Nyx%20System) 
 * **Capital:**  NTB Arcop V (de facto) 
 * Official languages:  Galactic Common|
 * Demonym:  Roanakeian 
@@ -93,6 +93,3 @@ Population: 200.
 Built in 2554 and home to most it's educated population, several unpromising phoron, atmospheric and geological research projects and experiments take place here. Located in an accessible location near the moon's surface like Arcop V, this facility was the only one of it's nature to survive until 2559. It could be assumed that, since it's the only research facility on Roanake, productivity would be high and many promising research results be acquired. However, the truth is that the productivity on this base is abnormally low when compared to the other NanoTrasen research facilities in the Nyx system. Additionally, said still existing danger is causing many employees and colonists to leave the moon, possibly to move their work and projects to other, less dangerous facilities owned by the corporation.
 
 Population: 100.
-
-[1]: /Nyx "Nyx"
-  
