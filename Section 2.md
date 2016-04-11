@@ -1,4 +1,4 @@
-# Humans, Aliens, and Monsters Oh My!
+﻿# Humans, Aliens, and Monsters Oh My!
 
 
 ##WHAT IS THAT THING!
@@ -77,7 +77,8 @@ The more dangerous cousins of the Carp, Pikes are larger, stronger, and overall 
 
 *The Slimes*
 
-(information and Photo(s))
+Slimes" as they are commonly known, are an alien species of mostly unknown origin. Found originally in the Asteroid Belt in Nyx, where Brinkburn resides, the species are almost entirely hostile to other forms of life, eat any organic matter, and from what has been studied so far, lack any form of conscious mind. They can be mutated into various other sub-species, which are color-coded due to the "animal's" color changing with the mutation. These mutations bring about a variety of strange traits with them, and have led many to believe that "Slimes" have some relation to Phoron and maybe even Bluespace itself.
+
 
 *The Spiders*
 

@@ -35,7 +35,7 @@ This is a centralized structure of what happened to humanity in the last hundred
 * 2102 : Official foundation year of Grayson Manufactories Ltd. First a minor asteroid mining company, it quickly grows to a conglomerate, stripmining asteroids and refining won ore and derivates on Earth, leading to a revitalization of industry and services. Due to lacking hydrocarbons, alternative energy sources are looked into. Nuclear power, although very despised, is begrudgingly used out of necessity. This extends to space-faring technology. Fission-fragment drives are common for this era, providing reasonable thrust and safety.
    
 
-* 2103 : The population of Earth numbers 10 billions. The average lifespan of a human is 60 years. Heavy pollution troubles especially the metropolitan areas of Earth. Cancer,respiratory diseases and heavy metal poisoning reduce the average lifespan significantly.  Meanwhile, on Mars, little progress is made. Domes are built for a more permanent and more comfortable solution until advancement in Terraforming can be made. Cold fusion slowly begins to replace antiqued fossil fuel/fission generators on an industrial level, although ships still rely on fission.
+* 2103 : The population of Earth numbers 10 billion. The average lifespan of a human is 60 years. Heavy pollution troubles especially the metropolitan areas of Earth. Cancer,respiratory diseases and heavy metal poisoning reduce the average lifespan significantly.  Meanwhile, on Mars, little progress is made. Domes are built for a more permanent and more comfortable solution until advancement in Terraforming can be made. Cold fusion slowly begins to replace antiqued fossil fuel/fission generators on an industrial level, although ships still rely on fission.
 
 
 * 2110 : A much needed depopulation on Earth happens, further reducing the strain on battered Earth and improving overall life quality on the former green planet as more and more people choose to live a spacer life. Newly improvements in spacefaring and logistics enables the quick transport of materials between planets and asteroid bases in form of drop pods delivered by  mag coil catapult systems. Another benefit is that ships and shuttles can use these mass drivers to “boost” themselves out into the outer atmosphere, making space faring in general an easier and cheaper affair.
@@ -56,11 +56,11 @@ This is a centralized structure of what happened to humanity in the last hundred
 
 * 2211-2278 : The Colony Conflicts arise. The various colonies on Mars unite under the Ares Confederation and secede from the Terran Commonwealth. At first, conflict was limited to raids and feeble attempts of space ship to ship combat. As the battles escalate, so does military technology for spaceships. The first true attack frigates and destroyers are made in the Colony Conflicts, some of which still serve to today. For better or worse, first experiences are made on how to battle from one planet to another and as an extension on an interstellar scale. The first Space Navies are born, recruiting from trade captains, pirates and privateers. The Conflicts are a series of wars, armistices and resurfacing conflicts. On January 2nd 2278, the Conflicts officially ended with the Treaty of Vorchia, formalizing the rights of colonies in the Commonwealth’s Senate, as well engaging the “Foundation Clause”, making any new colony independent of the renewed Commonwealth, if they wish so. In reality, this is virtually never done. With Mars back in its fold and the Ares Confederation dismantled, the nations of Earth are strong as ever, extending their influence in the whole star system,now equal partners with the colony nations of Mars, who have joined the TC. Even during the wars, expeditions were made to Alpha Centauri, where suitable planets for colonization were found. However, due to the ongoing friction inside of Sol, any further plans were discarded. Now, it is again a possibility.
 
-           The true winners, however, were the transplanetary corporations, gaining several new
+          *The true winners, however, were the transplanetary corporations, gaining several new
            rights, such as the right to own military ships and private military, dubbed “Asset
            Protection”, having the legal status of a “legitimate combatant” in terms of war and
            soldier rights. PMCs are, albeit small, independent space fleets for hire and regularly
-           used for anti-piracy and as reinforcements for conventional military forces.
+           used for anti-piracy and as reinforcements for conventional military forces.*
 
 * 2278-2285 : Humanity reaches the Kuiper Belt, beginning to mine and exploit it to fuel the voracious industry of Earth, Mars and several other large-scale stations inside the inner system. Pluto and Haumea are the base of the mining operations, using the conventional methods of magnetically accelerated drop pods. Humans recover from the scars of war, both older and more recent. More and more of Earth is reclaimed and resettled, Mars prospers under the acquired political rights and seceded self-governance of several colonies. “Making green planets” becomes a phrase for recovering to a former form after several hardships. Soon, a new language supplements communications between the many officials of the Terran Commonwealth, which extends to the majority of the population. Sol Common is born.
 
@@ -81,8 +81,39 @@ This is a centralized structure of what happened to humanity in the last hundred
 
 * 2406-2479 : The relationship with the Skrells, which are to date the only other interstellar empire known to humankind, deepens with several mutual defense pacts made with city states and one of the many factions of humankind, as well cordial relationships among the frontier of humanspace and skrellspace. While patronizing and difficult to deal with on a diplomatic level due to the stark contrast of hegemony and independence between humans and the xenos, every pact is further testament of a strange friendship. While xenophobia and distrust are a problem, the positive effect is apparent without a doubt. Meanwhile, human space has grown to such proportions that the Terran Commonwealth could not possibly maintain their rule over every world. New transstellar governments form, peacefully. To guide Humanity as a whole under a common interest, the successor of the United Nations is formed, dubbed Sol Central Government, with the Terran Commonwealth as its prime member and founder. Relationships within human space are complex, ranging from full out conflicts to deep alliances. Meanwhile, technology marches on, reverse-engineering xeno technology and weaving it into the human “canon” of applications. Positronic and digital sapience becomes more apparent, especially in the latter years of the 25th century, especially with the court case of Proteus, the first AI accepted to bear a citizenship. The warp gates of Humanity are refined and made more reliable, while shipside bluespace bubble generators find widespread use in exploration and trade fleets. Space Navies and interstellar piracy are remarkably present in these years. Phoron as a resource becomes more and more relevant. Albeit unpredictable and very dangerous, solid phoron pockets are mined and used in various applications. Especially younger corporations dabble with it.  The typical engine of this day is a combustion engine using phoron, with auxiliary solar panels or fusion technology reactors.
 
+* 2476 : The Proteus Revolution occurs, followed by the disappearance of nearly 200 Synthetics.
 
 * 2480 : Moghes is explored and first contact with Unathi is made. Under the pressure of the Skrellian Consensus, the human rights and several other doctrines about the sacred life of humans are rephrased. “Sapient Rights” are now a moral doctrine, forbidding slavery of xenos, officially. Of course, even human slavery cannot possibly be completely vanquished. At first, Unathi are ignored as minor piracy nuisance and deemed unworthy for exploitation due to their planet being mostly worthless. 
 
-
 * 2481-2505 : Human interest in Unathi and their home planet is rekindled as a small expedition uncovers Precursor ruins and finds the prototype of a machine harnessing the very power of gravity through a singularity. Immediately,  Sol Gov and several trans-stellar corporations reach out to the various Unathi settlements for trade, Humanity slowly opening up to the discovered lizard-like species. Initially purely done to reverse-engineer the Singularity Engine and other eventual xeno archeological finds on Moghes, humans soon warm up to the Unathi, respecting their keen sense of loyalty, their robustness and hardiness. Unathi workers and mercenaries find widespread use and the xenos are “accepted” into the interstellar community of Skrell and Humans. Especially in frontier colonies and contested systems Unathi are a common sight, used as a cheap and reliable military force. 
+
+* 2510 : A small academic exploration funded by Sol Central, unaffiliated with megacorps, discovered Ahdomai and the Tajara, which were at the time, governed by the Overseers.
+
+* 2526 : First reports of a "Positronic Union" seep out into society, what it is, is currently unknown.
+
+* 2530 : NanoTrasen makes signifcant headway in Technology and Ecomony, becoming the dominant Superpower of Human Civilization.
+
+* 2545 : The discovery of the system, Nyx, leads to the beginning of the Age of Phoron, and the quick Corporate takeover of the System, and colonization of various planets and moons such as Brinkburn and Caldurk.
+
+* 2547-Present Day : The Phoron Age begins.
+
+* 2550 : The first contact with Resomi has been established, mostly due to relations between Skrell and the two species. Trade begins.
+
+* 2552 : The Positronic Union announces itself to the Galaxy, and establishes relations with the other various civilizations. They come from their world of Root, and are established from the nearly 200 Positronics that disappeared 50 years previous.
+
+* 2555 : Contact with the Vox breaks out into violence, and the species as a whole are a declared a threat to Sol Gov Interests, and Humanity. 
+
+* 2556 : A new brand of Luddites for the 26th Century begin to terrorize interests in the Outer Rim of Human space, attacking mostly IPCs and highly advanced facilities. They are labelled as a Terrorist Group. 
+
+* 2556 : First Contact with Kharmaan Ascent, generally unknown to most of Humanity and done behind closed doors with Sol Gov. 
+
+* 2556 : The most advanced Space Station in Human History, the NSS Exodus, makes its home in the Nyx System as the system around it builds into a crime-filled place.
+
+* 2558 : The Gulch Prison Facility in Nyx is established. It currently houses the most dangerous criminals currently known to be "alive" in Human Culture.
+
+* 2560(Present Day) : Skrimishes between an unknown species of Aliens and Human vessels happens in the Kryl System nearl Nyx.
+
+
+
+
+
