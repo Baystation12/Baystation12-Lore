@@ -1,6 +1,6 @@
 # The Republic of Caldurk 
 
-* **Location**    Erebus XXI, [Nyx system][1] 
+* **Location**    Erebus XXI, [Nyx](https://baystation12.net/lore/The%20Nyx%20System)
 * **Capital**  Caldurk 
 * Demonym:  Caldurkine 
 * Government |  Presidential republic |
