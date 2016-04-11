@@ -2,12 +2,12 @@
 
 ### Colonial Information
 
-* **Location:** **Yuclite**, [Nyx][1] 
+* **Location:** **Yuclite**, [Nyx](https://baystation12.net/lore/The%20Nyx%20System)
 * **Capital:**  Greendeer (de facto) 
 * Demonym: | Yuclitean |
 * Government: |  Corporate oligarchy |
   * Central Colonial Administrator:  Ned Crispan of [Gilthari Exports][2] 
-  * Vice Central Colonial Administrator:  Corné Sander of [Aether Atmospherics][3] 
+  * Vice Central Colonial Administrator:  CornÃ© Sander of [Aether Atmospherics][3] 
 * Population: 2559 estimate | 44,000 |
 * Created by: *Fiskap*
 
@@ -54,7 +54,7 @@ Yuclite is typically considered to be the de facto capital of Nyx, as the colony
 
 Yuclite is a fairly large terrestrial, rocky planet, with a diameter of approximately 18000 km. It has a very high gravity, and despite that modern medicines can easily deal with many of the ailments caused by it, all formal settlements have artificial gravity generators to reduce this gravity to a more livable level.
 
-The atmosphere of the planet is not breathable. There is barely any oxygen on it, and it's primarily composed of nitrogen and carbon dioxide. Along with this, the planet is extremely cold, with temperatures that can range from -50º to -80º celsius. Domed city infrastructure is required to maintain any long-term human presence here, and large-scale terraforming is simply not viable due to the planet's large size.
+The atmosphere of the planet is not breathable. There is barely any oxygen on it, and it's primarily composed of nitrogen and carbon dioxide. Along with this, the planet is extremely cold, with temperatures that can range from -50Âº to -80Âº celsius. Domed city infrastructure is required to maintain any long-term human presence here, and large-scale terraforming is simply not viable due to the planet's large size.
 
 Natural, surface water reserves don't exist on the planet at the moment, along with indigenous life.
 
