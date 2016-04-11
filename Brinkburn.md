@@ -3,7 +3,7 @@
 
 ![Map of the Brinkburn colonies. Click for larger version!][1]
  
-* **Location:** **Brinkburn**, [Nyx system][2] 
+* **Location:** **Brinkburn**, [Nyx](https://baystation12.net/lore/The%20Nyx%20System)
 * **Capital:**  Ostacre Town (de facto) 
 * Demonym:  Brinkburnian 
 * Government |  Not applicable |
