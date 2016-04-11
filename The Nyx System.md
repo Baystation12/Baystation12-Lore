@@ -14,7 +14,7 @@ Itself was regarded for centuries as an uninteresting substellar companion to Ny
 
 * [**Moros][1]** (a.k.a. Cinder, Hell) - A mercurial planet, [Moros][1] is tidally locked to Nyx with a dayside surface temperature of 980K. Unsettled, although several geological surveys have been performed on the night side. Undergoing orbital decay due to the influence of Euthenia; expected to break apart due to tidal forces within 50 million years.
 
-* **(Brinkburn)[https://baystation12.net/lore/Brinkburn]** \- A martian planet, [Brinkburn][2] is small and dry yet is hot enough to be habitable. Possesses a dense ring system, theorised to be the fate of primordial moons, which makes it difficult to enter or exit orbit.
+* **[Brinkburn](https://baystation12.net/lore/Brinkburn)** \- A martian planet, [Brinkburn][2] is small and dry yet is hot enough to be habitable. Possesses a dense ring system, theorised to be the fate of primordial moons, which makes it difficult to enter or exit orbit.
 
 * **Hauler's Tragedy** \- A thick asteroid belt that's full of pirate activity, mining operations, and trade depots. Very few corporate interests are active in the area.
 
