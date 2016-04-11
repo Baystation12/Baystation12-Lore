@@ -32,7 +32,7 @@ Itself was regarded for centuries as an uninteresting substellar companion to Ny
 
 * **NSS Exodus:** A highly profitable research, mining, and supply dock for Nanotrasen that serves as one of their many facilities in exploiting the wonders of phoron. It is currently orbiting around Erebus and maintains close contact with the NAS Crescent. The station itself has been a target for a large number of Mercenaries and other companies wishing to steal Nanotrasen's secrets.
 
-The station was initially completed in the year 2555 CE, two years after the infamous vessel NSV Luna was decommissioned from service, and has been renovated several times since then. The station is crewed by approximately 50 to 60 employees who transfer periodically to and from the NAS Crescent (colloquially known as CentComm or Central Command).
+   The station was initially completed in the year 2555 CE, two years after the infamous vessel NSV Luna was decommissioned from service, and has been renovated several times since then. The station is crewed by approximately 50 to 60 employees who transfer periodically to and from the NAS Crescent (colloquially known as CentComm or Central Command).
 
 * **NAS Crescent:** The main hub for Nanotrasen in the Nyx system and is commonly referred to it by their workers as central command or "Centcomm". The Crescent refines and stores much of the products that stations (such as the Exodus) bring in. It is also a large refueling and supply station of phoron and tritium in the Nyx system due to Nanotrasen being able to outsell almost any other company.
 
