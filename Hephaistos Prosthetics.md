@@ -12,7 +12,7 @@ Less powerful versions stripped of some features or replaced with lower quality 
 
 ##Prosthetic models
 
-Honoring the naming scheme that the TSC sticks to, the main HIF and X series models are Prometheus, Taurus, Helios, Icarus, Adrasteia, Ares, Nostos and Atlas.
+Honoring the naming scheme that the TSC sticks to, the main HIF and X series models are Prometheus, Minotaurus, Helios, Icarus, Adrasteia, Ares, and Nostos.
 
 ###X-01 Prometheus
 
@@ -30,7 +30,7 @@ After much of the Prometheus' RnD was finished, replacements for military person
 
 It features a few other disadvantages as well; vast energy comsumption at combat load stands foremost, often requiring further implantations in back and chest to accomodate carrying an additional powerbank that makes for, despite being ergonomically shaped, a slight hunchback in most cases, making the soldier even less appealing. Some clients however take this as an opportunity to work on an intimidating visage, requesting plastic surgery to have things like eye surgeries, longer nails for claws and other beast-themed alterations done to them.
 
-However, few have dared to argue against the benefits Minotaurus brings and lived. Legs feature up to quadruple jump heights, and with modified spinal support, vast carrying capacity, up to 360 kilograms loaded on back. Arms feature a dead lift of up to 500 kilograms, going as far as to allow handheld versions or mounted weaponry to be used commonly, with the smallest caliber that is seen fit for users of this prosthetic being .950 JDJ (a real cartridge), making oversized rifles a reality. Marching load of a Minotaurus is designated at average of 180 kilograms, combat load is designated at 65 kilograms.
+However, few have dared to argue against the benefits Minotaurus brings and lived. Legs feature up to quadruple jump heights, and with modified spinal support, vast carrying capacity, up to 360 kilograms loaded on back. Arms feature a dead lift of up to 500 kilograms, going as far as to allow handheld versions of mounted weaponry to be used commonly, with the smallest caliber that is commonly used being .950 JDJ (a real cartridge), making oversized rifles a reality. Marching load of a Minotaurus is designated at average of 180 kilograms, combat load is designated at 65 kilograms.
 
 Minotaurus usually only sees use with the more infamous mercenaries that can afford the cost, are wicked enough to sacrifice much of their body, and are capable of accomodating the inconveniences and costs associated with extensive maintenance inherent to the prosthetic set. Very few of the Minotaurus users possess the full set, in fact, for the reasons of high cost, energy requirement, and limitations to maneuverability and operating range. The high density of EAP strands also makes it easy for electromagnetic interference to hamper the limbs' operation, being another reason to deter clients from full integration, despite comparatively low implementation cost.
 
@@ -77,7 +77,7 @@ Ares is favoured mostly among people who favour tactics and martial arts over gu
 
 Ares is actually not exactly purposed for combat in general, not as much as for absolute, complete integration into the host body. Ares is the first and one of very, very few to completely alleviate issues like possibility of rejection by the body, accustoming to using a new limb, or need of any auxilliary implantations or augments.
 
-Ares has even managed to come so far in this regard as to possess the feature that draws many martial arts professionals, surgeons, mercenaries, and other people that rely on high-precision motor-skills. Ares has the unique ability to preserve muscle memory to a large extent, requiring a brief re-learning period of about a fortnight or even less. After this, it feels entirely natural to the user ++subjectively++, in motion, response, strength, physiology, nerve perception, and any other regard.
+Ares has even managed to come so far in this regard as to possess the feature that draws many martial arts professionals, surgeons, mercenaries, and other people that rely on high-precision motor skills. Ares has the unique ability to preserve muscle memory to a large extent, requiring a brief re-learning period of about a fortnight or even less. After this, it feels entirely natural to the user subjectively, in motion, response, strength, physiology, nerve perception, and any other regard.
 
 Of course, a superb production as this one is among the most complicated to perform on a client; the entire process of application takes approximately two months on average, and for some time the person is rendered without any prosthetic, which may pose a large issue for some. Furthermore, even though there is no maintenance cost, repair is lengthy and expensive, as is the fabrication. However, to most clients requesting Ares, having the hope of having their arm back again, to use it just like they used to, having waited for this opportunity for years, it is a small price to pay.
 
