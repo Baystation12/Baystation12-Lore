@@ -20,7 +20,7 @@ ___
 
 ###The Races
 
-**Humanity**
+[**Humanity**](https://baystation12.net/lore/Humanity)
 
 ![Humanity](https://wiki.baystation12.net/images/6/60/Background-humans.png) 
 
@@ -28,7 +28,7 @@ Humanity, everything and nothing can be said about them. They are the primary dr
 
 While most humans are accepting of other species and simply want to earn an honest paycheck, the best and worst are found among them. You never know what a human is going to be like when you first meet them. Due their prevalence in current known space, and their ability to encompass all traits, good and bad, humanity is often considered the 'status quo'.
 
-**Skrell** 
+[**Skrell**](https://baystation12.net/lore/The-Skrell)
 
 ![Skrell](https://wiki.baystation12.net/images/4/4d/Background-Skrell.png)
 
@@ -36,7 +36,7 @@ The Skrell are a species of amphibious humanoids, distinguished by their green-b
 
 Gender has little meaning to Skrell outside of reproduction, and in fact many other species have a difficult time telling the difference between male and female Skrell apart. The most obvious signs (voice in a slightly higher register, longer head-tails for females) are never a guarantee. Due to their scientific focus of the mind and body, Skrell tend to be more peaceful and their colonization has been slow, swiftly outpaced by humanity. They were the first contact sentient species, and are humanity's longest, and closest, ally in space.
 
-**Unathi** 
+[**Unathi**](https://baystation12.net/lore/The-Unathi) 
 
 ![Unathi](https://wiki.baystation12.net/images/f/f8/Background-unathi.png)
 
@@ -44,7 +44,7 @@ Raging in from Moghes, the Unathi are a race of tall, reptilian humanoids that p
 
 Most Unathi outside of Moghes tend to be exiles however, and with influence of other species the gender difference is not nearly as pronounced. Unathi were humanity's second contact, and despite their aggressive nature, seem to get along well enough with humanity, though are often considered to be 'second-class' citizens and are rarely seen in jobs other than where muscle is needed.
 
-**Tajara** 
+[**Tajara**](https://baystation12.net/lore/The-Tajara) 
 
 ![Tajara](https://wiki.baystation12.net/images/9/92/Background-tajaran.png)
 
@@ -52,7 +52,7 @@ The Tajaran are a humanoid race possessing cat-like features. Hailing from Ahdom
 
 Remembering their days of being ruled the older generation pride themselves on loyalty, while the younger generation are often seen as headstrong. Third and most recent contact by humanity. While plenty of Tajaran hold reservations with their new allies, over all the alliance is accepted and welcome. Though like the Unathi plenty of humans take advantage of the less than modern education and slave past history, and it is rare to see a Tajaran in a position of command.
 
-**Dionaea**
+[**Dionaea**](https://baystation12.net/lore/The-Dionaea)
 
 ![Dionaea](https://wiki.baystation12.net/images/3/33/Dionaea-background.png)
 
@@ -61,13 +61,13 @@ The dionaea are a group of omnivorous, slow-metabolism plantlike organisms that 
 Dionaea spread by seeds and are asexual, no gender.
 When grown into their small 'nymph' state, they are known to eat large amounts of dead plant matter and fertilize plants while they learn from those around them, and as they grow further merger into larger and larger forms. It is not unheard of for Skrell explorers to be traveling in a ship composed of habitat modules and engines of skrell make and the body formed by their diona allies to warble across the cosmos. Introduced by the Skrell, and quite slow and peaceful, the Diona share good relations with humanity.
 
-**Resomi** (picture will be here along with info)
+[**Resomi**](https://baystation12.net/lore/Resomi)
 
 
-**IPCs** (picture will be here along with info.
+[**IPCs**](https://baystation12.net/lore/The-IPCs)
 
 
-**Vox**
+[**Vox**](https://baystation12.net/lore/Vox)
 
 ![Vox](https://wiki.baystation12.net/images/c/cf/Background-vox.png)
 
@@ -81,11 +81,11 @@ A bird-like alien species, these scavengers commonly raid stations and ships for
 
 Synthetics are spread throughout known space and serve a myriad variety of roles that range from a tiny drone scrubbing a floor to a nearly omnipotent AI in command of an entire battle cruiser. Most known sentient races use synthetics in some way or fashion, very often as prosthetic bodies when their own bodies fail. There are three basic kinds of synthetic found in the universe today:
 
-Android: An android is a robot that runs off of a positronic brain and is usually introspective, calm, and thoughtful. Positronic brains are currently in a turmoil of whether or not they are considered property or free-willed beings that should not be lawbound.
+**Android:** An android is a robot that runs off of a positronic brain and is usually introspective, calm, and thoughtful. Positronic brains are currently in a turmoil of whether or not they are considered property or free-willed beings that should not be lawbound.
 
-Cyborg: A cyborg is a robot that uses an organic brain to function via an MMI. Cyborgs come in many shapes and sizes and most of the sentient beings that are cyborgs are free-willed. Some companies have used canine brains and brains of other animals to ensure a cheap workforce that doesn't rely on cutting-edge technology.
+**Cyborg:** A cyborg is a robot that uses an organic brain to function via an MMI. Cyborgs come in many shapes and sizes and most of the sentient beings that are cyborgs are free-willed. Some companies have used canine brains and brains of other animals to ensure a cheap workforce that doesn't rely on cutting-edge technology.
 
-Robot: A robot is the term to use for any robot that uses more basic forms of intelligence. These are thought of as property in the vast majority of instances and are usually the robots that do the menial tasks that higher functioning beings choose not to do.
+**Robot:** A robot is the term to use for any robot that uses more basic forms of intelligence. These are thought of as property in the vast majority of instances and are usually the robots that do the menial tasks that higher functioning beings choose not to do.
 
 
 ___
