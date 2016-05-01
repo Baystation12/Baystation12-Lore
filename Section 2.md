@@ -22,13 +22,15 @@ a proud race of reptilians hailing from the desert planet of Moghes, the Unathi 
 
 A newer addition to the galactic community, the Tajara are a form of cheap labor throughout the stars, and they haven't been found to do much else. For a long time until a revolution took place they were ruled over by a class known as the "Slavemasters" and in recent years finally made it on their own into the stars, but society is still very divided for them. They're based around family, traditions, and hard work.
 
-[**Resomi**](http://baystation12.net/lore/The-Resomi)
+[**Resomi**](http://baystation12.net/lore/Resomi)
 
-(information and page link to RESOMI)
+The Resomi are a dimunitive race of what can be best described as raptor-birds. Perhaps their overall tiny stature is what drove them to leave their frozen homeworld, and create empires out of the stars while humanity was still building pyramids. At their height, they bent vast amounts of matter around six of their stars, providing themselves a utopia of economical, militarical, and socialogical utopia. But they have fallen from their height, and now they rely on economic pressure and manufacturing ability to push their political claims.
 
 [**Dionaea**](http://baystation12.net/lore/The-Dionaea)
 
-(information and page link to DIONAEA)
+Commonly referred to (erroneously) as 'plant people', the Dionaea are a strange space-dwelling collective species hailing from Epsilon Ursae Minoris. Each 'diona' is a cluster of numerous cat-sized organisms called nymphs; there is no effective upper limit to the number that can fuse in gestalt, and reports exist of the Epsilon Ursae Minoris primary being ringed with a cloud of singing space-station-sized entities.
+
+The Dionaea coexist peacefully with all known species, especially the Skrell. Their communal mind makes them slow to react, and they have difficulty understanding even the simplest concepts of other minds. Their alien physiology allows them survive happily off a diet of nothing but light, water and other radiation.
 
 ____
 
@@ -36,14 +38,14 @@ ____
 
 As you can imagine, not every species gets along. The Kharmaan Ascent and the Vox also exist amongst the stars. The Kharmaan Ascent are much more powerful than the Vox, but currently things are at cold conflict, with nothing actually happening but general distrust on both sides. The Vox are relatable to Somali pirates in the 21st century when it comes to Human Policy. There is open conflict against the ones that attack our vessels, but overall no war has been declared as they are not a unified civilization.
 
-**Kharmaan Ascent**
+[**Kharmaan Ascent**](http://baystation12.net/lore/Kharmaan)
 
 The Kharmaan Ascent is an interstellar power located in neighbouring space to the Skrell. The full extent of their territory is unknown, as it abuts the intergalactic gulf and Humanity is walled off from it by a narrow buffer of several Skrellian systems. Access to Ascent space is solely afforded through a series of interdicted DMZ systems littered with the debris of space battles both ancient and modern, and their borders are policed by breathtakingly violent and reactionary automated military squadrons. They are enormously advanced, insectoid in appearance, and number amongst the most vicious and violent aliens Humanity has ever encountered.
 
 
-**Vox**
+[**Vox**](http://baystation12.net/lore/Vox)
 
-(information and page link to VOX)
+The Vox were once a large star-faring civilization that were extremely advanced for their time, according to the Vox, at least. It is said that they unlocked the very code of life itself, forming it, and shaping it to their very will. So says the Vox, at least. The Vox also say they know the secrets of the universe and will sell it to you for the low, low price of twenty thalers. Its unfortunate, but you can’t put much stock into Vox history. It is in a constant state of flux, changing at will to suit a crafty Vox merchant or a prideful Vox scavenger. Whatever their history is, it must be long as they’ve been in space as long as recorded history cares to remember them.
 
 ____
 
@@ -51,7 +53,14 @@ ____
 
 [**The IPC**](http://baystation12.net/lore/The-IPCs)
 
+Positronic intelligence really took off in the 26th century, and it is not uncommon to see independant, free-willed robots on many human stations, particularly in fringe systems where standards are slightly lax and public opinion less relevant to corporate operations. IPCs (Integrated Positronic Chassis) are a loose category of self-willed robots with a humanoid form, generally self-owned after being 'born' into servitude; they are reliable and dedicated workers, albeit more than slightly inhuman in outlook and perspective.
+
 **Vat Born**
+
+With cloning on the forefront of human scientific advancement, cheap mass production of bodies is a very real and rather ethically grey industry. Vat-grown humans tend to be paler than baseline, with no appendix and fewer inherited genetic disabilities, but a weakened metabolism. From this baseline version, there are two other variants. 
+
+* Grav-Adapted Humans: Heavier and stronger than a baseline human, gravity-adapted people have thick radiation-resistant skin with a high lead content, denser bones, and recessed eyes beneath a prominent brow in order to shield them from the glare of a dangerously bright, alien sun. This comes at the cost of mobility, flexibility, and increased oxygen requirements to support their robust metabolism.
+* Space-Adapted Humans: Lithe and frail, these sickly folk were engineered for work in environments that lack both light and atmosphere. As such, they're quite resistant to asphyxiation as well as toxins, but they suffer from weakened bone structure and a marked vulnerability to bright lights. 
 
 
 ##What's This About Monsters?
@@ -60,11 +69,11 @@ Space is a very dangerous place, and not just because there's no air. Various cr
 
 *The Carp*
 
-(information and Photo(s))
+The Carp are a breed of well...space fish, that come from the phoron giant Erebus. Somehow, scientists aren't quite sure yet, the Carp are imbued with the Phoron in their DNA, allowing for them to travel unaided through the vast void of Space, without gravity, air, anything. They are very dangerous to space travellers are they are highly aggressive and carnivorous. They often break windows and the like on space stations hoping to get in to eat the crew.
 
 *The Pikes*
 
-(information and Photo)
+The more dangerous cousins of the Carp, Pikes are larger, stronger, and overall much much more dangerous than the Carp. They are extremely volatile creatures, more so than the Carp, and attack any living or moving things, even other Pikes and Carp. They also come from Erebus, though how these creatures, and the carp, came into existance-  is still unknown.
 
 *The Slimes*
 
@@ -72,7 +81,7 @@ Space is a very dangerous place, and not just because there's no air. Various cr
 
 *The Spiders*
 
-(information and Photo(s))
+The bluespace travel, and usage of Phoron seems to have altered the genes of spiders that live on the Ships and Stations, their bodies becoming huge and grosteque. They have also become extremely aggressive to space travellers, and are a serious threat. They originally come from Earth, yes, but Phoron seems to have done something different with them than what it does with other species, changing Spiders into something far worse than what they used to be.
 
 *Cortical Borers*
 
