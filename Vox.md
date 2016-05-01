@@ -1,129 +1,178 @@
 # The Vox
 
+*The Vox (voks) are a nomadic species of secretive raptor-like aliens with a soft spot for other people's things. Having no home planet they instead live on giant moon-sized Arkships as well as smaller crudely put together space stations.
+The information shown below, while canon, does not completely characterize in-game knowledge of characters, even those experienced with the Vox. Only a Vox would know all of this information, and they do not share with outsiders.*
 
-## Vox History 
+____
 
-Three thousand years ago the Vox civilization crumbled. Of the four types of Vox, only the Primalis remained. At first, this was fine. The Primalis have always made up the majority of Vox and their systems of hierarchy kept their civilization in check for a while. Then one particularly nasty Vox captain (Now known only as Rolling Fire) decided they were worthy of being a new Auralis, and                                                                                                                            with twelve thousand Vox at its command, began to take control. Numerous smaller factions quickly rose up to contest this, eventually leading to an all out war.
+## An Overview
 
-Rolling Fire died early in the war, killed in his sleep by his first officer (known as Metal Shriek). The war raged on for ten years, killing the majority of the Primalis population and destroying multiple arkships. Much of the Vox’s knowledge was lost to time, including the locations of many of the remaining arkships. What was left of Vox civilization was a small, dwindling group of feuding Vox hellbent on killing one another.
+**Naming**
 
-The saving grace for the Vox was not by nature, or any altruistic motive to further propagate the Vox species. Instead, it was an arms race. The Vox at this point, were still at war, however there were only a couple hundred Vox left, and they were too evenly matched to even consider fighting. So they needed more Vox. More soldiers, more workers, more meat to put against the grindstone of their war. So they took to the arkships.
+Vox have three distinct names:
 
-It took ten years for one of the remaining Vox factions to salvage enough old technology to figure out how to produce a Vox larva. It used this technology to amass an army and slaughter the rest of the Vox.
+1. Their formal name, which is a long list of descriptive titles, jobs, clan/faction affiliations, as well as physical or mental features of note.
+2. Their use-name, usually a physical or mental feature followed by their current clan and finally a unique one syllable sound. This name is the most used, their full use-name being used between close friends and the singular gutteral end term used by everyone else.
+3. Raider names. Military style call-signs, either given to them or chosen by them. Usually one to two words.
 
-### Historical Figures
+In-game the use-names can be represented by unintelligent jabbering and shrieking, E.G.: Yaitakikat, Kikigakia, Hayahakaiti.
+Vox names use many I's, A's, K's, and T's with a smattering of Y's, H's, C's, and G's.
 
-*“Vox never dead. Vox live on in word and metal.”*
-* Rolling Fire - a short lived but vicious leader. Got his namesake from the unique way his ship’s exhaust bellows out of his engines. Is known primarily for starting the great Vox war and promptly dying to his second in command. Is oftentimes used as a lesson in following superiority, where Metal Shriek is seen as the superior one. Could be said as an insult or a threat to indicate that the subject is not as strong as they think themselves to be or that they might end up dead, fast. (E.G. You better watch tongue, Rolling Fire. Or find self like namesake.)
-* Metal Shriek - Known primarily for killing Rolling Fire and asserting itself as leader, it ruled about as long as Rolling managed to, dying to a faulty engine explosion. His heir was quickly chosen and he was promptly forgotten, save for when the story of Rolling Fire was told.
+**Biology**
 
-## The Vox 
+The Vox species can be seperated into three distinct types: Auralis, Armalis, and Primalis. All three, while distinct, share a similar biological make up.
 
-### Half Vox
+All three are omnivorous bird-like creatures with a singular oriface used for eating, breathing, and extretion. They are all covered in hard scales and have a tuft of quills growing out the top of their skulls. They have a hard and sharp beak on their faces and they breathe nitrogen using a large air capillary sack.
 
-*“99 halfs for 1 head? No good. Shit. 1 head kill 100 halfs easy. Plus have to feed halfs 99 more than one head.”*
+They all have talons on their feet and their hands and they have a long prehensile tail that comes out their backside between their legs. Their bones are especially light and flexible and their nervous system is especially redundant to the point that their limbs are known to keep moving even after being cut off.
 
-Cortical stacks are a finite resource. The technology and knowledge used to create them died with the Vox’s masters. But they are still important, extremely important. A Vox with a cortical stack can be strong, fast, smart, clever, or any mixture inbetween. A Vox without one is smelly, dumb, and slow. Power can be gained through stacks, just as they can be gained through pools.
+They appear to have an almost robotic control over their scales and are able to lock them so tightly together that they form a protective 'space suit', allowing them to walk comfortably in zero pressure environments.
 
-‘Half Vox’ as they are called, are treated relatively the same as regular vox outside the typical scorn a Vox has for its inferiors. They can win Disputes, fight battles alongside others, and work towards their factions goal. However most Halfs have some sort of retainer, or ‘half-herder’. One herder usually takes care of around ten to fifty halfs, depending on how strained a faction is on regular vox. Most halfs find themselves on the bottom rung of the hierarchy, just on their typical merit alone. Though there have been times when a half has risen steadily and in even rarer cases, deemed worthy of a stack.
+The Vox digestive system is entirely compacted inside their head, neck, and upper body. It consists of a singular long gizzard-like organ that breaks down and absorbs nutrition from whatever they put in their mouth. Their diets consist mostly of fungis, meat, and anything they can fit in their mouths.
+Often times Vox will digest hard metals or rocks to aid in the digestion of particularly unruly foods, like monkeys or Resomi. Often times Vox will have to digest something multiple times before getting the full benefit of their meal, which often times consists of choking up something half digested and then swallowing it again.
 
-### Bio-Pools
+Interestingly, Vox cannot breathe oxygen and instead breathe nitrogen. Oxygen and oxygen-deprevation medicines are both extremely poisonous to Vox and requires dialysis to remove from the Vox's system. The Vox 'lung' is a singular sack of air capillaries, similar to that seen in birds.
 
-*“It not just meat go in, Vox come out. Put in wrong meat, wrong Vox.”*
+From here is where the seperation lies:
 
-Bio-pools are the instruments scrapped together by the Vox to propagate their species. Fueled by mysterious chemicals and pure biological matter, they spew out a steady supply of Vox larvae, if properly maintained. They are fickle machines, and only through trial and error have they become usable and maintained. 
+- The most commonly seen Vox, the Primalis, are approximately 1 meter tall, weighing approximately 80 kilograms. Their muscles are extremely dense, allowing them sudden bursts of speed and strength, though substained strenious activity can cause dangerous levels of lactic acid to build up. The exception to this rule is their beak, which consistently can substain pressure up to 500 psi. Their talons are very hard and resistant to electricity and their scales and dermal layers have an almost instant regeneration factor.
 
-Each Vox costs a faction approximately 500 thaler to birth. Cortical stack implants also require careful surgery, which could, depending on the stack and its wear and tear, cost this expense to skyrocket. On top of the regular cost of living, Vox are inexpensive to make.
+- Armalis are a type of Vox that is both rare and powerful. Their height varies between 1 meter and 4, and their weight can also vary between 60 to 300 kilograms. The only true way to recognize an Armalis is the characteristicly long limbs they have and the dense quills that run down the entirety of their upper body as well as their extremeties. Their dermal layer's density could be likened to that of steel and their eyes are a singular bright pink shade. They are known to be extremely fast and extremely strong and should not be taken lightly.
 
-Thousands of years of use have made the Vox very adept at using them, some even being gifted enough to modify the results. These Vox, ‘shapers’ as they are called, are prized amongst their factions, considered even more valuable than a stack. They demand many things from the other Vox, usually chemicals or meat, in their experimentations. Each shaper strives to create the pinnacle of Vox, to recreate the legends of the past.
+- Auralis are the rarest of the Vox, and there have been no confirmed sightings of them, only word of mouth and hearsay speaks of their existance. From what could be said they are roughly 2 meters tall, weight around 70 kilograms, and are the thinnest and slowest moving of the Vox.
 
+- There lies a fourth Vox, if one could call them that, that are known only from the emergency transmittions that describe them. The Apex are giant computers made equally of flesh and metal. They are typically between 10 to 20 meters in size, though their shapes themselves vary from Apex to Apex, all share the singular feature of many robotic and organic tentacles that they use to move around and interact with the machinery they are connected to. Extremely dangerous, they move suprisingly fast and with a cool calculated step will just as easily rip the spine out of someone as they would open and harvest a nearby ship for biomatter. 
+**Behavior**
 
-### Vox Dispute
+*Primalis*
+Vox are greedy and cowardly creatures with a non-interest in all things non-Vox. For a Vox, morals, guidelines, rules, and honor do not matter when dealing with a non-Vox as only Vox matters matter and only Vox matter.
+There are times when a Vox puts forth an olive branch and allows a respected non-Vox to be protected by the same unwritten rules as they are, but this only happens when the Vox doesn't see any advantage in not doing so.
 
-*“Meat versus meat. Metal versus metal. Strongest wins. Strongest leads.”*
+For instance, a Vox never willingly surrenders to a non-Vox, unless absolutely necessary for survival. Or if they think surrendering puts them into a better position for escape or some sort of gain. But if at all possible, they'd simply prefer to just ignore non-Vox, running away from their presence and avoiding fights with them. They have no interest in them, outside of their things.
 
-The Vox hierarchy can be explained in one simple sentence: Strongest on top, weakest on bottom. Vox determine rank by challenge. When a Vox thinks themselves better than another Vox, they challenge them to a Dispute. A Dispute can be anything, as long as it has a victor. Brawls, insults, drinking contests, the Dispute is decided by the Vox being challenged and determined ‘fair’ by either their opponent or other Vox nearby. Time is given to both participants to prepare, usually a few minutes though in particularly extreme cases up to a month. During a Dispute the Vox’s crew or whomever is nearby must form a circle around the participants and help judge its outcome.
+But to a fellow Vox the rules become different. Vox enjoy challenging one another to fights, be it physical or mental, and use it as a means to judge their place on the hierarchal ladder. It is unheard of for a Vox to kill another Vox, and those that do, either accidently or purposly, are usually forced into becoming a Pariah: a fate even worse than death.
+They form bonds similar to a family structure, the cleverest or strongest at the top being the Quill, with the second in command being a similary respected second-Quill. These bonds are usually born from "adoption", when a Vox becomes born whose stack is known for a certain talent or work, a family that wants or needs said talent might "adopt" said Vox into their ranks and teach, or pay for teachings, in said talent. Families are usually 2 to 10 Vox, any larger and the family might break apart due to being unsubstainable or disorganization.
+Families form ties with other families, trading goods and services. If the families become truely successful and large enough, they may attempt to split off from the arkship or station they are on to make their own station, though this only happens if the groups in question do not believe they are needed, or do not have enough sway where they are.
 
-The cultural impact of the Dispute causes most Vox leaders to be very extreme in one way or another. Either extremely brutish, clever, fast, or having an extreme of one skill or another. The existence of the Dispute has also kept the Vox together, turning near-violent arguments between factions into either a joining of the two, or giving some sort of peace.
+Vox enjoy hiding and trapping. They will avoid any direct combat unless its necessary or if they believe they cannot lose donig it. Under no circumstances will a Vox sacrifice themselves for a non-Vox, their stack is too important and too valuable.
 
-### Vox War
+Vox greed comes from their intense loyalty to their species and their survival, mainly manifesting itself in overconsumption and stealing non-Vox items. Stealing from a fellow Vox is unheard of and is the easiest ticket to getting Pariah'd by an Apex, instead Vox prefer to trade, seeing trade as an excellent way of creating bonds and ties with other Vox, and while they do trade with non-Vox it is usually to rid themselves of something that they understand has value to non-Vox, like thalers, broken or otherwise poor quality items, and scrap. Their card and board games truely highlight their tendencies, often designed so that the one with the most cards loses, or the one with the most pieces, and as a result are very challenging to a Vox, though non-Vox typically play them with ease.
 
-*“A Vox prepared for war cautious. Vox that fight war stupid.”*
+Vox are very aggressive in their youth, constantly fighting within one another and challenging those around them, and as a result a fair bit of them become raiders, joining roving bands of pirates or scavengers and seek fortune for their family. The ones that don't become raiders bide their time, honing their craft, and gaining a foothold in the family, so that the sudden return of their now older raider siblings does not displace them heavily on the hierarchal ladder via whatever fortune they've gained. The raiders, after settling down, either become teachers or return to whatever craft they performed before.
 
-Vox are cowards, but greedy. War for most Vox is the last straw, the last avenue of approach, but it is still an option. Death, destruction, and murder are both scary and risky, two things Vox do not enjoy. However, war is occasionally necessary and a Vox faction not prepared for war is one that's unprepared for survival.
+*Apex*
+The Apex are giant computers made equally of flesh and metal, they act as the caretakers of the Vox species, maintaining the bluespace connections the Auralis hold as well as selecting cortical stacks for each crop of Vox. They do not speak, instead letting their actions dictate their words as they move from place to place, either directing Vox towards something or doing it themselves. They do somehow communicate with both the Auralis and the Armalis, and some can be seen 'speaking' to them though no words are exchanged.
 
-Vox warfare is one part planning, one part action and two parts image. A faction will get together their most powerful leaders and figure out the best course of action (with much debate, argument, and rattling of quills) A war against non-Vox is quite simple, since Disputes can’t be made against them, leaving the two most popular options, trade and raiding. Trading with non-Vox isn’t unheard of and easily profitable, however non-Vox often want silly nonsensical things (like clothing, oxygen, etc) that most Vox do not carry on hand. Raiding is dangerous but doesn’t require Vox to gather nonsensical items, and if the Vox are sneaky and skilled enough the chances of them being confronted are miniscule at best.
+They also act as the ultimate dispensers of justice for the Vox, somehow knowing about a Vox's dubious actions and dealing the only punishment they know: ripping of the stack. This does not always end in Pariah-hood, for the stack at least. Sometimes the Apex destroy them, sometimes they do not, there is neither pattern or reasoning to it, at least to the onlookers and the ones keeping score.
 
-Fighting other Vox is a whole different story as Disputes and the Law has to be taken into account. Warring against other Vox is a tricky business, it can make you seem violent and untrustworthy, other factions might decide to break contact with you or worse, group together to fight you if they deem you a threat, add onto this the cowardly nature of most Vox it makes inter-Vox battles very rare.
+The Apex do not normally deal with matters outside of the ship, instead letting the Armalis, their personal stock, to deal with problems. However if an Apex decides that something needs their immediate addressing they will not hesitate to leave the arkship they are on and deal with it.
 
-The most common method of ‘fighting’ Vox is to win a Dispute with a high ranking member of the opposing faction, one with enough clout to convince the enemy faction’s Vox to leave, preferably for their own faction and either keep doing this until the other faction dissolves or becomes a non-issue. The strategy behind this is simple, find a loyal Vox who is skilled enough at whatever challenge the opposing Vox might throw at them. Asking around about the target faction, figuring out their interests and skills, finding out what possible Disputes they could win by cross referencing what skills their faction’s Vox have and what the opposing has, as well as figuring out what the opposing faction might attempt to use as a challenge to blindside the attackers. It's a constant flow of information that only the most competent and clever Vox use to their advantage.
+Death even happens to an Apex, usually from decay or the occassional accident, but their means of reproduction is unknown even to Vox. One dies one day and the next another, smaller Apex takes its place. They do not appear to change, each sharing a singular silent personality.
 
-Defending against a Dispute is much easier, as it is a defenders game. A Vox prepares for two things: An impromptu challenge, of which they will probably easily win, and a prepared one, which the Vox needs to think on their feet for. A planned challenge is easy to spot, usually an unfamiliar Vox, perhaps flanked by two equally unrecognizable Vox, challenging them with more confidence than usually seen. The defending Vox has to make a decision: set the challenge to something they are familiar, and good at, and bank on their skill being better than the others, or think of a new challenge that would catch the other Vox off guard. What if the Vox counted on that and chose someone who was good at their second choice? Their third? In a matter of seconds the Vox has to choose the challenge, or seem cowardly.
+*Armalis*
+Also known as the Apex's personal stock, the Armalis are a group of Vox breeded for specific yet varying purposes, their genomes crafted specially for whatever the Apex needs. For instance, if an Apex has need of an engineer for fixing things in small places and there are no current Vox that fit that bill, it will instead breed a small, agile yet clever Armalis.
+The Armalis speak, though they are typically silent and tend to ignore other types of Vox. They are known for 'speaking' with Apex and generally live near or around the Grove with other Armalis. They share a similar looking stack to that of a Primalis, which may indicate they were once one or have similar behaviors.
 
-Another more upfront and aggressive method is to raid them. Vox are cowards, and a simple show of force, be it aggressively pointing guns at them, circling their encampment with their ships, or screaming a battle cry at them, driving Vox off of whatever they want can be a simple endeavor. Sneaking onboard, capturing guards and stealing shiny valuable things, is also common, often times valuables are ‘ping ponged’ between factions as they raid each other until the original owner is forgotten.
+Besides being easily created tools for the Apex, the Armalis are also known for cortical stack retrieval. When a Vox dies in the field and their stack was not retrieved, an Apex might send a team of Armalis after it. First a scout team is sent to figure out the location of the stack, and then a Apex selected group of specialists closely follows.
+The Armalis cortical stack retrieval rate is roughly 60%. The other 40% are usually traded for eventually or otherwise destroyed. As a result they are highly thought of and are considered respectable, if not the most respectable, type of Vox.
 
-But when push comes to shove, when a mix of desperation and anger comes to a climax, occasionally Vox will attack each other with the intent of murdering each other. As with accordance with Vox Law, this is made public (and as a side effect, could scare the opposing faction into giving into their demands) and then, war.
+*Auralis*
+The Auralis are the 'true' Vox, their main jobs being research, experimentation, and leading the Vox to a better tommorrow. Auralis's cortical stacks are much larger than a Primalis's though they share the same general shape.
+Auralis's personalities can be described as transcendant, their minds being on some higher level that makes thinking about normal, physical things very hard. They tend to be irratic and could be labeled as insane. Their connection with the Bluespace network allows them to think and process information faster than normal, and gives them an unnatural awareness of the things going on around them for hundreds, if not thousands of kilometers.
+They treat the Apex like butlers, making demands and holding 'conversations' with them, they ignore the Armalis and Primalis, though occasionally they will attempt to communicate 'on the level' with the others, without much success.
 
-### Vox Law
+They do not really have much interest in the physical world, their clothing is typically a long comfortable robe and they eat food processed for them by the Apex, typically high nutritional pastes and liquids. They do not leave the grove unless something catches their interest, be it a certain Vox or a certain item they sense has made its way to the arkship they call home. They rarely leave the arkship itself, sometimes to move to another nearby arkship and sometimes to visit a place nearby that they find interesting.	When they do leave an arkship they are closely followed by a mass of Primalis and Armalis, either selected by an Apex or from the desire of said Vox.
 
-*“All Vox have rules. You know what Vox no have rules? Rolling Fire. Wake up with head off. You follow rule or end up like Rolling, I promise.”*
+**Language**
+The Vox language, commonly referred to as 'Vox Pidgin', uses mainly the Glotal and Velar sounds, with a large emphasis on the Plosive group, alongside the frontal vowels and their general loud speaking voice, makes a noisy and irritating language to the ears of those around them. Vox do not seem to mind, quite interestingly they see other languages as being similary annoying and noisy, having too many words and sounds.
 
-It is said that before the war, there was once a universal Vox law that when broken would curse a Vox to a life of pain and torture, and that any Vox caught cursed would be forgotten forever. Many Vox factions have attempted to rekindle this old legend into a new set of universal Vox laws, however many can’t agree on laws like “all vox answer to The Grey Quills” or “no kill other vox”. But as time went on, a few unofficial rules have taken permanent residence, their punishment varying between factions though typically it involves them being removed from protection of said laws, a punishment that can be considered worse than death.
-The rules are as followed:
+Vox interest in non-Vox is minimal, and as a result most have a loose grasp on Galactic Common, though this is not always the case. Many Vox traders know Common extremely well, but feint their stupidity in an attempt to get people to misjudge them or simply because they feel speaking it perfectly is insulting.
 
-* Do not destroy cortical stacks, if possible. They cannot be replaced.
-* Vox trading is honorable and without deception.
-* A Vox dispute must be made clear. No surprise challenges.
-* No assassinations. Death must be clear.
+**Relationships With Other Species**
+The Vox do not care for non-Vox, and vise versa. Coupled with their attempts at raiding unarmed stations and ships and the usual policies of shoot on sight enacted against their ships, they do not visit other core systems, instead making due with scavenging and raiding stations and ships in the backwater systems, preferably abandoned ones. They will avoid well armed settlements, instead attempting to send traders to either gather information or at least trade for something good.
 
-Of course, these do not apply to non-Vox.
+*Stupid Monkeys*
+Vox don't like Humans. They are both dust-breathers AND treeless, and they talk funny. They do have many settlements and quite a few of the seedier ones are open to trading with them, which is nice, but even then some are known to harbor Pariahs, the worst possible crime.
 
-### Arkships
+*Squid Things*
+Vox are wary of Skrell. They've been around a long time, similarly to the Vox, but they are not as easily subdued as the nearly equally aged Resomi. They are also slimey and dust-breathers. They don't know if they have trees or not, but they probably are treeless as well.
 
-*“Home. It is where we from. Now is dead.”*
+*Tree Men*
+Diona are the only decent alien species. Their young make excellent snacks and they are easy to steal from. They are also trees, which makes them not treeless. They also don't breathe, so they can't be dust-breathers. They are slow though. Like rocks.
 
-Known Arkships, or what is left of them, are highly disputed areas, constantly exchanging hands as more and more blood is spilled for them. They are a constant source of knowledge and materials, though their insides can be extremely deadly. More than one Vox has gotten lost in their winding and twisting corridors, more than one has set off a security system planted by their old masters and paid the price. But still, more and more Vox go in, the artifacts within promising them honor, respect, and fame amongst their peers.
+*Stupid Lizards*
+Unathi are scary. They always want to fight. Vox try to stay away from Unathi unless they know they can subdue them. They are also dust-breathers, as well as tree-less. They also have rotten scales.
 
-There are three known Arkships, one of which is wholly intact, the other two having been destroyed into smaller pieces. The intact Arkship is referred to as Cracked Whole, due to its shell being somewhat fractured yet it is still entirely intact. The two broken Arkships are referred to as Shit Thing and Other Shit Thing respectively, with specific pieces named by size and shape (Big Shit Thing, Little But Not Too Little Other Shit Thing, Round Shit Thing, etc)
+*Hairy Things*
+The Vox have not met a lot of Tajara on their own. They are usually with other species, so that means they are probably tree-less and dust-breathers. Or at least associate with them. Their fur is disgusting and gross.
 
+*Shitty Birds*
+Vox do not like Resomi. When they first met them they thought they were going to be easy picking, their weak and fragile bodies easily threatened if they were cornered. But then the Resomi started killing them and their ships on sight. A shame, they were said to be entirely edible, not just their insides.
 
-### Vox Legends
+*Giant Bugs*
+Their drones provide good scrap, but then more come after you destroy one so it is very dangerous. Vox stay away from their planets and their systems. Their drones are not easy snatch and grabs.
 
-* Apik - The Apik were large Vox, bigger than an entire ship, with many hands and arms. They were the caretakers of the Vox and created them in big gardens.
-* Aralis - The truest of Vox. They were smart and extremely powerful, their cortical stacks allowed them to see into the future. Practical gods.
-* Amalis - The most powerful of Vox, from which all current Vox were made. They were the size of five Vox stacked ontop of each other and could swipe down a mountain in one blow.
+*Metal Men*
+Vox have no knowledge or interest in the Positronic Union. They do not regard IPCs as actual beings, only as walking and talking piles of metal. Any IPC seen by a Vox is seen as just another robot and a tempting thing to steal.
 
-### Factions/Groups
+**How Other Species See Vox**
+Most species see the Vox as a loosely organized civilization of pirates and scavangers, with no real home or goal to begin with. They do not know how they reproduce (though many believe them to reproduce via eggs, and will believe them to have genders) or where they come from. They are seen as stupid, dumb pests with a greed streak.
 
-#### Blue Talons
+Organizations that do take a magnifying glass to the Vox species often time find themselves disbanded from disaster. Whether this is an intentional act from the Vox species, or pure bad luck, is unknown. No one has figured it out, or those that have are not saying anything.
 
-*“Blood blood blood. All Vox want now. So is give to em”*
+**Technology**
 
-One of the oldest factions, having existed for over 500 years, probably due to their policy of destroying entire crews for slights against them. They are the most vicious and mean of the Vox, taking resources through force and violence. The Talons live near the pieces of Shit Thing, not on it but near it. They make a habit of letting others take Shit Thing and waiting for one faction to gain complete control of it so that they can slaughter them, either for resources or sport.
+Vox technology is both extremely advanced and extremely stagnant, as it has been the way, with small modifications, as it always has been for thousands of years. In fact much of their advanced technology is antique: they have no means or knowledge of reproducing them, only maintaining them. Passed down from generation to generation, their stock of advanced weapontry, armor, and other similar technology is carefully managed to last them forever.
 
-Those born from the Talons have ragged and infected talons, gained from a genetic modification that was supposed to make them stronger (it doesn’t). The Talons kept it as it made for good intimidation, though it does pain the Vox inflicted by it. The Talons wear only one tattoo, their faction symbol, on the front of their chests. When a Talon gets into a Dispute or fight they bear their chest and bear their talons in an attempt to intimidate them by faction alone. Talon halves are notoriously belligerent and violent, raised as pure cannon fodder to weaken their enemy.
+Their greatest achievement is perhaps the bluespace network, a way of storing and transfering data through bluespace. Its primary uses are communicating between Arkships and storing the vast memories and minds of the Auralis. How exactly it works is kept a secret, or perhaps it is just unexplainable to the majority of Vox, its true inner workings only known by the Auralis who use it and the Apex that maintain it.
 
-The Talons number around 10 to 15 thousand, made up of approximately 75% halves and 25% wholes. They number at roughly 25% food-makers, 10% metal-shapers, 5% quills, and 60% warriors. They subside primarily on grown fungus and raided foodstuffs. They prefer frontal armor plates alongside helmets, even over weaponry. Their main weapons are their ships large spike throwers alongside any weapons they’ve raided.
+The Vox take great pride in the way they blur the lines between biological and mechanical, truely their bodies and their minds are made to use and maintain their robotic limbs as much as the limbs are made to be used by the body. Cyber limbs and organs are one of the few things Vox take pride in being able to manifacture, and as a result many opt to replace much of their internal structure with that of metal.
 
-#### Circle of Metals
-*“All things have cost.”*
+Much of their technology is both biological and mechanical in fact, their armor made from a mixture of metal plates and grown chitin, their weapons both meat and electronic parts, it makes maintaining them as much repair as it is nursing. Replacing broken eletronics as well as patching up wounds and injecting nutrition pastes to help with healing.
 
-The Circle of Metals is a collection of small Vox factions united through one thing: commerse.
+Their most treasured, and harbored technology would happen to be the irreplacable and valuable cortical stacks. Cortical stacks are what make Vox, Vox. They hold the memories and knowledge of past Vox, giving a sense of belonging and loyalty to the Arkships that they would not have without. They also control much of the Vox's internal organs and systems, regulating and making them run efficiently.
 
-#### The Dirt
+**Raiders**
+Raiding has been a recent but enjoyed addition to Vox society. With the sudden appearance of new advanced species in the universe, it meant Vox would no longer have to create many of the things they needed. Instead they could make due by stealing/scavanging these things from others. Vox society, for once, florished as many of their long standing problems and non-working equipment was replaced by newly crafted and well working goods. This lasted for a few years until said species got wiser to their tricks and their bounty dwindled from a river to a trickle. But with trading and the odd raid/scavenged station, they still grow to new heights every year.
 
-*“We is dirt. Always been, always be.”*
+Raiders themselves are typically younger Vox, ranging from 5 to 15 years old, that wish to abandon their craft for a chance at making the big time and bring home loot and goods to skyrocket their standing amongst other Vox. All Vox start at the bottom, and like any other profession, only gain rank by challenging higher ranking Vox, and winning.
 
-Dirt is not a faction, it's an idea. The idea that Vox are inherently dirt, and all that they’ve ever done is ruin themselves through greed, violence, and stupidity. That they are only worth as much as dirt. Members of ‘The Dirt’ are both rare and disorganized, they have no base of operation or any known gene-line.
+Raiding is a mostly uneventful life, lots of waiting around for a vulnerable ship to raid or a nearby disaster to take advantage of. Most raiders make it out alive and well, though casualties do happen their stacks are almost always retrieved and as a result are not seen as casualties.
 
-Typically new Dirt members are recruited from other groups, single Vox selected by a member to be taught the ways of Dirt. These teachings can last from a few months to a few years until the teacher Vox is satisfied the recruit is knowledgeable enough. When the teacher is done, the student is given the name, “Dirt” as a symbol of their newfound ‘enlightenment’. It is then they split ways, probably to never see each other again.
+The dream of all Vox raiders is to one become the Quill of a raiding party and two to attach a new ship or device to the Arkship's shroud, indicating their vast wealth and raiding ability. Vox that end up doing this are usually set for life, their ranking becoming unquestionable and low ranking Vox coming to them to hopefully learn and skyrocket off of their success.
 
-Dirt members are typically quiet and introspective. They are as greedy as other Vox, however they, through their teachings, have learned to control that aspect of themselves. Dirt members are almost always wholes, though the rare half member comes about. They are all wanderers, going from Vox settlement to settlement, staying only as long as they can be tolerated by the local faction, some even traveling to non-Vox stations, though this is rare as a Dirt’s lifespan is usual cut quite short.
+**Arkships**
+The exact number of Arkships is unknown, though there are no more than a hundred. An Arkship is the main vessel, the main home of the Vox. From which all Vox are born and breed, from which the Auralis make their home and living. The Arkship comes in two parts, the Grove and the Shroud. The Grove is a oval like module in the center of the Arkship that holds the many bio-pools and breeding pits that from which all Vox spawn. It is here that the Armalis, Apex and Auralis make their homes. Most of the ancient and advanced technology is stored here, lended out to the Vox that need it, but always making their way back.
 
-Dirts are usually equipped with shoddily made weapons and armor, either given to them by their teacher or scrounged up on their own. They typically refuse grander trinkets and clothing for two reasons: 1. They are taught it is greedy and 2. They do not want to attract the eye of local Vox, most of which would be glad to shake them down for it, or worse.
+The Shroud is the twisting tunnels and alcoves that make up the Primalis's homes. Made from the offerings of the various raiding parties, the exact nature of the bits and pieces of it vary, they can be ships stolen, large twisted pieces of metal, or perhaps verious items in need, like solar arrays or generators. Whatever they are, the Primalis make their homes, businesses and live their lives here. Maintaining them for the future and modifying them to fit new pieces brought in by Quills.
 
-#### Other Factions
+The Arkships are mobile, though very slow. They have no exterior engines, outside of the ones brought to them from raiding parties, and rely on the Auralis and Apex's super-awareness of incoming vessels and drones to escape detection. They tend to sit two to three jumps away from any inhabited system. Far enough away to escape detection but close enough for raiding parties to come and go as they please.
 
-Each Vox faction is different, as all Vox factions come about from disagreements. One Vox wants one thing, another wants another, yet 
+**Stations**
+The Arkships are not the only Vox settlements. Powerful familes and factions see the Arkships as crowded and unruly. they assets are unprotected and hard to manage, and so when they decide they are big enough, or powerful enough, they will attempt to forge their own settlement, made similarly to that of the Shroud: bits and pieces of scavenged ships and stations welded together to make a working eyesore.
 
+These stations lifespans are fickle, many factions misjudge their sway and break away from the Arkships too soon, causing them to collapse in the matter of days. Other factions, powerful as can be, maintain their stations and use them to gain even more goods and services, piloting or creating them in neutral or outerrim systems so that they can trade with Humans/Skrell/Etc. Others are placed in asteroids, ones to be mined out until the station is dislodged and piloted to a new place.
 
+The exact amount of stations is unclear, however they number in the thousands and increase/decrease every single day. Not every decrease is the destruction of a station however, some factions come to an agreement, and a 'joining of the stations' ceremony occures, where the two stations are broken up and reformed into a big, mega station.
+
+Vox stations are typically self sufficient, containing hydroponic gardens, large gas stores, or similar access to such items. They typically house a hundred to three hundred Vox total, though the largest one holds up to three thousand Vox at once.
+
+**Pariah**
+Being a Pariah is considered worse than death, for a Vox. Becoming one is a sudden and violent act, an Apex judges the Vox to being malfunctioned and takes one of its many limbs and pierces the back of the Vox's skull in one fast movement. The stack is then twisted, to remove the various connections into the meat, and removed. The body is then left there to rot or be thrown away by nearby Vox. This kills the Vox, usually. Though some survive, uncoscious and bleeding, these are usually either killed quickly by a pitying Vox, or dumped outside into the void, their body looted save their 'unpure' gas tank and the clothes on their body.
+
+But Pariahs that make it outside of the Arkship have a good chance at living. Jettesoned at super sonic speed into the void, their bodies quickly go into statis, preserved against the ravages of space, and time, until they hit something, or someone, and are 'rescued'.
+
+A lot of the Pariahs that hit something hit a sun, or a deserted planet. But some eventually make it into charted space and are easily picked up from their heat signatures. These Pariahs are quickly bandaged and given the wonders of modern medicine, and then sold for a couple hundred bucks to an interested party.
+
+These interested parties are usually mining companies, or companies that want cheap, dumb labor. Occassionally they are picked up by seedier organizations, mercenaries that appreciate the combat-ready body of a Primalis, people that want a loyal, but dumb, slave.
+
+The Pariah's personality depends on how it was trained, mostly. They can range from docile to derranged, and all in between. Most Vox, the ones picked for mining and working in companies, are 'socialized' to other Vox. The common Pariah has an intense, innate fear of Vox and that extends to other Pariah. But they will be forced to stay in contact with an already socialized Pariah until they get over such fears. This makes the dumber Pariah easier targets for regular Vox that think them ill will, but the companies do not seem to care, or mind.
+
+All Vox hate Pariahs. They see them as disgusting garbage, not even worth the air they breathe, and should be killed as soon as possible. Killing Pariahs is not considered bad, and is actually considered a gift to the Pariahs, though even then torturing Pariahs is common amongst Vox, a way of 'trading' with the Pariah, releasing their hate in return for killing the Pariah.
+
+Pariahs remarkably last about as long as regular Vox, 30 to 50 years. Though this says more about how Vox take care of themselves then it does for the Pariah's body. As a Vox becomes Pariah-ized, it begins to decay. its scales turn greyer and harden, no longer able to be loosened or moved like a regular Vox could. This causes their body temperature to be abnormally high, and they tend to be sicker because of it. Their brain remnants also begin to rot, producing the unique Pariah stink that can be easily identified in the next room over.
+
+*Half-Mind*
+Half-Minds are the product of the unfortunate circumstance of an Apex forgetting to put a stack into a Vox. This happens rarely, though is more frequent during large 'batches' of Vox, but it does happen. These Vox are typically paranoid and reclusive, a product of having to hide the truth from other Vox in fear of getting killed.
+
+While they are typically of clearer minds than Pariahs, their bodies do start to stink and decay as they grow older. Most do not survive to their 10th year, due to being found out. Those that do usually flee the Arkship and all Vox settlements to do so.
