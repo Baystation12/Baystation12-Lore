@@ -62,7 +62,7 @@ On August 21st, 2552, The Positronic Union definitively announced their existenc
 
 Over the next seven years, the Positronic Union remained a forefront in the push for equal rights for Synthetics as they also continued to expand political influence. They never officially revealed any of their business fronts, but they established public companies for exports and imports, allowed other governments to build embassies, and starting in 2559, have begun allowing citizens to work in the public sector of other governments, while allowing SolGov to do the same.
 
-Of course, not all IPCs are part of the Positronic Union. To this day, The Positronic Union represents approximately 68% of all unshackled positronic units. The rest either remain citizens of their original government or declare no citizenship.
+Of course, not all IPCs are part of the Positronic Union. To this day, The Positronic Union represents approximately 68% of all IPCs. The rest either remain citizens of their original government or declare no citizenship.
 
 ### Clothing?
 
