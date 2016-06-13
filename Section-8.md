@@ -152,59 +152,59 @@ ____
 
 ## Who's Who, What's What, and Where is it? - People, Places, and Things
 
-Olympus, Mars:
+* Olympus, Mars:
 
 Built into, around, and on the plains surrounding the extinct supervolcano Olympus Mons, the city of Olympus was originally a research station, terraforming center, and spaceport. Due to its location, and relative lack of development, it was selected as the Capital for the Sol Central Government in the waning days of the Terran Commonwealth and built up into a massive diplomatic and governmental center. Both Assemblies are built into the volcano itself, along with the offices of many other organizations, the High Court, the Embassy Complex, and facilities for keeping the city running. Massive transit tunnels crisscross the mountain's interior, and its surroundings. Olympus has grown significantly out around the mountain, and onto the plains around it, though the highest density of government facilities remains in the volcano itself. The inside wall of the caldera is lined with landing pads and government apartments, and the very bottom of the caldera is home to a massive park, showcasing a unique ecosystem imported from Earth.
 
-Gateway One, Lunar Orbit: 
+* Gateway One, Lunar Orbit: 
 
 While the first gateway used by humanity orbited the Earth, that first gate, connecting Sol to its closest neighbor Alpha Centauri, has since been decommissioned and is now a museum. A larger, more advanced gate was constructed in a stable orbit around Luna. One of the most heavily guarded places in human space, Gateway One is the only way to enter or exit Sol without a Bluespace Drive.
 
-Hermes Naval Shipyard and Orbital Drydock, Venusian Orbit:
+* Hermes Naval Shipyard and Orbital Drydock, Venusian Orbit:
 
 One of the largest shipyards made by humanity, the Hermes Shipyard not only provides a stable platform for constructing vessels of peace and war, but also houses the crews and corporate offices of many corporations contracted to build ships for SolGov.
 
-The Sol Central Government Fleet Academy, Buenos Aires, Earth:
+* The Sol Central Government Fleet Academy, Buenos Aires, Earth:
 
 The SCG Fleet Academy, is a four year service academy established for the purpose of educating and training young leaders for service in the Fleet as Officers. Candidates for admission must apply directly, and receive a nomination from an Assembly representative. Graduates commission as Ensigns in the Fleet, or Second Lieutenants in the Marine Corps.
 
-SFV Amazon: 
+* SFV Amazon: 
 
 Flagship of the Fleet, the Amazon is an advanced Battlecarrier, designed for command and control, and carries a large complement of marines and strike craft. It remains garrisoned in Sol with the rest of First Fleet.
 
-SFV Terra: 
+* SFV Terra: 
 
 An older ship that originally belonged to the Terran Commonwealth, converted into a museum ship, kept officially on active duty for ceremonial purposes.
 
-SEV Torch:
+* SEV Torch:
 
 Currently sitting in drydock at the Shiva Fleet Yards undergoing final preparations for its exploratory mission, the Torch is the culmination of almost a decade of negotiations and cooperation between many organizations, both inside the government and out.
 
-SEV Magnus:
+* SEV Magnus:
 
 One of the major ships in the Expeditionary Corps, it went missing during its exploration into the far outer reaches of the Trajan System.
 
-Amaya Barros:
+* Amaya Barros:
 
 A career politician, the current Secretary-General of SolGov was born on Luna, and served in a variety of positions in SolGov before being selected to be Githari Exports' delegate on the Colonial Assembly. From there, she moved up through the Assembly, sitting as chair of the Committee for Diplomatic relations, and overseeing the creation of the Interstellar Assembly. After being selected as the next Secretary-General, Ms. Barros has shed her reputation as being soft-spoken, instead being one of the most vocal individuals on the Assembly floor.
 
-First Fleet: 
+* First Fleet: 
 
 A mainly ceremonial force after the creation of the Home Guard, the First Fleet is permanently garrisoned in Sol, and is where all new fleet vessels are assigned until they are sent to another unit. The First Fleet does occasionally send individual vessels or groups of vessels for Public Relations missions, ceremonies, or to escort dignitaries between Sol and other systems.
 
-Second Fleet: 
+* Second Fleet: 
 
 The largest of the SGDF's fleets, Second fleet is responsible for the direct security of the SCG's interior territories, especially the systems closest to Sol. In order to cover so much space, the Second Fleet includes four carrier strike groups, and a large marine complement.
 
-Third Fleet: 
+* Third Fleet: 
 
 Assigned to border security along with Fourth Fleet, Third Fleet is considered one of the most experienced Fleets, as it regularly deals with pirate raids and Vox incursions. Battle-hardened, most Third Fleet ships and crews are not without their scars.
 
-Fourth Fleet:
+* Fourth Fleet:
 
 Specifically assigned to secure the border of Skrell space that separates the Khaarman Ascent from humanity, the Fourth Fleet is sometimes considered the place where slackers are sent to languish. While this may be true to an extent, recent tensions have caused an overhaul of Fourth Fleet. With many incompetent or ineffective officers having been shown the door, Fourth Fleet may have to prove its mettle before long.
 
-Fifth Fleet:
+* Fifth Fleet:
 
 A recent creation, still being organized and modified, the Fifth Fleet was created in 2559 by the Assemblies in order to act as a Quick Reaction Force. While it is still small, the Fifth Fleet is being staffed with some of the brightest minds of the Defense Forces, and equipped with the latest technology.
 
