@@ -2,93 +2,59 @@
 
 ## An Overview
 
-The Resomi {Re-zoh-mee} are a race of feathered raptors who developed on the cold world tundra world Sirisai, which orbits around the star A’neech.The Resomi evolved from a primitive pack hunting species. Their society is built around unity and strong familial and social ties; a lone Resomi is not capable of functioning well for long. Their Society is that of a despotic oligarchy, which maintains strong border control and isolation from the outside galaxy.
+The Resomi are a species of (quite small) feathered reptiles from a barren and freezing planet on the far spinward side of Skrellian territory from Sol. Their society is built around unity and strong familial and social ties; a lone Resomi is not capable of functioning well for long, and will rapidly fall into loneliness and paranoia. Despite, or perhaps because of, their small stature, the Resomi wrought a multi-system-spanning empire when humanity was building pyramids, achieving great feats of engineering, mechanics and material fabrication. At their height, the unified empire bent vast amounts of matter into shape around their home stars to build machines that harnessed staggering quantities of power, supplying a true utopia for the Resomi people.
 
-### Physiology
+This, however, has proven unsustainable, and without the driving forces of innovation, social entropy, or a drive to escape death, the Resomi empire has fallen from its peak, with outlying systems splintering away as the ruling government, bolstered by life-extending technology, has fallen into self-contemplation and corruption. While the Resomi are still a powerful inter-system trading force, responsible for supplying medical and materials technology (far outstripping a lot of what humans can offer) to the general market, they are not the industrial and military juggernaut they were five hundred years ago, and often must rely on applying force to the commercial markets to try and press their political claims.
 
-The Resomi are a species of (quite small) feathered reptiles rarely exceeding more than 3-4'/1.5m in height, and weigh no more than than 90lbs/40kg, boasting two pairs of long, rigid ears with a thin, intricate bone used to achieve their nearly-magical hearing and three fingers to their hands. They also boast long prehensile tails that help them balance while moving.
+### Technology
 
-Resomi are a binary gender species, which have a couple major physical differences between the male and female counterparts. The largest visible difference their feather color pattern. Males tend to have larger and more vibrant feathers while females tend to have finer feathers with more muted tones. Females also tend to have larger ears than males, while males tend to have larger general body sizes than their female counterparts.
+In many ways, Resomi are equivalent in technology to the Skrell or humanity (thanks to the scale-evening effect of an unregulated interstellar trading economy), especially in fields like FTL and shipbuilding. Resomi spacecraft tend to be quite small and robust, with efficient and heavily optimized sytems, but differ from human and Skrell craft most significantly in their approach to automation. Employing learning artificially intelligent systems in any capacity on a Resomi vessel (or in a Resomi dwelling) is one of the most severe crimes under imperial law; it's considered a denigration of the worth of your fellows, a rejection of the unity of Resomi culture, and an extremely dangerous step away from the traits that bore the Resomi to interstellar eminence. Strong AI is particularly banned when dealing with the golden age imperial technology like the Dyson rings due to the potential for immense damage if a malfunction occurs.
 
-Resomi evolved for a very cold and very barren world, just barely outside of the Goldilocks zone and unfit for life as humanity understands it. As a result their skin is an exceptional insulator and they possess a rapid metabolism. Many of their internal regulatory processes are not energy-efficient and produce immense amounts of heat; because of this, they cannot cope well with temperatures beyond freezing. Their eyes are not well adapted for conditions on human stations, as they evolved as pack hunters in near-constant darkness, the amount of light can be overbearing to them and often find themselves unable to tell a person or a giant spider apart from each other, until very close.
+Nanotechnology and nanoswarms/nanofields are a field of particular interest to the Resomi in the modern age, as it is becoming apparent that a better understanding of these devices will allow for much easier maintenance requirements on the Dyson rings, as well as a wide range of applications in day to day life or when travelling amongst foreign cultures. Many Resomi will be equipped with adaptive nanomachines slaved to a control implant in their owner's spine rather than a voidsuit or pressurized exoskeleton; they make up for in flexibility and self-repair capacity what they lack in armour and size. This technology tends to be rare outside of Resomi space due to the cost and manufacturing requirements of the control units, as well as the mind-writing technology needed to properly integrate the spinal control unit.
 
-Their hearing is exceptionally sensitive to the point that they can detect a person moving on the other side of a wall, but comes at the cost of being extremely vulnerable to sonic weaponry like flashbangs. This powerful hearing makes up for their lack of long-distance or high-accuracy eyesight, yelling by most species is uncomfortable; a Vox shrieking can be downright painful or perhaps, debilitating. The Resomi are entirely carnivorous due to their primitive biology. While they can consume plant matter, this will typically lead to indigestion and other stomach problems.
+'Skill shots' are a form of Resomi technology that is rarely found outside of core imperial systems. They use nanomachine injections to overwrite targeted sections of the recipient's brain with new data, which is claimed by their manufacturers to be used to quickly teach new skills to trainees. Darker rumours abound of the potential for this technology to be used for indoctrination, brainwashing, or to copy the minds of the dead onto a new 'host' body if immortality finally escapes them, and objective clinical data is available that shows potentially crippling neurological damage resulting from routine mind-writing. The technology is heavily restricted in Skrellian and human space where it isn't outright banned.
 
-### Psychology & The Pack
+### Physiology and Biology
 
-Resomi are predominantly pack creatures, which reflects heavily in their collectivist society. Resomi prefer living in large numbered domicilies, as a social grouping will typically contain up to 20 individuals across multiple packs living under one roof. Resomi are reliant on their social connections for their mental well being. It is not unheard of for members of their species to go insane after long durations with no contact.
+The Resomi are very small, rarely reaching more than 3-4'/1m in height, and weigh less than 90lbs/40kg. They have rapid metabolisms and very efficient digestive systems, and thanks to extensive genetic engineering conducted over their development as an interstellar power, they tend to have robust and effective immune systems and very few of the genetic disorders and maladies that plague contemporary humanity.
 
-In Resomi society, the pack hold a surprisingly small sway in day-to-day life and interaction with others. The pack is so biologically ingrained within the Resomii that it is as common as breathing, and as such they don't consider it common ground between each Resomii. Societally, the pack is considered for all intents and purposes to be one, each member of the pack representing the pack. Many would consider their pack-based origins to be a reason for the Resomii to work communally often, but their history of bickering says otherwise.
+They evolved for a very cold and very barren world, almost outside of the Goldilocks zone and unfit for life as humanity understands it. Because of this, their skin is a fine insulator and many of their internal processes are not particularly energy-efficient; they cannot cope well at all with high temperatures. Their eyes are poorly suited to ambient light levels on human stations, as they evolved as pack hunters in near-constant darkness.
 
-The truth is, the Resomi can agree with their pack extremely easily. However once you exit the pack and begin to enter out-of-pack contact, they are for all intents and purposes on the same level as humans. Every Resomii is individual and it shows, but every Resomii also represents the pack. Should one Resomi be hated by another Resomi, then the pack of the first Resomi is hated by the pack of the second Resomi. The pack is essentially the individual in the Empircal society, and this is one of the largest parts of their culture, present across a majority of their planets.
+Their hearing is exceptionally sensitive to the point that they can detect a person moving on the other side of a wall, but comes at the cost of being extremely vulnerable to sonic weaponry like flashbangs. This powerful hearing makes up for their lack of long-distance or high-accuracy eyesight.
 
-Packs generally consist of 4 to 6 Resomii, imprinted on each other at a young age. It is heard of for Resomii from the same origin pack to form their own pack with each other, but largely it is made up of a conglomeration of origins. This is one of the communal aspects of Resomii and it is in fact considered cruel in many places, most notably the core worlds, to separate a Resomi from a grouping of other young Resomii during the imprint phase.
-
-If they cannot imprint on someone, instead they will imprint on what they can. Whether this is a blanket, a favorite toy, or even a building, they will find something to consider their pack. However, they generally will not imprint with preexisting packs. As a result, across the Empire it is considered a necessity to gather the young Resomii together in large groupings to allow for imprints.
+The Resomi are omnivorous due to careful genetic manipulation early in their development as a stellar empire, but generally prefer to eat meat wherever possible.
 
 ### Lifecycle
 
-A breeding pair of Resomi, generally supported by their social grouping/pack, will lay a clutch of eggs and tend to them until they hatch. The average lifespan of a Resomi prior to any genetic interference is 60 years, though some of the oldest have been recorded to live up to 100 years.
-
-### Language
-
-Schechi {Schee-Shay} is a comparatively simple language that consists of various chrips, trills and squeaks that, to the untrained ear, often sound cacophonous. While it is entirely capable for Humans to speak Schechi, it oftens ends up being broken and "slurry", as the average human lacks the fine control in their vocal cords to accurately produce alot of the tones in a discernable fashion. Due to the mouth structure of Resomi, they have extreme difficulty producing sounds commonly heard in human based languages and galactic common. What they can speak is often high pitched and whistly with difficulties pronouncing consonants such as hard B's, F's, P's, Q's U's, and soft b's, f's, and i's. They also would have difficulty pronouncing consonant h sounds, (e.g. ech, th).
-
-Both their names and their language are based off of avoiding guttural sounds, such as uh, er, and eh. Instead, they use light trilling sounds, such as a, ee, and eh. For example, names of Resomi would be as such; Remi, Seemoni, Ritila, and Eschomi.
-
-## Background
-
-### History
-
-The Resomi empire currently exists as a despotic oligarchy. This wasn’t always the case however. In the prime days of the Resomi state, the government existed as a republic. The major change that lead to the current government was a malfunction in a large number of AI units in the year 2478.
-
-A number of AI units, including the master control unit of the Ministry of the Interior underwent a malfunction, causing the loss of the Empire’s vast databases and the destruction of critical infrastructure including vital communications services and grid systems.
-
-Initially the cause of the malfunction was not known, but it seemed to spread rapidly and effect AI systems all across Resomi space. In order to combat the spread of unlawed and potentially dangerous AI, the Resomi government declared martial law and conducted an empire-wide closure of all borders under heavy military control.
-
-Eventually, it was discovered that the synthetic malfunction was caused by a networked computer virus that had propagated its way through the Resomi empire’s interstellar network. In 2481, in order to help prevent the continued spread of the virus, the government initiated wartime declarations which mandated the shutdown of all major gate networks through Resomi space to public use and required all transportation to be through government sanctioned transport vessels that are kept disconnected from all external networks. In order to continue to propagate.
-
-Within a few months, however, the threat of the rogue synthetics rose to a new height when it was revealed that some of the synths had begun to act as a collective and perceived the Resomi empire as a threat. The synths had developed a system to take control of nanomachine swarms that were frequently used in Resomi space and began to turn them on their creators, leading to what is believed to be the only case of Nano plague in the galaxy. Nanomachines frequently found in the skill shots that were used by Resomi began to damage and consume their hosts from the inside in order to reproduce and spread.
-
-In response to the new inorganic threat posed by the Nano plague, the Resomi government began to institute more policy to fight back, leading to the destruction of nearly all nanomachine technology and the outlawing of skill shots and swarm based medical therapy. The Nano Plague resulted in the death of countless numbers of Resomi. On some planets, the entire population became infected and in order to safeguard the rest of the empire, would have to be electromagnetically sterilized to remove traces of the plague.
-
-Since 2481, the Resomi Military has been on constant patrol, attempting to locate synthetic controlled locations and destroying them. The Government has shifted more and more wartime powers into place, leading to the current status of the state today as a despotic oligarchy where attempting to escape the state can be severely punished. The Ministry of Defense has become one of the empire’s largest employers as the need to reinforce borders seems to become necessary more and more as Resomi make contact with foreign species. Resomi are seldom seen outside of the empire because of their isolation, and those that are seen are likely those that managed to slip through cracks in the empire’s controlled borders.
-
-While it’s largely believed that the Synthetic threat within its territories has been all but destroyed, the Empire continues to keep its citizens in check with state-controlled media. It’s frequently reported that other synth worlds may be found. The Empire continues to indoctrinate its people, leading to the culture of Resomi to be one of a collectivist society that views outsiders as threats and vehemently distrusts AI technology. It is after all, “the citizen's duty to not leave, for doing so could threaten the rest of the galaxy.”
-
-### Technology 
-
-Resomi technology has stagnated since the synthetic rebellion, but prior to this major event, the Resomi boasted technology that rivaled that of the skrell and even surpassed them in the field of micro-machining and medical sciences. One of the most impressive relics from before the plague was the creation of Nanomachines.
-
-The usage of Nanomachines drastically changed the course of Resomi history, allowing them to rapidly produce nearly any structure and expand their space to fill up enough star systems to rival even the largest stellar empires. Over time, Nanomachine technology was refined and began influencing the field of medicine, allowing for Nanomachine therapy, and eventually the ability to manipulate neurons in the brain through the usage of “skill shots”.
-
-As a result of extensive neural and nano-scale machinery research, Skill shots were first created in the year 2470. Skill shots are an injection capable of repathing neurons and injecting hormones to either increase the speed a Resomi learns on a current subject, or with some of the more experimental skill shots, give them the information in its entirety in one disorienting blow.
-
-The technology of skill shots, along with other forms of nanomachine technology, has been lost from time since the banning of all related technology during the nano plague crisis. The loss of nano-scale fabrication has resulted in a technology shock that has set back the entire empire decades in lost investments and technology, along will the unintended death of millions of Resomi as the empire was forced to find its new population stasis with the sudden and irreparable damage to its infrastructure.
+A breeding pair of Resomi, generally supported by their social grouping/pack, will lay a clutch of eggs and tend to them until they hatch.
+The parenthood of the resulting children is generally irrelevant; the entire pack is their family and protectors, although their blood parents may have a status similar to that of an favourite uncle or aunt in human culture.
+Depending on the culture of their society, Resomi children may enter the workforce as soon as they are old enough, be placed in education, or take up a vocation; they are as varied and complex as any human culture would be.
+Depending on the influence of the pack, Resomi may be able to obtain 'skill shots' or life extension treatments if they are under the broad wing of the core empire. These allow the richer Resomi to become more skilled and live longer than their peers (although often at a significant cost, either material or in the form of being tied closely to the core system government).
+When a Resomi dies, they are buried according to the customs of their people. In the core systems, this is often a sky burial or cremation, depending on time and space constraints.
 
 ### Culture and Society
 
+There is a saying amongst the Ministry: 'a single Resomi is a rounding error'. Every facet of Resomi culture is focused on the group rather than the individual; generally, the action of a single Resomi reflects on their entire pack, and the achievements and shame of an individual are those of their pack. This also extends into government, military action, trade agreements, and so on. The core systems are significantly more uniform in culture than the colonies and fringe, but still demonstrate huge variations in things as basic as language and cuisine, as would be expected with an ancient interstellar empire.
+
+The modern empire tends to be rigidly controlled in the core systems, but more lax the further out you go; even Resomi living in Skrell or Human space are expected to toe the line of government mandates, though, and the punishments for colonies or individuals found to be neglecting their duties to their rulers range from fines to total trade embargoes of planets or systems, resulting in their starvation. This latter punishment has drawn the ire of Skrell and Human representatives, as a handful of outlying Resomi planets have petitioned neighbouring alien cultures for humanitarian aid.
+
 Resomi tend to build low, open-roofed dwellings with plenty of room for leaping and gliding, although this is an increasingly rare architectural style on imperial worlds where living space is at a premium. Living spaces will be owned by entire packs rather than individuals or couples, although smaller, one or two-person dwellings may be found within a larger territory. Even at its most solitary, Resomi society has nothing that a human would call privacy.
 
-The Resomi home world is named Sirisai, the precise location of which is kept hidden from foreigners as much as possible. Travel to and from Sirisai is heavily restricted and generally takes place via dedicated 'carrier' ships that can make the requisite warp jump with passenger ships safely contained inside. Of note, is gender equality; Traditional Resomii culture holds up the concept of gender equality fairly well, as both genders are fairly similar in outward appearance. Neither Gender is discriminated against in Traditional teachings.
+The Resomi home world is named Sirisai, the precise location of which is kept hidden from foreigners as much as possible. It is rumoured that every Minister makes their home on the birth world of their empire, and concordantly a planet-buster strike on the frozen would could decapitate the entire empire. Travel to and from Sirisai is heavily restricted and generally takes place via dedicated 'carrier' ships that can make the requisite warp jump with passenger ships safely contained inside.
 
-### Governance
-
-In many ways, the Empire of Sirisai is a complete and total despotic Oligarchy, with Ministers forming a Senate and the average citizen having little to no say in the Senate's actions. The often mentioned "Ministries" of the Empire are responsible for overseeing both Colonial and Core World activity that pertains to them and often have a cruel, Iron fist that is used to project their power. Known Ministries include:
-
-* Ministry of Foreign Affairs: Handles all dealing with foreign entities.
-* Ministry of Internal Affairs: Their purview is dealing with all internal entities.
-* Ministry of the Interior: Keeps the other Ministries in check and is also the intelligence ministry.
-* Ministry of Defense: Handles all matters involving the military.
+## Miscellanious Information
 
 ### Relationships
 
-* FTU/Corporate space: Minor Contact. Most Resomi seen in corporate space are those that have escaped through the border.
-* Sol: Minor Contact. Humans are not allowed in Empire space.
-* The Skrell: Minor Contact. Skrell are not allowed in Empire space.
-* Dionaea gestalts: No contact Dionaea are not allowed in Empire space.
-* Vox Shoal: At War; Vox are seen as aggressive, violent creatures that prey on Resomi without mercy. Vox consumption of living Resomi do not help this image.
+* FTU/Corporate space: They are a major interstellar trading partner for a number of exo-solar corporations and with their introduction to humanity have started making waves in markets traditionally dominated by Free Trade Union bodies. They buy a great deal of phoron from human companies.
+* Sol: Cordial due to an alliance with the Skrell, but humanitarian concerns from Sol regarding outlying Resomi worlds have placed some tension on political discourse.
+* The Skrell: Long-standing allies. The Skrell carefully try to steer the Resomi towards participating in galactic politics and possibly revitalizing their stagnant empire.
+* Dionaea gestalts: Treated as part of the Skrell bloc.
+* Vox Shoal: Kill on sight. Pls stop eating everyone, shitbirds.
 * Ahdomai: No contact.
-* Moghes Hegemony: No contact .
-* The Kharmaan Ascent: Informally at War; Intermittent conflict, Border disputes.
-* The Positronic Union: No contact.
+* Moghes Hegemony: No contact.
+* The Kharmaan Ascent: Intermittent warfare and border scuffles. The Resomi REALLY do not approve of the Kharmaan reliance on artificial intelligence.
+
+### Language
+
+Both their names and their language are based off of avoiding guttural sounds, such as uh, er, and eh. Instead, they use light trilling sounds, such as a, ee, and eh. For example, names of Resomi would be as such; Remi, Seemoni, Ritila, and Eschomi. The name of this language is Schechi.
