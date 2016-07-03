@@ -23,7 +23,7 @@ Welcome to the Lore Wiki for Baystation12. This is where you can find all the ba
 
 * [Terrorism and You!](https://baystation12.net/lore/Section-5) - All about the antags, basically, and what they do and mean in Space.
 
-* [What Else Do You Want to Know?](https://baystation12.net/lore/Section-6) - Little bits of extra knowledge, updated as time goes by and questions are asked.
+* [What Else Do You Want to Know?](https://baystation12.net/lore/Section-9) - Little bits of extra knowledge, updated as time goes by and questions are asked.
 
 * [Glossary of Terms](https://baystation12.net/lore/Glossary) - A Glossary of Terms as the title states, of every werid euphemism and colloquial term we use on the LoreWiki.
 
