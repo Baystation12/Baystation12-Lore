@@ -130,6 +130,8 @@ The Vox take great pride in the way they blur the lines between biological and m
 
 Much of their technology is both biological and mechanical in fact, their armor made from a mixture of metal plates and grown chitin, their weapons both meat and electronic parts, it makes maintaining them as much repair as it is nursing. Replacing broken eletronics as well as patching up wounds and injecting nutrition pastes to help with healing.
 
+Vox FTL drives are completely bewildering to human scientists, as they consumes little to no power and have no moving components. They take the form of large globes about two feet across, set into the nose of the craft. No indication is given that any of the Vox aboard ships with FTL have any idea how it works, or how to use it; FTL jumps by Vox vessels seem to happen at random, without any consent or input from the crew.
+
 Their most treasured, and harbored technology would happen to be the irreplacable and valuable cortical stacks. Cortical stacks are what make Vox, Vox. They hold the memories and knowledge of past Vox, giving a sense of belonging and loyalty to the Arkships that they would not have without. They also control much of the Vox's internal organs and systems, regulating and making them run efficiently.
 
 **Raiders**
