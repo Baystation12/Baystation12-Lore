@@ -7,8 +7,8 @@ Since you will be working on NSS Exodus, which is a research station, you may wa
 
 	A parallel dimension to our own that consists entirely of Dark Matter, it is named according to the phenomenon seen by probes and passing shielded vessels. It has offered many breakthroughs in areas of communication, transportation, and more.
     
-- [**Supermatter**](https://baystation12.net/lore/Supermatter)
+- **Supermatter**
 
 	A pristine crystalline structure made of solidified Phoron, it possesses unique and unrivaled energetic properties, but is kept together by a frail balance of two immense forces.
     
-### More coming later!!!
+- [**Phoron**](https://baystation12.net/lore/Phoron)

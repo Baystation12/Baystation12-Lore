@@ -9,6 +9,7 @@ As population has grown, so has the need for more land. As technology has progre
   * [Phobos](https://wiki.baystation12.net/Penal_Colony,_Phobos)
 
 ## Nyx
+
   * [The System itself](https://baystation12.net/lore/The%20Nyx%20System)
   * [Brinkburn](https://baystation12.net/lore/Brinkburn)
   * [Caldurk](https://baystation12.net/lore/Caldurk)
@@ -16,6 +17,8 @@ As population has grown, so has the need for more land. As technology has progre
   * [Yuclite](https://baystation12.net/lore/Yuclite)
 
 ## Other Systems
+
+These are colonies that exist in other systems besides Sol or Nyx
 
   * Magnitka Federation
   * Brinkburn
@@ -26,8 +29,8 @@ As population has grown, so has the need for more land. As technology has progre
   * Paraiso a Astres
   * GES Sycophant
   * Kingdom of Avalon
-  * Tiamat
-  * Eremus
+  * [Tiamat](https://baystation12.net/lore/Tiamat)
+  * [Eremus](https://baystation12.net/lore/Eremus)
   * Republic of Feldspar
   * Zzarlaanis
   * etc.
