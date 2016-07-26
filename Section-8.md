@@ -141,7 +141,7 @@ Originally under the Committee for Economic Development, the Expeditionary Corps
 
 ### Peacekeeping Mission: 
 
-Unlike the United Nations on Old Earth, SolGov maintains its own standing police and military forces, both under the aegis of the Committee of Defense and Security. Somewhat controversially, the CDS is also responsible for managing intelligence, counterterrorism, and border security in SolGov territory. While accusations of abuse by internal security are nothing new, the current cold war with the Khaarmani has tensions at an all time high as almost all communications traffic is being monitored. Gateways and space lanes have become increasingly militarized, and it's not uncommon for pilots to be detained indefinitely if their flight paths come too close to any sensitive assets. Though the most visible portions of the CDS are the **Defense Forces** and the **Colonial Marshal Bureau**, it also manages the **Office of Interstellar Intelligence**, the **Bureau of Counterterrorism**, the **Assembly Security Agency**, the **Emergency Management Bureau**, the **Rescue Service**, the **Bureau of Border Security**, the **Defense Intelligence Agency**, the **Bounty Office**, the **Bureau of Corrections**, and the **Home Guard**.
+Unlike the United Nations on Old Earth, SolGov maintains its own standing police and military forces, both under the aegis of the Committee of Defense and Security. Somewhat controversially, the CDS is also responsible for managing intelligence, counterterrorism, and border security in SolGov territory. While accusations of abuse by internal security are nothing new, the current hidden cold war with the Khaarmani has internal tensions at an all time high as almost all communications traffic is being monitored. Gateways and space lanes have become increasingly militarized, and it's not uncommon for pilots to be detained indefinitely if their flight paths come too close to any sensitive assets. Though the most visible portions of the CDS are the **Defense Forces** and the **Colonial Marshal Bureau**, it also manages the **Office of Interstellar Intelligence**, the **Bureau of Counterterrorism**, the **Assembly Security Agency**, the **Emergency Management Bureau**, the **Rescue Service**, the **Bureau of Border Security**, the **Defense Intelligence Agency**, the **Bounty Office**, the **Bureau of Corrections**, and the **Home Guard**.
 
 * **Defense Forces**:
 
@@ -165,7 +165,7 @@ Originally under the Committee for Sapientarian Development, the Emergency Manag
 
 * Defense Intelligence Agency:
 
-While in the past, the Colonial Marshals have handled intelligence gathering within SolGov, a few major scandals and failures of intelligence tarnished their reputation, most notably when a Khaarmani drone successfully masqueraded as a media synthetic and recorded an entire meeting of the Interstellar Assembly. As a result, the Defense Committee recently formed the Defense Intelligence Agency, tasked with domestic security and intelligence gathering. Now fielding offices in most SolGov member states, the DIA has rapidly grown in power and influence. Sweeping legislation has allowed the DIA significant legal authorities in matters of "Internal Security," including the ability to monitor communications and travel. While protests are now commonplace, it's unlikely SolGov will curtail the powers of the DIA any time soon.
+While in the past, the Colonial Marshals have handled intelligence gathering within SolGov, a few major scandals and failures of intelligence tarnished their reputation, most notably when an unknown drone successfully masqueraded as a media synthetic and recorded an entire meeting of the Interstellar Assembly. As a result, the Defense Committee recently formed the Defense Intelligence Agency, tasked with domestic security and intelligence gathering. Now fielding offices in most SolGov member states, the DIA has rapidly grown in power and influence. Sweeping legislation has allowed the DIA significant legal authorities in matters of "Internal Security," including the ability to monitor communications and travel. While protests are now commonplace, it's unlikely SolGov will curtail the powers of the DIA any time soon.
 
 * Home Guard:
 
@@ -224,37 +224,11 @@ Assigned to border security along with Fourth Fleet, Third Fleet is considered o
 
 * Fourth Fleet:
 
-Specifically assigned to secure the border of Skrell space that separates the Khaarman Ascent from humanity, the Fourth Fleet is sometimes considered the place where slackers are sent to languish. While this may be true to an extent, recent tensions have caused an overhaul of Fourth Fleet. With many incompetent or ineffective officers having been shown the door, Fourth Fleet may have to prove its mettle before long.
+Specifically assigned to secure the border of Skrell space that separates the Khaarman Ascent from humanity, the Fourth Fleet is sometimes considered the place where slackers are sent to languish, as officially they are only protecting the Skrell border. While this reputation may have been true to an extent, recent tensions have caused an overhaul of Fourth Fleet. With many incompetent or ineffective officers having been shown the door, Fourth Fleet may have to prove its mettle before long.
 
 * Fifth Fleet:
 
 A recent creation, still being organized and modified, the Fifth Fleet was created in 2559 by the Assemblies in order to act as a Quick Reaction Force. While it is still small, the Fifth Fleet is being staffed with some of the brightest minds of the Defense Forces, and equipped with the latest technology.
-
-## Important Events
-
-* 12 November 2436: The Sol Central Government Charter is signed by the Terran Commonwealth, and the other founding members of the Sol Central Government.
-
-* 1 January 2437: Official foundation of the Sol Central Government, and transition of authority from Terran Commonwealth to the SCG.
-
-* 29 July 2561: First major mobilization of the Defense Forces in response to a massive violation of the Solar Declaration of Rights by the unincorporated colony of New Columbia. The regime of Jacob Kidd, the colony's "Director for Life" was toppled after a short invasion, and Director Kidd was tried and convicted for Crimes Against Humanity.
-
-* 20 June 2480: First contact with the Unathi by SolGov Expeditionary Corps. No casualties sustained during first contact, surprising everyone involved. Doctrine for making first contact codified and perfected.
-
-* 14 April 2494: Solar Declaration of Rights replaced by the Universal Declaration of Rights, acknowledging the rights of all Sapient beings.
-
-* 3 September 2510: First contact with the Tajara. Planning begins for overhauling the Committee for Diplomatic Relations.
-
-* 18 March 2032: Foundation of the Sol Central Bank, creation of the Thaler, and adoption of a universal human currency by all member states. Thaler becomes the de facto currency of known space due to the prevalence of human trade.
-
-* 11 October 2550: Second mobilization of the Defense Forces in order to liberate an independent human colony, Gaia, from an occupation by the Confederacy of Man, a loose collection of independent human colonies aligned against SolGov. Conflict is marked by use of insurgency tactics by the Confederacy, including stealthed nuclear mines in orbit around Gaia, and attacks on population centers.
-
-* 30 August 2555: The push for a more formal diplomatic forum between the many species leads to a proposal for an Interstellar Assembly. Negotiations for founding this Assembly begin.
-
-* 6 February 2556: Disastrous first contact with the Khaarman Ascent following and investigation into missing vessels by the Defense Forces. Three corvettes, two, frigates, and one cruiser lost with all hands. Incident largely classified, revealed in 2557 after government leaks.
-
-* 19 May 2556: Establishment of Skrell-controlled DMZ between SolGov territory, and the Khaarman Ascent. The Khaarman Cold War begins. Multiple government agencies founded for internal and external security. Defense Forces begin a process of refitting and retraining to face an external enemy.
-
-* 4 April 2558: In a conclusion to the debate started when the Positronic Union revealed itself in 2552, Positronic Intelligences are declared to be sapient by the Assemblies, and therefore protected under the Universal Declaration of Rights.
 
 ____
 
