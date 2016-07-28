@@ -124,7 +124,7 @@ While it might not make it to the headlines, Blackstone Foundries is a necessary
 
 - **Dawnlight Celestial Defence**
 
-While there are other arms corporations developing arms in massive counts, none got as far as Dawnlight, which produces orbital defence systems and vast weapon systems mounted on stations, offering products like Mass Drivers, railguns, anti-siege MIRVs, and narrow-band pulse lasers developed with aid of Hephaistos.
+While there are other arms corporations developing arms in massive counts, none got as far as Dawnlight, which produces orbital defence systems and vast weapon systems mounted on stations, offering products like Mass Drivers, railguns, anti-siege MIRVs, and narrow-band pulse lasers developed with aid of Hephaestus.
 
 Dawnlight was created at the end of 21st century, seeing the potential in Mass Drivers for orbital defence. Much of its development involved scaling up, and up. Eventually they became pioneers in anti-capital weaponry, and Railgun technology, standing aside the greatest corps. However, with development of space-faring, demand plummeted and forced Dawnlight in technological stagnation centuries ago.
 
