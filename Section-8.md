@@ -33,7 +33,7 @@ ____
 
 ## How Does it Work?
 
-### The two primary voting bodies of SolGov are the Solar Assembly, and the Colonial Assembly.
+**The two primary voting bodies of SolGov are the Solar Assembly, and the Colonial Assembly.**
 
 The Solar Assembly is what's left of the founding body. Any sovereign state in the Solar System with a human population of over 50,000 is eligible for membership, though two members with smaller populations remain from the original SCGB. In addition, any extrasolar states with a human population of over one billion on one body, planetary, lunar, or otherwise, is eligible for membership, though an extrasolar member hasn't been accepted in decades. While currently, Corporations based in Sol are only eligible for membership in the Colonial Assembly, a few minor corporations from the time of the SCGB remain, including Aether Atmospherics. While none of the nation-states of Earth are on the Solar Assembly, and likely won't be any time soon due to stigma and the inability to control their own borders, several do sit on the Assembly as observers. The Solar Assembly manages affairs within Sol and its largest neighbors, Tau Ceti and Centuari included. While any member of the Solar or Colonial Assemblies can propose a a peacekeeping operation, or major aid mission, only the Solar Assembly can approve it. Due to the size of both assemblies, votes are majority based.
 
@@ -41,15 +41,15 @@ The Solar Assembly is what's left of the founding body. Any sovereign state in t
 
 is open to any extrasolar state with a human population of over 500,000 in one system. That includes any states on a planet or moon, a union of smaller states under one banner, or even an entire allied system. Any corporation headquartered in Sol may also gain membership of the Colonial Assembly. In 2547, a radical group of Skrell separatists applied for membership in the Colonial Assembly, they were denied in order to maintain a positive relationship with the Skrell, but it sparked a debate over theoretically allowing Xeno-Sapients into SolGov in the future that has not been resolved to date. Six seats on the Colonial Assembly belong to elected representatives from the Solar Assembly, which typically change every year. While the ability to approve major military action rests with the Solar Assembly, the Colonial Assembly may veto such an action with a majority vote of more than 2/3 of the members, though this hasn't occurred yet. Organizations containing human members, but not eligible or desiring to sit on the Colonial Assembly may request observer status. The Free Trade Union is one of the most respected of the observers, due to its influence in a large swathe of human population, and it has been suggested on multiple occasions, without result, that they be given voting status, despite their lack of borders or centralized organization.
 
-### The spokesperson and face of SolGov is the Secretary-General,
+ **The spokesperson and face of SolGov is the Secretary-General,**
 
 who is elected by the Colonial Assembly every three years, or after a vote of no confidence by either assembly. The Secretary-General is the only individual sapient, that with no backing state or corporation, is permitted to propose resolutions or action, however they are not a voting member of either assembly.
 
-### The highest legal authority in SolGov is the High Court. 
+ **The highest legal authority in SolGov is the High Court.**
 
 It interprets the laws of the SolGov Charter, and has the ultimate jurisdiction over lower SolGov court cases. It consists of 20 individually appointed Justices, 10 appointed by the Solar Assembly, and 10 appointed by the Colonial Assembly. A 21st member, the Supreme Justice is nominated by the Secretary-General, and must be approved by both Assemblies. Cases that go before the High Court range from evaluating the constitutionality of laws, appeals of lower court cases, intellectual property cases, major violations of the SolGov charter by states, leaders, groups, or individuals, and arbitrating conflicts between SolGov members.
 
-### SolGov's vast territory is split into several organizational Sectors, each with their own administrative centers and hierarchy.
+**SolGov's vast territory is split into several organizational Sectors, each with their own administrative centers and hierarchy.**
 
 This includes Solgov Sector or Low Courts. These courts handle civil and criminal cases under SolGov's jurisdiction within their sector. This includes crimes between multiple states within a sector, or in SolGov controlled space, local commercial disputes, and appeals from local judicary bodies. While smaller colonies, habitats, and other population clusters may have their own government, legal system, and police force, if these groups live inside SolGov territory, SolGov has the ultimate jurisdiction over legal matters that aren't within a member state. Judges are elected by SolGov citizens living within a sector unaffiliated with any member state, and server terms of ten years. As there are no term limits, it's not unheard of for judges to sit until their deaths or retirement.
 
@@ -102,6 +102,12 @@ Agents of the Customs and Trade Bureau run customs checks at most gateways, and 
 * Solar Bank: 
 
 The Solar Bank provides several essential banking services to SolGov and its member states. Not only does it provide insured banking to SolGov citizens, and humans without any citizenship, it provides loans to struggling states and organizations for humanitarian purposes. Most importantly, it works with the Bureau of Finance to regulate the Thaler and its value.
+
+The Thaler (þ, code THL) is the official currency recognized by the Sol Gov. It is the most common currency used in Sol Central-space and its territories, and it is the most popular currency for international or interplanetary transactions. The Thaler is the most dominant currency used by the Free Trade Union, although the organization does not restrict the use of alternate currencies in its jurisdiction.
+
+The value of the Thaler is defined by a Sol Central document published by the organization's economics committee and approved by a joint vote in both the Solar and Colonial assemblies.
+
+
 
 * Interstellar Postal Service: 
 
