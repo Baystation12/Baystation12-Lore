@@ -5,8 +5,7 @@ As population has grown, so has the need for more land. As technology has progre
 ## Sol
   * [Luna](https://baystation12.net/lore/Luna)
   * [Mars](https://baystation12.net/lore/Mars)
-  * [UIL-OMR](https://wiki.baystation12.net/UIL-OMR)
-  * [Phobos](https://wiki.baystation12.net/Penal_Colony,_Phobos)
+  * [Phobos](https://baystation12.net/lore/Phobos)
 
 ## Nyx
 
@@ -27,7 +26,7 @@ These are colonies that exist in other systems besides Sol or Nyx
 
 ### Orion Ceta A
   
-  * [Paraiso a Astres](https://baystation12.net/lore/Paraiso)
+  * [Paraiso a Astres](https://baystation12.net/lore/Parasio)
   * [Kingdom of Avalon](https://baystation12.net/lore/Avalon)
   * [GES Syncophant](https://baystation12.net/lore/GES)
 
@@ -42,7 +41,7 @@ These are colonies that exist in other systems besides Sol or Nyx
 ### Tiphonia
 
   * [Republic of Feldspar](https://baystation12.net/lore/Feldspar)
-  * [Zzarlaanis](https://baystation12.net/lore/Zzlaraanis)
+  * [Zzarlaanis](https://baystation12.net/lore/Zzarlaanis)
 
 ## Non-Human Colonies
 
