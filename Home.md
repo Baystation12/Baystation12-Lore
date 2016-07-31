@@ -1,11 +1,9 @@
 
-# Welcome to the Baystation Lore
+# Welcome to the Baystation Lore ![image](https://baystation12.net/forums/logo.png) 
 ____
 
 
-![image](https://baystation12.net/forums/logo.png) 
-
-Welcome to the Lore Wiki for Baystation12. This is where you can find all the background, fluff, lore, and information for Bayinverse (the universe our server finds itself in) in easy to read (and sometimes funny) guides.
+**Welcome to the Lore Wiki for Baystation12. This is where you can find all the background, fluff, lore, and information for Bayinverse (the universe our server finds itself in) in easy to read (and sometimes funny) guides.**
 
 ## Sections
 
