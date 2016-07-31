@@ -15,27 +15,41 @@ As population has grown, so has the need for more land. As technology has progre
   * [Caldurk](https://baystation12.net/lore/Caldurk)
   * [Roanake](https://baystation12.net/lore/Roanake)
   * [Yuclite](https://baystation12.net/lore/Yuclite)
+  * [Casser](https://baystation12.net/lore/Casser)
 
 ## Other Systems
 
 These are colonies that exist in other systems besides Sol or Nyx
 
-  * Magnitka Federation
-  * Brinkburn
-  * Yuclite
-  * Roanake
-  * Caldurk
-  * Casser
-  * Paraiso a Astres
-  * GES Sycophant
-  * Kingdom of Avalon
+### Magnikta 
+
+  * [Magnitka Federation](https://baystation12.net/lore/Magnikta)
+
+### Orion Ceta A
+  
+  * [Paraiso a Astres](https://baystation12.net/lore/Paraiso)
+  * [Kingdom of Avalon](https://baystation12.net/lore/Avalon)
+  * [GES Syncophant](https://baystation12.net/lore/GES)
+
+### Alpha Centauri A
+
   * [Tiamat](https://baystation12.net/lore/Tiamat)
-  * [Eremus](https://baystation12.net/lore/Eremus)
-  * Republic of Feldspar
-  * Zzarlaanis
-  * etc.
+
+### Golgenna  
+
+* [Eremus](https://baystation12.net/lore/Eremus)
+
+### Tiphonia
+
+  * [Republic of Feldspar](https://baystation12.net/lore/Feldspar)
+  * [Zzarlaanis](https://baystation12.net/lore/Zzlaraanis)
+
 ## Non-Human Colonies
 
-  * Harr'qac
-  * Qerrna-Lakirr
-  * etc.
+### Harr'klem
+
+  * [Harr'qac](https://baystation12.net/lore/Harr'qac)
+
+### Harr'Kalic
+
+  * [Qerrna-Lakirr](https://baystation12.net/lore/Lakirr)
