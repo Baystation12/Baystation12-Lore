@@ -23,17 +23,17 @@ ____
   * Population - 2559 census |  645,350 |
   * Created by:   Crushtoe
 
-## Demographics
+### Demographics
 
-### Species makeup:
+#### Species makeup:
 
 78% Human 11% Skrell 6% Tajaran 5% Unathi
 
-### Religious makeup:
+#### Religious makeup:
 
 75% Christian Denomination 13% Athiest 7% Islamic 5% Other
 
-## History
+### History
 
 The City-State of New Liberty was thought up in 2468 by Marcus Dentan, the Chief Operations Officer of GotoTech Industries, as a safe-haven of freedom, corporate work, commerce, and life. The idea was published in a magazine, with the name Corporate City given to it.
 
@@ -41,27 +41,27 @@ It wasn't until 2476, however, that the idea came up again and looked into by 3 
 
 Construction began in 2478 and ended in 2497.
 
-## Politics
+### Politics
 
 The City-State of New Liberty is run by companies. Originally headed by its 3 founders, today, the city has a body of 30 'Guilds' that vote in The Court of Regents.
 
-### Guilds
+#### Guilds
 
 Each member of the Court of Regents is a company or organization that has been bestowed the title of Guild by a minimum of 3 pre-existing guilds. Each Guild gets 3 Regents, chosen by any means the Guild wishes to use within themselves.
 
-#### Court of Regents
+##### Court of Regents
 
 All Guilds' Regents work in this government institution; 99 Regents exist in all, with the original 3 founding companies having an extra 3 regents each. It serves as the colony's Legislative Branch, making laws, passing them, deciding budgets, regulations, and in rare cases, such as with Hesphaistos Industries, expel Guilds.
 
 Regents are elected by this method: The Guild asks the people for a list of candidates they would like. The Guild can then choose to throw it out, or listen to it. (Usually, employees of the Guild are whom are asked.) The Guild then puts forth a list of Regent candidates to its employees living on the colony, who vote. The regents are then given power. The Regent must be living in or planning to live in New Liberty already.
 
-#### Magistrate of House
+##### Magistrate of House
 
 The Magistrate of House is the colony's "Leader." They serve as both Executive and Judicial, the Senior Judge in the colony and the person in charge of enforcing laws and representing the colony in conferences and trade/business discussions. The Magistrate of House is elected by the Court of Regents from one of their own; they become Magistrate, and their Regency position vacated, to be filled by the company that the Regent comes from.
 
 [List of Guilds][4] (coming soon to a wiki near you!)
 
-## New Liberty - The City
+### New Liberty - The City
 
 ![](https://wiki.baystation12.net/images/thumb/c/cf/NewLiberty.png/799px-NewLiberty.png)
 _A color-coded map of the colony_
@@ -70,21 +70,21 @@ New Liberty has four seperate space ports,one on each side of the city. Three of
 
 New Liberty's northern side has the Primary Space Port, a true hub. Modeled after twenty-first century airports, the Primary Space Port has 20 cargo ship docks and unloading areas and 10 passenger ship gates. The port has a refueling center, a series of resteraunts and bars,murals, and kiosk or many companies' goods.
 
-### The Rings
+#### The Rings
 
 The city has a number of rings for different purposes.
 
-#### Red/Government
+##### Red/Government
 
 This ring focuses entirely on government and government relations. The House of Magistrate and Court of Regents are in this ring, as well as agency headquarters such as The Guard (the state police and military, seperated into two departments), the Sewage and Garbage Disposal Services, etc.
 
 This ring also houses 'Embassies'/Consolates from different unions and countries, though few of these buildings exist.
 
-#### Yellow/Commercial
+##### Yellow/Commercial
 
 This ring houses the city's commercial needs. Many businesses and company headquarters are here, due to the city's reputation, pro-commerce and pro-company regulations, near non-existant capital tax, and its ideal location on Mars.
 
-#### Blue/Residential
+##### Blue/Residential
 
 This ring houses all residential needs. Most buildings are multi-level apartments to save resiential space; however, some more expensive homes exist, usually owned by government members, company leaders, and people who rent them out.
 
@@ -92,25 +92,25 @@ Near the ring gate facing The Primary Port, the residential area features mainly
 
 Most of the Residential Ring is middle class, with some high class homes existing.
 
-#### Purple/Industrial
+##### Purple/Industrial
 
 Outside of the residential ring is industry, the smallest ring. Industry is a minor, but necessary, need for a trade hub/economy center on Mars. This area features more than simple factories; manufacturing plants, canneries, butchery shops, etc. are here, on top of factories.
 
 However, due to strict regulations imposed on pollution by the Court of Regents, actual factories are limited. This is considered the colony's largest problem, but to many is seen as a way to prevent pollution.
 
-#### Gray/Wall & Engineering
+##### Gray/Wall & Engineering
 
 Outermost is the city's walls/engineering center. All power generation, engineering staff, air purification, sewage treatment, garbage disposal, refuse management, etc. is handled here. This is where the colony handles its brute work.
 
 A large wall is also built here, massive and towering, a staggering 15 meters thick and 100 feet tall before it begins to slope. The wall was built to keep out raiders and outside danger, as well as help with atmospherics. Still maintained, Engineering is located mostly beneath the wall.
 
-#### Green/Hydroponics Fields
+##### Green/Hydroponics Fields
 
 Designed by famous Hydroponic Master Steven Welwright, 4 massive biodomes exist outside the city wall. The purpose was to grow food and livestock to provide a self-sustaining food source to the city, as well as supply much Mars' food importation needs. Today, 3 1/2 of the biodomes function, with the South-Eastern one having suffered a malfunction ending in the destruction of the Biodome's right wing.
 
 20% of the food, meat, milk, eggs, and other farmed goods here are exported outwards, to other colonies on Mars.
 
-## Economy
+### Economy
 
 New Liberty has a strong economy, based on trade, distribution, hydroponics production, and outside tourism to the colony's massive Prmary Space Port that to many is more mall than port.
 
@@ -142,14 +142,14 @@ ____
   * Population - 2559 estimate |  1,900,000,000 |
   * Created by:   Fiskap
 
-## Demographics
+### Demographics
 
-### Species makeup
+#### Species makeup
 
 99.99997% Human  
 0.00003% Other
 
-### Human racial/ethnic makeup
+#### Human racial/ethnic makeup
 
 45% European and North African Caucasian  
 20% Mixed  
@@ -158,11 +158,11 @@ ____
 5% Southeast Asian  
 5% Sub-saharan African
 
-### Religious makeup
+#### Religious makeup
 
 Primarily Unitarianism, agnosticism and atheism. Other variations of Christianity, Islam, Buddhism and Hinduism have a large number of followers as well.
 
-## History
+### History
 
 In 2051, after several failed corporate-run attempts to make manned missions to Mars, the governments of Earth (mainly Europe and the US) would create a joint-effort to build the first human colony on said planet, while being financially supported by several big corporations of their era. Planifications were made and in the 15th March of 2055, a group of 30 astronauts arrived on Mars, creating a single settlement that earned the name of Vorcia Base.
 
@@ -220,7 +220,7 @@ In 2555, the Vorcian Federation was essentially forced by the Sol Central Govern
 
 As of 2559, the federation has a population of 1.9 billion.
 
-## Politics, law, immigration and defense
+### Politics, law, immigration and defense
 
 Vorcia is a very decentralized federal republic. The central government only has absolute control over the Vorcia City mega-metropolis itself, and some other farming-based settlements that are deemed as extremely profitable and vital. To avoid senseless bureaucratic costs in managing faraway territories directly, about a 60% of federal territory is given autonomy to some degree. A good amount of territories are allowed to fully govern themselves, as long as they pay taxes to the central government.
 
@@ -254,7 +254,7 @@ The correctional system is fairly liberal. Death sentences and life imprisonment
 
 About all recreational drugs are legalized in most of the territories, however they are heavily taxed. This has caused a drug trade black market in some of the territories, particularly in the more neglected ones.
 
-## Geography and climate
+### Geography and climate
 
 The Martian landmass in which the Vorcian Federation is based on has been [terraformed][5] to an acceptable degree. Man-made forests and national parks exist all over the nation, being strictly protected by the government. The temperature on the territory can feel fairly extreme: usually ranging from -20º to 50º celsius. Occasional rain exists, but it's not too intense which makes it good for agricultural operations.
 
@@ -262,7 +262,7 @@ A huge chunk of the territory is being used for farming: roughly a 70% of it. By
 
 Vorcia borders the Great Northern Ocean to the north. There are several small lakes and rivers in the nation, but it's nothing overly noteworthy.
 
-## Culture and society
+### Culture and society
 
 Due to the nation being essentially a melting pot of various Earth cultures, it's very mixed. For instance, human on human racism is mostly a non-issue here, with only a few extremists paying attention to it. However, this society can be considered to be fairly human supremacist, especially lately with the discovery of races like the [Unathi][6] and [Tajaran][7].
 
@@ -274,7 +274,7 @@ Vorcia's national sport is football (soccer), which had been introduced by Europ
 
 The first low gravity football stadium was built in Vorcia City in 2167. It still exists as of now, being renovated and expanded regularly, now having been modified to support several gravity settings.
 
-## Economy
+### Economy
 
 Vorcia's economy is very mixed. Typically, private housing (70%) dominates over state housing (30%) on a federal level, but this can vary a lot depending on the territory. Most of the mines in the territory have either been sold to corporations or are owned by the different governments. When it comes to land, it's possible for a Vorcian citizen to buy it if they want it. However, prices tend to be fairly high for even the smallest plot of land imaginable, as the governments currently control about 60% of all cultivated farmland in the moment.
 
@@ -296,25 +296,25 @@ For power generation, it's still highly based on traditional methods such as nuc
 
 And as with most other settlements in the known galaxy, the Vorcian Federation uses the thaler as it's main currency.
 
-## Notable metropolitan areas
+### Notable metropolitan areas
 
 There are two mega-metropolises in the Vorcian Federation, with about a 70% of the total nation's population living in them.
 
-### Vorcia City mega-metropolis
+#### Vorcia City mega-metropolis
 
 The main urban deployment in the federation, with a population of 1.1 billion inhabitants. It's the capital of the nation and the headquarters of the federal government, with most international embassies being based here too. It consists of 56 clustered domed cities, with 8 of them having an artificial gravity in it's majority. In total there are 134 registered municipalities, with 35 of them not having any dome coverage. 12% of the population live underground.
 
-### Maza City mega-metropolis
+#### Maza City mega-metropolis
 
 The second biggest urban deployment in the federation, with a population of 500 million inhabitants. It consists of 20 clustered domed cities, with 3 of them having an artificial gravity in it's majority. In total there are 67 registered municipalities, with 13 not having any dome coverage. 9% of the population live underground.
 
-## Other notable settlements
+### Other notable settlements
 
-### Conriston
+#### Conriston
 
 About 550 square miles in size. Population of 32 million. Fully covered with a radiation-proof biodome. Independent atmospherics system. No gravity generators. Significant underground expansion, mostly from the early era. Part of the Vorcia City mega-metropolis. Area first settled in a large scale since 2360. Recognized as a Vorcia City municipality in 2373. Sealed off with a biodome in 2422. Territorial division in 2482. Same dome, but West Conriston is 290 square miles with a 14 million population. East Conriston is 260 square miles with 18 million pop. East Conriston tends to be fairly poorer than the westside.
 
-### New Aaronshire
+#### New Aaronshire
 
 An open-air settlement 2700 kilometres away from the Vorcia City mega-metropolis, to the northeast. Population of 180000. Low degree of political and economic autonomy. Primarily founded as a mining community, with significant agricultural operations as of 2559. The settlement was first founded in 2392 and registered in 2401.
 
