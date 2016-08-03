@@ -61,7 +61,7 @@ Normal life expectancy for most Skrell is 100 human years. Through technological
 
 **The Language**
 
-The Skrell language can be best described as a series of hums, warbles, or croaks, while they would not make sense to other species it can display a wide variety of emotion and meaning that English cannot.
+The Skrell language can be best described as a series of hums, warbles, or croaks, while they would not make sense to other species it can display a wide variety of emotion and meaning that Galactic Common cannot.
 
 With other languages such as Sol Common, Skrell take on the accent of the person who taught them the language.
 
