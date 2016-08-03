@@ -9,7 +9,7 @@ ____
 
 **Naming**
 
-Skrell names either consist of chosen human names or rough translations, due to their language being something humans cannot vocalize. The translations appear to vary widly when converted to the Galactic Common, so there is a wide variety of names possible.
+Skrell names either consist of chosen human names or rough translations, due to their language being something humans cannot vocalize. The translations appear to vary widly when converted to Galactic Common, so there is a wide variety of names possible.
 
 **Biology**
 
