@@ -9,7 +9,7 @@ ____
 
 **Naming**
 
-Skrell names either consist of chosen human names or rough translations, due to their language being something humans cannot vocalize. The translations appear to vary widly when converted to english, so there is a wide variety of names possible.
+Skrell names either consist of chosen human names or rough translations, due to their language being something humans cannot vocalize. The translations appear to vary widly when converted to Galactic Common, so there is a wide variety of names possible.
 
 **Biology**
 
@@ -61,7 +61,7 @@ Normal life expectancy for most Skrell is 100 human years. Through technological
 
 **The Language**
 
-The Skrell language can be best described as a series of hums, warbles, or croaks, while they would not make sense to other species it can display a wide variety of emotion and meaning that English cannot.
+The Skrell language can be best described as a series of hums, warbles, or croaks, while they would not make sense to other species it can display a wide variety of emotion and meaning that Galactic Common cannot.
 
 With other languages such as Sol Common, Skrell take on the accent of the person who taught them the language.
 
