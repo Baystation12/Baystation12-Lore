@@ -1,8 +1,10 @@
-# The Resomi
+﻿# The Resomi
 
-## An Overview
+The Resomi {Re-zoh-mee} are a race of feathered raptors who developed on the cold world tundra world Sirisai which orbits around the star A'neech,  which is located far on the opposite side of Skrellian territory from Sol. Their society is built around unity and strong familial and social ties; a lone Resomi is not capable of functioning well for long.
 
-The Resomi {Re-zoh-mee} are a race of feathered raptors who developed on the cold world tundra world Sirisai, which orbits around the star A’neech.The Resomi evolved from a primitive pack hunting species. Their society is built around unity and strong familial and social ties; a lone Resomi is not capable of functioning well for long. Their Society is that of a despotic oligarchy, which maintains strong border control and isolation from the outside galaxy.
+## Overview
+
+The Resomi are from A'neech, which is located far on the opposite side of Skrellian territory from Sol. Their society is built around unity and strong familial and social ties; a lone Resomi is not capable of functioning well for long.
 
 ### Physiology
 
@@ -40,27 +42,27 @@ Both their names and their language are based off of avoiding guttural sounds, s
 
 ### History
 
-The Resomi empire currently exists as a despotic oligarchy. This wasn’t always the case however. In the prime days of the Resomi state, the government existed as a republic. The major change that lead to the current government was a malfunction in a large number of AI units in the year 2478.
+The Resomi empire currently exists as a despotic oligarchy. This wasn't always the case however. In the prime days of the Resomi state, the government existed as a republic. The major change that lead to the current government was a malfunction in a large number of AI units in the year 2478.
 
-A number of AI units, including the master control unit of the Ministry of the Interior underwent a malfunction, causing the loss of the Empire’s vast databases and the destruction of critical infrastructure including vital communications services and grid systems.
+A number of AI units, including the master control unit of the Ministry of the Interior underwent a malfunction, causing the loss of the Empire's vast databases and the destruction of critical infrastructure including vital communications services and grid systems.
 
 Initially the cause of the malfunction was not known, but it seemed to spread rapidly and effect AI systems all across Resomi space. In order to combat the spread of unlawed and potentially dangerous AI, the Resomi government declared martial law and conducted an empire-wide closure of all borders under heavy military control.
 
-Eventually, it was discovered that the synthetic malfunction was caused by a networked computer virus that had propagated its way through the Resomi empire’s interstellar network. In 2481, in order to help prevent the continued spread of the virus, the government initiated wartime declarations which mandated the shutdown of all major gate networks through Resomi space to public use and required all transportation to be through government sanctioned transport vessels that are kept disconnected from all external networks. In order to continue to propagate.
+Eventually, it was discovered that the synthetic malfunction was caused by a networked computer virus that had propagated its way through the Resomi empire's interstellar network. In 2481, in order to help prevent the continued spread of the virus, the government initiated wartime declarations which mandated the shutdown of all major gate networks through Resomi space to public use and required all transportation to be through government sanctioned transport vessels that are kept disconnected from all external networks. In order to continue to propagate.
 
 Within a few months, however, the threat of the rogue synthetics rose to a new height when it was revealed that some of the synths had begun to act as a collective and perceived the Resomi empire as a threat. The synths had developed a system to take control of nanomachine swarms that were frequently used in Resomi space and began to turn them on their creators, leading to what is believed to be the only case of Nano plague in the galaxy. Nanomachines frequently found in the skill shots that were used by Resomi began to damage and consume their hosts from the inside in order to reproduce and spread.
 
 In response to the new inorganic threat posed by the Nano plague, the Resomi government began to institute more policy to fight back, leading to the destruction of nearly all nanomachine technology and the outlawing of skill shots and swarm based medical therapy. The Nano Plague resulted in the death of countless numbers of Resomi. On some planets, the entire population became infected and in order to safeguard the rest of the empire, would have to be electromagnetically sterilized to remove traces of the plague.
 
-Since 2481, the Resomi Military has been on constant patrol, attempting to locate synthetic controlled locations and destroying them. The Government has shifted more and more wartime powers into place, leading to the current status of the state today as a despotic oligarchy where attempting to escape the state can be severely punished. The Ministry of Defense has become one of the empire’s largest employers as the need to reinforce borders seems to become necessary more and more as Resomi make contact with foreign species. Resomi are seldom seen outside of the empire because of their isolation, and those that are seen are likely those that managed to slip through cracks in the empire’s controlled borders.
+Since 2481, the Resomi Military has been on constant patrol, attempting to locate synthetic controlled locations and destroying them. The Government has shifted more and more wartime powers into place, leading to the current status of the state today as a despotic oligarchy where attempting to escape the state can be severely punished. The Ministry of Defense has become one of the empire's largest employers as the need to reinforce borders seems to become necessary more and more as Resomi make contact with foreign species. Resomi are seldom seen outside of the empire because of their isolation, and those that are seen are likely those that managed to slip through cracks in the empire's controlled borders.
 
-While it’s largely believed that the Synthetic threat within its territories has been all but destroyed, the Empire continues to keep its citizens in check with state-controlled media. It’s frequently reported that other synth worlds may be found. The Empire continues to indoctrinate its people, leading to the culture of Resomi to be one of a collectivist society that views outsiders as threats and vehemently distrusts AI technology. It is after all, “the citizen's duty to not leave, for doing so could threaten the rest of the galaxy.”
+While it's largely believed that the Synthetic threat within its territories has been all but destroyed, the Empire continues to keep its citizens in check with state-controlled media. It's frequently reported that other synth worlds may be found. The Empire continues to indoctrinate its people, leading to the culture of Resomi to be one of a collectivist society that views outsiders as threats and vehemently distrusts AI technology. It is after all, "the citizen's duty to not leave, for doing so could threaten the rest of the galaxy."
 
-### Technology 
+### Technology
 
 Resomi technology has stagnated since the synthetic rebellion, but prior to this major event, the Resomi boasted technology that rivaled that of the skrell and even surpassed them in the field of micro-machining and medical sciences. One of the most impressive relics from before the plague was the creation of Nanomachines.
 
-The usage of Nanomachines drastically changed the course of Resomi history, allowing them to rapidly produce nearly any structure and expand their space to fill up enough star systems to rival even the largest stellar empires. Over time, Nanomachine technology was refined and began influencing the field of medicine, allowing for Nanomachine therapy, and eventually the ability to manipulate neurons in the brain through the usage of “skill shots”.
+The usage of Nanomachines drastically changed the course of Resomi history, allowing them to rapidly produce nearly any structure and expand their space to fill up enough star systems to rival even the largest stellar empires. Over time, Nanomachine technology was refined and began influencing the field of medicine, allowing for Nanomachine therapy, and eventually the ability to manipulate neurons in the brain through the usage of "skill shots".
 
 As a result of extensive neural and nano-scale machinery research, Skill shots were first created in the year 2470. Skill shots are an injection capable of repathing neurons and injecting hormones to either increase the speed a Resomi learns on a current subject, or with some of the more experimental skill shots, give them the information in its entirety in one disorienting blow.
 
@@ -91,4 +93,4 @@ In many ways, the Empire of Sirisai is a complete and total despotic Oligarchy, 
 * Ahdomai: No contact.
 * Moghes Hegemony: No contact .
 * The Kharmaan Ascent: Informally at War; Intermittent conflict, Border disputes.
-* The Positronic Union: No contact.
+* The Positronic Union: No contact.  

@@ -1,12 +1,12 @@
 # The Unathi
 
-The Unathi (Ew-nath-ee) are a race of tall, reptilian humanoids that possess both crocodile-like and serpent-like features. Their scales are hard and plate-like, save for the softer ones that line the inside of their legs, armpits, and groin. Originating from the planet of Moghes, the Unathi live in an extremely sexist society, with women being considered property.
+The Unathi (Ew-nath-ee) are a race of tall, reptilian humanoids that possess both crocodile-like and serpent-like features. Their scales are hard and plate-like, save for the softer ones that line the inside of their legs, armpits, and groin. Originating from the planet of [Moghes](https://baystation12.net/lore/Moghes), the Unathi live in an extremely sexist society, with women being considered property.
 
 ## An Overview
 
 **Naming**
 
-Unathi name themselves in manners that are heavy on E's, I's and O's and S's, almost sounding hissing, or guttural. Unless introductions have been made, using an Unathi's first name is not recommended.
+Unathi name themselves in manners that are heavy on I's and O's and S's, along with very harsh K's and G's. Unless introductions have been made, using an Unathi's first name is not recommended.
 
 **Biology**
 
@@ -48,13 +48,14 @@ Unathi are a species deeply rooted in family and tradition. Settlements are made
 
 ### A Short History
 
-Moghes used to be very marshy, green, almost jungle-like. The Unathi precursors were for all intents and purposes, also Unathi, but were not as aggressive as their current counterparts due to being far more technologically advanced. This society had functioning road systems, personal transport, advanced computer systems, currency, fashion, arts, culture, and nuclear weapons. The level of technology was around early 2000's human technology.
+Moghes was once a massive jungle of a world, with the poles and mountain ranges being the coldest places to find on the strange world. The Precursors were a different people to the Unathi of today, and were a far more aggressive species than the Unathi of today, which is surprising with how aggressive the Unathi themselves are. The Precursors had the technological level of mid-21st Century Earth before the near total extinction of life on the planet.
 
-Larger city states were still fractured as in modern Unathi society, but they lived in relative peace. Due to unknown causes, nuclear warheads were launched, causing a mass use of nuclear weapons.
+Cities were massive hubs, looking like the favels of Rio de Janeiro in the 21st century, with the functionality of a city armed to the teeth. Due to the warring of the different states, nuclear warheads launched across the world and knocked the world back a peg or seven.
 
-Bunkers, mostly near the equator, shielded some of the Unathi, preventing them from dying out as a species. However, this crippled their technology and left then with a harsh environment with little population, radiation, and lack of clean water and food. This paved the way for the current Unathi lifestyle.
+Irradiation and evolution over hundreds and hundreds of years lead to the present day Unathi, a traditional, aggressive, reptilian people of a dying world. However, this crippled their technology and left then with a harsh environment with little population, radiation, and lack of clean water and food. This paved the way for the current Unathi lifestyle.
 
-The fact that the precursors were just Unathi is not well known, even among the Unathi. Common knowledge is that they were bipedal, and six to seven feet tall. Some scholars have theories as to what came before, but most of the history has been lost to history due to the changing priorities of survival.
+Most general history assumes that the precursors were not Unathi, but many have started coming to the false idea that they were.
+
 
 ### The Unathi Way of Life
 
@@ -78,11 +79,15 @@ In the event that a Unathi becomes mortally ill, or finds themselves lacking the
 
 Renouncing the deathseeking life of Guwandi isn't easy. Some may wish to return after having been granted a second outlook, or hope, after they had spent time wandering and risking their life. Their clan may see their decision as cowardly and refuse to accept them, or be overjoyed they had learned a lesson in their time.
 
-The different region of Moghes are split between the temperate and tropical poles, which are divded horizontally by the equator. All of them have their own unique dialect and accent to the Unathi tongue, but branch off of the same base language. Cultures also tend to vary much between the regions. Precursor ruins located at the poles consist of military bases and mass-driver faclities for unaided surface to air space take-off. Unathis that have settled there are either one of those who follows the Hand of the Vine, or the Fruitful Lights. The latter is made up of clans that have taken engineering as a family trade. Some follow the faith of the Precusors in secret, or some clans openly do. These Unathi may compete with their brethren in battles using battle rigs or jury-rigged exosuits to decide who gets to study the technology left behind and run the mass-drivers. While the other regions judge the Poles with suspicion or oddness, they have learned to coexist with them simply because they hold a monopoly on interplanetary trading.
+The different region of Moghes are split between the temperate, tropical poles, the savannahs, the salt swamps near the oceans, and the diamond peaks. All of them have their own unique dialect and accent to the Unathi tongue, but branch off of the same base language. Cultures also tend to vary much between the regions. Precursor ruins located at the poles consist of military bases and mass-driver faclities for unaided surface to air space take-off. Unathis that have settled there are either one of those who follows the Hand of the Vine, or the Fruitful Lights. The latter is made up of clans that have taken engineering as a family trade. Some follow the faith of the Precusors in secret, or some clans openly do. These Unathi may compete with their brethren in battles using battle rigs or jury-rigged exosuits to decide who gets to study the technology left behind and run the mass-drivers. While the other regions judge the Poles with suspicion or oddness, they have learned to coexist with them simply because they hold a monopoly on interplanetary trading.
 
 Unathi who follow the Hand of the Vine in the polar region tolerate the engineering clans tending to and studying the fauna, in hopes of learning ways to bring it to the rest of Moghes. Combat for them is often rare and short, usually taking place on patches of unfertile land so that the blessed soil is not tainted by the blood of their enemies. If a feud must end in bloodshed, these Unathi will generally avoid trying to make lethal blows, preferring to instead disable their opponents and leave them alive. These fights are usually sparked by inter-clan disagreements.
 
-Those who settle near the Equator are a very strict brand of Unathi. Orginally settled by exiles who moved south to carve their own way of life, the equator is highly irradiated in some parts due to the nuclear infighting that destroyed Precursor culture. Funnily enough, the ruins there consist of underground shelters to protect from bombardment. Clans and settlements will make homes of these shelters, digging for underground springs and using water purifiers. However, life in the region is not so easy for all. The majority of Unathi have a hard time. Most clans are large to the point of being their own tribe, very devoted to their worship of the ancestors as well as the Grand Strategem. They are also very territorial. Shelter and land rights are decided by vicious combat in designated grounds that are dangeruosly irraidated for the express purpose of testing the combatant's skills, experince and endurance. While those of the equator do trade with any caravan brave enough to stand the heat, sandstorms and radiation, it is often viewed as more trouble than it's worth. Most caravans do not even brave the journey to the south, what with the local legends floating about. Stories of Unathi who had been warped by the radiation into hulking, cannbialistic boogeymen. Monsters who were fond of dragging travelers and children who stay out and alone too late into the darkness so that they may gorge them on the scraps of their kills until they're one of them.
+Those who settle in the Deserts and the Savannahs are a very strict brand of Unathi. Orginally settled by exiles who moved south to carve their own way of life, the few lakes and some of the land are highly irradiated in some parts due to the nuclear infighting that destroyed Precursor culture, and the deep jungle crags are often filled with the decomposing bodies of travellers. Great metal monuments from days of old, and dunes entirely made of glass fill the land as well. Funnily enough, the ruins there consist of underground shelters to protect from bombardment. Clans and settlements will make homes of these shelters, digging for underground springs and using water purifiers. However, life in the region is not so easy for all. The majority of Unathi have a hard time. Most clans are large to the point of being their own tribe, very devoted to their worship of the ancestors as well as the Grand Strategem. They are also very territorial. Shelter and land rights are decided by vicious combat in designated grounds that are dangeruosly irraidated for the express purpose of testing the combatant's skills, experince and endurance. While those of the equator do trade with any caravan brave enough to stand the heat, sandstorms and radiation, it is often viewed as more trouble than it's worth. Most caravans do not even brave the journey to the south, what with the local legends floating about. Stories of Unathi who had been warped by the radiation into hulking, cannbialistic boogeymen. Monsters who were fond of dragging travelers and children who stay out and alone too late into the darkness so that they may gorge them on the scraps of their kills until they're one of them.
+
+The Salt-Swamp Unathi are often a very traditional group, and very small in number due to the toxic area. With these traditions, strangely enough, is an openness to outsiders. They welcome caravans greatly, but many do not come due to the hostile region. There is often conflict between the Desert Clans and the Salt Swamp Clans over territory and water supply.
+
+The Diamond Peak Clans are very isolationist, and completely anti-outsiders. They have painted faces, with brands on their scales to show where they come from. With the rich diamond mountains, and the reserves of phoron beneath the ground come many offworlders looking to make a quick buck, but they are often killed by the clans in pogroms or raids. Other Unathi don't often go the mountains besides those looking to trade. There's a legend that a great basin of water lies deep in the mountains and that's how the Diamond Peak Clans are so strong.
 
 ### What They Wear and Use
 
@@ -134,7 +139,7 @@ The last faith practiced on Moghes is called the Fruitful Lights, and focuses mo
 
 *Black egg* Syndrom is a genetic defect found in some females in semi-rare cases, and even rarer in males (Though it manifests in it's own form of extreme impotency.). It is a case where laid eggs are both always coming in singles, and the egg itself has a black shell, is 3 times as thick as normal egg shells, and has a tarpy texture instead of a brittle one, in some cultures this may get the female branded and exiled as unfit for breeding, or declared unfit for breeding or other female duties and treated/casted like a male and trusted with their responsibilities, while the eggs are left to die. In others that do understand this condition, it is treatable by two methods, to either pry open the egg shell with sharp implements and effort. (Call Unathi Kreiger and give him a saw and crowbar) or genetic therapy, though the exact line of code that causes this hasn't been found.
 
-Date and Time
+### Date and Time
 
 Unathi in general tend not to record global history like humans or Skrell have done. Rather, they focus on clan or territorial history, though most keep a basic calendar system to track days and years. Their seasons are Moto and Jua, which are the equivalent of Terran summer and winter respectively. Temperature changes are mostly felt nearer to the poles, but even in the desert the length of days will still be affected, becoming shorter or longer depending on the season. Each of the two seasons last roughly two hundred days, so when the two hundredth day of Jua passes, it would be considered a new year.
 
@@ -143,3 +148,13 @@ For example, to predict or recall a certain date, an Unathi would phrase it in a
 Unsurprisingly, the Unathi keep time tracked loosely by sundials. These primitive yet effective clocks are split up into four quarters. Rather than use numeral digits like humans, they instead pay attention to the slant of the shadow. When it is facing zero degrees, then it is considered dawn, a new day, even if it is before sunrise. At ninety, breakfast should be over with and Unathi should be starting to prepare for their work day. One hundred and eighty degrees is midday, most commonly seen as a trading rush-hour or a time for large, friendly lunches. And when the slant is at two hundred and seven degrees, the work day begins to wind down and the Unathi return home to their clans for their evening meals.
 
 ____
+
+## Relations
+Sol Gov: Open for diplomacy and trade, often at odds due to trouble with TSCs
+TSCs: Open for trade, but mostly disliked by the various clans on the planets.
+Skrell: Open for diplomacy and trade, and often on agreeable terms.
+Tajara: Mostly no contact besides for Interstellar matters.
+Sirisai: No contact
+Kharmaani: No contact
+IPC Union: No direct contact
+Vox: At War, in a way. Often in conflict against them on human or skrell vessels. The few Unathi vessels aren't attacked usually as they almost never leave the home system.
