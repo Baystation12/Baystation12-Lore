@@ -136,7 +136,7 @@ The guys who decide if you get a paycheck. After each shift, most administrative
 
 **Investigators** are bad news to have show up, usually called in by Internal Affairs when a grevious error is made by ranking staff. They ensure productivity isn't impaired by rampant stupidity. A legal Human Resources Investigator must have a permit of operations signed by the HRD and valid for the ship/station/base they are investigating, and a valid and up to date identification card from their administrative station/base. They have the authority to strip the DoO of rank for the duration of a shift, and hold it suspended until audit.
 
-**Auditors** carry the dread their name implies. When a complaint is filed against a crewmember, auditors are the individuals who carry out the interrogations(audits) of the employee in person if IA cannot, submitting their personal suggestion to the HRD regarding an employee's continued paycheck gathering after reviewing the math from Accounting and a fully compiled case from Internal Affairs. These individuals also conduct annual audits for general purposes as well. They are effectively secretaries for the HRD, but highly respected ones.
+**Auditors** carry the dread their name implies. When a complaint is filed against a crewmember, auditors are the individuals who carry out the interrogations (audits) of the employee in person if IA cannot, submitting their personal suggestion to the HRD regarding an employee's continued paycheck gathering after reviewing the math from Accounting and a fully compiled case from Internal Affairs. These individuals also conduct annual audits for general purposes as well. They are effectively secretaries for the HRD, but highly respected ones.
 
 ####Internal Affairs
 
@@ -144,7 +144,7 @@ Internal Affairs is the legal crew employed by NanoTrasen. Generally appointed f
 
 ####Accounting
 
-Accounting is the mathmatical, cold, unfeeling, paycheck-making part of the company that keeps any big megacorporation moving- with money. Accounting sets the bars and lays out what goals need met and where the company stands. Suffice to say, most other parts of the company are forced to take Accounting seriously, or be at risk in their own jobs. HR and Accounting tend to be joined at the hip in most systems and sectors, their work directly impacting the choices of the other, and accounting ordinarily chokes Asset Protection's chain when they start chomping at the bit.
+Accounting is the mathmetical, cold, unfeeling, paycheck-making part of the company that keeps any big megacorporation moving - with money. Accounting sets the bars and lays out what goals need met and where the company stands. Suffice to say, most other parts of the company are forced to take Accounting seriously, or be at risk in their own jobs. HR and Accounting tend to be joined at the hip in most systems and sectors, their work directly impacting the choices of the other, and accounting ordinarily chokes Asset Protection's chain when they start chomping at the bit.
 
 ####Asset Protection
 
