@@ -165,7 +165,54 @@ Directors and other leading figures of the Academies often being Qerr-Koal, they
 
 ### Military
 
-Skrell have a very Tau-esque military with various castes within it. Each has it's own function and together are a very powerful military. However, they are more fond of doing things in a tactical manner which lessens losses on both sides if possible. They have capable warships and military fract.
+The most common military forces seen in the skrellian territories are the local reserves of each City-State. In charge of the city’s defense, they also fill the role of law enforcement for the government. However, their small numbers coupled with the political independence of every City-State limits their capacity in time of war and general offensives against their enemies.
+
+To compensate this issue, the Skrell formed what they call the Skrellian Defense Task Forces. SDTFs are independent entities formed by several City-States who agree to pool an agreed quantity of resources and manpower for their common safety. Once such a group is formed, they gain full independence from their creators, although they are still informally bound to them as they need the City-States to procure them new workers and resources. Private corporations also have a part to play with the SDTFs, as they often pass contracts with them to sell equipment and ships at preferential prices. For the corporations, it is mostly a way to advertise themselves : The prestige of a partnership with a SDTF, along with the fact that such groups only acquire the best equipment, generally means a major boost in sales for them.
+
+Unsurprisingly, SDTFs are not ruled by Qerr-Katish, but by a Raskinta-Katish commander. They have, however, their own equivalent of a Qerr-Koal council, in the form of the high officers in charge of the various subsections of the organization.
+
+As for the recruitment, City-States provide the SDTFs with voluntaries from their respective City-States after which the military organization evaluates them under various criteria to decide how many of them will actually join the group. There is rarely a lack of volunteers for this task, though, as being a SDTF member entails a lot of advantages over a regular inhabitant of a city: Higher wages than with an equivalent ‘civilian’ job, priority when it comes to healthcare and education for their close family… Members of a SDTF also enjoy multi-citizenship across the various founding cities of the organization, a perk rarely enjoyed in civilian life and good enough to motivate most of the potential recruits.
+
+Contrary to what one might expect, the Raskinta-Katish only represent half to three quarters of a SDTF’s manpower. Kanin-Katish generally hold a strong presence in the task forces, but a smaller amount of Malish-Katish can be found working along their more physical brethren. A few Qerr-Katish work as diplomats and managers for the groups, while Talum-Katish are a very exceptional caste to be seen working in them, only for for rare, punctual tasks related to the SDTF’s public image.
+
+
+As for the castes, they take a more complicated shape within the skrellian military; while the main structure remains, they are subsequently divided into subcastes, themselves separated into smaller partitions to ensure every Skrell is performing their duty as a specialized, competent component of a greater machine. The subcastes are divided into the following components:
+Raskinta-Katish Sub-Castes
+
+  * Me’kerr-Ketish: Soldiers specialized in boarding operations and fighting in 0G, they are formed to perform lighting strikes, at their best in closed environments.
+
+  * Me’xoal-Ketish: The ground forces of a SDTF. Contrary to the Me’kerr-Ketish, they are formed for long range combat, patient and thorough in their actions.
+
+  * Qi’kerr-Ketish: The skrellian space and air forces. Heavily trained into hit and run operations, mostly as a support and diversion for the infantry.
+
+  * Qi’xoal-Ketish: The ground vehicles of a SDTF, their role is further divided into long range support to the infantry and as a lighting strike force for critical targets.
+
+Malish-Katish Sub-Castes
+
+  * Keloa-Ketish: Mostly fleet-based, this subcaste is in charge of the Research & Development projects of the SDTF, generally working closely with the group’s partners to improve and adapt their technology to the needs of the defense forces.
+
+  * Toglo’i-Ketish: Technical support for the Raskinta-Katish, these Malish-Katish often accompany them during operations to provide technical and medical support. As such, they often tend to adopt some traits of their military brothers.
+
+Kanin-Katish Sub-Castes
+
+  * Megloa-Ketish: Work in collaboration with the Keloa-Ketish in Research & Development. Their close contact with their intellectual kin tends to make them more inquisitive and individual-minded than the other Kanin-Katish.
+
+  * Xiqarr-Ketish: Fleet-based, they are in charge of maintaining the SDTF’s fleet and assets.
+
+  * Goxo’i-Ketish: Similarly to the Toglo’i-Katish, they handle technical support for the Raskinta-Katish, generally accompanying the Qi’xoal-Ketish for vehicle maintenance on the field, but also engaged into demolitions and communications operations along the Qi’xoal-Ketish. The similar mindsets of Kanin-Katish and Raskinta-Katish consequently improve their capacity for cooperation.
+
+
+The Qerr-Katish and Talum-Katish, too few in numbers, do not need and therefore do not have subcastes within the SDTFs. As for the subsequent divisions within the subcastes, they tend to differ from task force to task force, although some global patterns exist (separation of space and air forces within the Qi’kerr-Ketish, artillery and frontline vehicles within the Qi’xoal-Ketish…)
+
+
+Here are a few famous SDTFs found across history:
+
+  * Qerr’voal: A famous name within the Raskinta-Katish community, the Qerr’voal is the SDTF in charge of defending the Qerr’Vallis system, a task the military group has fulfilled with duty for the last 600 years. Despite the safety and stability of the system, many young Skrell of Qerr’balak and the surrounding colonies try to enter the prestigious organization in hopes to prove themselves worthy to their brethren.
+
+  * Pol’verria: A SDTF in charge of several systems at the border of the skrellian territories, this particular group is known for spearheading the war against the Kharmaani, putting a heavy strain on the SDTF’s resources. Now far smaller than in its golden days, they are still respected among the systems they protect, and the centuries of warfare against the Kharmaani gave them tactical insight that many other SDTFs would like to acquire.
+
+  * Qala’oa: Relatively recent, this particular group was funded shortly after the first contact between Skrell and humans. Patrolling several worlds at the border between the two species, this SDTF has, like the colonies it protects, started to slowly adopt human customs and views, for better and for worse. Still growing today, some expect it to become the largest SDTF of the skrellian territories within the next thirty years.
+
 
 ### Criminality
 
