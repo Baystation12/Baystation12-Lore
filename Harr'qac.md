@@ -5,12 +5,12 @@
 ![Symbol][1]
 
 * **Location**  -  Harr'qac, Harr'kelm system 
-* **Capital** - The University of Harr'qac, Government District 
+* **Capital** - The University of Harr'qac, Government District
 * Demonym - Harr'qacian 
 * Government - Republican confederacy 
-* Qerr -  Xilas Tal 
-* Qerr - Lowb Quac 
-* Qerr -  Ulaq Virr
+  * Qerr -  Xilas Tal 
+  * Qerr - Lowb Quac 
+  * Qerr -  Ulaq Virr
 * Discovery and colonization - c. 2300  
 * Population -  2,010,050,049
 * Created by: Superbee29 
@@ -31,13 +31,13 @@
 
 ### Religious makeup
 
-52% Xilar Quall
+72% Xilar Quall
 
-48% Atheist
+28% Irreligious
 
 ## History
 
-Skrell first found this planet 200 years ago (around 2300), on their research flight. They found smaller planet, with developed life. They first tried sending signals towards the planet, but when they got no response, they used their large-scale scanners and surveillance drones to search for any intelligent lifeform activity, like cities or industry. When they found nothing, they decided to colonise the planet, as it resembled Qerr'Balak. They have lived there since then.
+Skrell first found this planet about year 2300 on their research flight. They found smaller planet with developed life. They first tried sending signals towards the planet, but when they got no response, they used their large-scale scanners and surveillance drones to search for any intelligent lifeform activity, like cities or industry. When they found nothing, they decided to colonise the planet, as it resembled Qerr'Balak.
 
 ## Geography
 
@@ -51,7 +51,7 @@ Another unusual kind are the Xolm, microscopic ogranisms that are considered ani
 
 Space carp migrations happen once in a few years and carps sometimes find their way to the planet.
 
-## Skrell society
+## Skrellian society
 
 Caste system is very important for Skrell of this planet. However, it works slightly different than on Qerr'Balak and colonies close to it. A Skrell inherits the caste of his Qarr'Maqa. He is raised in the caste (this means clothing and representative stuff of the caste, some traditions,...). Then, when a Skrell becomes adult, he/she chooses a caste in which they want to live. Skrell choose their caste according to kind of work they desire, and this is not limited to one final choice. Caste borders are not that strong either. Two Skrell from completely different castes can bond, which implies multi-caste families. However, one can not just jump from one caste to another from one day to the other. In order for Skrell to enter the caste, they needs to pass caste-specific test (Qerr-Katish require ability to lead, Malish-Katish give you IQ test,...), which are there to prevent Skrell from entering random caste in which they have actually no interest. Because of caste changing, castes cannot be distinguished by skin color in this system, and they are only represented by clothing.
 
@@ -73,7 +73,7 @@ Harr'qac Skrell have built circular houses, which often have many entrances arou
 
 ## Government
 
-Similliarly to Qerr'Balak, there are many city-states governing themselves. However, when colonising the planet, Skrell chose to try a similliar yet new for of government. City-states on each continent are grouped together. Kings of these states elect a representative of their continent, called Qerr. This way, cities manage themselves, they decide about continent-wide things together and are represented by one Skrell for each continent when discussing global decisions. The three Qerrs meet in Government District of the University of Harr'qac.
+Similliarly to Qerr'Balak, there are many city-states governing themselves. However, when colonising the planet, Skrell chose to try a similliar yet new form of government. City-states on each continent are grouped together. Kings of these states elect a representative of their continent, called Qerr. This way, cities manage themselves, they decide about continent-wide things together and are represented by one Skrell for each continent when discussing global decisions. The three Qerrs meet in Government District of the University of Harr'qac.
 
 ## Education
 
