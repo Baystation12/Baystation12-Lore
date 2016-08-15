@@ -6,7 +6,7 @@
 
 * **Location**  -  Harr'qac, Harr'kelm system 
 * **Capital** - The University of Harr'qac, Government District
-* Demonym - Harr'qacian 
+* Demonym - Harr'qaci 
 * Government - Republican confederacy 
   * Qerr -  Xilas Tal 
   * Qerr - Lowb Quac 
@@ -52,7 +52,8 @@ Space carp migrations happen once in a few years and carps sometimes find their 
 
 ## Skrellian society
 
-Caste system is very important for Skrell of this planet. However, it works slightly different than on Qerr'Balak and colonies close to it. A Skrell inherits the caste of his Qarr'Maqa. He is raised in the caste (this means clothing and representative stuff of the caste, some traditions,...). Then, when a Skrell becomes adult, he/she chooses a caste in which they want to live. Skrell choose their caste according to kind of work they desire, and this is not limited to one final choice. Caste borders are not that strong either. Two Skrell from completely different castes can bond, which implies multi-caste families. However, one can not just jump from one caste to another from one day to the other. In order for Skrell to enter the caste, they needs to pass caste-specific test (Qerr-Katish require ability to lead, Malish-Katish give you IQ test,...), which are there to prevent Skrell from entering random caste in which they have actually no interest. Because of caste changing, castes cannot be distinguished by skin color in this system, and they are only represented by clothing.
+Caste system is very important for Skrell of this planet. However, it works slightly different than on Qerr'Balak and colonies close to it. Most importantly, a Skrell from Harr'qac can decide to switch to another caste of his preference. This is not always the case, as the castes act as subcultures specialized to certain tasks and values, and as such, the children are raised in the mindset of the particular caste. However, sometimes a young Skrell has views that are diamertrically different from his caste and because of this feels like he/she does not belong into the caste. In this case, he can formally switch his caste. This is however not done often, due to the freedom offered by the caste system itself.
+Because of the bondings where at least one of the Skrell switched his/her caste, and the switching itself, it may be harder to tell a particular Skrell's caste just by his/her skin color in some families.
 
 ### Family life
 
