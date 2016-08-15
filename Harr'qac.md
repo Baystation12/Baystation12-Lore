@@ -53,33 +53,38 @@ Space carp migrations happen once in a few years and carps sometimes find their 
 ## Skrellian society
 
 Caste system is very important for Skrell of this planet. However, it works slightly different than on Qerr'Balak and colonies close to it. Most importantly, a Skrell from Harr'qac can decide to switch to another caste of his preference. This is not always the case, as the castes act as subcultures specialized to certain tasks and values, and as such, the children are raised in the mindset of the particular caste. However, sometimes a young Skrell has views that are diamertrically different from his caste and because of this feels like he/she does not belong into the caste. In this case, he can formally switch his caste. This is however not done often, due to the freedom offered by the caste system itself.
+
 Because of the bondings where at least one of the Skrell switched his/her caste, and the switching itself, it may be harder to tell a particular Skrell's caste just by his/her skin color in some families.
 
 ### Family life
 
-Family life on Harr'qac is similliar to the one on Qerr'Balak. Harr'qacian Skrell are slowly adopting more monogamous form of family, however this is not mandatory and they are free to follow the Skrellian family traditions.
+Family life on Harr'qac is similliar to the one on Qerr'Balak. Harr'qacian Skrell tend to bond fewer times in life. In some families, there is a recent tendency to put Qrri'Baqa into more contact with each other to strenghten their familial relations.
 
 ## Cities
 
-Harr'qac Skrell have built cities, that, unlike on Qerrbalak, are not standing on stilts, but instead are directly on the ground. The cities are inside very solid glass sphere. There are also some caste-specific "cities", like military bases for Raskinta-Katish, large research centres for Malish-Katish or great Garden-cities for Talum-Katish. There is however no restricted access. Everyone can come to any of these to see what's going on there, how does it work, visit a gallery (probably only applies to Talum-Katish). It's just that they are dedicated to some kind of activity.
+Harr'qaci Skrell have built cities, that, unlike on Qerrbalak, are not standing on stilts, but instead are directly on the ground. The cities are inside very solid glass spheres.
+
+There are also some caste-specific cities, like military bases for Raskinta-Katish, large research centers for Malish-Katish or great Garden-cities for Talum-Katish. There is however no restricted access. Everyone can come to any of these for various reasons. The point is that the same way Skrell are divided into castes that focus on certain part of life of the society, some cities also focus on certain tasks. These are usually closer to other city-states and are supported and influenced by them.
 
 ### Raskinta-Katish
 
-Each Raskinta-Katish city has a very high tower in centre. These towers reach to very high areas of atmosphere and therefore need to be supported somehow. Each 100 metres, there are large propellers, three of them for each of this point. They propel air down, and that way, they make the whole tower more stable (without them would even the most advanced Skrell materials break and whole tower would fall down). These towers house large-scale planetary scanners to observe the planet below them, and also long-range scanners to observe space around the planet for any potential hazards. They also have variety of weaponry installed. Raskinta-Katish cities were able to monitor areas of planets without them, but Skrell have started to build these towers after their first encounter with space carp migration. Later, they've been generalized to defence agains any hazards coming from space.
+Each Raskinta-Katish city has a very high tower in centre. These towers reach to very high areas of atmosphere and therefore need to be supported somehow. Each 100 metres, there are large propellers, three of them for each of this point. They propel air down, and that way, they make the whole tower more stable (without them would even the most advanced Skrell materials break and whole tower would fall down). These towers house large planetary scanners to observe the planet below them, and also long-range scanners to observe space around the planet for any potential hazards. They also have variety of weaponry installed. Raskinta-Katish cities were able to monitor areas of planets without them, but Skrell have started to build these towers after their first encounter with space carp migration. Later, they've been generalized to defence against any hazards coming from space.
 
 ### Living
 
-Harr'qac Skrell have built circular houses, which often have many entrances around the ground floor. Usual living house for one family has 4 floors, the ground floor being entrance (since doors are at least on four sides), which can be also used for less private meetings, celebrations and stuff. First floor usually houses kitchen, living room and toilet. Second floor contains private rooms or offices and usually a toilet too. Third floor is mostly the same as second, but less usually has a toilet. In he middle of each floor, there is either an elevator or a staircase. On the top of houses, there are balconies, in which in some cases Skrell have little gardens. There's also a new trend currently, to build narrow metal bridges between balconies of houses with simillar height, if the inhabitants like each other.
+Harr'qaci Skrell build circular houses, which often have many entrances around the ground floor. Usual living house for one family has 4 floors, the ground floor being entrance (since doors are at least on four sides), which can be also used for less private meetings, celebrations and stuff. First floor usually houses kitchen, living room and toilet. Second floor contains private rooms or offices and usually a toilet too. Third floor is mostly the same as second, but less usually has a toilet. In he middle of each floor, there is either an elevator or a staircase. On the top of houses, there are balconies, in which in some cases Skrell have little gardens. There's also a new trend currently, to build narrow metal bridges between balconies of houses with simillar height, if the inhabitants like each other.
 
 ## Government
 
-Similliarly to Qerr'Balak, there are many city-states governing themselves. However, when colonising the planet, Skrell chose to try a similliar yet new form of government. City-states on each continent are grouped together. Kings of these states elect a representative of their continent, called Qerr. This way, cities manage themselves, they decide about continent-wide things together and are represented by one Skrell for each continent when discussing global decisions. The three Qerrs meet in Government District of the University of Harr'qac.
+Similliarly to Qerr'Balak, there are many city-states governing themselves. However, when colonising the planet, Skrell chose to try a similliar yet new form of government. City-states on each continent are grouped together. Qerr-Skria of these city-states elect a representative of their continent, called Qerr. This way, cities manage themselves, they decide about continent-wide things together and are represented by one Skrell for each continent when discussing global decisions. The three Qerrs meet in Government District of the University of Harr'qac.
 
 ## Education
 
-The most famous academy of Harr'qac is The University of Harr'qac. It's not located any any city, but it rather creates a city like any other itself. It's located on Korm. The university is taking almost whole island, with lots of parks, services, leisure areas... Since Harr'qac Skrell can decide which caste they will enter, the university gives opportunity to study anything, from any caste.
+The most famous academy of Harr'qac is The University of Harr'qac. It's not located any any city, but it rather creates a city like any other itself. It's located on the island of Korm. The university takes almost whole island, with lots of parks, services, leisure areas... It is supported by other cities, as the global government meets there.
 
-There are also smaller academies based in the city-states, which give the opportunity to study near home.
+Since Harr'qac Skrell can decide which caste they will enter, the university gives opportunity to study anything, from any caste.
+
+Same as on Qerrbalak, each city state also has its own academy.
 
 ## Economy
 
