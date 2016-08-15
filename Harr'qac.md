@@ -32,11 +32,12 @@
 ### Religious makeup
 
 72% Xilar Quall
+
 28% Irreligious
 
 ## History
 
-Skrell first found this planet about year 2300 on their research flight. They found smaller planet with developed life. They first tried sending signals towards the planet, but when they got no response, they used their large-scale scanners and surveillance drones to search for any intelligent lifeform activity, like cities or industry. When they found nothing, they decided to colonise the planet, as it resembled Qerr'Balak.
+Skrell first found this planet about year 2300 on their research flight. They found a smaller planet with developed life. They first tried sending signals towards the planet, but when they got no response, they used their large-scale scanners and surveillance drones to search for any intelligent lifeform activity, like cities or industry. When they found nothing, they decided to colonise the planet, as it resembled Qerr'Balak.
 
 ## Geography
 
@@ -72,7 +73,7 @@ Each Raskinta-Katish city has a very high tower in centre. These towers reach to
 
 ### Living
 
-Harr'qaci Skrell build circular houses, which often have many entrances around the ground floor. Usual living house for one family has 4 floors, the ground floor being entrance (since doors are at least on four sides), which can be also used for less private meetings, celebrations and stuff. First floor usually houses kitchen, living room and toilet. Second floor contains private rooms or offices and usually a toilet too. Third floor is mostly the same as second, but less usually has a toilet. In he middle of each floor, there is either an elevator or a staircase. On the top of houses, there are balconies, in which in some cases Skrell have little gardens. There's also a new trend currently, to build narrow metal bridges between balconies of houses with simillar height, if the inhabitants like each other.
+Harr'qaci Skrell often build circular houses, which often have many entrances around the ground floor. Usual living house for one family has 4 floors, the ground floor being entrance (since doors are at least on four sides), which can be also used for less private meetings, celebrations and stuff. First floor usually houses kitchen, living room and toilet. Second floor contains private rooms or offices and usually a toilet too. Third floor is mostly the same as second, but less usually has a toilet. In he middle of each floor, there is either an elevator or a staircase. On the top of houses, there are balconies, in which in some cases Skrell have little gardens. There's also a new trend currently, to build narrow metal bridges between balconies of houses with simillar height, if the inhabitants like each other.
 
 ## Government
 
@@ -81,8 +82,6 @@ Similliarly to Qerr'Balak, there are many city-states governing themselves. Howe
 ## Education
 
 The most famous academy of Harr'qac is The University of Harr'qac. It's not located any any city, but it rather creates a city like any other itself. It's located on the island of Korm. The university takes almost whole island, with lots of parks, services, leisure areas... It is supported by other cities, as the global government meets there.
-
-Since Harr'qac Skrell can decide which caste they will enter, the university gives opportunity to study anything, from any caste.
 
 Same as on Qerrbalak, each city state also has its own academy.
 
