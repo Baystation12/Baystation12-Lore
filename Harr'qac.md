@@ -41,7 +41,7 @@ Skrell first found this planet about year 2300 on their research flight. They fo
 
 ## Geography
 
-The planet consists of 40% ocean, but small lakes are very common, and planet itself seems nearly as humid as Qerrbalak. Some of surface consists of swamps and jungles, but most is more like temperate forests or grasslands, which are more humid, rainy, and generally, more water. There are three main continents. Between the three, there is an ocean called Kor'xil, in which quite large island Korm exists.
+The planet consists of 40% ocean, but small lakes are very common, and planet itself seems nearly as humid as Qerrbalak. Some of surface consists of swamps and jungles, but most is more like temperate forests or grasslands, which are more humid, rainy, and generally contain more water. There are three main continents. Between the three, there is an ocean called Kor'xil, in which quite large island Korm exists.
 
 ### Flora and fauna
 
