@@ -32,7 +32,6 @@
 ### Religious makeup
 
 72% Xilar Quall
-
 28% Irreligious
 
 ## History
@@ -41,13 +40,13 @@ Skrell first found this planet about year 2300 on their research flight. They fo
 
 ## Geography
 
-The planet consists of 40% ocean, but small lakes are very common, and planet itself seems nearly as humid as Qerrbalak. Some of surface consists of swamps and jungles, but most is more like temperate forests or grasslands, which are more humid, rainy, and gerally, more water. There are three main continents. Between the three, there is an ocean called Kor'xil, in which quite large island Korm exists.
+The planet consists of 40% ocean, but small lakes are very common, and planet itself seems nearly as humid as Qerrbalak. Some of surface consists of swamps and jungles, but most is more like temperate forests or grasslands, which are more humid, rainy, and generally, more water. There are three main continents. Between the three, there is an ocean called Kor'xil, in which quite large island Korm exists.
 
 ### Flora and fauna
 
 There are trees, simillar to Earth broadleaf forests, but their leaves are larger as they contain lots of water. Fungi are common too, sometimes growing to sizes of 3 metres. From animals, there are large mammals, called Friaq by Skrell, who feed on those large mushrooms, and therefore they only live in areas populated by them.
 
-Another unusual kind are the Xolm, microscopic ogranisms that are considered animals. They make a network of thin threads, which are however very strong. The networks are made of individual Xolm, who together behave as one larger animal. They are too small to be seen only by eye, but they move in the water, taking it with them. From outside, it seems like the part of water they live in was moving by itself. They usually make sphere-like networks. On one side, there are less threads and they can split at any time, forming a mouth-like hole. Using this, they swallow small animals or plants and then, when "mouth" is closed, they poison their victim and disassemble (digest) his body. They are often seen as balls of water, sometimes with a smaller fish, a leaf or something larger inside.
+Another unusual kind are the Xolm, microscopic organisms that are considered animals. They make a network of thin threads, which are however very strong. The networks are made of individual Xolm, who together behave as one larger animal. They are too small to be seen only by eye, but they move in the water, taking it with them. From outside, it seems like the part of water they live in was moving by itself. They usually make sphere-like networks. On one side, there are less threads and they can split at any time, forming a mouth-like hole. Using this, they swallow small animals or plants and then, when "mouth" is closed, they poison their victim and disassemble (digest) his body. They are often seen as balls of water, sometimes with a smaller fish, a leaf or something larger inside.
 
 Space carp migrations happen once in a few years and carps sometimes find their way to the planet.
 
