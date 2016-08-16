@@ -89,7 +89,7 @@ There are also some caste-specific cities, like military bases for Raskinta-Kati
 * **Qal-Si**  
   Located on a cliff. This city is known for many trading companies that originate from here, however, also for its higher than average amount of organized criminality. 
 * **Rel-Ma'xie**  
-  Known as being the largest Harr'qaci city, as there are plenty of resources nearby and the city's quality of life is considered quite high.
+  Known as being the largest Harr'qaci city, as there are plenty of resources nearby and the city's quality of life is considered quite high. There are farms around the city to support it and also many other city-states with food.
 * **University of Harr'qac**  
 
 ### Living
