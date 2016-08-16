@@ -31,8 +31,7 @@
 
 ### Religious makeup
 
-72% Xilar Quall
-
+72% Xilar Quall  
 28% Irreligious
 
 ## History
