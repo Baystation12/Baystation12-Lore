@@ -43,6 +43,8 @@ Skrell first found this planet about year 2300 on their research flight. They fo
 
 ![Map][2]
 
+*The map is somewhat illustrative.*
+
 The planet consists of 40% ocean, but small lakes are very common, and planet itself seems nearly as humid as Qerrbalak. Some of surface consists of swamps and jungles, but most is more like temperate forests or grasslands, which are more humid, rainy, and generally contain more water. There are three main continents. Between the three, there is an ocean called Kor'xil, in which quite large island Korm exists.
 
 ### Flora and fauna
@@ -68,6 +70,28 @@ Family life on Harr'qac is similliar to the one on Qerr'Balak. Harr'qacian Skrel
 Harr'qaci Skrell have built cities, that, unlike on Qerrbalak, are not standing on stilts, but instead are directly on the ground. The cities are inside very solid glass spheres.
 
 There are also some caste-specific cities, like military bases for Raskinta-Katish, large research centers for Malish-Katish or great Garden-cities for Talum-Katish. There is however no restricted access. Everyone can come to any of these for various reasons. The point is that the same way Skrell are divided into castes that focus on certain part of life of the society, some cities also focus on certain tasks. These are usually closer to other city-states and are supported and influenced by them.
+
+#### Notable cities
+
+* **Qrri'Mal**  
+  The academy of Qrri'Mal is widely known for its research endeavours, which mainly aim into space. This makes Qrri'Mal highly attractive for researchers. The city-state is currently funding the construction of a nearby large research facility.
+* **Skrriol**  
+  Known for the abundance of natural resources near the city, much of the material used on Harr'qac comes from Skrriol. This includes materials from both, above and below the ground.
+* **Vulx'Fi**  
+  One of the first colonised place on the planet. It is widely known for its beautiful landscapes and is a major tourist spot. Giant fungi and Friaq live more densely around this city.
+* **Kaux-Nira**  
+  Situated on a small island, it is a major trading port.
+* **Gor-Lo**  
+  A famous Talum-Katish Garden-city. About 60% of the population are Talum-Katish. Another major tourist destination. Apart from the gardens, there are multiple museums, theaters and other cultural localities in or near the city. It is said that even Qerr-Katish from nearby systems travel to Harr'qac just to visit Gor-Lo. Life in the city is slow-paced and calm.
+* **Nqli**  
+  Another famous scientific spot, Nqli academy researchers are most known for their work in the fields of genetics and neurology. There is a notable giant fungi concentration around the city and some scientists focus on their use as a food source.
+* **Scri'x**  
+  The wide plains of Scri'x were the first colonised area of Harr'qac. Today, Scri'x operates an important spaceport. One of the first ships to land on Harr'qac is standing in the city centre.
+* **Qal-Si**  
+  Located on a cliff. This city is known for many trading companies that originate from here, however, also for its higher than average amount of organized criminality. 
+* **Rel-Ma'xie**  
+  Known as being the largest Harr'qaci city, as there are plenty of resources nearby and the city's quality of life is considered quite high.
+* **University of Harr'qac**  
 
 ### Living
 
