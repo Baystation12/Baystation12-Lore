@@ -116,5 +116,15 @@ Water is not an issue on a world like Harr'qac. It is easily accessible and most
 
 Food is produced by variety of city-states, some of them large, such as Re-Ma'xie which exports food to city-states on every continent; some smaller, sustaining themselves and just one or two nearby city-states.
 
+### Natural resources
+
+Harr'qaci Skrell enjoy the abundance of many materials required for advanced industry and science. There are also jungles and forests, however several city-states have restricted woodcutting due to environmental reasons, therefore wood is more luxurious there and is imported from other city-states but also from other colonies.
+
+### Research
+
+Joint projects.
+
+### Tourism
+
 [1]: https://wiki.baystation12.net/images/thumb/c/c2/Harrqac.png/100px-Harrqac.png
 [2]: http://i.imgur.com/a2LTkue.png
