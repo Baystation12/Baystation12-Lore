@@ -1,4 +1,4 @@
-#So You Want to Learn About the Corporate World?
+﻿#So You Want to Learn About the Corporate World?
 
 Everything you'll encounter out in the Nyx System will probably have a label on it, from either NanoTrasen, Githari Exports, Hesphaistos Industries, one of the other Trans-Stellar Corporations, or even the Free Trade Union; marketing is everywhere. That is why you should know your ways around their inner workings, and what they're about. 
 
@@ -162,13 +162,6 @@ They are the creators of the Tradeband language, created specially for being a l
 ____
 ##Other Notable Corporations
 
-- **Empire of Sirisai Ministry of Foreign Affairs**
-
-While not a corporation in its own right, the Ministry of Foreign Affairs handles all the trade economical factors on an interstellar scale for the Empire of Sirisai. Formed thousands of years ago by Rameriti, it is a hulking beast of a ministry that shows extreme competence in spite of the size. Due to the palace economy of the Empire of Sirisai, no 'true' interstellar corporations exist in the Empire, and instead all production is done by the Ministry of Internal Affairs. The Ministry of Foreign Affairs takes these resources, and exports them to various markets. It essentially acts as a Resomi corporation would, except it is a fusion of all of them.
-
-It began trading with humanity soon after the first contact with Skrell, providing small medical imports here and there, but only recently within the few hundred years has it opened the floodgates. Due to the advanced technology available in the empire - life extension is a commodity not to be taken lightly, even in the face of cloning - it has began making incredible waves in markets traditionally dominated by the Free Trade Union. Providing both preassembled technology bits and basic materials such as bolts and screws, many corporations have come to rely upon the Empire of Sirisai for their pure manufacturing ability.
-
-In return, the Ministry of Foreign Affairs imports an incredible amount of raw materials, being any mining corporation's best friend. They currently have an exclusive deal for phoron with Nanotrasen that is also one of the largest non-Resomi employers for Resomi workers, working closely with the Ministry to form employment contracts and trade agreements.
 
 - **Inuvaios Eclestra**
 
