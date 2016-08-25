@@ -73,7 +73,7 @@ Once eligible for either assembly, human states and organizations need only peti
 
 ### What's the Universal Declaration of Rights?
 
-All right here, laid out for you: [Universal Declaration of Rights](https://baystation12.net/lore/URoD)
+All right here, laid out for you: [Universal Declaration of Rights](https://baystation12.net/lore/UDoR)
 
 ### The Charter
 
