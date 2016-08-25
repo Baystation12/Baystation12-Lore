@@ -73,7 +73,7 @@ Once eligible for either assembly, human states and organizations need only peti
 
 ### What's the Universal Declaration of Rights?
 
-All right here, laid out for you: (link will be provided)
+All right here, laid out for you: [Universal Declaration of Rights](https://baystation12.net/lore/URoD)
 
 ### The Charter
 
@@ -178,7 +178,7 @@ While in the past, the Colonial Marshals have handled intelligence gathering wit
 The Home Guard is an elite force made up of both SGDF and Marshal elements that provides physical security and law enforcement in Sol itself, including a special detatchment that protects the Secretary-General.
 ____
 
-## Who's Who, What's What, and Where is it? - People, Places, and Things
+## People, Places, and Things
 
 * Olympus, Mars:
 
