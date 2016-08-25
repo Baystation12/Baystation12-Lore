@@ -1,4 +1,4 @@
-﻿# Humans, Aliens, and Monsters Oh My!
+# Humans, Aliens, and Monsters Oh My!
 
 
 ##WHAT IS THAT THING!
