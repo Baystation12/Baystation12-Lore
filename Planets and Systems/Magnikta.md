@@ -2,7 +2,7 @@
  
 
 
- ![Flag of Magnitka][1] |
+ ![Flag of Magnitka][1] 
 
 
 * **Location**  -  Magnitka, Ursa System 
@@ -41,7 +41,7 @@ There are two big cities, surrounded by metropolitan areas, but the rest of popu
 
 ## History
 
-* 2356\. German corps, led by Hephaestos Industries, needed even more iron ore MORE iron ore, so they shipped some poor labour to this planet with some prefabs and drills. When price of iron ore dropped due to technological advances, another source of income was found - selling land to corporations for test sites and planetside research facilities.
+* 2356\. German corps, led by Hephaestus Industries, needed more iron ore, so they shipped some poor labour to this planet with some prefabs and drills. When price of iron dropped due to technological advances, another source of income was found - selling land to corporations for test sites and planetside research facilities.
 * 2529\. Eventually an incident with an (accidental) viral leak from NT-owned facility 25 years ago triggered a classic slavic riot, which turned into typical civil war, with lots and lots of atrocities.
 * 2534 After few years of fratricide, most eager rebellion leaders were taken out by mercenary strike teams hired by corps who feared nationalization. Headless rebels were eventually wiped out by the loyalist forces, and several laws restricting (mostly in name) corporate facilities were passed to appease the population.
 
