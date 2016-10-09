@@ -8,7 +8,7 @@ ____
 
 **Naming**
 
-In order to communicate better with multi-species crews, most Tajara have taken middle-eastern names. Due to their facial anatomy, sharp-lip based mora tend to be less present.
+Tajara names tend to use a lot of r, n, m and h, with the occasional j and g. Tajara names also tend to have a lot of pauses, example: Mikam Ja'hmka.
 
 **Biology**
 
@@ -34,7 +34,7 @@ All medical equipment aboard NanoTrasen vessels will be compatible with Tajara b
 
 Tajara have a strong tendency towards loyalty and cooperation from their old slavemaster regime. Younger Tajara tend to be a lot more forward and expressive than their older counterparts, this is due to travel and education becoming more accessible. Tajara that are older than fifty years old tend to be less educated. This means that there is a massive educational gap and other such things are also fairly large. Tajara have a just as wide emotional range as humans, but older ones tend to show less of it. 
 
-It is advisable for staff to make use of the loyalty and cooperation in their line of work. NanoTrasen does not openly advocate for non-human or -skrell command staff, but it is acceptable. A Tajara would have to work very hard and be extremely humble to have a shot at becoming a command member. However, a Tajara captain is not acceptable in any way. 
+It is advisable for staff to make use of the loyalty and cooperation in their line of work. Tajara are incapable of being heads of staff of any kind due to NanoTrasen Incorporated policy.
 
 ## The People of Ahdomai
 
@@ -79,7 +79,7 @@ El-A'hum - Thin cuts of the Elu'a Eil smoked with the wood and leaves of the San
 
 **Language**
 
-Siik'maas is the traditionally employed tongue on Ahdomai, and it was originally enforced by the old slavemaster regime. Though it is also spoken by humans, humans struggle with several words and pronunciations being physically impossible due to the human mouth; S turns on to sh and they would speak broken, missing out on certain words. Siik’maas is completely auditory. 
+Siik'maas is the traditionally employed tongue on Ahdomai, and it was originally enforced by the old slavemaster regime. Though it is also spoken by humans, humans struggle with several words and pronunciations being physically impossible due to the human mouth; S turns on to sh and they would speak broken, missing out on certain words. Siik'maas is completely auditory. 
 
 Siik'tajr is a formerly used informal pseudo sign language used by the lower class. It is partly auditory, but it is mostly spoken with tail movements, making it impossible for a human or any non-tailed creature to speak this language. It was seen as quite rude to speak this language in front of people/Tajara that didn’t speak Siik’tajr. 
 
