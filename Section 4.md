@@ -6,6 +6,7 @@ As population has grown, so has the need for more land. As technology has progre
   * [Luna](https://baystation12.net/lore/Planets-and-Systems/Luna)
   * [Mars](https://baystation12.net/lore/Planets-and-Systems/Mars)
   * [Phobos](https://baystation12.net/lore/Planets-and-Systems/Phobos)
+  * [Ceres](https://baystation12.net/lore/Planets-and-Systems/Ceres)
 
 ## Nyx
 
