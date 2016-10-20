@@ -4,7 +4,7 @@
 
 **Today**
 
-While publicly, the Resomi Empire is still powerful, it is in decline. A synthetic uprising that took place almost a hundred years ago resulted in the collapse of much of the Empire's infrastructure and technology. The government has resorted to totalitarian control over what it has left, and those in the know understand that the Empire's days are numbered. While curious explorers and border incursions are still turned back by warships for the, the wolves are circling.
+While publicly, the Resomi Empire is still powerful, it is in decline. A synthetic uprising that took place almost a hundred years ago resulted in the collapse of much of the Empire's infrastructure and technology. The government has resorted to totalitarian control over what it has left, and those in the know understand that the Empire's days are numbered. While curious explorers and border incursions are still turned back by warships for the time being, the wolves are circling.
 
 ### Physiology
 
