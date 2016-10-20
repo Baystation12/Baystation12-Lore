@@ -181,4 +181,4 @@ The Resomi Empire has few official diplomatic contacts, considering it beneath t
 * Vox Shoals: At War; Vox are seen as aggressive, violent creatures that prey on Resomi without mercy. Vox consumption of living Resomii do not help this image.
 * Ahdomai: No contact.
 * Moghes Hegemony: No contact .
-* The Positronic Union: No formal contact, but presence known; being Synthetics of non-Resomi origin they are considered, but no conflict has been recorded as of yet due to distance.
+* The Positronic Union: No formal contact, but presence known; being Synthetics of non-Resomi origin they are considered dangerous, but no conflict has been recorded as of yet due to distance.
