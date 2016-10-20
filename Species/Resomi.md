@@ -104,7 +104,7 @@ Before the Fall, education was freely available through tutoring AIs, and appren
 
 Today, education has no synthetic assistance, and the demise of family professions has put an end to apprenticeships. Resomii are taught in part by their families, and after turning 2, are required to attend an Imperial Academy of Learning near their place of habitation. Acadmies teach a standardized curriculum of basic math, language, and science, as well as a healthy amount of the imperial religion and official history. After eight years of Academy, Resomi youths spend another four learning their trade from injured or retired members of that field before entering the workforce.
 
-Being a society based on social norms and politeness, several behaviors are fairly common, at least among imperial Resomii. Breach of the rules of courtesy is considered social suicide when done in front of a superior. When greeting another in a formal setting, a Resomi is expected to turn their head and expose their neck with their mouth closed, as a gesture of trust. A Resomi who is subordinate to the person they are greeting should turn their head to the right, and a superior should turn their head to the left. Similarly, greetings between friends, such as a wave of a wing, follow a similar right and left pattern, waving with the right wing is a gesture of respect, and waving with the left, an insult.. Though much history has been lost since the Fall, one theory is that the head turn was used to show that you trusted an opponent would not bite if given the opportunity. Another, less reputable tale suggests that an ancient king had a crippled wing, and could only wave with his right, and that his people returned the wave as a gesture of respect. In either case, knowledge of proper courtesy is vital for manuvering in imperial society. It is considered extremely rude to point or gesture with a tail, so they are largely kept low and out of sight when not in use. Touching of tails is considered an intimate gesture, not appropriate for public spaces.
+Being a society based on social norms and politeness, several behaviors are fairly common, at least among imperial Resomii. Breach of the rules of courtesy is considered social suicide when done in front of a superior. Social customs are common both in verbal communication and body language. It is considered extremely rude to point or gesture with a tail, so they are largely kept low and out of sight when not in use. Touching of tails is considered an intimate gesture, not appropriate for public spaces. When greeting another in a formal setting, a Resomi is expected to turn their head and expose their neck with their mouth closed, as a gesture of trust. A Resomi who is subordinate to the person they are greeting should turn their head to the right, and a superior should turn their head to the left. Similarly, greetings between friends, such as a wave of a wing, follow a similar right and left pattern, waving with the right wing is a gesture of respect, and waving with the left, an insult.. Though much history has been lost since the Fall, one theory is that the head turn was used to show that you trusted an opponent would not bite if given the opportunity. Another, less reputable tale suggests that an ancient king had a crippled wing, and could only wave with his right, and that his people returned the wave as a gesture of respect. In either case, knowledge of proper courtesy is vital for manuvering in imperial society. 
 
 **Food and Drink**
 
@@ -172,7 +172,7 @@ Unaffiliated Resomi colonies, both refugee and lost, have technology that imperi
 
 Considering that many of these colonies have many generations between the youth of today, and the refugees of the past, colonial Resomii tend not to get along well with recent escapees. Imperial Resomii, even refugees, are seen by "freeborn" Resomii as arrogant and close-minded. Whereas recent refugees would see Resomii from outside the Empire as primitive, or even mentally slow. Natives of colonies that have been cut off since the Fall have mannerisms more common in the Republic, like family apprenticeships, democratic governance, and even cooperation with AI. On the other hand, a colony devastated by the Fall may be even harder, and more hateful of synthetics, having had to do extreme things to survive.
 
-### Relationships
+## Relationships
 
 The Resomi Empire has few official diplomatic contacts, considering it beneath them, however Resomi outside the Empire, and those who have fled it are willing to negotiate and live alongside their neighbors. Resomii who have recently escaped the Empire are generally wary of their new situation, but likely are trying their best to blend into their new home. Those "freeborn" Resomii who were born outside of imperial control tend to be more comfortable with other species, and don't share as much culture with their imperial fellows.
 
@@ -184,3 +184,33 @@ The Resomi Empire has few official diplomatic contacts, considering it beneath t
 * Ahdomai: No contact.
 * Moghes Hegemony: No contact .
 * The Positronic Union: No formal contact, but presence known; being Synthetics of non-Resomi origin they are considered dangerous, but no conflict has been recorded as of yet due to distance.
+
+## People, Places, and Things
+
+**Inside the Empire**
+
+* Emperor's Palace, Sirisai: 
+
+Formerly part of the larger parlimentary complex during the time of the Republic, the Emperor's Palace is one of the few pre-Fall structures that survived largely intact, and now houses not only the Emperor's residence, but the residences of the Ministers as well. It is immediately adjacent to the Hall of Governance, where the Emperor and Ministers meet to discuss matters of state.
+
+* Sae, A'neech:
+
+The first planet to be colonized after leaving Sirisai, Sae is significantly warmer, and is closer to A'neech. In the days of the Republic, Sae was industrialized, and was responsible for a sizeable portion of Resomi manufacturing. Almost the entirety of the planet was densely populated before the Fall, but in order to consolidate resources, most urban centers are now entirely on the southern continent, where the climate is more agreeable to Resomii.
+
+* Sitinilla's Fall, A'neech:
+
+Originally named Theechu, Sitinilla's Fall was the third habitable world in the A'neech system. A garden paradise by Resomi standards, Theechu was the jewel of the Republic, a center of art and science. Prior to the Fall, it was well on its way to becoming a de facto capital, being the site of the first Resomi gateway. Unfortunately, during the early days of the AI malfunction, Theechu was selected to be a site for attempted negotiations with the rogue synthetics. A relatively unknown admiral in the Resomi Fleet, Sitinilla, invited the malfunctioning AIs of three of his vessels to meet with him on the planet. It is unknown if the Admiral ever made it to the meeting, because while one of the ships was transferring its AI to the surface, shots were exchanged with Resomi vessels. Within moments, the AIs already on the planet had assumed control of as much technology as they could, and began a systematic, worldwide attack on Theechu. Unwilling to risk contamination of any other planets in A'Neech, the military decided the only course of action left was to sterilize the planet. The remains of Theechu, now dubbed Sitinilla's Fall, sit as an ashen reminder of what negotiation with synthetics leads to.
+
+* Eneech, Rishalla Major
+
+The largest colony outside of A'neech, Eneech is an agricultural center, with a large amount of land suitable for livestock. Due to the isolation from the Empire, a large garrison is kept to prevent too many rumblings of independence. Resomii from Eneech tend to be more used to solitary life, though there are many jokes about how "close" they are with their herds.
+
+* The Unity Station for Glorious Commerce
+
+Typically shortened to "Unity Station," this outpost is the largest official border station of the Resomi Empire. Built to facilitate trade with the Skrell, Unity Station isn't a popular destination for most imperial Resomii, who tend to do their business and leave. While Humans are technically allowed aboard, they aren't permitted to trade with Resomii, and either use Skrell middlemen, or make illegal sales or purchases.
+
+**Outside the Empire**
+
+* Wrath, Eremus
+
+To the Resomii unfortunate enough to be picked up nearby, Eremus is an unwelcoming home. Orbiting Golgenna, Eremus is a non-aligned closer to imperial space than most other Human colonies. Resomii arriving, if they aren't snapped up by the planet's indigenous wildlife, tend to gravitate to Wrath, a Resomi-only community near the northern polar ice cap. Still warmer and wetter than most Resomii are comfortable with, Wrath nonetheless has something that many Resomi Ghettos do not, independence. With no central government, the Wrathers govern themselves, with their own laws and customs. While often harried by raiders and theives, Resomii on wrath consider themselves above their Human neighbors, and have eked out a spartan living, holding to to the old ways, and imperial customs. Younger Resomii from Wrath often join up with Trans-Stellars to seek fortune elsewhere.
