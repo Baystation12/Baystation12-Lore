@@ -22,9 +22,9 @@ a proud race of reptilians hailing from the desert planet of [Moghes](https://ba
 
 A newer addition to the galactic community from [Ahdomai](https://baystation12.net/lore/Planets-and-Systems/Ahdomai), the Tajara are a form of cheap labor throughout the stars, and they haven't been found to do much else. For a long time until a revolution took place they were ruled over by a class known as the "Slavemasters" and in recent years finally made it on their own into the stars, but society is still very divided for them. They're based around family, traditions, and hard work.
 
-[**Resomi**](http://baystation12.net/lore/Species/Resomi)
+[**Resomii**](http://baystation12.net/lore/Species/Resomi)
 
-The Resomi are a dimunitive race of what can be best described as raptor-birds. Firmly based around The Pack, the Resomi were once a powerful Solar Empire, but after a near apocalyptic event known as "The Crash" they have fallen from graces, and further and further into dystopia and autocracy, with many Resomi escaping from the totalitarian government and into the lands of Humanity and Skrellian as refugees
+The Resomii are a dimunitive race of technologically advanced, saurian-like bipeds. United, willingly or otherwise, under the banner of the Resomi Empire, the Resomii were once a powerful Interstellar Empire, but after a near apocalyptic event known as "The Fall" their society is in decline, and continues to slide further and further into dystopia and autocracy. Many Resomii escape from the totalitarian government and into the lands of Humanity and the Skrell as refugees.
 
 [**Dionaea**](http://baystation12.net/lore/Species/The-Dionaea)
 
