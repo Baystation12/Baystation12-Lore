@@ -7,7 +7,7 @@
 * **System**: Re'eshi (SolGov designation Haron)
 * **Location**: Zer'een
 * **Government**: Tribal Oligarchy
-***Head of Government**: High Priest Yecki
+* **Head of Government**: High Priest Yecki
 * **Population**: Approximately 400
 * **Official Language(s)**: Schechi (Spoken with a harsh rural accent)
 * **Demonym**:  Sav, plural Saveelian
