@@ -91,4 +91,4 @@ This would be an interesting feature of some kind, like a natural or man made sa
 
 
 
-[1]: http://orig15.deviantart.net/be65/f/2013/291/5/6/snowy_fantasy_landscape_painting__ruined_village_by_sygardner-d6qyj03.jpg //
+[1]: http://orig15.deviantart.net/be65/f/2013/291/5/6/snowy_fantasy_landscape_painting__ruined_village_by_sygardner-d6qyj03.jpg
