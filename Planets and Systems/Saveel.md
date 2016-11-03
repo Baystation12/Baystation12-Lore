@@ -44,7 +44,7 @@ Against the recommendations of the Council of Elders, the tribe would trade with
 
 
 ## Government and Politics
-Saveelian politics are heavily influenced by the Council of Elders, a body of the oldest 34 Resomii in the colony; they are seen as the wisest and most competent of all the colony. The High Priest still holds a great deal of power, and the stronger High Priests in history have called the shots. They are the only Resomii who are supposedly able to speak directly to God, and the Deliverer. As the conduit of divine will, it is unwise for a Council to overrule the High Priest if they value their positions and sometimes heads. In the religious hierarchy of the colony, the Elders act like disciples or ministers, spreading the will of the High Priest. Spiritual services held often, at least once a month, and other special times like holidays, deaths, or births. Many from the colony ask the High Priest for guidance when needed, and see them as a member of their families. If the current leader were to die the Council of Elders would hold elections within their midsts to find a replacement. Alongside religious duties, the High Priest is responsible for education and record keeping, meaning they control the information and history of the colony, as well as teach hatchlings before they take apprenticeships in the community.
+Saveelian politics are heavily influenced by the Council of Elders, a body of the oldest 34 Resomii in the colony; they are seen as the wisest and most competent of all the colony. The High Priest still holds a great deal of power, and the stronger High Priests in history have called the shots. They are the only Resomii who are supposedly able to speak directly to God, and the Deliverer. As the conduit of divine will, it is unwise for a Council to overrule the High Priest if they value their positions and sometimes heads. In the religious hierarchy of the colony, the Elders act like disciples or ministers, spreading the will of the High Priest. Spiritual services held often, at least once a month, and other special times like holidays, deaths, or births. Many from the colony ask the High Priest for guidance when needed, and see them as a member of their families. If the current leader were to die the Council of Elders would hold elections within their midsts to find a replacement. Alongside religious duties, the High Priest is responsible for education and record keeping, meaning they control the information and history of the colony, as well as teach hatchlings before they take apprenticeships in the community. One member of the Council is always the "Chief Maker," who is the descendant of one of the original engineers the Deliverer brought, and is the only Sav that knows how to maintain the colony's remaining technology. Each Chief Maker passes their knowledge down to one of their children, a hereditary line that has remained unbroken for the colony's entire history.
 
 ### Foreign Relations
 Re'eshi is outside of any claimed space for the time being, and is far enough from other trade routes or stellar clusters that it is likely to remain that way. It is not known if the Empire is aware of Saveel Colony, and if it is, it has made no attempts to contact the Saveelians. The closest major interstellar powers are the Confederacy of Man and Ahdomai, though neither have shown much interest in the system.
@@ -57,19 +57,20 @@ Law enforcement is limited to a handful of Resomii responsible for guarding the 
 The Colony of Saveel itself is located in a wooded valley on the larger of two southern continents, largely sheltered from winter windstorms, and has grown to cross a river that runs through the valley. The valley itself has been largely converted into farmland, growing a variety of tundra crops and feeding the local livestock. Hunting parties can range hundreds of miles in search of prey, including to the southern pole, and further north into warmer climates.
 
 ### Climate
-Weather and seasons, possibly even time of rotation and orbit if a planet or moon.
+Saveel is located past the southern polar circle of Zer'een, and only experiences minor climate shifts throughout the year. Temperatures remain below 0 degrees Celcius for almost half of an orbit. During the winter, sunlight is only visible for a few hours a day, leaving the colony pleasantly dark, for Resomii anyway, for much of the year. During summer, temperatures hover around 4 to 5 degrees Celcius, and rain is known during particularly warm years. Snowfall is typically light to moderate in the valley thanks to its mountain walls, allowing for some clear tundra farmland. 
 ### Terrain
-Common terrain features or unique things about the location.
+Because of the long periods of freezing temperatures during the year, the river through the middle of the valley and colony is frozen to a depth of about a meter, meaning that Saveelians can only access fresh water from the waterfall at the head of the valley, or at certain points where the river is fast enough to avoid freezing. Otherwise they must cut a channel into the ice in order to get water.
 
 ## Culture
-What kind of culture or traditions are present? Is there any ethnic tradition that has continued?
+Saveelian culture only tangentially reflects modern imperial culture, or the culture of the Republic. Saveelians are more akin to prehistoric, tribal Resomii. Apprenticeships are still present, though often more for trades like blacksmith, or hunter, with little technical knowledge remaining. Courtesy rituals remain, though typically only for meeting the Elders or High Priest. Otherwise, Saveelians tend to be savage, and crass compared to other Resomii, making it hard for outsiders, even Resomii, to blend with the culture.
 
 ### Entertainment
-What do your people do for fun?
+Like their imperial cousins, Saveelians still play Wingball, albeit in a primitive fashion. An inflated bovine organ is used as a ball, and alongside wings, players are also permitted to use long paddles to assist with lift, considering the slightly higher gravity on Zer'een. Because striking with paddles is permitted, Saveelian Wingball can get rough, and broken bones are not uncommon. Matches are often the scene of betting using meat, weapons, or crafts. These matches can be huge events, with most of the colony in attendence in a stadium hewn from the rock outside the colony. The High Priest sits as the guest of honor at these matches, sometimes serving as an honorary referee.
 
 ## Economy
-* **Imports**: What does it sell?
-* **Exports**: What does it buy?
+* **Imports**: Modern weaponry, power generators, raw materials for smithing, agricultural technology.
+* **Exports**: Exotic foodstuffs, trinkets, historical documents and curiosities.
+Trade within the colony uses the barter system
 How is money made? Is it a major trade hub? Are more people rich or poor? Is there a corporation attached to the location?
 
 ## Science and Technology
