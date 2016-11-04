@@ -1,6 +1,11 @@
+# Resomii
+
+
+![Reference Picture][1]
+
 ## Overview
 
-*The Resomi {Re-zoh-mee} are a species of technologically advanced, bipedal saurians who developed on the planet Sirisai, a tundra world in far orbit around the star A'neech, on the opposite side of Skrellian territory from Sol. Resomi society is collectivist, organized into countless units based on profession and function, with each person jockeying for position and elevation in status. While most Resomii live inside the Resomi Empire, the Resomii that will be encountered in-game will at best be recent refugees from the Empire, and may be several generations removed from imperial citizenship. Due to the repressive nature of the government, and limited information, most of this knowledge won't be known by outsiders, and many Resomii.*
+*The Resomii {Re-zoh-mee} are a species of technologically advanced, bipedal saurians who developed on the planet Sirisai, a tundra world in far orbit around the star A'neech, on the opposite side of Skrellian territory from Sol. Resomi (Plural Resomii) society is collectivist, organized into countless units based on profession and function, with each person jockeying for position and elevation in status. While most Resomii live inside the Resomi Empire, the Resomii that will be encountered in-game will at best be recent refugees from the Empire, and may be several generations removed from imperial citizenship. Due to the repressive nature of the government, and limited information, most of this knowledge won't be known by outsiders, and many Resomii.*
 
 **Today**
 
@@ -222,3 +227,7 @@ To the Resomii unfortunate enough to be picked up nearby, Eremus is an unwelcomi
 * The Birdcage, Colchis Habitat
 
 Located in orbit around Jicama, Colchis Habitat was an officially designated receiving point for some of the first Resomi Refugees in 2550. After the refugee camp was closed to new entrants, funding decreased, and SolGov handed security over to station administration. While relations with other station inhabitants have never been pleasant, deteriorating conditions in Habitation Module C, or "The Birdcage", have led to increased xenophobic tension. Many Humans aboard Cochis blame the Resomi for an increase in crime, and as a result, the Resomii living there have largely been forced to remain in their own module. Work is scarce, with many Resomii selling their expertise to passing ships in exchange for a ticket away.
+
+
+
+[1]: https://baystation12.net/forums/proxy.php?image=https%3A%2F%2Fpuu.sh%2FrHfST%2Fa38848b8b7.jpg&hash=bff446a93070723be182f80219800f00
