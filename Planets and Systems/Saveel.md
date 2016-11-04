@@ -17,7 +17,7 @@
 
 ### Species makeup
 
-99% Resomi 
+99% Resomi
 1% Other
 
 ### Religious Makeup
