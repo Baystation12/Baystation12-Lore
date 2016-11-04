@@ -18,11 +18,13 @@
 ### Species makeup
 
 99% Resomi
+
 1% Other
 
 ### Religious Makeup
 
 97% Faith of the Deliverer (Tribal)
+
 3%  Other (Outcasts or Visitors)
 
 ___
