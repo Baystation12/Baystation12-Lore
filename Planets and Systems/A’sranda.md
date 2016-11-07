@@ -82,6 +82,7 @@ The National Army of A’sranda is a small organization, consisting of only arou
 ## Geography
 * **Resources**: A’sranda has an abundance of natural resources, mostly metals and precious gemstones. The planet has high amounts of naturally occuring platinum, uranium, iron, gold, and silver throughout its crust.
 * **Flora and Fauna**: Most of the wildlife on A’sranda is native to the planet. Wildlife and vegetation has reclaimed most of the ruined cities of pre-Fall A'sranda. Unusual for a planet of its size, A'srandian flora and fauna are on average smaller than similar species, fitting for the Resomi inhabitants, but off-puting for many visitors.
+
 A’sranda is a world of many mountains and few lakes. It lies closer to the goldilocks zone than Sirasi but is a cold world with many peaks and heavy tectonic activity. The Resomi population lies almost entirely on the northern hemisphere of the planet, but a few cities dot the generally warmer regions of the southern hemisphere. A single ocean runs almost from pole to pole, but is completely bordered by land. A'sranda's most interesting feature on a planetary scale is its geomagnetic field, with is unusually strong. This accompanies a dense ionosphere and upper atmosphere, meaning that less solar radiation reaches the surface, resulting in smaller plants and animals. However, this magnetic field has also protected A'sranda, both from the prying eyes of outsiders, and from the nuclear detonations in its past.
 
 ### Climate
@@ -98,6 +99,7 @@ Wingball is enjoyed by much of the planet, and a thriving planetary circuit enra
 ## Economy
 * **Imports**: Machinery, technology, laser weaponry, rare materials, engineering expertise.
 * **Exports**: Raw materials and skilled labor.
+
 Money is made on A’sranda only in two ways: hard work or inheritance. The planet is not a major trade hub yet but commerence is growing at a rapid pace. NanoTransen has plans to expand its trade outpost, and several other Trans-Stellars have expressed interest in building stations in orbit. Most Resomii on A’sranda are part of the lower class, miners or craftsmen. A small middle class exists, but the upper class is mostly in control of the money.
 
 
