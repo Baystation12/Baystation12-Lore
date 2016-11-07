@@ -20,13 +20,13 @@
 99.9% Resomi
 0.1% Other
 
-### Species (Non Citizenry/visitors/Illegal miners)
+### Species (Non Citizenry/Visitors/Illegal miners)
 
 60% Human
 30% Tajaran
 10% Other
 
-### Religion (If applicable)
+### Religion
 
 Pre-Fall Religion (44%)
 “Echos of the Mountain” (23%)
