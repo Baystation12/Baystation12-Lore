@@ -18,22 +18,28 @@
 ### Population
 
 99.9% Resomi
+
 0.1% Other
 
 ### Species (Non Citizenry/Visitors/Illegal miners)
 
 60% Human
+
 30% Tajaran
+
 10% Other
+
 
 ### Religion
 
 Pre-Fall Religion (44%)
-“Echos of the Mountain” (23%)
-Belief that the mountains are holy and that through meditation, one can become one with one by “Tuning in” with their senses.
-“Lights of the Skies” (14%)
-Belief that the stars are holy. The unpolluted atmosphere of A’sranda allows for breathtaking stargazing at night. Some believe since the Resomi came from the stars, they should return to them.
+
+“Echos of the Mountain” (23%) Belief that the mountains are holy and that through meditation, one can become one with one by “Tuning in” with their senses.
+
+“Lights of the Skies” (14%) Belief that the stars are holy. The unpolluted atmosphere of A’sranda allows for breathtaking stargazing at night. Some believe since the Resomi came from the stars, they should return to them.
+
 Other/Cults (5%)
+
 Agnostic/No Religion (14%)
 
 
