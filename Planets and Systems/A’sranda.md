@@ -80,9 +80,6 @@ A'sranda is only tentatively making steps to communicate with the rest of the in
 The National Army of A’sranda is a small organization, consisting of only around 70,000 Resomii. Its main units use modified mining exosuits to deal with any conflicts that arise. More recently they have found themselves tasked with locating and capturing any unauthorized visitors from offworld. Otherwise, small police forces keep the peace in their own cities, often using similarly modified exosuits.
 
 ## Geography
-
-![A Randian Valley][2]
-
 * **Resources**: A’sranda has an abundance of natural resources, mostly metals and precious gemstones. The planet has high amounts of naturally occuring platinum, uranium, iron, gold, and silver throughout its crust.
 * **Flora and Fauna**: Most of the wildlife on A’sranda is native to the planet. Wildlife and vegetation has reclaimed most of the ruined cities of pre-Fall A'sranda. Unusual for a planet of its size, A'srandian flora and fauna are on average smaller than similar species, fitting for the Resomi inhabitants, but off-puting for many visitors.
 A’sranda is a world of many mountains and few lakes. It lies closer to the goldilocks zone than Sirasi but is a cold world with many peaks and heavy tectonic activity. The Resomi population lies almost entirely on the northern hemisphere of the planet, but a few cities dot the generally warmer regions of the southern hemisphere. A single ocean runs almost from pole to pole, but is completely bordered by land. A'sranda's most interesting feature on a planetary scale is its geomagnetic field, with is unusually strong. This accompanies a dense ionosphere and upper atmosphere, meaning that less solar radiation reaches the surface, resulting in smaller plants and animals. However, this magnetic field has also protected A'sranda, both from the prying eyes of outsiders, and from the nuclear detonations in its past.
@@ -134,4 +131,3 @@ The local name for the original colonial cities, these once grand monuments to t
 
 
 [1]: http://vignette2.wikia.nocookie.net/the-titans-rp-and-information/images/a/a4/Rocky_planet_by_staugustus.jpg/revision/latest?cb=20140826035902
-[2]: https://imgaf.s3.eu-central-1.amazonaws.com/public/artwork/products/844224/poster/nydenion-planet-new-anchorge.jpg?1329908331
