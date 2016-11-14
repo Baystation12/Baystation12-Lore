@@ -135,7 +135,7 @@ Wingball is a sport popular among young and old Resomii across society. One of t
 
 ### Religion and the Emperor
 
-WAITING FOR SNAPSHOT, PRAISE BE TO THE GOD-EMPEROR OF RESOMI-KIND
+Pre-Fall, a variety of beliefs were spread across the Republic, and while some Resomii were atheist or agnostic, most belonged to the Faith of the Chosen, a polytheistic religion consisting of fourteen deities, each governing some aspect of life. According to the Faith, the Gods guide their chosen people, the Resomii, and created the galaxy for them to inhabit. During the Fall, many Resomii doubted their faith, and the protection of the Gods, some turning from religion altogether. However, as society pulled itself back together, Resomii across the newly founded Empire turned to their savior, Rameriti, and saw living proof that the Gods would not allow the chosen people to fall. Many chapters and sects of the Faith now believe that Rameriti is either a living manifestation of one of the Gods, or has been granted divinity for his heroism. Today, as Rameriti approaches his hundredth hatchday, his reputation as an immortal guardian grows among the religious members of society.
 
 ### Government
 
