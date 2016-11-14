@@ -32,6 +32,7 @@ ___
 ## History
 * **Discovered**: 2472
 * **Founded**: 2473
+
 The founder of Saveel was a merchant of Sirisai; their name is now lost to time replaced by the title: Deliverer, or in Schechi, Riki'kiaka. They are seen as almost a prophet that lead the Sav to their holy-land. The Deliverer stumbled upon Zer’een during the year 2472. Their ship’s engine had malfunctioned, causing an emergency landing. Stumbling out of their damaged vessel, the crew found an undiscovered world, blanketed in snow, and teeming with wildlife. The crew set up a brief shelter while their engine was repaired, and spent that time watching, and learning about the new planet. After a week's time, and with the engines repaired, the Deliverer marked the coordinates on his map and returned to Sirisai.
 
 On Sirisai the deliverer began to recruit; they formed a secret group, unbeknownst to the Republic. A group of people assembled, some looking for a new home, some looking for adventure, and some just wanting to make a name for themselves. Most of the first colonists were young, Resomii of ages between 14 and 20, and were prepared to leave everything behind. The Deliverer promised a simpler life, free from the gluttony of the Republic, and many listened. In 2473 the Deliverer gathered up their flock and returned to Zer’een, still unknown and unrecorded by the Republic. Numbering 34, the Deliverer and his followers brought only simple technology and primitive weapons, such as basic laser rifles and stun-spears. Some of the colonists were mechanics and engineers, to ensure that if anything were to break it could be repaired as quickly as possible with minimal supplies from the outside. 
@@ -56,6 +57,7 @@ Law enforcement is limited to a handful of Resomii responsible for guarding the 
 ## Geography
 * **Resources**: Zer'een is unremarkable from a mineral standpoint, crude metals are common, but not much else of value is under the surface. The colony itself has little to trade other than crafts, furs, and food. 
 * **Flora and Fauna**: The polar regions are unusually diverse considering their extreme temperatures, with large animals ranging from bovine-like quadrupeds hunted by the locals to a number of large predators that the locals are hunted by. Unique among plant life on Zer'een are a number of species of evergreen trees that have incredibly durable and flexible wood.
+
 The Colony of Saveel itself is located in a wooded valley on the larger of two southern continents, largely sheltered from winter windstorms, and has grown to cross a river that runs through the valley. The valley itself has been largely converted into farmland, growing a variety of tundra crops and feeding the local livestock. Hunting parties can range hundreds of miles in search of prey, including to the southern pole, and further north into warmer climates.
 
 ### Climate
@@ -72,6 +74,7 @@ Like their imperial cousins, Saveelians still play Wingball, albeit in a primiti
 ## Economy
 * **Imports**: Modern weaponry, power generators, raw materials for smithing, agricultural technology.
 * **Exports**: Exotic foodstuffs, trinkets, historical documents and curiosities.
+
 Trade within the colony takes the form of bartering. Common items include meat and other foodstuffs, simple crafts, and building materials. More valuable trade goods take the form of weapons, tools, livestock, and a narcotic lichen found sparsely in the area. Books approved by the High Priest can also be valuable, but books from before Landing Day, or information brought in by outsiders are prized by more independently-minded Saveelians. While visits by outsiders are infrequent, a number of Human ships periodically stop by, often looking to trade in curiosities. The Council of Elders keeps a small reserve of Thalers they receive in exchange for trade goods in case they need to barter for essential supplies, but most trade is direct exchange. Traders will often bring bits of technology or weaponry, which are highly popular among the Saveelians, but anyone looking to make a profit will probably be disappointed on Zer'een considering the lack of industry. While Grayson discovered the planet, it has staked no claim over the planet or system, and has largely remained clear of Saveel since first contact.
 
 ## Science and Technology
