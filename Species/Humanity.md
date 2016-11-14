@@ -121,10 +121,6 @@ This is a centralized structure of what happened to humanity in the last hundred
 
 * 2556 : A new brand of Luddites for the 26th Century begin to terrorize interests in the Outer Rim of Human space, attacking mostly IPCs and highly advanced facilities. They are labelled as a Terrorist Group. 
 
-* 6 February 2556: Disastrous first contact with the Khaarman Ascent following and investigation into missing vessels by the Defense Forces. Three corvettes, two, frigates, and one cruiser lost with all hands. Incident largely classified, known only to higher levels of the government and military. 
-
-* 19 May 2556: Establishment of Skrell-controlled DMZ between SolGov territory, and the Khaarman Ascent. The Khaarman Cold War begins. Multiple government agencies founded for internal and external security. Defense Forces begin a process of refitting and retraining to face an external enemy. Officially this buildup is to counter aggressive moves by the Confederacy of Man, but rumors fly among conspiracy circles.
-
 * 2556 : The most advanced Space Station in Human History, the NSS Exodus, makes its home in the Nyx System as the system around it becomes home to many undesirables and criminals.
 
 * 4 April 2558: In a conclusion to the debate started when the Positronic Union revealed itself in 2552, Positronic Intelligences are declared to be sapient by the Assemblies, and therefore protected under the Universal Declaration of Rights.
