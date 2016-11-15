@@ -3,7 +3,7 @@
 
 ##WHAT IS THAT THING!
 
-As you may have noticed from your time on our server, Humanity is not alone in the stars. So far, there are seven other alien civilizations that we have discovered, and that's just the start of our galaxy! Who knows what else lurks in the dark corners...
+As you may have noticed from your time on our server, Humanity is not alone in the stars. So far, there are six other alien civilizations that we have discovered, and that's just the start of our galaxy! Who knows what else lurks in the dark corners...
 Anyways, these species were already described on the previous Section in short little paragraphs that gave you a basic idea. This section is meant to give you a more comprehensive understanding of these Aliens, and perhaps prepare you to even play them!
 
 [**Humanity**](https://baystation12.net/lore/Species/Humanity)
@@ -22,9 +22,9 @@ a proud race of reptilians hailing from the desert planet of [Moghes](https://ba
 
 A newer addition to the galactic community from [Ahdomai](https://baystation12.net/lore/Planets-and-Systems/Ahdomai), the Tajara are a form of cheap labor throughout the stars, and they haven't been found to do much else. For a long time until a revolution took place they were ruled over by a class known as the "Slavemasters" and in recent years finally made it on their own into the stars, but society is still very divided for them. They're based around family, traditions, and hard work.
 
-[**Resomi**](http://baystation12.net/lore/Species/Resomi)
+[**Resomii**](http://baystation12.net/lore/Species/Resomi)
 
-The Resomi are a dimunitive race of what can be best described as raptor-birds. Firmly based around The Pack, the Resomi were once a powerful Solar Empire, but after a near apocalyptic event known as "The Crash" they have fallen from graces, and further and further into dystopia and autocracy, with many Resomi escaping from the totalitarian government and into the lands of Humanity and Skrellian as refugees
+The Resomii are a dimunitive race of technologically advanced, saurian-like bipeds. United, willingly or otherwise, under the banner of the Resomi Empire, the Resomii were once a powerful Interstellar Empire, but after a near apocalyptic event known as "The Fall" their society is in decline, and continues to slide further and further into dystopia and autocracy. Many Resomii escape from the totalitarian government and into the lands of Humanity and the Skrell as refugees.
 
 [**Dionaea**](http://baystation12.net/lore/Species/The-Dionaea)
 
@@ -36,11 +36,7 @@ ____
 
 ## That's Only Five Aliens
 
-As you can imagine, not every species gets along. The Kharmaan Ascent and the Vox also exist amongst the stars. The Kharmaan Ascent are much more powerful than the Vox, but currently things are at cold conflict, with nothing actually happening but general distrust on both sides. The Vox are relatable to Somali pirates in the 21st century when it comes to Human Policy. There is open conflict against the ones that attack our vessels, but overall no war has been declared as they are not a unified civilization.
-
-[**Kharmaan Ascent**](http://baystation12.net/lore/Species/Kharmaan)
-
-The Kharmaan Ascent is an interstellar power located in neighbouring space to the Skrell. The full extent of their territory is unknown, as it abuts the intergalactic gulf and Humanity is walled off from it by a narrow buffer of several Skrellian systems. Access to Ascent space is solely afforded through a series of interdicted DMZ systems littered with the debris of space battles both ancient and modern, and their borders are policed by breathtakingly violent and reactionary automated military squadrons. They are enormously advanced, insectoid in appearance, and number amongst the most vicious and violent aliens Humanity has ever encountered, and yet, they are practically unknown to the vast populace of Sol Gov.
+As you can imagine, not every species gets along. the Vox also exist amongst the stars. The Vox are relatable to Somali pirates in the 21st century when it comes to Human Policy. There is open conflict against the ones that attack our vessels, but overall no war has been declared as they are not a unified civilization.
 
 
 [**Vox**](http://baystation12.net/lore/Species/Vox)
