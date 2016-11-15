@@ -46,10 +46,22 @@ These are colonies that exist in other systems besides Sol or Nyx
 
 ## Non-Human Colonies
 
-### Harr'klem
+### Skrell 
+
+#### Harr'klem
 
   * [Harr'qac](https://baystation12.net/lore/Planets-and-Systems/Harr'qac)
 
-### Harr'Kalic
+#### Harr'Kalic
 
   * [Qerrna-Lakirr](https://baystation12.net/lore/Planets-and-Systems/Lakirr)
+
+### Resomi
+
+#### A'sranda
+
+  * [A'sranda](https://baystation12.net/lore/Planets-and-Systems/A'sranda)
+  
+#### Saveel
+
+  * [Saveel](https://baystation12.net/lore/Planets-and-Systems/Saveel)
