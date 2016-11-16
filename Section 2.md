@@ -12,7 +12,7 @@ One of the more prominent species in our area of the Galaxy, Humanity has certai
 
 [**Skrell**](https://baystation12.net/lore/Species/The-Skrell)
 
-Hailing from the jungles and marshes of [Qerr'balak](https://baystation12.net/lore/Planets-and-Systems/Qerrbalak), Humanity's oldest ally, and one of the two most powerful known civilizations: the Skrell. They are far more technologically advanced than Humanity, and have been around this point for near 600 years, with technological advancements stagnating (though still far ahead of Humanity). They are at the top of Galactic prowess, with them being the firsrt Empire Humanity ever met in the stars. They are responsible for many advancements that Humanity has acquired, and for keeping the Peace, mostly, between the younger species. In the 25th century, the Skrell's war with the Kharmaani Ascent came to a close, bringing in the 26th Century with it and today's society.
+Hailing from the jungles and marshes of [Qerr'balak](https://baystation12.net/lore/Planets-and-Systems/Qerrbalak), Humanity's oldest ally, and one of the two most powerful known civilizations: the Skrell. They are far more technologically advanced than Humanity, and have been around this point for near 600 years, with technological advancements stagnating (though still far ahead of Humanity). They are at the top of Galactic prowess, with them being the firsrt Empire Humanity ever met in the stars. They are responsible for many advancements that Humanity has acquired, and for keeping the Peace, mostly, between the younger species. 
 
 [**Unathi**](http://baystation12.net/lore/Species/The-Unathi)
 
