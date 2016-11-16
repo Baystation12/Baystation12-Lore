@@ -176,6 +176,5 @@ TSCs: Open for trade, but mostly disliked by the various clans on the planets.
 Skrell: Open for diplomacy and trade, and often on agreeable terms.
 Tajara: Mostly no contact besides for Interstellar matters.
 Sirisai: No contact
-Kharmaani: No contact
 IPC Union: No direct contact
 Vox: At War, in a way. Often in conflict against them on human or skrell vessels. The few Unathi vessels aren't attacked usually as they almost never leave the home system.
