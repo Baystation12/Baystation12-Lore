@@ -3,7 +3,7 @@ ___
 
 The year is 2560 CE (Common Era), and with the help of massive arc ships, humanity has slowly spread out amongst the stars, and colonized our neighboring systems. *Gateways* now connect Sol and the Colonies, making travel take mere months, rather than decades. The discovery of the seemingly supernatural material, *Phoron*, has also helped push the bounds of science, and with the usage of *Terraforming Machines* also available, on-ship FTL (Faster than Light) drives have become a reality. Colonization and expansion have never been like this before. 
 But, more importantly; we are not alone, as we once thought. Other species - The Skrell, Unathi, Tajara, Dionaea, and Resomii, explore the stars alongside us. Expanding the frontier even further - For Knowledge. For Profit.
-However, danger lurks just around the corner. Hostile aliens like the Vox, the mysterious and almost virtually unknown Kharmaani Ascent and other, unknown species who we have yet to discover. Various *subversive organizations* work on the frontier, causing turmoil and havoc across the Outer Systems. Phoron, as beneficial as it is, is still unknown to us - and its dangers even more so. Even space itself is a cruel, uncaring mistress that countless others have lost their lives in.
+However, danger lurks just around the corner. Hostile aliens like the Vox, Space Carp, and other, unknown species who we have yet to discover. Various *subversive organizations* work on the frontier, causing turmoil and havoc across the Outer Systems. Phoron, as beneficial as it is, is still unknown to us - and its dangers even more so. Even space itself is a cruel, uncaring mistress that countless others have lost their lives in.
 This is the universe of today.
 
 ##The Frontier
