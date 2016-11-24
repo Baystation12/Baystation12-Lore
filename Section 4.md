@@ -60,7 +60,7 @@ These are colonies that exist in other systems besides Sol or Nyx
 
 #### A'sranda
 
-  * [A'sranda](https://baystation12.net/lore/Planets-and-Systems/A'sranda)
+  * [A'sranda](https://baystation12.net/lore/Planets-and-Systems/Asranda)
   
 #### Saveel
 
