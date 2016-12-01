@@ -1,5 +1,7 @@
 # Moghes 
 
+![Moghes][1]
+
 The planet **Moghes** is home of the [Unathi](baystation12.net/unathi), and is dominated primarily by deserts, and deep crags that go far into the ground, filled with tall jungle trees or blistering irradiated hellholes as a result of an ancient nuclear disaster. Evidence of this previous, older race manifests itself in the form of ruins that dot themselves across the surface. Traces of swamp-land and jungles are present, showing that, at one time, Moghes was a lush world filled with a thriving ecosystem. The planet is 1/6 smaller than the size of Earth, and it's only sun is close enough to make it uncomfortable for non-natives. It has a single moon. Despite the doomsday event that burned away most of the plant life and water on the planet, Moghes is still home to three large oceans called Malawi and Tanganyika, and Iksess, but each of them are comparably to the Dead Sea on Earth. Lakes, the very few that exist, are often extremely irradiated, with most clean water being found underground. Sand storms are common at the equator and rain is only semi-common at the polar caps which have become tropical oasis compared to their ancient days as arctic palaces.
 
 ## Overview
@@ -48,3 +50,4 @@ Gnars are a hardy animal of the Deserts, usually found around Glass Dunes. They'
 
 Losseks come from the diamond peaks entirely, never venturing far out. They somewhat resemeble gorillas in shape and size, but their fur is far thicker, and their face makes you think more of a spider than an ape. The giant, red beasts are known to live in caves in small groups of six or seven, and very very aggressive to non-Losseks. They're omnivores, and are keen to eating unweary adventurers. 
   
+[1]: http://i.imgur.com/Fl7JpRu.png?1
