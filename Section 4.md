@@ -5,6 +5,7 @@ As population has grown, so has the need for more land. As technology has progre
 ## Sol
   * [Luna](https://baystation12.net/lore/Planets-and-Systems/Luna)
   * [Mars](https://baystation12.net/lore/Planets-and-Systems/Mars)
+  * [Pluto](https://baystation12.net/lore/Planets-and-Systems/Pluto)
   * [Phobos](https://baystation12.net/lore/Planets-and-Systems/Phobos)
   * [Ceres](https://baystation12.net/lore/Planets-and-Systems/Ceres)
 
