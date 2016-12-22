@@ -29,7 +29,7 @@ They all have talons on their feet and their hands and they have a long prehensi
 They appear to have an almost robotic control over their scales and are able to lock them so tightly together that they form a protective 'space suit', allowing them to walk comfortably in zero pressure environments.
 
 The Vox digestive system is entirely compacted inside their head, neck, and upper body. It consists of a singular long gizzard-like organ that breaks down and absorbs nutrition from whatever they put in their mouth. Their diets consist mostly of fungis, meat, and anything they can fit in their mouths.
-Often times Vox will digest hard metals or rocks to aid in the digestion of particularly unruly foods, like monkeys or Resomi. Often times Vox will have to digest something multiple times before getting the full benefit of their meal, which often times consists of choking up something half digested and then swallowing it again.
+Often times Vox will digest hard metals or rocks to aid in the digestion of particularly unruly foods, like monkeys or Resomii. Often times Vox will have to digest something multiple times before getting the full benefit of their meal, which often times consists of choking up something half digested and then swallowing it again.
 
 Interestingly, Vox cannot breathe oxygen and instead breathe nitrogen. Oxygen and oxygen-deprevation medicines are both extremely poisonous to Vox and requires dialysis to remove from the Vox's system. The Vox 'lung' is a singular sack of air capillaries, similar to that seen in birds.
 

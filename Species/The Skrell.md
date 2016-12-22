@@ -120,10 +120,8 @@ Here is a global timeline of their history. The dates have been adapted to the h
 * 1000 AC - Skrell begin exploring outside of their immediate area, establishing colonies and research bases along the way.
 * 2038 AC - Skrell travel to the Epsilon Ursae Minoris and while there, flagged the area for further review due to strange readings.
 * 2132 AC - Skrellian mining fleets discover Dionaea Gestalts in previously mentioned Epsilon Ursae Minoris, it is considered a great discovery among all the castes.
-* 2241 AC - Skrell Space Fleets make first contact with an alien race, The Kharmaani, War erupts and many Skrell die in the ensuing battles.
 * 2406 AC - While on a scouting mission, Skrellian exploration vessels come across a human station badly damaged and entering a meteor belt. The Skrellian vessel moves in to assist, shielding the station from harm by way of their shields. First contact with humanity is made.
 * 2411 AC - Trade and Research agreements among Skrell and humanity are formed, a lasting bond is formed.
-* 2478 AC - After hundreds of years of off and on again wars, Skrell and Kharmaani governments come to a fragile agreement, Peace is known again among the Skrell.
 * 2520 AC - Varr'qalan begin their first exodus, arriving at Qerrbalak that same year.
 * 2522 AC - Varr'qalan are banished from Qerrbalak by the Qerr'Katish.
 
@@ -208,8 +206,6 @@ The Qerr-Katish and Talum-Katish, too few in numbers, do not need and therefore 
 Here are a few famous SDTFs found across history:
 
 * Qerr’voal: A famous name within the Raskinta-Katish community, the Qerr’voal is the SDTF in charge of defending the Qerr’Vallis system, a task the military group has fulfilled with duty for the last 600 years. Despite the safety and stability of the system, many young Skrell of Qerr’balak and the surrounding colonies try to enter the prestigious organization in hopes to prove themselves worthy to their brethren.
-
-* Pol’verria: A SDTF in charge of several systems at the border of the skrellian territories, this particular group is known for spearheading the war against the Kharmaani, putting a heavy strain on the SDTF’s resources. Now far smaller than in its golden days, they are still respected among the systems they protect, and the centuries of warfare against the Kharmaani gave them tactical insight that many other SDTFs would like to acquire.
 
 * Qala’oa: Relatively recent, this particular group was funded shortly after the first contact between Skrell and humans. Patrolling several worlds at the border between the two species, this SDTF has, like the colonies it protects, started to slowly adopt human customs and views, for better and for worse. Still growing today, some expect it to become the largest SDTF of the skrellian territories within the next thirty years.
 

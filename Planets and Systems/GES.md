@@ -8,7 +8,7 @@
 
 ### History
 
-The NES Sycophant was originally a [Sol Central][1] station created alongside the Orion Ceta [warpgate][2] in the year 2491. Back then, called Sol Central Outpost Orion Ceta, it was created by autonomous systems and were used as a fueling station, survey control and communication hub for the Orion Ceta sector. Housing only roughly fifty expedition members, the craft was a small satellite around Carnelia, a highly specialized body for temporary housing and coordination efforts.
+The NES Sycophant was originally a [Sol Central][1] station created alongside the Orion Ceta [gateway][2] in the year 2491. Back then, called Sol Central Outpost Orion Ceta, it was created by autonomous systems and were used as a fueling station, survey control and communication hub for the Orion Ceta sector. Housing only roughly fifty expedition members, the craft was a small satellite around Carnelia, a highly specialized body for temporary housing and coordination efforts.
 
 2493, after the sector was completely mapped out, the first permanent colonization efforts began, first on Elestus II by Joffrey Smallwaters. After the apparent success of this colony into establishing a functioning society, [TSCs][3] took interest into the sector, first of all [Gilthari Exports][4], who quickly bought out Sol Central and renamed the station GES Sycophant.
 

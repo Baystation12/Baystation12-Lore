@@ -32,7 +32,7 @@ ___
 
 ## History
 
-The first contact with Brinkburn was performed by Sol Central in 2547, as part of a reconnaissance mission to find out more about the traits of the planet. Due to the presence of it's hazardous ring system and the nearby asteroid belt, major ship losses occured during this early period. Regardless, a small number of ships were able to survive their missions on Brinkburn, eventually using the newly constructed Nyx warpgate to return to Sol in 2549, bringing back their found knowledge.
+The first contact with Brinkburn was performed by Sol Central in 2547, as part of a reconnaissance mission to find out more about the traits of the planet. Due to the presence of it's hazardous ring system and the nearby asteroid belt, major ship losses occured during this early period. Regardless, a small number of ships were able to survive their missions on Brinkburn, eventually using the newly constructed Nyx Gateway to return to Sol in 2549, bringing back their found knowledge.
 
 Sol Central lost approximately 80% of it's Nyx fleet during those missions (especially in Brinkburn, Moros and Roanake), with most other ships having suffered major damage. Already being busy with other more important issues in other systems and convinced that Nyx was too dangerous to be properly colonized, it decided to abandon it completely, leaving the colonization to other groups.
 

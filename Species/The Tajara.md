@@ -8,7 +8,7 @@ ____
 
 **Naming**
 
-In order to communicate better with multi-species crews, most Tajara have taken middle-eastern names. Due to their facial anatomy, sharp-lip based mora tend to be less present.
+Tajara names tend to use a lot of r, n, m and h, with the occasional j and g. Tajara names also tend to have a lot of pauses, example: Mikam Ja'hmka.
 
 **Biology**
 
@@ -34,7 +34,7 @@ All medical equipment aboard NanoTrasen vessels will be compatible with Tajara b
 
 Tajara have a strong tendency towards loyalty and cooperation from their old slavemaster regime. Younger Tajara tend to be a lot more forward and expressive than their older counterparts, this is due to travel and education becoming more accessible. Tajara that are older than fifty years old tend to be less educated. This means that there is a massive educational gap and other such things are also fairly large. Tajara have a just as wide emotional range as humans, but older ones tend to show less of it. 
 
-It is advisable for staff to make use of the loyalty and cooperation in their line of work. NanoTrasen does not openly advocate for non-human or -skrell command staff, but it is acceptable. A Tajara would have to work very hard and be extremely humble to have a shot at becoming a command member. However, a Tajara captain is not acceptable in any way. 
+It is advisable for staff to make use of the loyalty and cooperation in their line of work. Tajara are incapable of being heads of staff of any kind due to NanoTrasen Incorporated policy.
 
 ## The People of Ahdomai
 
@@ -57,7 +57,7 @@ The Confederate Commonwealth of Ahdomai consists of three members of each of the
 Members of minor ruling clans may also attend CCA meetings, but only if it is specifically requested by the minor ruling clan and accepted by The CCA or if the minor ruling clan is specifically asked to attend the meeting. In these few cases, the minor ruling clan members are there to watch and only carry half a vote. 
 
 Even as a recent addition to the galactic community, the Tajara are still seen as somewhat of a cheap workforce. With the new government more and more Tajara are becoming educated, now with a large amount of scientists and engineers and with a lack of a basic workforce on Ahdomai. 
-Originally relying on other races for their technology, they have now started developing their own technology. Rural areas have become more modernized with the help of radios and large networks of computers. 
+Originally relying on other races for their technology, they have now started developing their own technology. Rural areas have become more modernized with the help of radios and networks of computers. 
 
 ### Culture
 
@@ -79,9 +79,9 @@ El-A'hum - Thin cuts of the Elu'a Eil smoked with the wood and leaves of the San
 
 **Language**
 
-Siik’maas is the traditionally employed tongue on Ahdomai, and it was originally enforced by the old slavemaster regime. Though it is also spoken by humans, humans struggle with several words and pronunciations being physically impossible due to the human mouth; S turns on to sh and they would speak broken, missing out on certain words. Siik’maas is completely auditory. 
+Siik'maas is the traditionally employed tongue on Ahdomai, and it was originally enforced by the old slavemaster regime. Though it is also spoken by humans, humans struggle with several words and pronunciations being physically impossible due to the human mouth; S turns on to sh and they would speak broken, missing out on certain words. Siik'maas is completely auditory. 
 
-Siik’tajr is a formerly used informal pseudo sign language used by the lower class. It is partly auditory, but it is mostly spoken with tail movements, making it impossible for a human or any non-tailed creature to speak this language. It was seen as quite rude to speak this language in front of people/Tajara that didn’t speak Siik’tajr. 
+Siik'tajr is a formerly used informal pseudo sign language used by the lower class. It is partly auditory, but it is mostly spoken with tail movements, making it impossible for a human or any non-tailed creature to speak this language. It was seen as quite rude to speak this language in front of people/Tajara that didn’t speak Siik’tajr. 
 
 Note that Tajara extend R sounds due to their facial anatomy, and all Tajara from Ahdomai adopt the third person way of referring to themselves (Instead of “I have completed my work.” it would be “He has completed his work.”). Speaking in first person is a display of extreme trust, although due to the extreme stresses of space and other races speaking in first person around them, a Tajara can slip up occasionally.
 
@@ -205,7 +205,7 @@ Militarily each island has at least one private military corporation that acts a
 
 "We wish for peaceful co-existence between Tajaran and Humanity, absolutely... but we cannot allow them to rule Ahdomai. We must stand on our own feet. If we do not, our culture will never regain its former glory."
 
-*History**
+**History**
 
 Hailing from the temperate regions along the equator, the Nazkiin clan was originally a small, rag-tag group of various families that splintered away from more prominent clans during the rebellion in an attempt to get away from the fighting. After the Slavemasters were overthrown and the dust had settled, the group consolidated into their own clan, seeking to distance themselves from the conflict between the Hadii and Kaytam and instead focus on cultural recovery.
 
