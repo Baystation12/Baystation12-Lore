@@ -12,7 +12,7 @@ Everyone is entitled to all the rights and freedoms set forth in this Declaratio
 
 ### Article 3.
 
-Everyone has the right to life, liberty and security of person.
+Everyone has the right to life, liberty and security of person, and shall not be deprived of them without the due process of law.
 
 
 ### Article 4.
