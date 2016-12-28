@@ -81,9 +81,9 @@ El-A'hum - Thin cuts of the Elu'a Eil smoked with the wood and leaves of the San
 
 Siik'maas is the traditionally employed tongue on Ahdomai, and it was originally enforced by the old slavemaster regime. Though it is also spoken by humans, humans struggle with several words and pronunciations being physically impossible due to the human mouth; S turns on to sh and they would speak broken, missing out on certain words. Siik'maas is completely auditory. 
 
-Siik'tajr is a formerly used informal pseudo sign language used by the lower class. It is partly auditory, but it is mostly spoken with tail movements, making it impossible for a human or any non-tailed creature to speak this language. It was seen as quite rude to speak this language in front of people/Tajara that didn’t speak Siik’tajr. 
+Siik'tajr is a formerly used informal pseudo sign language used by the lower class. It is partly auditory, but it is mostly spoken with tail movements, making it impossible for a human or any non-tailed creature to speak this language. It was seen as quite rude to speak this language in front of people/Tajara that didnÂ’t speak SiikÂ’tajr. 
 
-Note that Tajara extend R sounds due to their facial anatomy, and all Tajara from Ahdomai adopt the third person way of referring to themselves (Instead of “I have completed my work.” it would be “He has completed his work.”). Speaking in first person is a display of extreme trust, although due to the extreme stresses of space and other races speaking in first person around them, a Tajara can slip up occasionally.
+Note that Tajara extend R sounds due to their facial anatomy.
 
 **The Arts**
 
