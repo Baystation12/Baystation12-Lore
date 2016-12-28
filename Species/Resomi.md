@@ -47,7 +47,7 @@ Aging brings along a collection of issues- Lost feathers are generally replaced 
 
 ### Language
 
-Schechi {Scheh-Shee} is a comparatively simple language that consists of various chrips, trills and squeaks that, to the untrained ear, often sound cacophonous. While it is entirely capable for Humans to speak Schechi, it oftens ends up being broken and "slurry", as the average human lacks the fine control in their vocal cords to accurately produce alot of the tones in a discernable fashion. Due to the mouth structure of Resomii, they have extreme difficulty producing sounds commonly heard in human based languages and galactic common. What they can speak is often high-pitched and whistly with difficulties pronouncing consonants such as hard B's, F's, P's, Q's U's, and soft b's, f's, and i's. They also would have difficulty pronouncing consonant h sounds, (e.g. ech, th).
+Schechi {Scheh-Shee} is a comparatively simple language that consists of various chrips, trills and squeaks that, to the untrained ear, often sound cacophonous. While it is entirely capable for Humans to speak Schechi, it oftens ends up being broken and "slurry", as the average human lacks the fine control in their vocal cords to accurately produce alot of the tones in a discernable fashion. Due to the mouth structure of Resomii, they have difficulty speaking unaccented galactic common and human-derived languages. Their speech in these languages tends to include unintentional trilling and whistling.
 
 Both their names and their language are based off of avoiding guttural sounds, such as uh, er, and eh. Instead, they use light trilling sounds, such as a, ee, and eh. For example, common Resomii names are : Remi, Seemoni, Ritila, and Eschomi.
 
