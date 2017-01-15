@@ -77,7 +77,7 @@ There are also some caste-specific cities, like military bases for Raskinta-Kati
 * **Skrriol**  
   Known for the abundance of natural resources near the city, much of the material used on Harr'qac comes from Skrriol. This includes materials from both, above and below the ground.
 * **Vulx'Fi**  
-  One of the first colonised place on the planet. It is widely known for its beautiful landscapes and is a major tourist spot. Giant fungi and Friaq live more densely around this city.
+  One of the first colonised places on the planet. It is widely known for its beautiful landscapes and is a major tourist spot. Giant fungi and Friaq live more densely around this city.
 * **Kaux-Nira**  
   Situated on a small island, it is a major trading port.
 * **Gor-Lo**  
@@ -87,7 +87,7 @@ There are also some caste-specific cities, like military bases for Raskinta-Kati
 * **Scri'x**  
   The wide plains of Scri'x were the first colonised area of Harr'qac. Today, Scri'x operates an important spaceport. One of the first ships to land on Harr'qac is standing in the city centre.
 * **Qal-Si**  
-  Located on a cliff. This city is known for many trading companies that originate from here, however, also for its higher than average amount of organized criminality. 
+  Located on a cliff. This city is known for many trading companies that originate from here, however, also for its higher-than-average amount of organized criminality. 
 * **Rel-Ma'xie**  
   Known for being the largest Harr'qaci city, as there are plenty of resources nearby and the city's quality of life is considered quite high. There are farms around the city to support it and also many other city-states with food.
 * **University of Harr'qac**  
@@ -109,7 +109,9 @@ Same as on Qerrbalak, each city state also has its own academy.
 
 ## Economy
 
-Harr'qac is considered quite rich colony, with very good general living standard. TBD
+Harr'qac is considered quite rich colony, with very good general living standard. 
+
+The economical system is basically identical to that of Qerr'balak - money is created for a finite period, after which is loses value - because there wasn't a reason to change this. However, some city states take a more direct approach to the human currency problem: Kaux-Nira and Qal-Si, both being major trading locations and the latter also having a lot of criminality, are currently keeping track of any human money that enters the cities - citizens of those two cities are obliged to annually report the amount on human currencies in their possession. They also heavily encourage their citizens to exchange the human money for Skrellian money. Some other city states are calling to their respective Qerrs for advice. This issue is currently a reason for a lot of high priority sessions in the Government District of the University of Harr'qac and many researchers, managers and diplomats are trying to find a viable solution.
 
 ### Food and water
 
