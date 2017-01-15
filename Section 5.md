@@ -8,7 +8,7 @@ Not only are there terrorist organizations though. Crime Syndicates, Illegal Cor
 
 Currently in the Nyx System, there are most likely around 300 different subversive groups that are taking action against the powers that be. Of those 300 or so, 6 of them are quite powerful and often take part in bombings, public executions, assassinations, and other forms of violent activities. Those groups are as follows:
 
-* **[Fury of Mankind](http://baystation12.net/lore/FOM):**  A Human Supremacist group based originally out of Mars, the group has in recent years, taken an interest in Nyx due to the high population of Aliens working and living there. Many lynchings have occurrred on the various colonies and stations against Unathi, Skrell, Resomi, and Tajara in the name of Humanity.
+* **[Fury of Mankind](http://baystation12.net/lore/Subversive Elements/FOM):**  A Human Supremacist group based originally out of Mars, the group has in recent years taken an interest in Nyx due to the high population of Aliens working and living there. Many lynchings have occurrred on the various colonies and stations against Unathi, Skrell, Resomii, and Tajara in the name of Humanity.
 
 * **The Luddites:** Based entirely out of Nyx, the Luddites take their name from an Industrial Era group of rebels and anarchists who were against the continual rise in technology. In recent years due to the rise of IPCs and other technology (such as Phoron-based tech, and Supermatter Engines), they have taken up terrorism in the system so as to remove the prescence of Technology in Society.
 

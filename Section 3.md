@@ -8,32 +8,32 @@ ____
 
 There are Seven Trans-Stellar Corporations that really shape what happens in the Outer Rims of space, and control markets of goods throughout the stars. These are the wealthiest, most powerful, greedy, and controlling TSCs currently in existance. 
 
-- [**NanoTrasen**](https://baystation12.net/lore/NanoTrasen)
+- [**NanoTrasen**](https://baystation12.net/lore/Corporations/NanoTrasen)
 
 A high-tech research company with a majority holding on phoron claims in the Nyx system and throughout the galaxy.
 
-- [**Ward-Takahashi GMB**](https://baystation12.net/lore/Ward-Takahashi-GMB)
+- [**Ward-Takahashi GMB**](https://baystation12.net/lore/Corporations/Ward-Takahashi-GMB)
 
 A manufacturing company that produces everything from consumer electronics, like PDAs and laptop computers, to home appliances and other miscellaneous items.
 
-- [**Githari Exports**](https://baystation12.net/lore/Githari-Exports)
+- [**Githari Exports**](https://baystation12.net/lore/Corporations/Githari-Exports)
 
 A large producer of luxury and alcoholic goods based out of their headquarters on Mars.
 
-- [**Grayson Manufactories Ltd.**](https://baystation12.net/lore/Grayson-Manufactories-Ltd.)
+- [**Grayson Manufactories Ltd.**](https://baystation12.net/lore/Corporations/Grayson-Manufactories-Ltd.)
 
 A mining company that serves as one of the largest providers of raw materials in known space. Recently, it has also begun to sell generic assembly materials for use in construction projects (metal beams, lattice, coils, etc.)
 
-- [**Aether Atmospherics and Recycling**](https://baystation12.net/lore/Aether-Atmospherics-and-Recycling)
+- [**Aether Atmospherics and Recycling**](https://baystation12.net/lore/Corporations/Aether-Atmospherics-and-Recycling)
 
 An atmospherics and recycling company based in the Sol system.
 
 
-- [**Zeng-Hu Pharmaceuticals**](https://baystation12.net/lore/Zeng-Hu-Pharmaceuticals)
+- [**Zeng-Hu Pharmaceuticals**](https://baystation12.net/lore/Corporations/Zeng-Hu-Pharmaceuticals)
 
 A pharmaceutical company renown for its recent advancements in medicine and questionable business practices.
 
-- [**Hephaestus Industries**](https://baystation12.net/lore/Hesphaistos-Industries)
+- [**Hephaestus Industries**](https://baystation12.net/lore/Corporations/Hesphaistos-Industries)
 
 A renown arms manufacturing and general security equipment company. Commonly known as the first trans-stellar to develop after the formation of Sol Central.
 
@@ -162,13 +162,6 @@ They are the creators of the Tradeband language, created specially for being a l
 ____
 ##Other Notable Corporations
 
-- **Empire of Sirisai Ministry of Foreign Affairs**
-
-While not a corporation in its own right, the Ministry of Foreign Affairs handles all the trade economical factors on an interstellar scale for the Empire of Sirisai. Formed thousands of years ago by Rameriti, it is a hulking beast of a ministry that shows extreme competence in spite of the size. Due to the palace economy of the Empire of Sirisai, no 'true' interstellar corporations exist in the Empire, and instead all production is done by the Ministry of Internal Affairs. The Ministry of Foreign Affairs takes these resources, and exports them to various markets. It essentially acts as a Resomi corporation would, except it is a fusion of all of them.
-
-It began trading with humanity soon after the first contact with Skrell, providing small medical imports here and there, but only recently within the few hundred years has it opened the floodgates. Due to the advanced technology available in the empire - life extension is a commodity not to be taken lightly, even in the face of cloning - it has began making incredible waves in markets traditionally dominated by the Free Trade Union. Providing both preassembled technology bits and basic materials such as bolts and screws, many corporations have come to rely upon the Empire of Sirisai for their pure manufacturing ability.
-
-In return, the Ministry of Foreign Affairs imports an incredible amount of raw materials, being any mining corporation's best friend. They currently have an exclusive deal for phoron with Nanotrasen that is also one of the largest non-Resomi employers for Resomi workers, working closely with the Ministry to form employment contracts and trade agreements.
 
 - **Inuvaios Eclestra**
 
