@@ -134,6 +134,12 @@ Vox FTL drives are completely bewildering to human scientists, as they consumes 
 
 Their most treasured, and harbored technology would happen to be the irreplacable and valuable cortical stacks. Cortical stacks are what make Vox, Vox. They hold the memories and knowledge of past Vox, giving a sense of belonging and loyalty to the Arkships that they would not have without. They also control much of the Vox's internal organs and systems, regulating and making them run efficiently.
 
+*Vox Weaponry*
+
+Dart Gun: This is a standard weapon seen usually employed by many Primalis during their pirate years. Usually used to subdue targets from afar, as well as cause covert havoc through slipping unsuspecting targets hallucinogenic, or even providing beneficial chemicals to lucky individuals. 
+
+Spike Thrower: This is a weapon is used solely by Vox, as it’s biological nature and design leaves individuals who are not of vox origin, or a permitted user, to have mishaps involving loss of digits, or hands. It’s not entirely know how it works, but it appears its firing sequence is linked to the biological status of the weapon. 
+
 **Raiders**
 Raiding has been a recent but enjoyed addition to Vox society. With the sudden appearance of new advanced species in the universe, it meant Vox would no longer have to create many of the things they needed. Instead they could make due by stealing/scavanging these things from others. Vox society, for once, florished as many of their long standing problems and non-working equipment was replaced by newly crafted and well working goods. This lasted for a few years until said species got wiser to their tricks and their bounty dwindled from a river to a trickle. But with trading and the odd raid/scavenged station, they still grow to new heights every year.
 
@@ -149,6 +155,11 @@ The exact number of Arkships is unknown, though there are no more than a hundred
 The Shroud is the twisting tunnels and alcoves that make up the Primalis's homes. Made from the offerings of the various raiding parties, the exact nature of the bits and pieces of it vary, they can be ships stolen, large twisted pieces of metal, or perhaps verious items in need, like solar arrays or generators. Whatever they are, the Primalis make their homes, businesses and live their lives here. Maintaining them for the future and modifying them to fit new pieces brought in by Quills.
 
 The Arkships are mobile, though very slow. They have no exterior engines, outside of the ones brought to them from raiding parties, and rely on the Auralis and Apex's super-awareness of incoming vessels and drones to escape detection. They tend to sit two to three jumps away from any inhabited system. Far enough away to escape detection but close enough for raiding parties to come and go as they please.
+
+*Arkship Naming*
+
+The Arkships, like most Vox related things, have long complex names that are completely irrelevant to non-Vox, and hearing it would sound more like a long-winded readback of the Arkship’s history, rather than its name. A brief example would be Arkship Long Nights of Solace, Spent Reciprocating Many Moons of Technology Long Stolen Before Primalis Expansion.
+The naming of an Arkship usually includes a code sign, a brief summary of its recent history within the last several thousand years and a encoded message of Vox specific knowledge that is unaccessable to any castes below Auralis, what it includes during Arkship to Arkship communication is not really known. 
 
 **Stations**
 The Arkships are not the only Vox settlements. Powerful familes and factions see the Arkships as crowded and unruly. they assets are unprotected and hard to manage, and so when they decide they are big enough, or powerful enough, they will attempt to forge their own settlement, made similarly to that of the Shroud: bits and pieces of scavenged ships and stations welded together to make a working eyesore.
@@ -178,3 +189,15 @@ Pariahs remarkably last about as long as regular Vox, 30 to 50 years. Though thi
 Half-Minds are the product of the unfortunate circumstance of an Apex forgetting to put a stack into a Vox. This happens rarely, though is more frequent during large 'batches' of Vox, but it does happen. These Vox are typically paranoid and reclusive, a product of having to hide the truth from other Vox in fear of getting killed.
 
 While they are typically of clearer minds than Pariahs, their bodies do start to stink and decay as they grow older. Most do not survive to their 10th year, due to being found out. Those that do usually flee the Arkship and all Vox settlements to do so.
+
+*Vox Pariah Living conditions*
+
+Due to the stench produced by the rotting brains of Pariahs, they're mostly shunned by all moderate standards of living within Nyx, or their relative system. In the case of Nyx, NanoTrasen has provided several workers with accommodations, though poor ones at best. Their "rooms" are generally only five square meters, with a bed not that different from a prison bed.
+
+Personnel other than Pariahs are seldom seen in these areas, due to the smell. Synthetics are sent to provide maintenance and cleaning, though most of the Pariahs living in NanoTrasen housing tend to take care of their home, or risk eviction. Most dwellings are equipped with nutrient paste dispensers, meaning that Pariahs are still fed, but the cost is kept to a minimum.
+
+Outside of NanoTrasen, the treatment of a Pariahs is up to the individual's organization, owner, or employer, and their own ability to barter and negotiate salary, as well as the willingness of people to allow a Pariah to stay within their building. Some Pariahs are able to buy small rooms, though for exorbitant prices due to the majority of people believing that the Pariah is dumb, rather than brain damaged.
+
+*Pariah Employment Situations*
+
+Most Pariahs employed by Nanotrasen are done so because the Pariah is able to operate without the need for any form of E.V.A. gear, and their willingness to do maximum effort for minimum wage, with the main reason being their low wage. Though they’re rare as it is, it’s believed they’re considered more of an asset, than a living creature, nonetheless, they’re still paid for their work and are treated modestly, for what one could consider modest for a Pariah.
