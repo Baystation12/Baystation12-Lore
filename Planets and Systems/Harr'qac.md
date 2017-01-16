@@ -8,9 +8,9 @@
 * **Capital** - The University of Harr'qac, Government District
 * Demonym - Harr'qaci 
 * Government - Republican confederacy 
-  * Qerr - Xilas Tal 
-  * Qerr - Lowb Quac 
-  * Qerr - Ulaq Virr
+  * Qerr-Kirri - Xilas Tal 
+  * Qerr-Kirri - Lowb Quac 
+  * Qerr-Kirri - Ulaq Virr
 * Discovery and colonization - c. 2300  
 * Population - 2,010,050,049
 * Created by: Superbee29 
@@ -36,7 +36,7 @@
 
 ## History
 
-Skrell first found this planet about year 2300 on their research flight. They found a smaller planet with developed life. They first tried sending signals towards the planet, but when they got no response, they used their large-scale scanners and surveillance drones to search for any intelligent lifeform activity, like cities or industry. When they found nothing, they decided to colonise the planet, as it resembled Qerr'Balak in the climatic conditions.
+Skrell first found this planet about year 2300 on their research flight. They found a smaller planet with developed life. They first tried sending signals towards the planet, but when they got no response, they used their large-scale scanners and surveillance drones to search for any intelligent lifeform activity, like cities or industry. When they found nothing, they decided to colonise the planet, as it resembled Qerrbalak in the climatic conditions.
 
 ## Geography
 
@@ -56,13 +56,13 @@ Space carp migrations happen once in a few years and carps sometimes find their 
 
 ## Skrellian society
 
-Caste system is very important for Skrell of this planet. However, it works slightly differently than on Qerr'Balak and colonies close to it. Most importantly, a Skrell from Harr'qac can decide to switch to another caste of his preference. This is not always the case, as the castes act as subcultures specialized to certain tasks and values, and as such, the children are raised in the mindset of the particular caste. However, sometimes a young Skrell has views that are diamertrically different from his caste and because of this feels like he/she does not belong into the caste. In this case, he/she can formally switch his caste. This is, however, not done very often, due to the freedom offered by the caste system itself.
+Caste system is very important for Skrell of this planet. However, it works slightly differently than on Qerrbalak and colonies close to it. Most importantly, a Skrell from Harr'qac can decide to switch to another caste of his preference. This is not always the case, as the castes act as subcultures specialized to certain tasks and values, and as such, the children are raised in the mindset of the particular caste. However, sometimes a young Skrell has views that are diamertrically different from his caste and because of this feels like he/she does not belong into the caste. In this case, he/she can formally switch his caste. This is, however, not done very often, due to the freedom offered by the caste system itself.
 
 Because of the bondings where at least one of the Skrell switched his/her caste, and the switching itself, it may be harder to tell a particular Skrell's caste just by his/her skin color in some families and you also need to notice their clothing and other specifics.
 
 ### Family life
 
-Family life on Harr'qac is similliar to the one on Qerr'Balak. Harr'qaci Skrell tend to bond fewer times in life. In some families, there is a recent tendency to put Qrri'Baqa into more contact with each other to strenghten their familial relations.
+Family life on Harr'qac is similliar to the one on Qerrbalak. Harr'qaci Skrell tend to bond fewer times in life. In some families, there is a recent tendency to put Qrri'Baqa into more contact with each other to strenghten their familial relations.
 
 ## Cities
 
@@ -99,7 +99,7 @@ Harr'qaci Skrell usually build circular houses, which often have many entrances 
 
 ## Government
 
-Similliarly to Qerr'Balak, there are many city-states governing themselves. However, when colonising the planet, Skrell chose to try a similliar, yet new form of government. City-states on each continent are grouped together. Qerr-Skria of these city-states elect a representative of their continent, called Qerr. This way, cities manage themselves, they decide about continent-wide things together and are represented by one Skrell for each continent when discussing global decisions. The three Qerrs meet in Government District of the University of Harr'qac and are very respected amongst the population.
+Similliarly to Qerrbalak, there are many city-states governing themselves. However, when colonising the planet, Skrell chose to try a similliar, yet new form of government. City-states on each continent are grouped together. Qerr-Skria of these city-states elect a representative of their continent, called Qerr-Kirri. This way, cities manage themselves, they decide about continent-wide things together and are represented by one Skrell for each continent when discussing global decisions. The three Qerr-Kirris meet in Government District of the University of Harr'qac and are very respected amongst the population.
 
 ## Education
 
@@ -111,7 +111,7 @@ Same as on Qerrbalak, each city state also has its own academy.
 
 Harr'qac is considered quite rich colony, with very good general living standard. 
 
-The economical system is basically identical to that of Qerr'balak - money is created for a finite period, after which is loses value - because there wasn't a reason to change this. However, some city states take a more direct approach to the human currency problem: Kaux-Nira and Qal-Si, both being major trading locations and the latter also having a lot of criminality, are currently keeping track of any human money that enters the cities - citizens of those two cities are obliged to annually report the amount on human currencies in their possession. They also heavily encourage their citizens to exchange the human money for Skrellian money. Some other city states are calling to their respective Qerrs for advice. This issue is currently a reason for a lot of high priority sessions in the Government District of the University of Harr'qac and many researchers, managers and diplomats are trying to find a viable solution.
+The economical system is basically identical to that of Qerrbalak - money is created for a finite period, after which is loses value - because there wasn't a reason to change this. However, some city states take a more direct approach to the human currency problem: Kaux-Nira and Qal-Si, both being major trading locations and the latter also having a lot of criminality, are currently keeping track of any human money that enters the cities - citizens of those two cities are obliged to annually report the amount on human currencies in their possession. They also heavily encourage their citizens to exchange the human money for Skrellian money. Some other city states are calling to their respective Qerr-Kirris for advice. This issue is currently a reason for a lot of high priority sessions in the Government District of the University of Harr'qac and many researchers, managers and diplomats are trying to find a viable solution.
 
 ### Food and water
 
