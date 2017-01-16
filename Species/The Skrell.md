@@ -276,11 +276,11 @@ These days, not many Skrell truly believe the story that something massive sang 
 
 **Ethical Teachings**
 
-1 Keep your eyes to the stars; Originally taken literally, this promotes the idea of always striving to go further and discover more.
-2 Harmony comes from discipline; Strive to be the best that you can but do not forget you have limits
-3 A united society strives; Work together to achieve your goals and trust your peers to do the same for you
-4 Harm only when harmed; Do not actively raise a hand against the innocent
-5 Stay forever inquisitive
+1. Keep your eyes to the stars; Originally taken literally, this promotes the idea of always striving to go further and discover more.
+2. Harmony comes from discipline; Strive to be the best that you can but do not forget you have limits
+3. A united society strives; Work together to achieve your goals and trust your peers to do the same for you
+4. Harm only when harmed; Do not actively raise a hand against the innocent
+5. Stay forever inquisitive
 
 **Holidays**
 
