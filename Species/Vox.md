@@ -136,9 +136,9 @@ Their most treasured, and harbored technology would happen to be the irreplacabl
 
 *Vox Weaponry*
 
-Dart Gun: This is a standard weapon seen usually employed by many Primalis during their pirate years. Usually used to subdue targets from afar, as well as cause covert havoc through slipping unsuspecting targets hallucinogenic, or even providing beneficial chemicals to lucky individuals. 
+Dart Gun: This is a common weapon used by Primalis, both as raiders and independent pirates. Usually used to subdue targets from afar, as well as cause havoc by slipping unsuspecting targets hallucinogenic drugs, it can also be used to apply beneficial chemicals to lucky individuals. While some models appear keyed to Vox physiology, similar weapons have been produced by human corporations and are more common.
 
-Spike Thrower: This is a weapon is used solely by Vox, as it’s biological nature and design leaves individuals who are not of vox origin, or a permitted user, to have mishaps involving loss of digits, or hands. It’s not entirely know how it works, but it appears its firing sequence is linked to the biological status of the weapon. 
+Spike Thrower: A uniquely Vox weapon, the Spike Thrower is poorly understood by other races and organizations. It is biological in nature, and some facet of its design prevents its use by non-Vox. While even some Primalis may not know exactly how the weapon works, it generates and projects metal spikes of an adanced alloy towards targets at high speed.
 
 **Raiders**
 Raiding has been a recent but enjoyed addition to Vox society. With the sudden appearance of new advanced species in the universe, it meant Vox would no longer have to create many of the things they needed. Instead they could make due by stealing/scavanging these things from others. Vox society, for once, florished as many of their long standing problems and non-working equipment was replaced by newly crafted and well working goods. This lasted for a few years until said species got wiser to their tricks and their bounty dwindled from a river to a trickle. But with trading and the odd raid/scavenged station, they still grow to new heights every year.
@@ -158,8 +158,8 @@ The Arkships are mobile, though very slow. They have no exterior engines, outsid
 
 *Arkship Naming*
 
-The Arkships, like most Vox related things, have long complex names that are completely irrelevant to non-Vox, and hearing it would sound more like a long-winded readback of the Arkship’s history, rather than its name. A brief example would be Arkship Long Nights of Solace, Spent Reciprocating Many Moons of Technology Long Stolen Before Primalis Expansion.
-The naming of an Arkship usually includes a code sign, a brief summary of its recent history within the last several thousand years and a encoded message of Vox specific knowledge that is unaccessable to any castes below Auralis, what it includes during Arkship to Arkship communication is not really known. 
+Arkships, like most Vox-related things, have long, complex titles that are completely irrelevant to non-Vox, and when transleted, would sound more like a long-winded recitation of the Arkship’s history, rather than a name. A brief example would be Arkship Long Nights of Solace, Spent Reciprocating Many Moons of Technology Long Stolen Before Primalis Expansion.
+The naming of an Arkship usually includes a code sign, a brief summary of its recent history within the last several thousand years and a encoded message of Vox specific knowledge that is known only to Auralis and Apex.
 
 **Stations**
 The Arkships are not the only Vox settlements. Powerful familes and factions see the Arkships as crowded and unruly. they assets are unprotected and hard to manage, and so when they decide they are big enough, or powerful enough, they will attempt to forge their own settlement, made similarly to that of the Shroud: bits and pieces of scavenged ships and stations welded together to make a working eyesore.
@@ -200,4 +200,4 @@ Outside of NanoTrasen, the treatment of a Pariahs is up to the individual's orga
 
 *Pariah Employment Situations*
 
-Most Pariahs employed by Nanotrasen are done so because the Pariah is able to operate without the need for any form of E.V.A. gear, and their willingness to do maximum effort for minimum wage, with the main reason being their low wage. Though they’re rare as it is, it’s believed they’re considered more of an asset, than a living creature, nonetheless, they’re still paid for their work and are treated modestly, for what one could consider modest for a Pariah.
+Most Pariahs employed by trans-stellar corporations are hired because of their ability to operate without the need for any form of E.V.A. gear, and their willingness to work for absolute minimum wage. Lack of legal protection, and the ongoing conflict between the Vox and Solgov allow corporations to pay Pariahs little to nothing. Though rare in human space, employed Pariahs are little more than corporate assets, nonetheless, their treatment remains far better than they would receive from fellow Vox.
