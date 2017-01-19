@@ -66,7 +66,7 @@ Family life on Harr'qac is similliar to the one on Qerrbalak. Harr'qaci Skrell t
 
 ## Cities
 
-Harr'qaci Skrell have built cities that, unlike on Qerrbalak, are not standing on stilts, but instead are directly on the ground. The cities are inside very resistant glass spheres.
+Harr'qaci Skrell have built cities that, unlike on Qerrbalak, are not standing on stilts, but instead are directly on the ground. The cities are inside durable glass domes.
 
 There are also some caste-specific cities, like military bases for Raskinta-Katish, large research centers for Malish-Katish or great Garden-cities for Talum-Katish. There is however no restricted access. Everyone can come to any of these for various reasons. The point is that the same way Skrell are divided into castes that focus on certain part of life of the society, some cities also focus on certain tasks. These are usually closer to other city-states and are supported and influenced by them.
 
@@ -99,7 +99,7 @@ Harr'qaci Skrell usually build circular houses, which often have many entrances 
 
 ## Government
 
-Similliarly to Qerrbalak, there are many city-states governing themselves. However, when colonising the planet, Skrell chose to try a similliar, yet new form of government. City-states on each continent are grouped together. Qerr-Skria of these city-states elect a representative of their continent, called Qerr-Kirri. This way, cities manage themselves, they decide about continent-wide things together and are represented by one Skrell for each continent when discussing global decisions. The three Qerr-Kirris meet in Government District of the University of Harr'qac and are very respected amongst the population.
+Similliarly to Qerrbalak, there are many city-states governing themselves. However, when colonising the planet, Skrell chose to try a similar form of government, with some novel additions. City-states on each continent are grouped together. Qerr-Skria of these city-states elect a representative of their continent, called Qerr-Kirri. This way, cities manage themselves, they decide about continent-wide things together and are represented by one Skrell for each continent when discussing global decisions. The three Qerr-Kirris meet in Government District of the University of Harr'qac and are very respected amongst the population.
 
 ## Education
 
@@ -109,9 +109,9 @@ Same as on Qerrbalak, each city state also has its own academy.
 
 ## Economy
 
-Harr'qac is considered quite rich colony, with very good general living standard. 
+Harr'qac is considered a wealthy colony, with an excellent standard of living.
 
-The economical system is basically identical to that of Qerrbalak - money is created for a finite period, after which is loses value - because there wasn't a reason to change this. However, some city states take a more direct approach to the human currency problem: Kaux-Nira and Qal-Si, both being major trading locations and the latter also having a lot of criminality, are currently keeping track of any human money that enters the cities - citizens of those two cities are obliged to annually report the amount on human currencies in their possession. They also heavily encourage their citizens to exchange the human money for Skrellian money. Some other city states are calling to their respective Qerr-Kirris for advice. This issue is currently a reason for a lot of high priority sessions in the Government District of the University of Harr'qac and many researchers, managers and diplomats are trying to find a viable solution.
+The economic system is basically identical to that of Qerrbalak - money is created for a finite period, after which is loses value - because there wasn't a reason to change this. However, some city states take a more direct approach to the human currency problem: Kaux-Nira and Qal-Si, both being major trading locations and the latter also having a lot of criminality, are currently keeping track of any human money that enters the cities - citizens of those two cities are obliged to annually report the amount on human currencies in their possession. They also heavily encourage their citizens to exchange the human money for Skrellian money. Some other city states are calling to their respective Qerr-Kirris for advice. This issue is currently a reason for a lot of high priority sessions in the Government District of the University of Harr'qac and many researchers, managers and diplomats are trying to find a viable solution.
 
 ### Food and water
 
