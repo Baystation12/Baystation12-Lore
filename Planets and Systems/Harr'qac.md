@@ -103,7 +103,7 @@ Similliarly to Qerrbalak, there are many city-states governing themselves. Howev
 
 ## Education
 
-The most famous academy of Harr'qac is The University of Harr'qac. It's not located in any city, but it rather creates a city like any other itself. It's located on the island of Korm. The university takes almost whole island, with lots of parks, services, leisure areas and the like. It is supported by other cities, as the global government meets there.
+The most famous academy of Harr'qac is The University of Harr'qac. It was not originally located within any city, but one was built up around it to facilitate all of its needs. It's located on the island of Korm. The university takes almost whole island, with lots of parks, services, leisure areas and the like. It is supported by other cities, as the global government meets there.
 
 Same as on Qerrbalak, each city state also has its own academy.
 
