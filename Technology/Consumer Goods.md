@@ -2,7 +2,7 @@
 ___
 ##Smokeables
 
-**Trans-Stellar Duty-Frees:**The Trans-Stellar Duty-Free cigarette is an unbranded cigarette produced for the purpose of selling in areas with with high volumes of civilian and tourist traffic. They are about as average as cigarettes get, and have been regularly rated by critics as "tasteless". However, due to their low price, nonexistent tariffs, and omnipresent marketing, they are still the most well-known and widespread cigarettes in human space.
+**Trans-Stellar Duty-Frees:** The Trans-Stellar Duty-Free cigarette is an unbranded cigarette produced for the purpose of selling in areas with with high volumes of civilian and tourist traffic. They are about as average as cigarettes get, and have been regularly rated by critics as "tasteless". However, due to their low price, nonexistent tariffs, and omnipresent marketing, they are still the most well-known and widespread cigarettes in human space.
 
 **Dromedary Company Cigarettes:** DromedaryCo is one of the oldest companies that produces cigarettes. Being a company that has changed hands and names several times through the years, their cigarettes are now very different from the original, and old-timers tend to complain about the quality of their current product. While their profits have dwindled in the last decade due to media reports of of "unethical" marketing schemes, they still remain on the forefront of the smokeable industry.
 
