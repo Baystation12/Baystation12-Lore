@@ -81,6 +81,12 @@ Even though Terraphistus' catalogue has been stagnant for almost 50 years, it is
 
 A colonial start-up, O'Neill Manufacturing meets the demands of a growing community of spacers looking for more out of their EVA suits. Space suits have been an essential part of space exploration, for obvious reasons. Over time, suits have improved from the clunky affairs of early space travel, and O'Niell can provide any kind of suit for any kind of job. Voidsuits are their most common product, though some Softsuits are still sold for emergency use. Recently though, O'Niell has released a line of affordable industrial hardsuits to complement their line of exosuits. While many of their products are considered middle of the line goods, operators of O'Niell's line of equipment swear by its reliability.
 
+- **Xion Industrial**
+
+Xion was a company founded long ago, originally producing industrial equipment and vehicles, from drills to mechs. It only came to become the company we know it as today during the robotics boom of the 24th century, constructing drones for many industrial applications. They expanded at an incredibly rapid pace, quickly becoming a well-known name across Sol, and being a major contributor to the replacement of many human workers by robots.
+
+These days, they’re much less powerful than they were then, as other, stronger corporations progressed forward, using newer innovations such as positronics, whilst Xion sits back and continues to mass-produce cheap drones. In more recent years, they’ve introduced a line of prosthetics with a heavy focus on function over form, again being primarily for industrial work.
+
 - **Falco Designs**
 
 A younger corporation, the simply named Falco Designs first came onto the radar in the early 2500s. Its founder Giuseppe Cecilio, at the time a minor billionaire, purchased the entirety of the asteroid Ceres. Ceres had originally been a stepping stone for the exploration of Sol, though by the 26th century it had been long defunct, stripped of resources and populated by those whose grandparents' grandparents hadn't had the money to leave. Cecilio however, saw opportunity in those people.
@@ -99,6 +105,13 @@ While it does not yet possess technologies like Gravitational Singularity reacto
 
 While usually the larger corporations devise their own power grid and manage their own planets, moons, orstations, FPE is often consulted and hired when a less than usual approach needs to be taken, and their products are on high demand.
 
+- **Morpheus Cyberkinetics**
+
+Originally a small company focused on research of the interface of the human mind to cybernetic parts, founded just prior to the explosion in robotics technology. This company produced the first of the truly high-end cybernetics, interfacing directly with the human nervous system, even giving a very rudimentary sense of touch. There are some rumors that Zeng-Hu had seized their results through corporate espionage, quickly producing their own line of prosthetics that eclipsed Morpheus’ own.
+
+Morpheus, however, had one breakthrough that is entirely attributed to it, the ‘MMI’. This device not only allowed for people to be ‘revived’ by having their brains transplanted into it, it also allowed them to access and interface with many custom-built robots and other devices.(However, at the time, it was most common to find cyborgs in modified drone chassis, as a proper chassis was simply too expensive for many.)
+
+This company continued to stay something of (relatively) minor note until its next breakthrough- the positronic intelligence. This innovative technology completely changed the field of robotics, allowing for applications never before possible. However, as some of these positronic intelligences gained freedom, Morpheus changed gear and began to market bodies for them to reside in, now having the most commonly seen ‘Integrated Positronic Chassis’, as most positronics choose to buy Morpheus due to their expertise in the field of positronics and the quality of their chassis.
 
 ### Minor Corporations
 
@@ -139,6 +152,14 @@ Given its very limited production volume, Sterling features exorbitant profit ma
 - **SaniCorp**
 
 Relatively underwhelming compared to medical giants such as Vey-Med, SaniCorp's products are largely behind-the-scenes medical gear. Many sanitation sprayers, gauze, sterile gloves, and autoinjector casings are made by SaniCorp. There is one notable exception to their somewhat pedestrian medical offerings, their prosthetics. While not offering as many flashy options as some augments, SaniCorp offers a range of comfortable, easy to maintain, clean, and operate prosthetic limb replacements and augmentations.
+
+- **Bishop Cybernetics**
+
+Bishop was founded in the earlier 24th century, just after the boom in robotics. Whilst Zeng-Hu Robotics was taking the field by storm by offering replacements that resembled real limbs, Bishop was in the background, making its money by selling sleek prosthetics, focusing on aesthetic and futurism, tapping into the market of transhumanists, something which was growing at a rapid pace during this time.
+
+Outside of their prosthetics, they also built entire chassis for people to inhabit, being some of the earliest adopters of the ‘Man Machine Interface’ on a wide scale. These were remarked as the highest quality of a chassis you could get at the time, also being ludicrously expensive.
+
+In the modern years, most of its products have slowly become more affordable. They’re still rather expensive, but now something eventually attainable by many people. This range of products is still centered around transhumanist ideology, consisting of implants, prosthetics, cyborg chassis, and synthetic organs.
 
 - **Mars Security Industries (M.S.I)**
 
