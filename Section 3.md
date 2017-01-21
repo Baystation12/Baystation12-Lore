@@ -159,7 +159,7 @@ Bishop was founded in the earlier 24th century, just after the boom in robotics.
 
 Outside of their prosthetics, they also built entire chassis for people to inhabit, being some of the earliest adopters of the ‘Man Machine Interface’ on a wide scale. These were remarked as the highest quality of a chassis you could get at the time, also being ludicrously expensive.
 
-In the modern years, most of its products have slowly become more affordable. They’re still rather expensive, but now something eventually attainable by many people. This range of products is still centered around transhumanist ideology, consisting of implants, prosthetics, cyborg chassis, and synthetic organs.
+They still create 'top-notch' prosthetics- though, much of the price comes out of the sleek look and branding, as the quality of their product itself is very much debateable. Their range of products is still centered around transhumanist ideology, consisting mostly of implants, prosthetics, cyborg chassis, and synthetic organs.
 
 - **Mars Security Industries (M.S.I)**
 
