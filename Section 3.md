@@ -111,7 +111,7 @@ Originally a small company focused on research of the interface of the human min
 
 Morpheus, however, had one breakthrough that is entirely attributed to it, the ‘MMI’. This device not only allowed for people to be ‘revived’ by having their brains transplanted into it, it also allowed them to access and interface with many custom-built robots and other devices.(However, at the time, it was most common to find cyborgs in modified drone chassis, as a proper chassis was simply too expensive for many.)
 
-This company now produces the most commonly seen ‘Integrated Positronic Chassis’, as most positronics choose to buy Morpheus due to their expertise in the field of positronics and the quality of their chassis, being made specifically for positronic minds.
+This company continued to stay something of (relatively) minor note until its next breakthrough- the positronic intelligence. This innovative technology completely changed the field of robotics, allowing for applications never before possible. However, as some of these positronic intelligences gained freedom, Morpheus changed gear and began to market bodies for them to reside in, now having the most commonly seen ‘Integrated Positronic Chassis’, as most positronics choose to buy Morpheus due to their expertise in the field of positronics and the quality of their chassis.
 
 ### Minor Corporations
 

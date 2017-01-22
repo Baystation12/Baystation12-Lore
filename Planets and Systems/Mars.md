@@ -65,7 +65,7 @@ Finally the Agricultural Ring, designed by famous Hydroponic Master Steven Welwr
 
 20% of the food, meat, milk, eggs, and other farmed goods here are exported outwards, to other colonies on Mars.
 
-New Liberty has a strong economy, based on trade, distribution, hydroponics production, and outside tourism to the colony's massive Primary Space Port that to many is more mall than port.
+New Liberty has a strong economy, based on trade, distribution, hydroponics production, and outside tourism to the colony's massive Prmary Space Port that to many is more mall than port.
 
 New Liberty is in an interesting location; being on Mars,it would be an ideal stopping point to resupply on goods and sell merchandise coming from and going to Earth. However, New Liberty is also built on a higher plateau on Mars, giving it natural protection and closer (though minor) distance to the atmosphere's end.
 
