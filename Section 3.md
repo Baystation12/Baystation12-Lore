@@ -83,9 +83,9 @@ A colonial start-up, O'Neill Manufacturing meets the demands of a growing commun
 
 - **Xion Industrial**
 
-Xion was a company founded long ago, originally producing industrial equipment and vehicles, from drills to mechs. It only came to become the company we know it as today during the robotics boom of the 24th century, constructing drones for many industrial applications. They expanded at an incredibly rapid pace, quickly becoming a well-known name across Sol, and being a major contributor to the replacement of many human workers by robots.
+Xion was founded in the mid 23rd century, originally manufacturing industrial equipment, but during the Robotics Boom of the 24th Century, Xion reinvented itself into the company we see today- constructing a vast variety of different industrial drone tech. They quickly grew in size and power, becoming a well known name in Sol and paving the way for the robotic replacement of human workers in certain industrial fields.
 
-These days, they’re much less powerful than they were then, as other, stronger corporations progressed forward, using newer innovations such as positronics, whilst Xion sits back and continues to mass-produce cheap drones. In more recent years, they’ve introduced a line of prosthetics with a heavy focus on function over form, again being primarily for industrial work.
+These days, they're a far less powerful corporation then they were back then. Rather than moving forward with the newer innovations such as positronic technology, Xion continues to mass-produce their cheap drones. In more recent years, they've introduced a new line of prosthetic equipment who's primary focus is on function over design in the industrial workforce.
 
 - **Falco Designs**
 
@@ -107,9 +107,9 @@ While usually the larger corporations devise their own power grid and manage the
 
 - **Morpheus Cyberkinetics**
 
-Originally a small company focused on research of the interface of the human mind to cybernetic parts, founded just prior to the explosion in robotics technology. This company produced the first of the truly high-end cybernetics, interfacing directly with the human nervous system, even giving a very rudimentary sense of touch. There are some rumors that Zeng-Hu had seized their results through corporate espionage, quickly producing their own line of prosthetics that eclipsed Morpheus’ own.
+Founded just prior to the explosion in robotics technology, Morpheus was originally a smaller company focused on research of the interface designed for human mind to cybernetic connection. Eventually, Morpheus came to produce the first high-end cybernetic tech, interfacting directly with human nervous system, even giving a rudimentary sense of touch. There are rumors that Zeng-Hu had seized their results through corporate espionage, quickly producing their own line, but is unclear if those rumors were true.
 
-Morpheus, however, had one breakthrough that is entirely attributed to it, the ‘MMI’. This device not only allowed for people to be ‘revived’ by having their brains transplanted into it, it also allowed them to access and interface with many custom-built robots and other devices.(However, at the time, it was most common to find cyborgs in modified drone chassis, as a proper chassis was simply too expensive for many.)
+Later in years, Morpheus came to yet another break through, this time fully attributed to them, with the MMI. The MMI not only allowed for people to be revived through brain transplants, but also allowed for them to access and interface with custom-built machinery, such as cyborg equipment. However, at the time, it was far more common to find MMIs in modified drone chassis, as the proper cyborg chassis were too expensive for most.
 
 This company now produces the most commonly seen ‘Integrated Positronic Chassis’, as most positronics choose to buy Morpheus due to their expertise in the field of positronics and the quality of their chassis, being made specifically for positronic minds.
 
@@ -155,9 +155,9 @@ Relatively underwhelming compared to medical giants such as Vey-Med, SaniCorp's 
 
 - **Bishop Cybernetics**
 
-Bishop was founded in the earlier 24th century, just after the boom in robotics. Whilst Zeng-Hu Robotics was taking the field by storm by offering replacements that resembled real limbs, Bishop was in the background, making its money by selling sleek prosthetics, focusing on aesthetic and futurism, tapping into the market of transhumanists, something which was growing at a rapid pace during this time.
+Bishop was founded in the earlier 24th century, just after the boom in robotics. Whilst Zeng-Hu Robotics was taking the field by storm by offering replacements that resembled real limbs, Bishop was in the background, making its money by selling sleek prosthetics, focusing on aesthetic and futurism that appealed directly to the Transhumanists who had gone noticably un-marketed to by Zeng-Hu Robotics
 
-Outside of their prosthetics, they also built entire chassis for people to inhabit, being some of the earliest adopters of the ‘Man Machine Interface’ on a wide scale. These were remarked as the highest quality of a chassis you could get at the time, also being ludicrously expensive.
+Outside of their prosthetics, Bishop also led the development on full body chassis development, and were one of the earliest adopters of Man Machine Interface (MMI, Pioneered by the Morpheus Corporation) on a wide scale. These were remarked as some of the highest quality of chassis available at the time, but were as well ludicrously expensive.
 
 They still create 'top-notch' prosthetics- though, much of the price comes out of the sleek look and branding, as the quality of their product itself is very much debateable. Their range of products is still centered around transhumanist ideology, consisting mostly of implants, prosthetics, cyborg chassis, and synthetic organs.
 
