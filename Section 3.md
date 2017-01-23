@@ -1,4 +1,4 @@
-#So You Want to Learn About the Corporate World?
+﻿#So You Want to Learn About the Corporate World?
 
 Everything you'll encounter out in the Nyx System will probably have a label on it, from either NanoTrasen, Githari Exports, Hesphaistos Industries, one of the other Trans-Stellar Corporations, or even the Free Trade Union; marketing is everywhere. That is why you should know your ways around their inner workings, and what they're about. 
 
@@ -99,6 +99,13 @@ While it does not yet possess technologies like Gravitational Singularity reacto
 
 While usually the larger corporations devise their own power grid and manage their own planets, moons, orstations, FPE is often consulted and hired when a less than usual approach needs to be taken, and their products are on high demand.
 
+- **Centauri Provisions**
+
+Relatively new on the megacorp field, Centauri Provisions is known for their exremely effective ways of preserving and space-proofing food, drink, and other perishables.  Their many patented means of preservation have led to multiple contracts with SolGov for stocking different space stations all across the known universe.
+
+Now, Centauri has multiple subsidiary companies, including the owner of Space Cola, Federov Beverages Inc.
+
+Even with how new it is, Centauri products are trusted and used all across Human space, with most soda vending machines at least being stocked with Space Cola and snack machines being stocked with their Bread Tubes.
 
 ### Minor Corporations
 
