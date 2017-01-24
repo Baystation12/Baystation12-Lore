@@ -103,7 +103,7 @@ While usually the larger corporations devise their own power grid and manage the
 
 Relatively new on the megacorp field, Centauri Provisions is known for their exremely effective ways of preserving and space-proofing food, drink, and other perishables.  Their many patented means of preservation have led to multiple contracts with SolGov for stocking different space stations all across the known universe.
 
-Now, Centauri has multiple subsidiary companies, including the owner of Space Cola, Federov Beverages Inc.
+Now, Centauri has multiple subsidiary companies, including the owner of Space Cola, Robust Industries LLC.
 
 Even with how new it is, Centauri products are trusted and used all across Human space, with most soda vending machines at least being stocked with Space Cola and snack machines being stocked with their Bread Tubes.
 
