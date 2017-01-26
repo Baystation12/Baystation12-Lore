@@ -117,7 +117,7 @@ A minor name alongside weapons manufacturers like Hephaestus and NanoTrasen, Aus
 
 - **Lawson Arms**
 
-Founded by Lawson Neal, Lawson Arms is known for creating many weapons used by Security and Police forces across the galaxy. Their lines range from pepper spray to even some rifles, but they're best known for their standard energy pistol, which is a versatile tool found in almost every armory in the galaxy due to its ability to serve as a non-lethal weapon, or if required, a lethal one.
+Founded by Lawson Neal, Lawson Arms is known for designing and producing many weapons used by security and police forces across the galaxy. Their lines range from pepper spray to basic energy rifles, but they're best known for their standard energy pistol, a versatile tool found in almost every armory in the galaxy due to its ability to serve as a non-lethal weapon, or if required, a lethal one.
 
 - **Vu-Cheong**
 
