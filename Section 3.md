@@ -1,4 +1,4 @@
-#So You Want to Learn About the Corporate World?
+﻿#So You Want to Learn About the Corporate World?
 
 Everything you'll encounter out in the Nyx System will probably have a label on it, from either NanoTrasen, Githari Exports, Hesphaistos Industries, one of the other Trans-Stellar Corporations, or even the Free Trade Union; marketing is everywhere. That is why you should know your ways around their inner workings, and what they're about. 
 
@@ -104,6 +104,14 @@ Created from a fusion of energy companies as well as Electrical Engineering comp
 While it does not yet possess technologies like Gravitational Singularity reactor or Supermatter reactor (which is exclusive to NanoTrasen at this time), it finds no match in producing other devices and components of a proper working power grid, like underground shielded long-range transmission wiring, high-efficiency transformers (up to 99.8%), and superior gas turbines and TEGs. They are designers of PSU racks, and later the SMES.
 
 While usually the larger corporations devise their own power grid and manage their own planets, moons, orstations, FPE is often consulted and hired when a less than usual approach needs to be taken, and their products are on high demand.
+
+- **Robust Industries LLC.**
+
+Relatively new on the megacorp field, Robust Industries is known for their exremely effective ways of preserving and space-proofing food, drink, and other perishables.  Their many patented means of preservation have led to multiple contracts with SolGov for stocking different space stations all across the known universe.
+
+Now, Robust has multiple subsidiary companies, including the owner of Space Cola.
+
+Even with how new it is, Robust products are trusted and used all across Human space, with most soda vending machines at least being stocked with Space Cola and snack machines being stocked with their Bread Tubes.
 
 ### Minor Corporations
 

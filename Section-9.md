@@ -65,6 +65,10 @@ beginning of the Dimensional Art, where paintings have an actual depth to them. 
 main form of painting that was being created, a return to the art style of Salvador Dali, and Max Ernst, as well as the cultural 
 movement that they grew from in the early 20th Century.
 
+##### Consumer Goods
+
+With there being multiple massive corporations in the known universe, they all have different well-known products that they offer.  Specifically, more lore on sodas and cigarette types can be found here: [Consumer Goods](https://baystation12.net/lore/Technology/Consumer50%Goods)
+
 ____
 
 #### Did You Know:
