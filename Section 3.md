@@ -81,6 +81,12 @@ Even though Terraphistus' catalogue has been stagnant for almost 50 years, it is
 
 A colonial start-up, O'Neill Manufacturing meets the demands of a growing community of spacers looking for more out of their EVA suits. Space suits have been an essential part of space exploration, for obvious reasons. Over time, suits have improved from the clunky affairs of early space travel, and O'Niell can provide any kind of suit for any kind of job. Voidsuits are their most common product, though some Softsuits are still sold for emergency use. Recently though, O'Niell has released a line of affordable industrial hardsuits to complement their line of exosuits. While many of their products are considered middle of the line goods, operators of O'Niell's line of equipment swear by its reliability.
 
+- **Xion Industrial**
+
+Xion was founded in the mid 23rd century, originally manufacturing industrial equipment, but during the Robotics Boom of the 24th Century, Xion reinvented itself into the company we see today- constructing a vast variety of different industrial drone tech. They quickly grew in size and power, becoming a well known name in Sol and paving the way for the robotic replacement of human workers in certain industrial fields.
+
+Today, they are far less powerful than they were then. Rather than moving forward with the newer innovations such as positronic technology, Xion continues to mass-produce their cheap drones. In more recent years, they've introduced a new line of prosthetic equipment, which prioritizes function over design, for use in the industrial sector.
+
 - **Falco Designs**
 
 A younger corporation, the simply named Falco Designs first came onto the radar in the early 2500s. Its founder Giuseppe Cecilio, at the time a minor billionaire, purchased the entirety of the asteroid Ceres. Ceres had originally been a stepping stone for the exploration of Sol, though by the 26th century it had been long defunct, stripped of resources and populated by those whose grandparents' grandparents hadn't had the money to leave. Cecilio however, saw opportunity in those people.
@@ -99,13 +105,13 @@ While it does not yet possess technologies like Gravitational Singularity reacto
 
 While usually the larger corporations devise their own power grid and manage their own planets, moons, orstations, FPE is often consulted and hired when a less than usual approach needs to be taken, and their products are on high demand.
 
-- **Centauri Provisions**
+- **Robust Industries LLC.**
 
-Relatively new on the megacorp field, Centauri Provisions is known for their exremely effective ways of preserving and space-proofing food, drink, and other perishables.  Their many patented means of preservation have led to multiple contracts with SolGov for stocking different space stations all across the known universe.
+Relatively new on the megacorp field, Robust Industries is known for their exremely effective ways of preserving and space-proofing food, drink, and other perishables.  Their many patented means of preservation have led to multiple contracts with SolGov for stocking different space stations all across the known universe.
 
-Now, Centauri has multiple subsidiary companies, including the owner of Space Cola, Robust Industries LLC.
+Now, Robust has multiple subsidiary companies, including the owner of Space Cola.
 
-Even with how new it is, Centauri products are trusted and used all across Human space, with most soda vending machines at least being stocked with Space Cola and snack machines being stocked with their Bread Tubes.
+Even with how new it is, Robust products are trusted and used all across Human space, with most soda vending machines at least being stocked with Space Cola and snack machines being stocked with their Bread Tubes.
 
 ### Minor Corporations
 
@@ -116,6 +122,10 @@ Primarily a military spacecraft contractor, Petrovitch is known for its strike c
 - **Aussec Armory**
 
 A minor name alongside weapons manufacturers like Hephaestus and NanoTrasen, Aussec Armory is nevertheless a well known name in firearms. Continuing to produce ballistics instead of energy weaponry, Aussec is seen by some to be behind the times, but many mercenary and private security firms swear by, and kill with, Aussec arms.
+
+- **Lawson Arms**
+
+Founded by Lawson Neal, Lawson Arms is known for designing and producing many weapons used by security and police forces across the galaxy. Their lines range from pepper spray to basic energy rifles, but they're best known for their standard energy pistol, a versatile tool found in almost every armory in the galaxy due to its ability to serve as a non-lethal weapon, or if required, a lethal one.
 
 - **Vu-Cheong**
 
@@ -146,6 +156,14 @@ Given its very limited production volume, Sterling features exorbitant profit ma
 - **SaniCorp**
 
 Relatively underwhelming compared to medical giants such as Vey-Med, SaniCorp's products are largely behind-the-scenes medical gear. Many sanitation sprayers, gauze, sterile gloves, and autoinjector casings are made by SaniCorp. There is one notable exception to their somewhat pedestrian medical offerings, their prosthetics. While not offering as many flashy options as some augments, SaniCorp offers a range of comfortable, easy to maintain, clean, and operate prosthetic limb replacements and augmentations.
+
+- **Bishop Cybernetics**
+
+Bishop was founded in the earlier 24th century, just after the boom in robotics. Whilst Zeng-Hu Robotics was taking the field by storm by offering replacements that resembled real limbs, Bishop was in the background, making its money by selling sleek prosthetics, focusing on aesthetic and futurism that appealed directly to the Transhumanists who had gone noticably un-marketed to by Zeng-Hu Robotics
+
+Outside of their prosthetics, Bishop also led the development of full-body prosthetic replacement, and were one of the earliest adopters of Man Machine Interface (MMI, Pioneered by the Morpheus Corporation) on a wide scale. These were regarded as the highest quality chassis available, but were also ludicrously expensive.
+
+They still create 'top-notch' prosthetics- though, much of the price comes out of the sleek look and branding, as the quality of their product itself is very much debateable. Their range of products is still centered around transhumanist ideology, consisting mostly of implants, prosthetics, cyborg chassis, and synthetic organs.
 
 - **Mars Security Industries (M.S.I)**
 

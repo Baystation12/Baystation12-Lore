@@ -29,7 +29,7 @@ ___
 ___
 ##Drinks
 
-**Space Cola:** Space cola is the most popular drink made by [Centauri Provisions](https://baystation12.net/lore/Section%203), a subsidiary of Robust Industries LLC. While it is only slightly different from traditional cola recipes, its blend of syrups and sugars is enticing to children and adults alike.
+**Space Cola:** Space Cola is the most popular drink made by [Robust Industries LLC.](https://baystation12.net/lore/Section%203). While it is only slightly different from traditional cola recipes, its blend of syrups and sugars is enticing to children and adults alike.
 
 **Bottled Water:** This is a generic, [NanoTrasen](https://baystation12.net/lore/Corporations/NanoTrasen) branded bottle of water, included in vending machines for the benefit of Skrellian employees.  The company swears on the quality of the water, saying it comes from the Martian poles.  Most people disregard that and assume it's recycled from hydroponics trays.
 
@@ -45,7 +45,7 @@ ___
 
 **Space-Up:** This drink is advertised as one of the most carbonated beverages on the market and is advertised for its carbonation, not its flavor. Children will commonly make 'Space-Up Volcanoes' by dropping mints into a can of Space-Up and causing it to create a long stream of fizz upward. Doctors advise that children do not attempt to become 'Space-Up Dragons.'
 
-**Lemon-Lime:** This is a Centauri Provisions-branded can of Lemon-Lime soda. Trumpeted as a 'natural' beverage, it contains no fruit or fruit byproducts. It was never as popular as their now discontinued Oh-Range brand.
+**Lemon-Lime:** This is a Robust Industries-branded can of Lemon-Lime soda. Trumpeted as a 'natural' beverage, it contains no fruit or fruit byproducts. It was never as popular as their now discontinued Oh-Range brand.
 
 **Vrisk Iced Tea:** Vrisk Iced Tea is named after it's creator, Penelope Vrisk. She was a canner for Robust Industries who wanted to create an authentic-tasting Southern iced tea. After finishing her formula and managing to get it produced, the tea became an instant hit.
 
