@@ -6,6 +6,8 @@ different.
 Out there in the stars, the great arms of Sol Gov, extend beyond Humanity's home system, finding new stars, establishing order, and
 attempting to bring peace to chaos. How does it work? well lets see.
 
+![flag][1]
+
 ## An Overview of Sol Gov
 
 The Sol Central Government, commonly referred to as SolGov, the SCG, or Sol Central is a federal republic composed of numerous human 
@@ -241,3 +243,17 @@ ____
 ## What's the International Assembly?
 
 (information for IA to be put later)
+
+
+
+
+
+
+
+
+
+
+
+
+[1]:https://images.discordapp.net/.eJwNycsNwyAMANBdGAAXO3yabRBBJBKJEXZ7qbp78q7vZz6zm9XsqkNWgO2QwnOzojxzq7Yxt17zOMQWPiGr5rKf9VIB9Im8Q1rojcFTIgcY_RJCfCY6QvdKCYR7468dVzP_G-OrImk.V5laLiX7B_o8gsn8B-PGw1FX2wM?width=400&height=266
+
