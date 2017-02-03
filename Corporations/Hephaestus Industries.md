@@ -1,5 +1,7 @@
 # Hephaestus Industries
 
+![logo][1]
+
 Hephaestus Industries is the biggest and most notorious arms manufacturer of human space. Half of human weaponry is produced by Hephaestus Industries or one of their sub contractors.
 
 ## About
@@ -17,3 +19,16 @@ Hephaestus Industries is the leading market share in small arms, planetary armed
 Alien technology has a rather significant research branch in Hephaestus Industries, in particular ancient Unathi weaponry and whatever gets funneled to them by the Skrell. Meanwhile their phoron research branch is practically non-existant, rumour has it they are letting their competitors, in particular the 'new kid' NanoTrasen, take the risks and costs of phoron accidents and do the basic grunt work before stepping back in. This is purely rumour and all incidents of corporate spies that claimed to be on HI's payroll have been denied by Hephaestus Industries.
 
 Due to their unscrupulous nature, and and the necessary evil of being a major arms industry, Hephaestus Industries are the under constant scrutiny and are generally disliked by more peaceful systems. However they are also considered one of the best trans-stellar corporations to work for, with the highest pay rates, best benefits that last well past retirement. A job at Hephaestus Industries is one of the hardest, but most sought after, positions, and those who make it in and are loyal are often considered set for life.
+
+
+
+
+
+
+
+
+
+
+
+
+[1]:http://i.imgur.com/MdmKrhC.png
