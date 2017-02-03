@@ -1,4 +1,4 @@
-# Big Brother and the Government
+﻿# Big Brother and the Government
 
 With Civilization comes laws, government, and power. The things that, inherently, make civilization civilization, and not barbarianism.
 Each of the stellar species has their own government, one in control of the mass majority of their populations, and humanity is no 
@@ -255,5 +255,5 @@ ____
 
 
 
-[1]:https://images.discordapp.net/.eJwNycsNwyAMANBdGAAXO3yabRBBJBKJEXZ7qbp78q7vZz6zm9XsqkNWgO2QwnOzojxzq7Yxt17zOMQWPiGr5rKf9VIB9Im8Q1rojcFTIgcY_RJCfCY6QvdKCYR7468dVzP_G-OrImk.V5laLiX7B_o8gsn8B-PGw1FX2wM?width=400&height=266
+[1]:http://i.imgur.com/33fIXcQ.png
 
