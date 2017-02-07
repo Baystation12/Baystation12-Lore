@@ -3,12 +3,11 @@
 With Civilization comes laws, government, and power. The things that, inherently, make civilization civilization, and not barbarianism.
 Each of the stellar species has their own government, one in control of the mass majority of their populations, and humanity is no 
 different.
-Out there in the stars, the great arms of Sol Gov, extend beyond Humanity's home system, finding new stars, establishing order, and
-attempting to bring peace to chaos. How does it work? well lets see.
+Out there in the stars, the great arms of the Sol Central Government, extend beyond Humanity's home system, finding new stars, establishing order, and attempting to bring peace to chaos. How does it work? well lets see.
 
-![flag][1]
+# The Sol Central Government
 
-## An Overview of Sol Gov
+![The Sol Central Government Flag][1]
 
 The Sol Central Government, commonly referred to as SolGov, the SCG, or Sol Central is a federal republic composed of numerous human 
 states across many solar systems, which governs, directly or indirectly, the majority of human space. Its primary governing bodies are
@@ -17,7 +16,7 @@ freedom in their actions, while the SCG manages sapient rights, security, the ec
 diverse population, including many non-humans, and encompasses a wide range of systems, territories, habitats, and stellar bodies. The
 Sol Central Government and its member states make up one of the more advanced and powerful civilizations in the known galaxy.
 
-## The History of Sol Gov
+## The History of SolGov
 
 When Humanity first started colonizing the Solar System, it was under the banner of the Old Earth, nation-states like China, America, and India planted their flags in the dirt of planets and moons throughout the system. Shortly behind them the private corporations followed, establishing corporate outposts and research stations away from the prying eyes of Earth. As the situation on Earth deteriorated, the colonies funded by corporations grew more powerful in the absence of oversight, and the colonies that eventually lost contact with their parent nation-states were left on their own. While some withered, being forced to fend for themselves, and others disappeared entirely, the strongest banded together and started to form some of the settlements and governments that we know so well today. As the flow of people from Earth grew, so did the settlements that had survived.
 
@@ -243,6 +242,7 @@ ____
 ## What's the International Assembly?
 
 (information for IA to be put later)
+
 
 
 
