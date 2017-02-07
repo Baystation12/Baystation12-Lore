@@ -14,7 +14,7 @@
 * **Motto**: Liberty, Sovereignty, Unity
 * **Created by**: Raptor1628
 
-## Demographics (How your population breaks down)
+## Demographics
 
 ### Population
 
@@ -44,7 +44,7 @@
 
 30% Other
 
-### Religion (If applicable)
+### Religion
 
 55% Christianity (Largely Eastern Orthodox)
 
@@ -140,7 +140,7 @@ The remains of a large cylindrical spacecraft were discovered in a system within
 The Terran Confederacy, while made up of many separate member states, generally operates based on its official motto: Liberty, Sovereignty, Unity. Its founding members split from SolGov in order to pursue their own path, and protect their own rights. Government regulations and legal blocks are few and relatively weak, making the Confederacy attractive to people, corporations, and governments who wish to go their own way, outside the prying eyes of a big brother. As a largely human organization, the Confederacy and its member states prioritize defense against their Resomi neighbors over internal defense, and are constantly on alert for SolGov interference in their space. While individual member states may disagree, and even fight on occasion, if an external threat were to arise, the Confederacy would unite to repel it. 
 
 ## Culture
-What kind of culture or traditions are present? Is there any ethnic tradition that has continued?
+Terran culture is as varied as it is in most of human space. While many customs and traditions were carried from Earth, especially from the homelands of the original colonists, culture and lifestyle varies widely depending on location.
 
 ### Entertainment
 
@@ -150,7 +150,7 @@ Thunderdome matches can range from organized bouts using a single martial art, a
 
 Thunderdome duels still are permitted in some confederate member states, and participants have an option to broadcast these duels, granting the winner prize money. Most common however, are standard team matches, with 6 individuals on each side, armed either with a standardized melee weapon, or with weapons that can be found on the court.
 
-## Economy and Assets
+## Economy
 * **Imports**: Phoron. Bluespace Drives. Luxury Goods. Plant Genes. Positronics. Foodstuffs.
 * **Exports**: Raw Materials. Industrial Equipment. Weaponry. Spacecraft. Helium-3
 
