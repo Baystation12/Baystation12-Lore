@@ -5,6 +5,7 @@ As population has grown, so has the need for more land. As technology has progre
 ## Sol
   * [Luna](https://baystation12.net/lore/Planets-and-Systems/Luna)
   * [Mars](https://baystation12.net/lore/Planets-and-Systems/Mars)
+  * [Pluto](https://baystation12.net/lore/Planets-and-Systems/Pluto)
   * [Phobos](https://baystation12.net/lore/Planets-and-Systems/Phobos)
   * [Ceres](https://baystation12.net/lore/Planets-and-Systems/Ceres)
 
@@ -60,7 +61,7 @@ These are colonies that exist in other systems besides Sol or Nyx
 
 #### A'sranda
 
-  * [A'sranda](https://baystation12.net/lore/Planets-and-Systems/A'sranda)
+  * [A'sranda](https://baystation12.net/lore/Planets-and-Systems/Asranda)
   
 #### Saveel
 
