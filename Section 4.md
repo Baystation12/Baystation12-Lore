@@ -49,7 +49,7 @@ These are colonies that exist in other systems besides Sol or Nyx
 
 ### Skrell 
 
-#### Harr'klem
+#### Harr'kelm
 
   * [Harr'qac](https://baystation12.net/lore/Planets-and-Systems/Harr'qac)
 

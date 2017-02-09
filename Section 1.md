@@ -93,13 +93,17 @@ ___
 ###Various Factions
 
 [**Trans-Stellar Corporations**](https://baystation12.net/lore/Section-3)
+
 These are the big corporate forces, major companies whose reach cover numerous star systems and are nearly government forces of their own. While Sol Central does keep them in check to make certain nothing too inhumane or against humanity's interest is being performed, they actually police each other in a way. Keep in mind while many corporations do have their own security forces, some of them armed well enough to make some governmental military forces jealous, they are all used for 'asset protection'.
 
 **The Free Trade Union**
+
 To keep the TSC's in check, and to help protect the smaller businesses striving to just make a living, the Free Trade Union was formed 200 years ago. Each FTU branch is different from system to system, but each offer lawyers, copyright enforcement, and even anti-pirate asset protection forces for any non TSC business. All FTU stations are renowned for their open markets where all are welcomed to sell and trade, even the Vox. They're the vocal defenders of the mom and pop stores, basically.
 
 [**Sol Gov**](https://baystation12.net/lore/Section-8)
+
 The banner over which most of humanity is united under. They focus on keeping humanity's best interest in check and tend to keep out of a system's personal problems unless they are in a dire state of emergency. (Think United Nations)
 
 [**Subversive Forces**](https://baystation12.net/lore/Section-5)
+
 Ever since humanily only lived on Earth, criminals banded together into groups that worked in the opposite side of law. Present time is no exception and there is a number of subversive organisations, pirate groups, rogue states and so on. They operate in various systems, or even between them. Their motives, beliefs, history and power vary, but they all share one trait. They are enemies of normal people. And great inspiration for todays criminals.

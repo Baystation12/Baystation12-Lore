@@ -8,7 +8,7 @@ With the first human being standing on the Red Planet in 2052, to the nearly 7 b
 
 ### The Black Flag Movement
 
-An anarchist movement that started with the founding of the Confederacy of Man, the BLM is a violent terrorist group that operates out of Maza City and Catti. It's goals are for the disestablishment of Sol Gov, and the return of an "Open Citizen" state, though their practices and ways to obtain this are conflicting. Using bombings, assassinations, and smallscale guerilla warfare, the BLM has brought a crisis of sorts to the seat of Sol Gov. 
+An anarchist movement that started in Maza, the BFM is a violent terrorist group that operates out of Maza City and Catti. It's goals are for the disestablishment of Sol Gov, and the return of an "Open Citizen" state, though their practices and ways to obtain this are conflicting. Using bombings, assassinations, and smallscale guerilla warfare, the BFM has brought a crisis of sorts to the seat of Sol Gov. 
 
 There are rumors that New Liberty itself is backing the movement, but nothing is for certain.
 
@@ -65,7 +65,7 @@ Finally the Agricultural Ring, designed by famous Hydroponic Master Steven Welwr
 
 20% of the food, meat, milk, eggs, and other farmed goods here are exported outwards, to other colonies on Mars.
 
-New Liberty has a strong economy, based on trade, distribution, hydroponics production, and outside tourism to the colony's massive Prmary Space Port that to many is more mall than port.
+New Liberty has a strong economy, based on trade, distribution, hydroponics production, and outside tourism to the colony's massive Primary Space Port that to many is more mall than port.
 
 New Liberty is in an interesting location; being on Mars,it would be an ideal stopping point to resupply on goods and sell merchandise coming from and going to Earth. However, New Liberty is also built on a higher plateau on Mars, giving it natural protection and closer (though minor) distance to the atmosphere's end.
 
