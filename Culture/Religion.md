@@ -12,8 +12,8 @@ time. Many other old-age religions of human history have survived through the ce
 
 ### Christianity
 	
-	Christianity exists much in the same way that it did long ago- Splintered all around by the various different ideas and faiths that 
-make it up from Catholicism to Orthodox Christianity to Mormonism, and even the new-age beliefs such as Joshuaism and Heterdox 
+ Christianity exists much in the same way that it did long ago- Splintered all around by the various different ideas and faiths 
+that make it up from Catholicism to Orthodox Christianity to Mormonism, and even the new-age beliefs such as Joshuaism and Heterodox 
 Christianity.
 
  Today, the largest percentage of Christians (36%) follow the New Roman Catholic Church, named so due to its new location in Vaticano 
