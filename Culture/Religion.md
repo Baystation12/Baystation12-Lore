@@ -1,4 +1,4 @@
-# Religion
+﻿# Religion
 
  Religion, as it has always done throughout Human History, changes and weaves through the patterns of society, surviving for countless 
 centuries, but never the same. Religion in the 26th Century is no different, a completely different era for the various churches and 
@@ -13,8 +13,7 @@ time. Many other old-age religions of human history have survived through the ce
 ### Christianity
 	
 	Christianity exists much in the same way that it did long ago- Splintered all around by the various different ideas and faiths that 
-make it up from Catholicism to Orthodox Christianity to Mormonism, and even the new-age beliefs such as Joshuaism and Heterdox 
-Christianity.
+make it up from Catholicism to Orthodox Christianity to Mormonism, and even the new-age beliefs such as Joshuaism and Heterodox Christianity.
 
  Today, the largest percentage of Christians (36%) follow the New Roman Catholic Church, named so due to its new location in Vaticano 
 Seguendo, in South America. The Current Pope is Pope Leo XXI, who became as such in 2558. Since Humanity expanded into the stars, 
