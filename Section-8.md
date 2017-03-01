@@ -104,7 +104,7 @@ Agents of the Customs and Trade Bureau run customs checks at most gateways, and 
 
 The Solar Bank provides several essential banking services to SolGov and its member states. Not only does it provide insured banking to SolGov citizens, and humans without any citizenship, it provides loans to struggling states and organizations for humanitarian purposes. Most importantly, it works with the Bureau of Finance to regulate the Thaler and its value.
 
-The Thaler (þ, code THL) is the official currency recognized by the Sol Gov. It is the most common currency used in Sol Central-space and its territories, and it is the most popular currency for international or interplanetary transactions. The Thaler is the most dominant currency used by the Free Trade Union, although the organization does not restrict the use of alternate currencies in its jurisdiction.
+The Thaler (T, code THL) is the official currency recognized by the Sol Gov. It is the most common currency used in Sol Central-space and its territories, and it is the most popular currency for international or interplanetary transactions. The Thaler is the most dominant currency used by the Free Trade Union, although the organization does not restrict the use of alternate currencies in its jurisdiction.
 
 The value of the Thaler is defined by a Sol Central document published by the organization's economics committee and approved by a joint vote in both the Solar and Colonial assemblies.
 
