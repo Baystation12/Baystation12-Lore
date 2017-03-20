@@ -1,4 +1,4 @@
-# The Unathi
+﻿# The Unathi
 
 The Unathi (Ew-nath-ee) are a race of tall, reptilian humanoids that possess both crocodile-like and serpent-like features. Their scales are hard and plate-like, save for the softer ones that line the inside of their legs, armpits, and groin. Originating from the planet of [Moghes](https://baystation12.net/lore/Planets-and-Systems/Moghes), the Unathi live in an extremely sexist society, with women being considered property.
 
@@ -179,7 +179,7 @@ There are plenty of villages, settlements and other such things across the plane
 The 15 primary City States are as Follow:
 
 * Mumbak
-* Si'gek Nel'sthar
+* [Si'gek Nel'sthar](https://baystation12.net/lore/Planets And Systems/S'igek Nels'thar.md)
 * Instha
 ^ No'lesk City
 * Durzakrag Fortress
@@ -203,7 +203,7 @@ Barra Gei and Lemo are nomadic settlements, the largest of their kind, each with
 
 ### Disease
 
-*Black egg* Syndrom is a genetic defect found in some females in semi-rare cases, and even rarer in males (Though it manifests in it's own form of extreme impotency.). It is a case where laid eggs are both always coming in singles, and the egg itself has a black shell, is 3 times as thick as normal egg shells, and has a tarpy texture instead of a brittle one, in some cultures this may get the female branded and exiled as unfit for breeding, or declared unfit for breeding or other female duties and treated/casted like a male and trusted with their responsibilities, while the eggs are left to die. In others that do understand this condition, it is treatable by two methods, to either pry open the egg shell with sharp implements and effort. (Call Unathi Kreiger and give him a saw and crowbar) or genetic therapy, though the exact line of code that causes this hasn't been found.
+*Black egg* Syndrome is a genetic defect found in some females in semi-rare cases, and even rarer in males (Though it manifests in it's own form of extreme impotency.). It is a case where laid eggs are both always coming in singles, and the egg itself has a black shell, is 3 times as thick as normal egg shells, and has a tarpy texture instead of a brittle one, in some cultures this may get the female branded and exiled as unfit for breeding, or declared unfit for breeding or other female duties and treated/casted like a male and trusted with their responsibilities, while the eggs are left to die. In others that do understand this condition, it is treatable by two methods, to either pry open the egg shell with sharp implements and effort. (Call Unathi Kreiger and give him a saw and crowbar) or genetic therapy, though the exact line of code that causes this hasn't been found.
 
 ### Date and Time
 
