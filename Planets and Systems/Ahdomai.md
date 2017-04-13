@@ -8,41 +8,41 @@ Ahdomai is the home planet of the [Tajaran][1]. In general, it is a cold and icy
 
 _Diameter: 10742 km._ _Rotational Period: 3 Earth days._ _Ahdomai length days in a year: 74._ The Tajaran home planet. It is the smaller of its twin-planet alignment, and more will be said of it in later sections. Its atmosphere is not dissimilar to that of Earth. Its geography is largely mountainous, with a number of tundras, frozen plains, semi-frozen lakes, and icy seas.
 
-### S'ranjir
+### S'ranjir/Shield
 
-_Diameter 15880 km._ The larger world that Ahdomai orbits. It is often mythologically associated as S'randarr's Shield, and is informally known as Shield among the Tajaran and formally among the humans. It is uninhabitable, as it has a largely methane atmosphere and lacks water or other features necessary to life. Nonetheless, a domed, underdeveloped colony exists, called Hran'vasa, heavily funded by Osiris Atmospherics, practically the only non-Ahdomain official holding for the Tajaran race. It is incredibly dependant on outside support and imports for life, but has a high export of noble gasses for corporate use.
+_Diameter 15880 km._ The larger world that Ahdomai orbits. It is uninhabitable, as it has a largely methane atmosphere and lacks water or other features necessary to life. Nonetheless, several domed, small colonies exist underneath the unlivable atmosphere, with many major Ahdomain mining ventures being based on the planet's surface. It is dependant on outside support and imports for life, but has a high export of noble gasses for corporate use.
 
 ![Ahdomai.png][2]
 
 ### Messa
 
-_Diameter: 159822 km._ The blue unstably-ringed gas planet, associated with the Tajaran goddess of death and change. By the superstitious and religious, it is considered a bad omen when Messa is the only one in the sky. It is also said the rings are the souls Messa has clung on to, and is consuming.
+_Diameter: 159822 km._ The blue unstably-ringed gas planet. It is commonly considered a bad omen when Messa is the only one in the sky. It is said that each segment of the ring is 
 
-### S'randarr
+### Shyihie
 
-The orange sun, associated with the Tajaran god of life and mercy.
+The orange sun that Ahdomai circles. Strangely, little practice surrounds the object in modern myth. 
 
 ### Al-Benj S'ri
 
-An astroid belt seperating S'randarr and Messa from Ahdomai. This is known also as "The Sea of Souls". Those sould in Al-Benj S'ri are said to be in limbo between S'randarr and Messa, as they both fight over them.
+An astroid belt seperating Shyihie and Messa from Ahdomai. This is known also as "The Sea of Souls," and was commonly assumed to be one of the birthplaces of souls in the cosmos. 
 
 ## Zones of Ahdomai
 
-Ahdomai Has a lopsided orbit around S'randarr. As such, it has a much longer winter, with it's winter season being 31 days, Fall and Spring lasting 16, and Summer just 11 days. Along with this, the axis tilt of Ahdomai is almost nothing, leading to a very large variation in indivitual climates around the planet. These have been catagorized into three main climate zones.
+Ahdomai Has a lopsided orbit around Shyihie. As such, it has a much longer winter, with it's winter season being 31 days, Fall and Spring lasting 16, and Summer just 11 days. Along with this, the axis tilt of Ahdomai is almost nothing, leading to a very large variation in indivitual climates around the planet. These have been catagorized into three main climate zones.
 
 * **"Sunny Zone"** Hardly ever below freezing point year round. Has mostly direct overhead sunlight from S'randarr all year. Areas here may be even known as oasis zones with plenty more flora and life
 * **Horizon** Has only horizon sun activity for the most part. Seas thaw half way through spring, and refreeze early fall. Floral and fauna adapted to large temperature changes.
 * **Polar Dark** Areas that hardly receive any sunlight. As such, they are always freezing, and unable to harbor much life, and life there is extremely resilient to the cold.
 
 ## Regions of Ahdomai
-
+-Everything below this point is to be considered as unfinished.-
 ![Taj Geomap.png][3]
 
 ### The Northern Plains
 
 : **Mi'jri Peninsula** is an area that remains sloped down to the shores due to freezing and thawing constantly chewing away at the land. Much of the sediment is then collected to the shore lines which most of the year are frozen beaches. This area is popular for fishing for the Nazkiin, and is a major source of most of their food.
 
-: **The Slavemaster Strip**, Previously referred to as the Overseer Artery. Much of this area is composed of more rugged plain lands, with a few craters and small mountains dotting the landscape. One specific area of note is what is referred to as the "Crater of Light." In the Slavemaster era, the Crater was used as a mine for most of the raw minerals the Slavemaster's had, and was the main site of the Nothern Plains Mining Network. Since the fall of the Slavemasters, the Hadii have fought tooth and nail to preserve hold of it, believing S'randarr gave it to them, and those of Tajr-kii S'randarr must keep it away from the followers of Messa.
+: **The Slavemaster Strip**, Previously referred to as the Overseer Artery. Much of this area is composed of more rugged plain lands, with a few craters and small mountains dotting the landscape. One specific area of note is what is referred to as the "Crater of Light." In the Slavemaster era, the Crater was used as a mine for most of the raw minerals the Slavemaster's had, and was the main site of the Nothern Plains Mining Network. Since the fall of the Slavemasters, the Hadii have fought tooth and nail to preserve hold of it.
 
 * **Northern Plains Mining Network**, a Slavemaster-era mining complex, now owned, operated, and supplied by NT. The Slavemasters cleared out a large portion of the area's mineral wealth, but not all was depleted prior to their leaving. Tajaran employed from nearby towns hail mostly from those days and are glad to see the improvements, safety regulations, and supplies provided by NT (which is to say, any). Nearby towns and cities:
 * **Mi'dynh Al'Manq**, a large NT-funded city, providing (cramped) housing for less-fortunate Tajaran, hospitals, schooling, job training, NT certification, space ports, and more. Many humans also live here, and operate many facilities.
