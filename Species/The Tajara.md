@@ -32,9 +32,9 @@ All medical equipment aboard NanoTrasen vessels will be compatible with Tajara b
 
 **Behavior**
 
-Tajara have a strong tendency towards loyalty and cooperation from their old slavemaster regime. Younger Tajara tend to be a lot more forward and expressive than their older counterparts, this is due to travel and education becoming more accessible. Tajara that are older than fifty years old tend to be less educated. This means that there is a massive educational gap and other such things are also fairly large. Tajara have a just as wide emotional range as humans, but older ones tend to show less of it. 
+Tajara are a fairly superstitious species, with much of their understanding of the universe being based on there being spirits existing around the cosmos, in nearly any and all places. This has made their approach into the practical sciences slower and less refined, however they tend to find themselves excelling in fields such as anthropology, psychology, and other, less “hard” sciences.
 
-It is advisable for staff to make use of the loyalty and cooperation in their line of work. Tajara are incapable of being heads of staff of any kind due to NanoTrasen Incorporated policy.
+The Tajara tend to be quite boisterous, while also having a strong, ingrained sense of duty towards projects they take on. This leads to them becoming heavily focused upon getting things done, while congruently having a sense of urgency and excitability over the topics they are handling. For this reason, Tajara tend to work well in positions where they are needed to handle large-scale projects, as they will focus themselves on said project and are liable to have an energy behind it that pushes the project to actually being finished. 
 
 ## The People of Ahdomai
 
@@ -58,6 +58,25 @@ Members of minor ruling clans may also attend CCA meetings, but only if it is sp
 
 Even as a recent addition to the galactic community, the Tajara are still seen as somewhat of a cheap workforce. With the new government more and more Tajara are becoming educated, now with a large amount of scientists and engineers and with a lack of a basic workforce on Ahdomai. 
 Originally relying on other races for their technology, they have now started developing their own technology. Rural areas have become more modernized with the help of radios and networks of computers. 
+
+
+### Technology
+
+Tajaran technology, prior to the technological renaissance that occurred when they were brought into the galactic community, stood on the brink of colonizing their own star system. They had established a minor colony on their neighboring planet, S'ranjir, and had an extensive network of unmanned probes in fabrication for scanning their local system, as well as plans to send at least two on trips to scan their nearest stellar neighbor. Since meeting humanity, their technology level has been racing to catch up with the more advanced species, though they still have some time before they will be at an equal playing field. 
+
+The Tajara have advanced remarkably far in the field of robotics. This, by itself, would be no surprise given their propensity for drone warfare and drone labor. The majority of their military strength (when it comes to an equivalent of the “grunts”) and their manual labor fronts tend to be occupied with machines rather than the Tajara. There are exceptions, of course - mining is done in conjunction with machines and their Tajaran creators, especially as they go further and further into the galaxy, having less and less space to bring their larger drones with them. Even industries such as food service are slowly being mechanized, though some pushback against this does exist - citing that the drones are unthinking, as the Tajara have yet to invent or embrace any true AI, and the common belief foods made with someone with a soul tend to be of higher quality, created with a passion that a machine cannot match. 
+
+The machines are commonly limited to a local network, a practice that was put into place after the Overseer rebellions - it was seen, by and large, that a planetary network of their machines would simply result in another rebellious faction rising up and causing another catastrophe. 
+
+This cultural embrace of robotics has fueled the rise of prosthetic augmentation being a part of the average Tajaran’s life. Implants, cybernetic limb replacements, and even full-body replacements are slowly but surely taking root across Ahdomai. This is especially prevalent in the larger space-port cities, as they have the largest contact with the universe at large, and the best access to greater technology. Perhaps the highest quality of these mechanical parts belong to Dyson-Rhyn’yai Cybernetics, a Human-Tajaran joint company that is dedicated to providing highly expensive, but highly effective implants, limb, and organ replacements. 
+
+This movement towards cybernetics has caused division between different elements of Tajaran culture. The belief that one’s soul resides throughout the body has clashed with the idea of the willing replacement of appendages and, at times, the entirety of the body itself. Proponents of the practice make claim that the soul is, in all ways, something that will continue to exist and reform itself so long as the mind exists. The soul, while present throughout the form, is held together by the will of the mind, only lost when the mind itself is. Opponents hold that the soul is lost to the Aether immediately upon the destruction or loss of a part of the body, effectively being severed for the remainder of the individual’s life.
+
+The Tajara do not currently possess some of the more advanced technologies that humanity has begun to take for granted. For instance, the Tajara lack laser-based weaponry or adequate shielding for their troops and vessels. To make up for this, the Tajara use a high quantity of ballistic weaponry and point-defense turrets for their warships, troops, and drones. The Tajara also lack cloning facilities, instead preferring to contract out human companies dedicated to the business to do necessary cloning.
+
+Cloning itself is viewed with a somewhat more positive light, owing no small part to the organs being “natural,”  though there is still a rather divisive disagreement over whether a cloned organ or body could truly be considered to be a part of the whole, or if the soul will not be reformed with the newly grown tissue. The cloning facilities in use tend to only be found in high-density areas or in military installations, due to their high cost and the fact that they are contracted out from human medical organizations, which is a major point of non-spiritual contention for opponents of the practice. 
+
+Most important of the technologies the Tajara lack is the Bluespace drive. While they have a gateway installed in their system (built by humanity), they lack the technology and resources necessary to manufacture their own bluespace drives. This has led them to purchasing bluespace-enabled vessels from humanity and the skrell in order to fuel their own scouting of the cosmos and defense of their system. While they are currently attempting to work with humanity to secure some plans to build a drive, negotiations have yet to proceed to a point where such a move would be agreeable for the SCG. 
 
 ### Culture
 
