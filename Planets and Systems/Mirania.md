@@ -1,8 +1,6 @@
 # The Republic of Mirania
 ![1]
 
-Flag of Mirania: The tricolour is meant to represent the cooperation of the major founding nations. The red triangle was added after the present government came into power to represent the new unity of all those disparate backgrounds. The black sun is a symbol of Miranian nationalist parties.
-
 * **Other Common Names**: Mirania, Miranian Republic, Republic of Mirania
 * **Formal Name**: The New Federal Republic of Mirinia III
 * **System**: Mirania
@@ -20,7 +18,7 @@ Flag of Mirania: The tricolour is meant to represent the cooperation of the majo
 
 100% Human (non-humans are not counted in census data, so no data is available on non-human populations)
 
-### Race/Ethnicity (Mixed should almost always be highest, it's the space future dammit)
+### Race/Ethnicity
 
 * 45% White
 * 5% Asian
@@ -67,8 +65,10 @@ Though not as advanced as some of the more coreward worlds, Mirania is a centre 
 
 ## Habitation
 Habitation conditions can vary drastically across Mirania, as with many other worlds, based on socioeconomic factors. A high rise apartment complex is not atypical, furnished thoroughly with basic amenities. The size and luxury of these apartments vary considerably, from lavish penthouses, to sparse, one room apartments. Because land is at such a premium on Mirania, almost no one lives in their own house, and doing so would be seen as a grotesque display of wealth at the expense of society. People are mostly content with the soaring scyscrapers filled with apartments, though it does get cramped and unpleasant in the poorer areas.
+
 ## Hazards and Crime
 Violent crime is very rare on Mirania, as the government tends to be security conscious to a nearly invasive level. There are cameras observing most major streets, heavily armed federal police ready to respond to any incidents, and severe, draconian punishments for any violent crime. White collar crime is, comparatively, much more prevalent, but is punished just as severely by Mirania's institution and duty oriented culture. It's common for perpetrators of such crimes to never again find work on Mirania, and to be socially shunned by their peers. Mirania is rather hostile to non-humans. While not outright, aliens are commonly unwelcome from most social functions and workplaces, and some few have been the targets of violence. Apartment buildings that allow aliens, and office buildings that employ them, often have human-supremacist slogans painted on them, while the government, usually hard on such crime, seems less thorough and zealous when investigating these incidents.
+
 ## Restricted Information
 Members of the new Miranian government might be privy to how truly institutionalised the anti-alien and anti-immigrant sentiment is, with widespread overlooking of discrimination in all regulatory levels of government that are meant to prevent such things. Mirania has also been remilitarising. The Bundeforz Difeza, once a token defence force for keeping away pirates, has expanded to include a small navy, and a well equipped army. It's rumoured among the citizens that the government may be planning on using these forces to press its claims on the neighbouring systems. However, information about these things is tightly controlled, and the government goes to great lengths to ensure it doesn't leave Miranian space.
 
