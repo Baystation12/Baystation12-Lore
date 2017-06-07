@@ -20,7 +20,7 @@ Mechanics
 -   Prometheans are weak to low temperature, pressure and electric shocks. The first two will kill them faster than an ordinary human, and the latter causes massive pain. Shock damage progressively decreases in severity as Prometheans grow hungrier, however; at minimum Nutrition, it will actively heal them instead of causing pain.
 -   Prometheans heal very slowly, and cannot have their blood replenished by normal means. Instead, toxin damage (and, to a lesser extent, consuming food) replenishes their blood; if it goes beyond a set cap, they gain unique abilities and disabilities until it goes back down.
 -   Side-effects of toxin overdoses (represented by gaining too much nutrition) on a Promethean include shapeshifting, vastly increased healing speed, limb regeneration, slow movement and a damage multiplier for damage caused by their weaknesses.
--   Radiation also causes problems. While radiation poisoning is not fatal to a Promethean, they will be slowed to a crawl (or even rooted in place) and rendered mute outside of non-verbal communication.
+-   Radiation also causes problems. While radiation poisoning is not fatal to a Promethean, they *will* be temporarily slowed to a crawl (or even rooted in place) and rendered mute outside of non-verbal communication.
 -   Prometheans melt upon death. Their cores (the replacement for their brains, generally only seen upon the Promethean's death) do not fit into standard Man-Machine Interfaces, and must instead be injected with an ordinarily lethal dose of Phoron to allow them to regenerate on their own.
 -   Despite the telepathic abilities of their slime ancestors, they are not actually telepathic. Even when overloaded.
 
