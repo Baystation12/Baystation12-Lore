@@ -6,23 +6,23 @@ In a nutshell
 -------------
 
 -   The end result of a symbiotic relationship between a slime and another, more organic being (usually a human)
--   Unique biology allows them to repurpose toxins to fuel themselves; radiation is still slightly poisonous,     but affects them differently from the other species
+-   Unique biology allows them to repurpose toxins to fuel themselves; radiation is still slightly poisonous, but affects them differently from the other species
 -   Generally emotionally immature; impulsive, mischievous and incapable of feeling romantic affection
--   Incredibly pain-intolerant and highly averse to pain, and often go out of their way to avoid feeling pain when       possible
+-   Incredibly pain-intolerant and highly averse to pain, and often go out of their way to avoid feeling pain when possible
 -   Generally social, and very quick to make friends
--   Loyal, often to an absurd extent; they tend to see things with more of a pack mentality than most other species,     and commonly refer to close friends as being 'family'
+-   Loyal, often to an absurd extent; they tend to see things with more of a pack mentality than most other species, and commonly refer to close friends as being 'family'
 -   Technically brainless, but still mildly intelligent anyway
 
 Mechanics
 ---------
 
--   Use *,p* to speak in the Promethean language. This qualifies as a non-verbal language, and can be used in     all situations.
--   Prometheans are weak to low temperature, pressure and electric shocks. The first two will kill them faster than      an ordinary human, and the latter causes massive pain. Shock damage progressively decreases in severity as     Prometheans grow hungrier, however; at minimum Nutrition, it will actively heal them instead of causing pain.
--   Prometheans heal very slowly, and cannot have their blood replenished by normal means. Instead, toxin damage     (and, to a lesser extent, consuming food) replenishes their blood; if it goes beyond a set cap, they gain unique     abilities and disabilities until it goes back down.
--   Side-effects of toxin overdoses (represented by gaining too much nutrition) on a Promethean include         shapeshifting, vastly increased healing speed, limb regeneration, slow movement and a damage multiplier for         damage caused by their weaknesses.
--   Radiation also causes problems. While radiation poisoning is not fatal to a Promethean, they will be slowed to a     crawl (or even rooted in place) and rendered mute outside of non-verbal communication.
--   Prometheans melt upon death. Their cores (the replacement for their brains, generally only seen upon the     Promethean's death) do not fit into standard Man-Machine Interfaces, and must instead be injected with an     ordinarily lethal dose of Phoron to allow them to regenerate on their own.
--   Despite the telepathic abilities of their slime ancestors, they are not actually telepathic. Even when     overloaded.
+-   Use *,p* to speak in the Promethean language. This qualifies as a non-verbal language, and can be used in all situations.
+-   Prometheans are weak to low temperature, pressure and electric shocks. The first two will kill them faster than an ordinary human, and the latter causes massive pain. Shock damage progressively decreases in severity as Prometheans grow hungrier, however; at minimum Nutrition, it will actively heal them instead of causing pain.
+-   Prometheans heal very slowly, and cannot have their blood replenished by normal means. Instead, toxin damage (and, to a lesser extent, consuming food) replenishes their blood; if it goes beyond a set cap, they gain unique abilities and disabilities until it goes back down.
+-   Side-effects of toxin overdoses (represented by gaining too much nutrition) on a Promethean include shapeshifting, vastly increased healing speed, limb regeneration, slow movement and a damage multiplier for damage caused by their weaknesses.
+-   Radiation also causes problems. While radiation poisoning is not fatal to a Promethean, they will be slowed to a crawl (or even rooted in place) and rendered mute outside of non-verbal communication.
+-   Prometheans melt upon death. Their cores (the replacement for their brains, generally only seen upon the Promethean's death) do not fit into standard Man-Machine Interfaces, and must instead be injected with an ordinarily lethal dose of Phoron to allow them to regenerate on their own.
+-   Despite the telepathic abilities of their slime ancestors, they are not actually telepathic. Even when overloaded.
 
 Naming
 --------
@@ -30,13 +30,13 @@ Naming
 Prometheans are very varied in terms of nomenclature. Upon fusing with an
 organic host, they usually (but not always) take on the name of their host;
 before that, however, their given names are usually short, incomprehensible
-gurgling noises, to be discarded later ó roughly transcribed as names like
-ìGlughnn,î ìUlghî and ìOgghl.î
+gurgling noises, to be discarded later ‚Äî roughly transcribed as names like
+‚ÄúGlughnn,‚Äù ‚ÄúUlgh‚Äù and ‚ÄúOgghl.‚Äù
 
 It is not unheard of for Prometheans to choose an original name instead of
-adopting their hostís name, but it is the uncommon option out of the two. In
+adopting their host‚Äôs name, but it is the uncommon option out of the two. In
 the case that an original name is chosen, however, it is usually something
-reminiscent of their hostís own culture, regardless.
+reminiscent of their host‚Äôs own culture, regardless.
 
 Creation
 --------
@@ -47,10 +47,10 @@ a crude, childish face and a solid core at the center of their body, which
 exhibits peculiar effects when exposed to certain materials.
 
 Fusion with a host is performed through means not entirely understood by other
-species; a telepathic link is formed between the two that allows the hostís
+species; a telepathic link is formed between the two that allows the host‚Äôs
 consciousness to strengthen that of the Promethean, ultimately allowing the two
 to merge and the Promethean to take on a more physical form upon the death of
-the hostís original body. This link can be created for a multitude of reasons;
+the host‚Äôs original body. This link can be created for a multitude of reasons;
 scientists that wish to study slimes closer, or breeders that wish to carry out
 their work without any risk to themselves. The occasional instance of a
 domesticated slime forming a link with its owner is also not unheard of, merely
@@ -115,11 +115,12 @@ Another peculiar side effect of this is that overexposure to toxins appears to
 overload a Promethean, providing more energy than is required. During this period,
 the Promethean tends to attempt to expend the excess energy as soon as possible,
 commonly by using it to bolster their natural regeneration. This allows for them to
-regenerate entire limbs naturally. Other possible uses for this excess energy, as
-revealed by extensive testing, include shapeshifting and (with extreme effort on the
-Promethean's part) limited telepathy. However, this is not entirely beneficial; excess
-energy also seems to cause the Promethean to grow more solid, hindering movement and
-making them more vulnerable to low temperatures and low pressure.
+regenerate injuries at incredible speeds, going as far as to regenerate whole limbs
+in a matter of seconds. Other possible uses for this excess energy, as revealed by
+extensive testing, include shapeshifting and (with extreme effort on the Promethean's
+part) limited telepathy. However, this is not entirely beneficial; excess energy
+also seems to cause the Promethean to grow more solid, hindering movement and making
+them more vulnerable to low temperatures and low pressure.
 
 Lastly, the Prometheans are affected by electricity in ways inconsistent with that of
 the slimes. Promethean flesh, like that of the slimes, is superconductive; unlike the
@@ -140,7 +141,7 @@ series of bubbling, gurgling noises of varying length, with their entire body se
 to operate as a speaker for the noises. This language is obviously impossible for an
 ordinary human to replicate, but not impossible for them to understand; merely extremely
 difficult. Though it has no official name, the most common colloquial term for it is
-ëcorespeechí ó referencing the way their cores vibrate when they speak it.
+‚Äòcorespeech‚Äô ‚Äî referencing the way their cores vibrate when they speak it.
 
 Additionally, like the slimes they are descended from, Prometheans initially possess some
 form of telepathy upon creation; however, this appears to fade shortly before or after
@@ -156,18 +157,18 @@ Reproduction
 ------------
 
 Prometheans are unusual in that they lack any internal or external
-reproductive organs. Reproduction is, indeed, fully beyond the ëfusedí
+reproductive organs. Reproduction is, indeed, fully beyond the ‚Äòfused‚Äô
 Prometheans, and they do not pay much attention to it in any way. Slime
 reproduction, on the other hand, is well-documented and just as strange
-as the Prometheansí complete incapability; upon absorbing enough organic
+as the Prometheans‚Äô complete incapability; upon absorbing enough organic
 material, fully-grown slimes will simply split into additional slimes.
 Mutations during this process are common, though it is observed that
-slimes prefer to avoid the introduction of new breeds into their ëfamilies,í
+slimes prefer to avoid the introduction of new breeds into their ‚Äòfamilies,‚Äô
 assaulting any differently-colored slimes that they see.
 
 Gender is irrelevant to all known Prometheans, as it is something that can
 be changed on a whim and physically does not exist for ordinary slimes; as a
-result, ëfusedí Prometheans are known to refer to themselves as being anything
+result, ‚Äòfused‚Äô Prometheans are known to refer to themselves as being anything
 from agender to plural, or anything in-between.
 
 Despite their lack of ability and experience with reproduction, childhood or
@@ -189,7 +190,7 @@ Lifespan
 The lifespan of a fused Promethean is unknown, as is the base lifespan of a slime.
 Currently, it is theorized to be relatively the same as an ordinary human, though only
 time will tell how long it truly is. For the sake of convenience, Prometheans usually state
-their hostís age when discussing such things, instead of however long it has been since
+their host‚Äôs age when discussing such things, instead of however long it has been since
 their fusion; this can be slightly confusing and lead to more uninformed people assuming
 that the Prometheans have existed for longer than they actually have, much to their own
 amusement.
@@ -200,7 +201,7 @@ Mentality
 Prometheans are, all in all, quite varied, with personalities as malleable as
 their flesh; most things vary from Promethean to Promethean, with few constants.
 They are naturally rather impulsive and mischievous, yet prefer comfort to excitement,
-befitting a slimeís simple, childish nature. The majority of their personality, beyond
+befitting a slime‚Äôs simple, childish nature. The majority of their personality, beyond
 that, is dependent on their host.
 
 There are noticeable differences, however, between the *mindsets of Prometheans and that
@@ -302,7 +303,7 @@ other species.
 The Skrell are the other race that they are commonly associated with, with the
 Skrell being the only other species besides humanity to have any real knowledge
 about them due to their own slime studies (and, to some, due to the two looking
-vaguely similar). Interactions with them are sparse, due to the Prometheansí
+vaguely similar). Interactions with them are sparse, due to the Prometheans‚Äô
 tendency to remain in human space, but are still usually relatively warm, with
 the few Prometheans working with Skrell scientists having provided valuable insight
 into alien biology, greatly assisted with slime research and enabled otherwise
