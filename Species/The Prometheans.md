@@ -76,7 +76,7 @@ brain and heart, seeming to contain their consciousness and also circulate energ
 throughout their body. Removal of the core is shortly followed by the dissolution of
 the Promethean; injecting the core with Phoron or similar chemicals, meanwhile, will
 almost immediately result in the Promethean regenerating with symptoms reminiscent of
-Retrograde Amnesiac Trauma. This effect has been compared to how certain breeds of
+Retrograde Amnesiac Trauma. This effect has been compared to how the Gray breeds of
 slime appear to regenerate when their cores are injected with Phoron.
 
 Despite many attempts, Promethean cores cannot fit inside of a Man-Machine Interface.
