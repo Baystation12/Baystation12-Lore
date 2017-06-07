@@ -51,8 +51,8 @@ species; a telepathic link is formed between the two that allows the host’s
 consciousness to strengthen that of the Promethean, ultimately allowing the two
 to merge and the Promethean to take on a more physical form upon the death of
 the host’s original body. This link can be created for a multitude of reasons;
-scientists that wish to study slimes closer, or breeders that wish to carry out
-their work without any risk to themselves. The occasional instance of a
+scientists may wish to study slimes closer, or breeders might want to be able to
+carry out their work without any risk to themselves. The occasional instance of a
 domesticated slime forming a link with its owner is also not unheard of, merely
 extremely rare.
 
