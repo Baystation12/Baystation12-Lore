@@ -60,6 +60,52 @@ extremely rare.
 person into a singular Promethean, without any fusion involved; most actual
 Prometheans seem to regard this concept with mild dismay.)
 
+History
+-------
+
+The Prometheans did not exactly evolve naturally; the first recorded encounter
+with one was with the discovery of the original slimes in the Nyx system, on
+one of Erebus's largest moons (later dubbed Prometheus, after the research facility
+established there), and was not given any fanfare; the only hint that there was
+potential for anything more was the fact that newborn slimes were observed to vary
+in intelligence, ranging from mindless, instinct-driven animals to something that
+possesses a mind on level with a particularly dim dog.
+
+It was not until 2548, three years after the initial discovery of slimes, that the
+modern-day Prometheans began to be formed— beginning with the birth of a black slime
+named Glgugh. Glgugh was more intelligent than the rest of its brood, demonstrating
+a noticeably vaster vocabulary than most slimes and beginning to hold active (if
+rather crude) conversations with its handler, the NanoTrasen scientist Jacob Aultmann.
+After some time, Glgugh initiated a telepathic link with Jacob, at the researcher's
+behest (for potential experimentation, of course); after his death in an unrelated
+accident, Glgugh rose up and took the form of the man, creating the first known Promethean.
+
+NanoTrasen jumped on the incident immediately, investing further into slime research and
+attempting to discern the benefits of becoming a Promethean, wondering if this would be
+a resource-light alternative to the expensive Full-Body Prosthetics that were currently
+being developed. From there, slowly but surely, more Prometheans began to come into being,
+whether due to NanoTrasen’s experiments, independent study or other causes, and eventually
+they began to be hired by the corporation, allowing the scientists to return to their daily
+lives. (Mostly.)
+
+It took five years for NanoTrasen to begin shipping slimes out to dedicated research
+facilities, and twice that for any Prometheans to be sighted outside of Nyx. But when they
+were, it caused a minor uproar. The Prometheans that dwell within human space are neither
+human nor slime, and humanity did not initially react well to them, finding the gelatinous
+beings to be unnerving in many ways. Their appearances, above all else. But eventually, like
+how they grew used to the concept of aliens, artificial intelligence and so much more, they
+grew used to the Prometheans. The bigots have begun to become tolerant; NanoTrasen is no longer
+the only corporation willing to hire them; even the government itself is beginning to warm up
+to them. The process is slow, and is not yet complete, but it has moved fast, all things considered.
+
+Indeed, the Sol Central Government has recently begun to allow Prometheans aboard their
+Expeditionary vessels, including the S.E.V. Torch. Though their inherently alien nature
+prevents them from being proper citizens of SolGov — which has only prompted further debate
+on the matter of allowing Xeno-Sapients to become citizens, as most Prometheans are technically
+human — they generally fit in quite well regardless, taking on service and scientific vocations
+aboard the ship with ease due to their skill at social activity, enhanced tolerance for toxins
+and natural camaraderie with slimes.
+
 Biology
 -------
 
@@ -278,6 +324,15 @@ flesh by such noise is commonly described as being incredibly uncomfortable at b
 enough reason for them to leave the room by itself. Softer music such as a song
 played on the piano is invariably the preferred choice, regardless of their host's
 tastes.
+
+Job Preferences
+---------------
+
+Prometheans tend to prefer quieter, less physically-intensive jobs, such as researching
+in a laboratory. They are therefore most commonly seen in scientific roles, though
+it is also very common for them to take up jobs such as being a station's Bartender
+or Janitor. (In contrast, due to the inherently toxic nature of their body, the
+concept of a Promethean Chef is generally frowned upon.)
 
 Relations with Other Species
 ----------------------------
