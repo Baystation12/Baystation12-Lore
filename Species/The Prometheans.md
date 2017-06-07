@@ -250,19 +250,19 @@ They are naturally rather impulsive and mischievous, yet prefer comfort to excit
 befitting a slime’s simple, childish nature. The majority of their personality, beyond
 that, is dependent on their host.
 
-There are noticeable differences, however, between the *mindsets of Prometheans and that
-of, say, humans. Due to the simple, instinct-driven lifestyle that they evolved from,
-their senses of morality are not fully developed. As previously noted, they tend to
-consider eating living organic matter to be, in light of their host's likely negative
-opinion on it, 'rude,' and nothing more; such actions are necessary for a slime, after
-all, and while Prometheans are not strictly limited to eating monkeys and other such
-things, they still spent a good portion of their so-called 'childhood' doing so. As a
-result, they have no gag reflex and are nigh-omnivorous, being relatively comfortable
-with the concept of devouring things that a human would be incapable of digesting. This
-extends to things such as burned food, poisonous plants and indeed, even severed limbs
-and other such "delicacies," in certain cases. (Though it should be noted that whole
-bodies, alive or dead, are often considered to be inherently off-putting for reasons
-that mostly have to do with their host's morality.)
+There are noticeable differences, however, between the way Prometheans *think* when
+compared to other species. Due to the simple, instinct-driven lifestyle that they
+evolved from, their senses of morality are not fully developed. As previously noted,
+they tend to consider eating living organic matter to be, in light of their host's
+likely negative opinion on it, 'rude,' and nothing more; such actions are necessary
+for a slime, after all, and while Prometheans are not strictly limited to eating
+monkeys and other such things, they still spent a good portion of their so-called
+'childhood' doing so. As a result, they have no gag reflex and are nigh-omnivorous,
+being relatively comfortable with the concept of devouring things that a human would
+be incapable of digesting. This extends to things such as burned food, poisonous
+plants and indeed, even severed limbs and other such "delicacies," in certain cases.
+(Though it should be noted that whole bodies, alive or dead, are often considered to
+be inherently off-putting for reasons that mostly have to do with their host's morality.)
 
 Similarly, taking into account their innate healing factor and immunity to toxins,
 many of the more impulsive Prometheans think light injuries and drinks spiked with
