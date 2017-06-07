@@ -7,7 +7,7 @@ In a nutshell
 
 -   The end result of a symbiotic relationship between a slime and another, more organic being (usually a human)
 -   Unique biology allows them to repurpose toxins to fuel themselves; radiation is still slightly poisonous, but affects them differently from the other species
--   Generally emotionally immature; impulsive, mischievous and incapable of feeling romantic affection
+-   Generally emotionally immature; impulsive, mischievous and incapable of feeling romantic attraction
 -   Incredibly pain-intolerant and highly averse to pain, and often go out of their way to avoid feeling pain when possible
 -   Generally social, and very quick to make friends
 -   Loyal, often to an absurd extent; they tend to see things with more of a pack mentality than most other species, and commonly refer to close friends as being 'family'
