@@ -169,6 +169,13 @@ part) limited telepathy. However, this is not entirely beneficial; excess energy
 also seems to cause the Promethean to grow more solid, hindering movement and making
 them more vulnerable to low temperatures and low pressure.
 
+Radiation has a similar effect in large amounts, but only in ways that are detrimental
+to the Promethean; upon prolonged exposure to radiation such as that let off by a
+supermatter crystal, the Promethean's form will destabilize, preventing easy movement
+and often rendering them mostly mute until the radiation ceases. This experience is
+generally considered to be extremely uncomfortable, much to the dismay of engineering
+contractors.
+
 Lastly, the Prometheans are affected by electricity in ways inconsistent with that of
 the slimes. Promethean flesh, like that of the slimes, is superconductive; unlike the
 slimes, however, they do not intriniscally generate electricity, as they appear to lack
