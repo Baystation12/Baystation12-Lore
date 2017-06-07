@@ -111,11 +111,12 @@ Biology
 
 Humanoid Prometheans (that is, Prometheans that have successfully merged with a
 willing host) tend to take on the appearance of their host, adopting their species,
-face and voice. This is not a total fusion, however; the Prometheans retains their
-viscous flesh and vibrant, outlandish 'skin' colors, causing many to compare them
-to mobile ice sculptures. Additional differences from the norm include thick, stringy
-'hair,' slightly webbed fingers, elongated feet with no toes and a complete lack of
-genitalia. And, last but certainly not least, a solid, slightly luminescent core.
+face and voice. This is not a total fusion, however; the Prometheans retain their
+viscous flesh and vibrant, outlandish 'skin' colors, and their faces often appear to
+be rather uncanny, causing many to compare them to mobile ice sculptures. Additional
+differences from the norm include thick, stringy 'hair,' slightly webbed fingers,
+elongated feet with no toes and a complete lack of genitalia. And, last but certainly
+not least, a solid, slightly luminescent core.
 
 This core has been noted by scientists to serve as the Promethean answer to both the
 brain and heart, seeming to contain their consciousness and also circulate energy
