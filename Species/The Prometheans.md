@@ -166,7 +166,7 @@ regenerate injuries at incredible speeds, going as far as to regenerate whole li
 in a matter of seconds. Other possible uses for this excess energy, as revealed by
 extensive testing, include shapeshifting and (with extreme effort on the Promethean's
 part) limited telepathy. However, this is not entirely beneficial; excess energy
-also seems to cause the Promethean to grow more solid, hindering movement and making
+also seems to cause the Promethean to grow more unstable, hindering movement and making
 them more vulnerable to low temperatures and low pressure.
 
 Radiation has a similar effect in large amounts, but only in ways that are detrimental
