@@ -103,7 +103,7 @@ Similliarly to Qerrbalak, there are many city-states governing themselves. Howev
 
 ## Education
 
-The most famous academy of Harr'qac is The University of Harr'qac. It was not originally a part of any city state, but a city was built around it during its construction. It's located on the island of Korm. The university takes almost whole island, with lots of parks, services, leisure areas and the like. It is supported by other cities, as the global government meets there.
+The most famous academy of Harr'qac is The University of Harr'qac. It was not originally a part of any city state, but a city was built around it during its construction. It's located on the island of Korm. The university takes almost the whole island, with lots of parks, services, leisure areas and the like. It is supported by other cities, as the global government meets there.
 
 Same as on Qerrbalak, each city state also has its own academy.
 
@@ -121,7 +121,7 @@ Food is produced by variety of city-states, some of them large, such as Re-Ma'xi
 
 ### Natural resources
 
-Harr'qaci Skrell enjoy the abundance of many materials required for advanced industry and science. There are also jungles and forests, however several city-states have restricted woodcutting due to environmental reasons, therefore wood is more luxurious on Harr'qac and it is imported from other city-states but also from other colonies.
+Harr'qaci Skrell enjoy the abundance of many materials required for advanced industry and science. There are also jungles and forests, however several city-states have restricted woodcutting due to environmental concerns, therefore wood is more luxurious on Harr'qac and it is imported from other city-states and also from other colonies.
 
 <!--
 ### Research
