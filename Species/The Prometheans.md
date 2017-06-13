@@ -43,7 +43,7 @@ Creation
 
 Prometheans are symbiotic beings, existing first as the amorphous, gelatinous
 beings known as slimes. In this form, the only defined features they have are
-a crude, childish face and a solid core at the center of their body, which
+a crude, childish face and a solid core at the center of their bodies, which
 exhibits peculiar effects when exposed to certain materials.
 
 Fusion with a host is performed through means not entirely understood by other
@@ -116,11 +116,11 @@ viscous flesh and vibrant, outlandish 'skin' colors, and their faces often appea
 be rather uncanny, causing many to compare them to mobile ice sculptures. Additional
 differences from the norm include thick, stringy 'hair,' slightly webbed fingers,
 elongated feet with no toes and a complete lack of genitalia. And, last but certainly
-not least, a solid, slightly luminescent core.
+not least, a solid, slightly luminescent core in the center of their chests.
 
 This core has been noted by scientists to serve as the Promethean answer to both the
 brain and heart, seeming to contain their consciousness and also circulate energy
-throughout their body. Removal of the core is shortly followed by the dissolution of
+throughout their bodies. Removal of the core is shortly followed by the dissolution of
 the Promethean; injecting the core with Phoron or similar chemicals, meanwhile, will
 almost immediately result in the Promethean regenerating with symptoms reminiscent of
 Retrograde Amnesiac Trauma. This effect has been compared to how the Gray breeds of
@@ -339,7 +339,7 @@ Job Preferences
 Prometheans tend to prefer quieter, less physically-intensive jobs, such as researching
 in a laboratory. They are therefore most commonly seen in scientific roles, though
 it is also very common for them to take up jobs such as being a station's Bartender
-or Janitor. (In contrast, due to the inherently toxic nature of their body, the
+or Janitor. (In contrast, due to the inherently toxic nature of their bodies, the
 concept of a Promethean Chef is generally frowned upon.)
 
 Relations with Other Species
