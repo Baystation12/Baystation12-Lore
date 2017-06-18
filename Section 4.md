@@ -45,6 +45,10 @@ These are colonies that exist in other systems besides Sol or Nyx
   * [Republic of Feldspar](https://baystation12.net/lore/Planets-and-Systems/Feldspar)
   * [Zzarlaanis](https://baystation12.net/lore/Planets-and-Systems/Zzarlaanis)
 
+### Xiphos
+
+* [Zarada](https://baystation12.net/lore/Planets-and-Systems/Zarada)
+
 ## Non-Human Colonies
 
 ### Skrell 

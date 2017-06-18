@@ -133,6 +133,8 @@ Many Unathi clans take engineering as a family craft, especially those near the 
 
 Archaeology or similar is also a highly sought after career for many Unathi due to the vast Precursor ruins and the lack of understanding of their world. Many go into this field, and often discover new technologies for the world.
 
+Dieselyards are another cornerstone of the more industrious City States. Dieselyards are the great auto-industry of Moghes hotbed, filled with all sorts of wheeled vehicles that Unathi use to cross the harsh terrain. These are rarely used in some areas of Moghes, but many in the Savannahs and Deserts use them.
+
 ### Military
 
 Battles for Unathi vary greatly depending on who is fighting who. The armed forces of most settlements stick to the honor codes regarding melee combat. When in an engagement with other armies, the formation will consist of battle lines. Shieldmen will be in front, and breakers behind and in between to try and overpower the defense of their enemy. Should these lines fall, the ones behind them will attempt to fill in the gaps. Located near the rear of the lines are officers and commanders, as well as the drummers who will convey and scream orders.
@@ -178,8 +180,8 @@ With the strange structure of Unathi society comes to the political, cultural, a
 There are plenty of villages, settlements and other such things across the planet of Moghes, but the real capitals are the City-States. Vast cities filled with a variety of different clans dot across the landscape, 15 of these esteemed capitals exist. The largest of them is Mumbak, currently controlled by the Issek Clan, has as many as 30 different Clans living in it, or near its borders. The city itself is a sprawling thing, covering a great swathe of land. Old style factories sit in the city, filling the air with smog, shipyards and docks fillwed with rusted old things and brand new merchant vessels from offworld lay in the city. Favelas filled with the homes of millions of unathi sit next to the great markets where offworlders trade with Unathi merchants, and travellers can rest and recover. This is common for each of the polar city states, as they offer relatively the same services but with different clans and even things for sale. The city states of the interior of the planet, such as the great Boating City Wasgaelli, the Diamond Peak Fortress of Durzakrag, the Bunker Town of Lo, or the Thriving Moving Cities of the Savannahs atop their great Ogashes.
 The 15 primary City States are as Follow:
 
-* Mumbak
-* [Si'gek Nel'sthar](https://baystation12.net/lore/Planets And Systems/S'igek Nels'thar.md)
+* [Mumbak](https://baystation12.net/lore/Planets And Systems/UCS/Mumbak.md)
+* [Si'gek Nel'sthar](https://baystation12.net/lore/Planets And Systems/UCS/S'igek Nels'thar.md)
 * Instha
 ^ No'lesk City
 * Durzakrag Fortress
@@ -194,7 +196,7 @@ The 15 primary City States are as Follow:
 * Sen Uuma Fortress
 * Koja
 
-Mumbak, Si'gek Nels'thar, Instha, and No'lesk City all exist in the Poles, each great trading ports for offworlders (though none as big as Mumbak).
+Mumbak, Si'gek Nels'thar, Instha, and No'lesk City all exist in the Poles, each great trading ports for offworlders (though none as big as Mumbak in terms of Interregional, Moghesian Trade).
 Durzakrag, Sen uuma, and Saris Nirz are the City States of the Diamond Peaks, the largest settlements of the region. Often resembling great castles due to their sturdy, defensive walls.
 Lo, Morr, and Pak are Precursor Bunkers which are now home to Desert Clan City States. The vast, empty bunkers are now filled with homes, shops, and escape from the harsh surface above.
 Wasgaelli and Gaza'lor are both Flaoting Cities of the Swamps. Everything in them is built on great boats or platforms or rafts, anything, and rarely land. They could be compared to rinky-dink versions of Venice, but much more defended. 

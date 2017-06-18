@@ -32,9 +32,15 @@ Commonly referred to (erroneously) as 'plant people', the Dionaea are a strange 
 
 The Dionaea coexist peacefully with all known species, especially the Skrell. Their communal mind makes them slow to react, and they have difficulty understanding even the simplest concepts of other minds. Their alien physiology allows them survive happily off a diet of nothing but light, water and other radiation.
 
+[**Giant armoured serpentids**](http://baystation12.net/lore/Species/GAS)
+
+With such a long name, giant armoured serpentids are often written as GAS for short and are sometimes informally called "nabbers". 
+
+Standing at a terrifying nine feet above the ground, these massive creatures look like some nightmarish hybrid of a snake, millipede, and praying mantis. Their discovery has only recently been released to the public as part of a long-term project to teach them how to work with humans. Will the project be successful? Only time will tell.
+
 ____
 
-## That's Only Five Aliens
+## That's Only Six Aliens
 
 As you can imagine, not every species gets along. the Vox also exist amongst the stars. The Vox are relatable to Somali pirates in the 21st century when it comes to Human Policy. There is open conflict against the ones that attack our vessels, but overall no war has been declared as they are not a unified civilization.
 
