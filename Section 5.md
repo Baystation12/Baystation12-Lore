@@ -1,6 +1,6 @@
 # Terrorism and You!
 
-As there have always been since the rise of Human Culture, there are elements in a society that go, radically, against the status-quo- Often dubbed as Terrorists due to their usage of fear and terror to bring about their goals, these people are just as common in the 26th Century. Some of these groups have taken up activities in the Nyx System, where you are located for your work aboard whichever vessel or Outpost. 
+As there have always been since the rise of Human Culture, there are elements in a society that go, radically, against the status-quo - Often dubbed as Terrorists due to their usage of fear and terror to bring about their goals, these people are just as common in the 26th Century. Some of these groups have taken up activities in the Nyx System, where you are located for your work aboard whichever vessel or Outpost. 
 
 Not only are there terrorist organizations though. Crime Syndicates, Illegal Corporations, and many other illicit groups take part in these acts of terror so as to get people, specifically you, to do what they want.
 
