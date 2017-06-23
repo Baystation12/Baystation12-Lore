@@ -32,7 +32,8 @@ faith more moderate and accepting to outsiders, specifically xenobiological life
 Hinduism exists much to the same way it did hundreds of years ago, as does Buddhism.
 
 Noted for their more traditionalist ways of thinkings, followers of Hinduism are known for their conservative
-approach to xenobiological life. <!-- and interstellar  --  what? Interstellar what? Travel? Society? ...  -- Commented out until filled in. -->
+approach to xenobiological life.
+<!-- and interstellar  --  what? Interstellar what? Travel? Society? ...  -- Commented out until filled in. -->
 
 ## Other Faiths
 
