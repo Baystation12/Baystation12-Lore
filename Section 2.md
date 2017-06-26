@@ -3,7 +3,7 @@
 
 ##WHAT IS THAT THING!
 
-As you may have noticed from your time on our server, Humanity is not alone in the stars. So far, there are six other alien civilizations that we have discovered, and that's just the start of our galaxy! Who knows what else lurks in the dark corners...
+As you may have noticed from your time on our server, Humanity is not alone in the stars. So far, there are nine other alien civilizations that we have discovered, and that's just the start of our galaxy! Who knows what else lurks in the dark corners...
 Anyways, these species were already described on the previous Section in short little paragraphs that gave you a basic idea. This section is meant to give you a more comprehensive understanding of these Aliens, and perhaps prepare you to even play them!
 
 [**Humanity**](https://baystation12.net/lore/Species/Humanity)
@@ -42,13 +42,16 @@ ____
 
 ## That's Only Six Aliens
 
-As you can imagine, not every species gets along. the Vox also exist amongst the stars. The Vox are relatable to Somali pirates in the 21st century when it comes to Human Policy. There is open conflict against the ones that attack our vessels, but overall no war has been declared as they are not a unified civilization.
+As you can imagine, not every species gets along, and those who don't get along with everyone else are known as the Vox, and the Moraki. The Vox are relatable to Somali pirates in the 21st century when it comes to Human Policy. There is open conflict against the ones that attack our vessels, but overall no war has been declared as they are not a unified civilization. The Moraki are in open war against the Positronic Union, Sol Gov, and the Skrell at the current time, and have been invading the Union in all out War. 
 
 
 [**Vox**](http://baystation12.net/lore/Species/Vox)
 
 The Vox were once a large star-faring civilization that were extremely advanced for their time, according to the Vox, at least. It is said that they unlocked the very code of life itself, forming it, and shaping it to their very will. So says the Vox, at least. The Vox also say they know the secrets of the universe and will sell it to you for the low, low price of twenty thalers. Its unfortunate, but you can’t put much stock into Vox history. It is in a constant state of flux, changing at will to suit a crafty Vox merchant or a prideful Vox scavenger. Whatever their history is, it must be long as they’ve been in space as long as recorded history cares to remember them.
 
+[**Moraki**](https://baystation12.net/lore/Species/Moraki)
+
+The Moraki Imperiate is a vast empire far "North" of Known Space that recently made contact with the known species with a grand invasion of the Positronic Union, and assaults in both Skrell Space and Sol Gov. To the common man, not much is known, but they are a omnicidal, highly theocratic species that think other species are a scourge on the Universe, and they are there to destroy them or enslave them. Eugenics is probably the best thing ever to them. They also have a subspecies that has been genetically engineered into slavery. They breath Chlorine, and they hate everyone. 
 ____
 
 ## Anything Else?
@@ -86,8 +89,5 @@ Slimes" as they are commonly known, are an alien species of mostly unknown origi
 
 The bluespace travel, and usage of Phoron seems to have altered the genes of spiders that live on the Ships and Stations, their bodies becoming huge and grosteque. They have also become extremely aggressive to space travellers, and are a serious threat. They originally come from Earth, yes, but Phoron seems to have done something different with them than what it does with other species, changing Spiders into something far worse than what they used to be.
 
-*Cortical Borers*
-
-(information and Photo)
 
 ____
