@@ -7,10 +7,10 @@
 * **Location** -  Harr'qac, Harr'kelm system 
 * **Capital** - The University of Harr'qac, Government District
 * Demonym - Harr'qaci 
-* Government - Republican confederacy 
-  * Qerr-Kirri - Xilas Tal 
-  * Qerr-Kirri - Lowb Quac 
-  * Qerr-Kirri - Ulaq Virr
+* Government - Various city-states organized in a confederacy
+  * Qerr-Kirri - Xilas Tal (Qrriuwenne)
+  * Qerr-Kirri - Lowb Quac (Xi-Gerr-Ni)
+  * Qerr-Kirri - Ulaq Virr (Gorron'arqeli)
 * Discovery and colonization - c. 2300  
 * Population - 2,010,050,049
 * Created by: Superbee29 
@@ -99,7 +99,11 @@ Harr'qaci Skrell usually build circular houses, which often have many entrances 
 
 ## Government
 
-Similliarly to Qerrbalak, there are many city-states governing themselves. However, when colonising the planet, Skrell chose to try a similar form of government, with some novel additions. City-states on each continent are grouped together. Qerr-Skria of these city-states elect a representative of their continent, called Qerr-Kirri. This way, cities manage themselves, they decide about continent-wide things together and are represented by one Skrell for each continent when discussing global decisions. The three Qerr-Kirris meet in Government District of the University of Harr'qac and are very respected amongst the population.
+Similiarly to Qerrbalak, there are many self-governing city states. However, when establishing them, the Harr'qaci Skrell chose to implement some nove additions. While the city-states are mosty plitically independent state subjects, they are organized in a global confederacy, and they decide on the common course of their actions together. Those decisions mostly concern, besides other internal things, their exterior policy; however, while being in agreement, there is usually enough space for the city-states to vary their implementation according to their specific situation.
+
+This confederacy is divided into three sub-confederacies - one for each continent - for the sake of easier organization in general, and to make discussions concerning continent-specific situations more efficient. Representing each of the continets are the Qerr-Kirris, backed by their councils. They meet in the Government District of the University of Harr'qac.
+
+In case of a serious crisis, when the sub-confederacy and Qerr-Kirri system would not be quick enough to react, the General Council, or Qrri-Kerr'a, takes place, with either a representative or the Qerr-Skrria personally representing each city-state.
 
 ## Education
 
