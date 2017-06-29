@@ -52,8 +52,6 @@ Most wild organisms living on the planet nowadays are the same species that exis
 
 Another unusual species are the Xolm, microscopic organisms that are considered animals. They make a network of thin threads, which are, however, very strong. The networks are made of individual Xolm, who together behave as one larger animal. They are too small to be seen only by eye, but they move in the water, taking it with them. From the outside, it seems as if the part of water they live in was moving by itself. They usually make spherical networks. On one side, the density is lower and they can split at any time, forming a mouth-like hole. Using this, they swallow small animals or plants and then, when the "mouth" is closed, they poison their victim and digest its body. They are often seen as balls of water, sometimes with a smaller fish, a leaf or something larger inside.
 
-Space carp migrations happen once in a few years and carps sometimes find their way to the planet.
-
 ## Skrellian society
 
 Caste system is very important for Skrell of this planet. However, it works slightly differently than on Qerrbalak and colonies close to it. Most importantly, a Skrell from Harr'qac can decide to switch to another caste of his preference. This is not always the case, as the castes act as subcultures specialized to certain tasks and values, and as such, the children are raised in the mindset of the particular caste. However, sometimes a young Skrell has views that are diamertrically different from his caste and because of this feels like he/she does not belong into the caste. In this case, he/she can formally switch his caste. This is, however, not done very often, due to the freedom offered by the caste system itself.
