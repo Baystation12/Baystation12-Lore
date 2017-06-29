@@ -1,4 +1,4 @@
-# The Vox
+﻿# The Vox
 
 *The Vox (voks) are a nomadic species of secretive raptor-like aliens with a soft spot for other people's things. Having no home planet they instead live on giant moon-sized Arkships as well as smaller crudely put together space stations.
 The information shown below, while canon, does not completely characterize in-game knowledge of characters, even those experienced with the Vox. Only a Vox would know all of this information, and they do not share with outsiders.*
@@ -50,20 +50,22 @@ There are times when a Vox puts forth an olive branch and allows a respected non
 
 For instance, a Vox never willingly surrenders to a non-Vox, unless absolutely necessary for survival. Or if they think surrendering puts them into a better position for escape or some sort of gain. But if at all possible, they'd simply prefer to just ignore non-Vox, running away from their presence and avoiding fights with them. They have no interest in them, outside of their things.
 
-But to a fellow Vox the rules become different. Vox enjoy challenging one another to fights, be it physical or mental, and use it as a means to judge their place on the hierarchal ladder. It is unheard of for a Vox to kill another Vox, and those that do, either accidently or purposly, are usually forced into becoming a Pariah: a fate even worse than death.
+But to a fellow Vox the rules become different. Vox enjoy challenging one another to fights, be it physical or mental, and use it as a means to judge their place on the hierarchal ladder. It is unheard of for a Vox to kill another Vox, and those that do, either accidently or purposly, are usually given a fate even worse than death: the destruction of their cortical stack
 They form bonds similar to a family structure, the cleverest or strongest at the top being the Quill, with the second in command being a similary respected second-Quill. These bonds are usually born from "adoption", when a Vox becomes born whose stack is known for a certain talent or work, a family that wants or needs said talent might "adopt" said Vox into their ranks and teach, or pay for teachings, in said talent. Families are usually 2 to 10 Vox, any larger and the family might break apart due to being unsubstainable or disorganization.
 Families form ties with other families, trading goods and services. If the families become truely successful and large enough, they may attempt to split off from the arkship or station they are on to make their own station, though this only happens if the groups in question do not believe they are needed, or do not have enough sway where they are.
 
 Vox enjoy hiding and trapping. They will avoid any direct combat unless its necessary or if they believe they cannot lose donig it. Under no circumstances will a Vox sacrifice themselves for a non-Vox, their stack is too important and too valuable.
 
-Vox greed comes from their intense loyalty to their species and their survival, mainly manifesting itself in overconsumption and stealing non-Vox items. Stealing from a fellow Vox is unheard of and is the easiest ticket to getting Pariah'd by an Apex, instead Vox prefer to trade, seeing trade as an excellent way of creating bonds and ties with other Vox, and while they do trade with non-Vox it is usually to rid themselves of something that they understand has value to non-Vox, like thalers, broken or otherwise poor quality items, and scrap. Their card and board games truely highlight their tendencies, often designed so that the one with the most cards loses, or the one with the most pieces, and as a result are very challenging to a Vox, though non-Vox typically play them with ease.
+Vox greed comes from their intense loyalty to their species and their survival, mainly manifesting itself in overconsumption and stealing non-Vox items. Stealing from a fellow Vox is unheard of and is the easiest ticket to getting permanently killed by an Apex, instead Vox prefer to trade, seeing trade as an excellent way of creating bonds and ties with other Vox, and while they do trade with non-Vox it is usually to rid themselves of something that they understand has value to non-Vox, like thalers, broken or otherwise poor quality items, and scrap. Their card and board games truely highlight their tendencies, often designed so that the one with the most cards loses, or the one with the most pieces, and as a result are very challenging to a Vox, though non-Vox typically play them with ease.
 
 Vox are very aggressive in their youth, constantly fighting within one another and challenging those around them, and as a result a fair bit of them become raiders, joining roving bands of pirates or scavengers and seek fortune for their family. The ones that don't become raiders bide their time, honing their craft, and gaining a foothold in the family, so that the sudden return of their now older raider siblings does not displace them heavily on the hierarchal ladder via whatever fortune they've gained. The raiders, after settling down, either become teachers or return to whatever craft they performed before.
 
 *Apex*
 The Apex are giant computers made equally of flesh and metal, they act as the caretakers of the Vox species, maintaining the bluespace connections the Auralis hold as well as selecting cortical stacks for each crop of Vox. They do not speak, instead letting their actions dictate their words as they move from place to place, either directing Vox towards something or doing it themselves. They do somehow communicate with both the Auralis and the Armalis, and some can be seen 'speaking' to them though no words are exchanged.
 
-They also act as the ultimate dispensers of justice for the Vox, somehow knowing about a Vox's dubious actions and dealing the only punishment they know: ripping of the stack. This does not always end in Pariah-hood, for the stack at least. Sometimes the Apex destroy them, sometimes they do not, there is neither pattern or reasoning to it, at least to the onlookers and the ones keeping score.
+They also act as the ultimate dispensers of justice for the Vox, somehow knowing about a Vox's dubious actions and dealing the only punishment they know: ripping of the stack. Sometimes the Apex destroy them, sometimes they do not, there is neither pattern or reasoning to it, at least to the onlookers and the ones keeping score.
+
+Besides this they also partake in 'recycling' Vox: taking old or broken Vox's stacks back into storage and usually once or twice a month, they can be found prowling the Arkship, looking for a specific unlucky Vox.
 
 The Apex do not normally deal with matters outside of the ship, instead letting the Armalis, their personal stock, to deal with problems. However if an Apex decides that something needs their immediate addressing they will not hesitate to leave the arkship they are on and deal with it.
 
@@ -92,7 +94,7 @@ Vox interest in non-Vox is minimal, and as a result most have a loose grasp on G
 The Vox do not care for non-Vox, and vise versa. Coupled with their attempts at raiding unarmed stations and ships and the usual policies of shoot on sight enacted against their ships, they do not visit other core systems, instead making due with scavenging and raiding stations and ships in the backwater systems, preferably abandoned ones. They will avoid well armed settlements, instead attempting to send traders to either gather information or at least trade for something good.
 
 *Stupid Monkeys*
-Vox don't like Humans. They are both dust-breathers AND treeless, and they talk funny. They do have many settlements and quite a few of the seedier ones are open to trading with them, which is nice, but even then some are known to harbor Pariahs, the worst possible crime.
+Vox don't like Humans. They are both dust-breathers AND treeless, and they talk funny. They do have many settlements and quite a few of the seedier ones are open to trading with them, which is nice, but they've also been known to not keep to their own businesses: spreading all out into the rim, causing Vox to have to leave settlements to stay with their fleeing Arkships.
 
 *Squid Things*
 Vox are wary of Skrell. They've been around a long time, similarly to the Vox, but they are not as easily subdued as the nearly equally aged Resomi. They are also slimey and dust-breathers. They don't know if they have trees or not, but they probably are treeless as well.
@@ -169,35 +171,3 @@ These stations lifespans are fickle, many factions misjudge their sway and break
 The exact amount of stations is unclear, however they number in the thousands and increase/decrease every single day. Not every decrease is the destruction of a station however, some factions come to an agreement, and a 'joining of the stations' ceremony occures, where the two stations are broken up and reformed into a big, mega station.
 
 Vox stations are typically self sufficient, containing hydroponic gardens, large gas stores, or similar access to such items. They typically house a hundred to three hundred Vox total, though the largest one holds up to three thousand Vox at once.
-
-**Pariah**
-Being a Pariah is considered worse than death, for a Vox. Becoming one is a sudden and violent act, an Apex judges the Vox to being malfunctioned and takes one of its many limbs and pierces the back of the Vox's skull in one fast movement. The stack is then twisted, to remove the various connections into the meat, and removed. The body is then left there to rot or be thrown away by nearby Vox. This kills the Vox, usually. Though some survive, uncoscious and bleeding, these are usually either killed quickly by a pitying Vox, or dumped outside into the void, their body looted save their 'unpure' gas tank and the clothes on their body.
-
-But Pariahs that make it outside of the Arkship have a good chance at living. Jettesoned at super sonic speed into the void, their bodies quickly go into statis, preserved against the ravages of space, and time, until they hit something, or someone, and are 'rescued'.
-
-A lot of the Pariahs that hit something hit a sun, or a deserted planet. But some eventually make it into charted space and are easily picked up from their heat signatures. These Pariahs are quickly bandaged and given the wonders of modern medicine, and then sold for a couple hundred bucks to an interested party.
-
-These interested parties are usually mining companies, or companies that want cheap, dumb labor. Occassionally they are picked up by seedier organizations, mercenaries that appreciate the combat-ready body of a Primalis, people that want a loyal, but dumb, slave.
-
-The Pariah's personality depends on how it was trained, mostly. They can range from docile to derranged, and all in between. Most Vox, the ones picked for mining and working in companies, are 'socialized' to other Vox. The common Pariah has an intense, innate fear of Vox and that extends to other Pariah. But they will be forced to stay in contact with an already socialized Pariah until they get over such fears. This makes the dumber Pariah easier targets for regular Vox that think them ill will, but the companies do not seem to care, or mind.
-
-All Vox hate Pariahs. They see them as disgusting garbage, not even worth the air they breathe, and should be killed as soon as possible. Killing Pariahs is not considered bad, and is actually considered a gift to the Pariahs, though even then torturing Pariahs is common amongst Vox, a way of 'trading' with the Pariah, releasing their hate in return for killing the Pariah.
-
-Pariahs remarkably last about as long as regular Vox, 30 to 50 years. Though this says more about how Vox take care of themselves then it does for the Pariah's body. As a Vox becomes Pariah-ized, it begins to decay. its scales turn greyer and harden, no longer able to be loosened or moved like a regular Vox could. This causes their body temperature to be abnormally high, and they tend to be sicker because of it. Their brain remnants also begin to rot, producing the unique Pariah stink that can be easily identified in the next room over.
-
-*Half-Mind*
-Half-Minds are the product of the unfortunate circumstance of an Apex forgetting to put a stack into a Vox. This happens rarely, though is more frequent during large 'batches' of Vox, but it does happen. These Vox are typically paranoid and reclusive, a product of having to hide the truth from other Vox in fear of getting killed.
-
-While they are typically of clearer minds than Pariahs, their bodies do start to stink and decay as they grow older. Most do not survive to their 10th year, due to being found out. Those that do usually flee the Arkship and all Vox settlements to do so.
-
-*Vox Pariah Living conditions*
-
-Due to the stench produced by the rotting brains of Pariahs, they're mostly shunned by all moderate standards of living within Nyx, or their relative system. In the case of Nyx, NanoTrasen has provided several workers with accommodations, though poor ones at best. Their "rooms" are generally only five square meters, with a bed not that different from a prison bed.
-
-Personnel other than Pariahs are seldom seen in these areas, due to the smell. Synthetics are sent to provide maintenance and cleaning, though most of the Pariahs living in NanoTrasen housing tend to take care of their home, or risk eviction. Most dwellings are equipped with nutrient paste dispensers, meaning that Pariahs are still fed, but the cost is kept to a minimum.
-
-Outside of NanoTrasen, the treatment of a Pariahs is up to the individual's organization, owner, or employer, and their own ability to barter and negotiate salary, as well as the willingness of people to allow a Pariah to stay within their building. Some Pariahs are able to buy small rooms, though for exorbitant prices due to the majority of people believing that the Pariah is dumb, rather than brain damaged.
-
-*Pariah Employment Situations*
-
-Most Pariahs employed by trans-stellar corporations are hired because of their ability to operate without the need for any form of E.V.A. gear, and their willingness to work for absolute minimum wage. Lack of legal protection, and the ongoing conflict between the Vox and Solgov allow corporations to pay Pariahs little to nothing. Though rare in human space, employed Pariahs are little more than corporate assets, nonetheless, their treatment remains far better than they would receive from fellow Vox.
