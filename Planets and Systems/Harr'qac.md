@@ -36,7 +36,7 @@
 
 ## History
 
-Skrell first found this planet about year 2300 on their research flight. They found a smaller planet with developed life. They first tried sending signals towards the planet, but when they got no response, they used their large-scale scanners and surveillance drones to search for any intelligent lifeform activity, like cities or industry. When they found nothing, they decided to colonise the planet, as it resembled Qerrbalak in the climatic conditions.
+Skrell first found this planet about year 2300 on their research flight. They found a smaller planet with developed life. They first tried sending signals towards the planet, but when they got no response, they used their large-scale scanners and surveillance drones to search for any intelligent lifeform activity, like cities or industry. When they found nothing, they decided to colonise the planet, as it resembled Qerrbalak in terms of climatic conditions.
 
 ## Geography
 
@@ -44,7 +44,7 @@ Skrell first found this planet about year 2300 on their research flight. They fo
 
 *The map is somewhat illustrative.*
 
-The planet consists of 40% ocean, but small lakes are very common, and planet itself seems nearly as humid as Qerrbalak. Some of the surface consists of swamps and jungles, but most is more like temperate forests or grasslands, which are more humid, rainy, and generally contain more water. There are three main continents. Between the three, there is an ocean called Kor'xil, in which a quite large island of Korm resides.
+The planet consists of 40% ocean, but small lakes are very common, and planet itself seems nearly as humid as Qerrbalak. Some of the surface consists of swamps and jungles, but most is more like temperate forests or grasslands, which are more humid, rainy, and generally contain more water. There are three main continents: **Qrriuwenne**, the western continent; **Xi-Gerr-Ni**, the eastern continent; and **Gorron'arqeli**, the southern continent. Between the three, there is an ocean called **Kor'xil**, in which a quite large island of **Korm** resides.
 
 ### Flora and fauna
 
