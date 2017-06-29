@@ -163,7 +163,7 @@ Bishop was founded in the earlier 24th century, just after the boom in robotics.
 
 Outside of their prosthetics, Bishop also led the development of full-body prosthetic replacement, and were one of the earliest adopters of Man Machine Interface (MMI, Pioneered by the Morpheus Corporation) on a wide scale. These were regarded as the highest quality chassis available, but were also ludicrously expensive.
 
-They still create 'top-notch' prosthetics- though, much of the price comes out of the sleek look and branding, as the quality of their product itself is very much debateable. Their range of products is still centered around transhumanist ideology, consisting mostly of implants, prosthetics, cyborg chassis, and synthetic organs.
+They still create 'top-notch' prosthetics - though, much of the price comes out of the sleek look and branding, as the quality of their product itself is very much debateable. Their range of products is still centered around transhumanist ideology, consisting mostly of implants, prosthetics, cyborg chassis, and synthetic organs.
 
 - **Mars Security Industries (M.S.I)**
 

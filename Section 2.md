@@ -70,7 +70,7 @@ With cloning on the forefront of human scientific advancement, cheap mass produc
 
 ##What's This About Monsters?
 
-Space is a very dangerous place, and not just because there's no air. Various creatures lurk throughout the stars, all wanting to eat you. The most common are the Carp, Pikes, the main focus of the Xenobiological field- The Slimes, Giant Spiders, and Cortical Borers.
+Space is a very dangerous place, and not just because there's no air. Various creatures lurk throughout the stars, all wanting to eat you. The most common are the Carp, Pikes, the main focus of the Xenobiological field - the Slimes, Giant Spiders, and Cortical Borers.
 
 *The Carp*
 
@@ -78,7 +78,7 @@ The Carp are a breed of well...space fish, that come from the phoron giant Erebu
 
 *The Pikes*
 
-The more dangerous cousins of the Carp, Pikes are larger, stronger, and overall much much more dangerous than the Carp. They are extremely volatile creatures, more so than the Carp, and attack any living or moving things, even other Pikes and Carp. They also come from Erebus, though how these creatures, and the carp, came into existance-  is still unknown.
+The more dangerous cousins of the Carp, Pikes are larger, stronger, and overall much much more dangerous than the Carp. They are extremely volatile creatures, more so than the Carp, and attack any living or moving things, even other Pikes and Carp. They also come from Erebus, though how these creatures, and the carp, came into existance - is still unknown.
 
 *The Slimes*
 
