@@ -123,6 +123,17 @@ Food is produced by variety of city-states, some of them large, such as Re-Ma'xi
 
 Harr'qaci Skrell enjoy the abundance of many materials required for advanced industry and science. There are also jungles and forests, however several city-states have restricted woodcutting due to environmental concerns, therefore wood is more luxurious on Harr'qac and it is imported from other city-states and also from other colonies.
 
+### Infrastructure
+
+Some large city-states have space ports of great importance, such as Scri'x, Qrri'Mal, Kaux-Nira and Rel-Ma'xie. 
+
+To travel and transport stuff on the planet, the Harr'qaci Skrell prefer using the means with very little effect on the ecosystem. Because of that, planes and hoverpods are preferred, as well as, in lesser extent, land vehicles that aren't harmful to the environment. Water transportations is important too, where applicable. Roads and railways would be considered too damaging, however, they may be found between a nearby city-states, if the transport amount is large enough.
+
+#### Energy
+
+Being ecology oriented, the Skrell tend to use the clean energy sources, mostly solar arrays. Wind and water power plants are used as well. There are no fossil fuel based facilities.
+
+
 <!--
 ### Research
 
