@@ -3,34 +3,34 @@
 ## Example Unit Organization, from Fireteam to Division
 
 * Marine Expeditionary Force (Largest unit of Marines)
- * Headquarters Component (Regiment-sized)
- * Logistics Component(Brigade-sized)
- * Support Brigade(Armor, Special Forces, Fire Support, and Recon)
- * Aviation Wing
- * 2 Brigades (Primary Fighting Force)
-  * Headquarters and Logistics Attachments
-  * Cavalry Regiment(Light Armor with Mechanized Infantry Support)
-  * 2 Infantry Regiments(Primary Fighting Force)
-   * Headquarters Company
-   * Logistics Attachments
-   * 3 Infantry Battalions(Primary Fighting Force)
-    * Headquarters and Logistics Company(Includes Communications, Chaplain, Scout Snipers, and Medical)
-    * Weapons Company(Heavy Mortars, Stationary Anti-Armor Weapons, Heavy Automatic Weapons, Includes Mechsuit support and mounted weapons)
-    * 3 Infantry Companies
-    * Command Element(CO/XO/FSG/Messenger/Driver/Supply NCO/Gunnery Sergeant)
-     * Weapons Platoon(Mortars, Man-Portable Anti Armor Weapons, Demolitions, Medium Automatic Weapons, Mechsuits, Hardsuited Assault)
-     * 3 Infantry Platoons
-      * Command Element(Platoon Commander/Platoon Sergeant/Guide/Messenger/Medical)
-       * Attachments(Forward Observers/Heavy Weapons)
-      * Heavy Infantry Squad(Hardsuits)
-      * 3 Light Infantry Squads
-       * Squad Leader
-       * Corpsman
-       * 3 Fireteams
-        * Leader
-        * Automatic
-        * Assist
-        * Point
+  * Headquarters Component (Regiment-sized)
+  * Logistics Component(Brigade-sized)
+  * Support Brigade(Armor, Special Forces, Fire Support, and Recon)
+  * Aviation Wing
+  * 2 Brigades (Primary Fighting Force)
+    * Headquarters and Logistics Attachments
+    * Cavalry Regiment(Light Armor with Mechanized Infantry Support)
+    * 2 Infantry Regiments(Primary Fighting Force)
+      * Headquarters Company
+      * Logistics Attachments
+      * 3 Infantry Battalions(Primary Fighting Force)
+        * Headquarters and Logistics Company(Includes Communications, Chaplain, Scout Snipers, and Medical)
+        * Weapons Company(Heavy Mortars, Stationary Anti-Armor Weapons, Heavy Automatic Weapons, Includes Mechsuit support and mounted weapons)
+        * 3 Infantry Companies
+        * Command Element(CO/XO/FSG/Messenger/Driver/Supply NCO/Gunnery Sergeant)
+          * Weapons Platoon(Mortars, Man-Portable Anti Armor Weapons, Demolitions, Medium Automatic Weapons, Mechsuits, Hardsuited Assault)
+          * 3 Infantry Platoons
+              * Command Element(Platoon Commander/Platoon Sergeant/Guide/Messenger/Medical)
+              * Attachments(Forward Observers/Heavy Weapons)
+              * Heavy Infantry Squad(Hardsuits)
+              * 3 Light Infantry Squads
+                * Squad Leader
+                * Corpsman
+                * 3 Fireteams
+                  * Leader
+                  * Automatic
+                  * Assist
+                  * Point
 
 
 
