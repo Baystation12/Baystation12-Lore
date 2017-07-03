@@ -1,8 +1,7 @@
 Dionaea, Diona for singular, are sentient plant-like (note, not actually
-plants) creatures that have a three stage life process: seed, nymph, and
-'adult'. Seeds grow into diona nymphs, which eventually evolve into
-adults. They are not a race meant for science experimentation, and
-killing one is considered to be murder.
+plants) creatures that have a three-stage life process: nymph, humanoid, and
+gestalt. Nymphs group together. They are not a race meant for scientific 
+experimentation, and killing one is considered to be murder.
 
 -   Take note that a diona nymph is not legally recognized as a person,
     unlike the adults. Killing one is not to be regarded as murder.
@@ -18,18 +17,18 @@ bugged and will allow unwhitelisted people to join.
 In a nutshell
 -------------
 
--   Nymph: puppy-like creatures with the reaction speed of a concussed
+-   Nymph: insect-like creatures with the reaction speed of a concussed
     mollusk. Never more intelligent than a young child, usually hovering
     around the 'particularly bright dog' mark.
--   Adult: slow, both in thought and in action. No self-preservation
+-   Humanoid: slow, both in thought and in action. No self-preservation
     instinct.
 -   Both states are curious to learn about anything they can.
 -   Incapable of feeling pain, largely emotionless, and very slow to
     react to threats.
 -   Frequently incapable of understanding human cultural suggestions
     like handshakes or sleeping.
--   Communal intelligence - refer to themselves as 'we' unless trained
-    to use 'I' by exposure to other sapients.
+-   Communal intelligence - refer to themselves as 'we' as they
+    see themselves as being multiple creatures.
 -   If born from station seeds, cannot reproduce as a gestalt.
 
 Mechanics
@@ -37,25 +36,25 @@ Mechanics
 
 -   Use *,q* and *,w* To talk in the Dionaea language. ,q is local and
     ,w is global.
--   Dionaea must be in lit areas to survive. Darkness will cause damage
-    and eventually death. However, light increases nutrition and
-    nutrition is consumed to heal brute and toxins damage.
+-   Dionaea must be in lit areas to survive. Darkness will reduce nutrition,
+	causing damage and eventually death. However, light increases nutrition and
+    nutrition is consumed to heal damage and regrow limbs.
 -   Radiation will also increase Diona nutrition without ill effects.
--   Diona nymphs are grown in hydroponics trays in botany.
+-   Diona nymphs can be grown in hydroponics trays in botany.
 -   A Diona nymph gains evolution points by being in direct light. They
-    are not able to learn how to speak most languages until they evolve
-    into full grown Diona. They are generally non-hostile and do not
+    are not physically able to speak most languages until they are in
+    a group. They are generally non-hostile and do not
     need blood to survive, despite what the space tabloids say.
 
 Synopsis
 --------
 
-The dionaea are a group of omnivorous, slow-metabolism plantlike
-organisms that are in fact clusters of individual, smaller organisms.
-They exhibit a high degree of structural flexibility, and come in a wide
-variety of shapes and colours.
+The dionaea are a group of slow organisms that are in fact clusters 
+of individual, smaller organisms. They exhibit a high degree of structural 
+flexibility, and can form themselves into multiple humanoid shapes in
+an attempt to blend in to humanoid societies.
 
-An adolescent diona, known as a diona nymph, will usually wander around
+An individual diona, known as a diona nymph, will usually wander around
 the station to attempt to soak up as much information as possible.
 Nymphs learn by observing their environment, which has led some crew
 members to believe them to be pests and annoyances with their constant
@@ -66,14 +65,14 @@ cycle eventually results in the humanoid diona, in their 'seed' or
 'samen' state, making a pilgrimage of sorts to a communally agreed-upon
 site - either a gas giant or a star, depending on the 'strain' of the
 individuals. Once there, they interlink their bodies and enter an orbit
-around the celestial body, fusing and merging into a fledgeling
+around the celestial body, fusing and merging into a fledgling
 superorganism that will eventually grow to the size of a space station.
 The gestalt feeds on the gasses and emissions of the star or planet,
 converting them into myriad useful forms or storing them in sacs and
 bladders for buoyancy in atmosphere, or in recent years, for trade with
 interested bodies.
 
-Prior to this transformation, the dionaea spread their samen throughout
+Prior to this transformation, the dionaea spread their humanoid samen throughout
 the galaxy. They do so by imitating the forms and modes of speech of the
 races that they encounter, picking facts and thoughts from minds and
 using them to shape ambassadors. The trade of energy and rare matter
@@ -82,7 +81,7 @@ seeds throughout cultures, and the seeds will gather as much information
 as they can, developing into wildly unique and interesting individuals
 to bring as much variation as possible to the gestalt when they merge.
 They will also collect scientific information on bioengineering,
-genetics, chemistry and biological science in order to improve their
+genetics, chemistry, and biological science in order to improve their
 gestalt state and therefore the seeds that will eventually be produced.
 
 Contact
@@ -163,7 +162,7 @@ The Tajara have no documented contact with the Dionaea.
 Language
 --------
 
-While smaller Dionaea are capable of vocalizing languages from all
+While smaller Dionaea clusters are capable of vocalizing languages from all
 manner of other races, thanks to their fluid form, they tend to do so in
 a monotone or as a series of heavy bass rumbles or grinds. They come
 across as very slow and not very smart in Siik'tajr due to the relative
@@ -171,17 +170,22 @@ slowness of their 'ear' and 'tail' growths, but communicate very well in
 Sinta'unathi. They cannot speak Skrellian at all due to the pitch
 variations required.
 
-Their own language, colloquially called Rootsong, is based predominantly
-on the emission of radio and heat waves and as such is very very
-difficult to speak without several hundred kilograms of specialized
-machinery. Sadly, a diona nymph can not learn the language until they've
-fully grown into the adult stage. There are two versions of this
-language, one being localized and the other being more globalized.
+Their own language, colloquially called Rootspeak, is based predominantly
+on the emission of electromagnetic radiation and as such is impossible
+for others to speak or understand without several hundred kilograms of 
+specialized machinery. They use two different forms of Rootspeak. The first uses
+low frequency radio waves and has a very limited range. This has been 
+translated to "local" Rootspeak. The second uses tremendously high
+frequency radio waves and is used to communicate over very long 
+distances at light speeds. It is theorised that Dionaea use this
+so called "global" Rootspeak to communicate within or beyond solar
+systems. Lone nymphs are unable to produce the high frequency
+waves, they can only do so in a group.
 
 Mentality
 ---------
 
-Dionae are highly curious, intelligent (if slow) and passive. They feel
+Dionaea are highly curious, intelligent (if slow) and passive. They feel
 pain of a sort, though in a very different manner to humans, but are
 only able to emulate emotion. An 'adolescent' diona will generally take
 on observed traits of the entities around it as a side-effect of the
@@ -194,9 +198,32 @@ across the face of the iron mountain and the deep note of the
 planetsong'. This has been known to make Heads of Personnel need to go
 have a lie down when filling out ID cards.
 
+Contrary to popular belief, dionaea aren't inherently pacifistic. Rather,
+they don't typically understand why a being would purposely injure another.
+In fact, while they emulate many behaviours they observe from intelligent
+species, there has never been a case of healthy dionaea forming a pattern
+of violence. It is theorised that there are inherent biological mechanisms
+that prevent this habit from forming, though they may demonstrate
+instantaneous violence if directly instructed by others. 
+
 They have no concept of personal or mental space, and those who are new
 to human culture tend to be excessively touchy-feely or invasive of
-privacy.
+privacy. They also have more difficulty holding themselves in a humanoid
+shape and moving in a human manner. This can lead to very unnatural looking
+behaviors such as when they forget which ways their knees should bend.
+Because they have so many eyes, forgetting to 'face' who they are speaking
+to is common as they don't see themselves as having a front and back. Humans 
+usually find this creepy and unnerving, the shifting mass of uncoordinated
+nymphs resembling something from a horror movie.
+
+As they become more accustomed to being around humans, they pick up more
+mannerisms and fit more in with the humans around them. The small mistakes
+that can make humans uncomfortable typically drop off in response to the 
+negative feedback they receive. The longer they are in human culture, the more 
+difficult it is for them to find sources of novel information. If they then 
+find something new that is denied from them, they are all the more insistent 
+and are not above using all the social tricks from their time among humans 
+in order to recover it.
 
 Dionaea have nothing resembling government. They speak about the chorus
 or song of a group in the same manner that one would talk about teamwork
@@ -205,6 +232,9 @@ or membership in a group.
 Biology
 -------
 
+![Reference Picture][1]
+*A diona nymph in the arms of a child.*
+
 Dionaea for the most part don't 'breathe' in any sense. They sometimes
 intake and expel gasses as a means of discharging waste and assisting in
 internal cooling, but they have no dedicated exchange membranes or
@@ -212,10 +242,25 @@ respiratory channels. They don't have a central circulatory system
 either, instead using capillary action within the segments of their
 bodies to move fluids and nutrients around (similar to many plants).
 Their nervous system is underdeveloped and decentralized, with the
-neural matter of the component dionaea merging into a complex strata of
+neural matter of the component dionaea merging into a complex stratum of
 tissue that can often take up many cubic meters of space. For this
 reason, the large a diona becomes, the slower it will think, but the
 larger its information processing capacity will become.
+
+An individual diona, a nymph, is about the size of a cat. It is 
+reminiscent of an insect with the surface of its 'flesh' being tough
+and protective. However, unlike an insect, it is the same consistency
+throughout its body. It has several legs underneath, each coming to a 
+sharp point that move in a wave as it walks around. Underneath, it has
+a strip of material that seems to have a high coefficient of friction
+with other nymphs and it is theorised that this helps them to stay together.
+It is thought that they have a system similar to a nervous system where
+cells use a signal in order to work in a network. These cells lie 
+throughout the body of the nymph with several resting close to the surface
+of their bodies where they can hook and unhook them from a central neural
+stratum at will. They have a single lidless eye and seem to have poor
+night vision. They have long slender antennae that seem to act as
+radio antennae, allowing them to 'hear' local and global Rootspeak.
 
 Dionaea don't have DNA. Their precise means of storing reproductive
 information is unknown to modern science but does not match any
@@ -272,3 +317,5 @@ surface of the stars themselves. Such a state makes them impossible to
 contact with conventional transmissions, and no pattern or encoding has
 been detected in the emissions from the system; it is unclear if the
 gestalts still exist or if they ever existed at all.
+
+[1]: http://i.imgur.com/KvpHYwj.jpg

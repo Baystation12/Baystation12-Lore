@@ -32,9 +32,9 @@ All medical equipment aboard NanoTrasen vessels will be compatible with Tajara b
 
 **Behavior**
 
-Tajara have a strong tendency towards loyalty and cooperation from their old slavemaster regime. Younger Tajara tend to be a lot more forward and expressive than their older counterparts, this is due to travel and education becoming more accessible. Tajara that are older than fifty years old tend to be less educated. This means that there is a massive educational gap and other such things are also fairly large. Tajara have a just as wide emotional range as humans, but older ones tend to show less of it. 
+Tajara are a fairly superstitious species, with much of their understanding of the universe being based on there being spirits existing around the cosmos, in nearly any and all places. This has made their approach into the practical sciences slower and less refined, however they tend to find themselves excelling in fields such as anthropology, psychology, and other, less “hard” sciences.
 
-It is advisable for staff to make use of the loyalty and cooperation in their line of work. Tajara are incapable of being heads of staff of any kind due to NanoTrasen Incorporated policy.
+The Tajara tend to be quite boisterous, while also having a strong, ingrained sense of duty towards projects they take on. This leads to them becoming heavily focused upon getting things done, while congruently having a sense of urgency and excitability over the topics they are handling. For this reason, Tajara tend to work well in positions where they are needed to handle large-scale projects, as they will focus themselves on said project and are liable to have an energy behind it that pushes the project to actually being finished. 
 
 ## The People of Ahdomai
 
@@ -58,6 +58,25 @@ Members of minor ruling clans may also attend CCA meetings, but only if it is sp
 
 Even as a recent addition to the galactic community, the Tajara are still seen as somewhat of a cheap workforce. With the new government more and more Tajara are becoming educated, now with a large amount of scientists and engineers and with a lack of a basic workforce on Ahdomai. 
 Originally relying on other races for their technology, they have now started developing their own technology. Rural areas have become more modernized with the help of radios and networks of computers. 
+
+
+### Technology
+
+Tajaran technology, prior to the technological renaissance that occurred when they were brought into the galactic community, stood on the brink of colonizing their own star system. They had established a minor colony on their neighboring planet, S'ranjir, and had an extensive network of unmanned probes in fabrication for scanning their local system, as well as plans to send at least two on trips to scan their nearest stellar neighbor. Since meeting humanity, their technology level has been racing to catch up with the more advanced species, though they still have some time before they will be at an equal playing field. 
+
+The Tajara have advanced remarkably far in the field of robotics. This, by itself, would be no surprise given their propensity for drone warfare and drone labor. The majority of their military strength (when it comes to an equivalent of the “grunts”) and their manual labor fronts tend to be occupied with machines rather than the Tajara. There are exceptions, of course - mining is done in conjunction with machines and their Tajaran creators, especially as they go further and further into the galaxy, having less and less space to bring their larger drones with them. Even industries such as food service are slowly being mechanized, though some pushback against this does exist - citing that the drones are unthinking, as the Tajara have yet to invent or embrace any true AI, and the common belief foods made with someone with a soul tend to be of higher quality, created with a passion that a machine cannot match. 
+
+The machines are commonly limited to a local network, a practice that was put into place after the Overseer rebellions - it was seen, by and large, that a planetary network of their machines would simply result in another rebellious faction rising up and causing another catastrophe. 
+
+This cultural embrace of robotics has fueled the rise of prosthetic augmentation being a part of the average Tajaran’s life. Implants, cybernetic limb replacements, and even full-body replacements are slowly but surely taking root across Ahdomai. This is especially prevalent in the larger space-port cities, as they have the largest contact with the universe at large, and the best access to greater technology. Perhaps the highest quality of these mechanical parts belong to Dyson-Rhyn’yai Cybernetics, a Human-Tajaran joint company that is dedicated to providing highly expensive, but highly effective implants, limb, and organ replacements. 
+
+This movement towards cybernetics has caused division between different elements of Tajaran culture. The belief that one’s soul resides throughout the body has clashed with the idea of the willing replacement of appendages and, at times, the entirety of the body itself. Proponents of the practice make claim that the soul is, in all ways, something that will continue to exist and reform itself so long as the mind exists. The soul, while present throughout the form, is held together by the will of the mind, only lost when the mind itself is. Opponents hold that the soul is lost to the Aether immediately upon the destruction or loss of a part of the body, effectively being severed for the remainder of the individual’s life.
+
+The Tajara do not currently possess some of the more advanced technologies that humanity has begun to take for granted. For instance, the Tajara lack laser-based weaponry or adequate shielding for their troops and vessels. To make up for this, the Tajara use a high quantity of ballistic weaponry and point-defense turrets for their warships, troops, and drones. The Tajara also lack cloning facilities, instead preferring to contract out human companies dedicated to the business to do necessary cloning.
+
+Cloning itself is viewed with a somewhat more positive light, owing no small part to the organs being “natural,”  though there is still a rather divisive disagreement over whether a cloned organ or body could truly be considered to be a part of the whole, or if the soul will not be reformed with the newly grown tissue. The cloning facilities in use tend to only be found in high-density areas or in military installations, due to their high cost and the fact that they are contracted out from human medical organizations, which is a major point of non-spiritual contention for opponents of the practice. 
+
+Most important of the technologies the Tajara lack is the Bluespace drive. While they have a gateway installed in their system (built by humanity), they lack the technology and resources necessary to manufacture their own bluespace drives. This has led them to purchasing bluespace-enabled vessels from humanity and the skrell in order to fuel their own scouting of the cosmos and defense of their system. While they are currently attempting to work with humanity to secure some plans to build a drive, negotiations have yet to proceed to a point where such a move would be agreeable for the SCG. 
 
 ### Culture
 
@@ -96,54 +115,21 @@ Because of this widespread illiteracy, written works tended to be considered thi
 
 **Religion**
 
-**Tajr-kii S'randarr**
+Religion on Ahdomai tends to be very specific to the region that it derives from, and as such many practices can differ between any two Tajaran aboard a human vessel. That being said, there are several common points that are shared between the flavors of belief on Ahdomai.
 
-By the Light of S'randarr, we are Ascended.
+One of the key elements of Tajaran culture is that it has very little notion of the idea of a god. While powerful spirits do exist, there are none that are creator beings or truly impervious. Tajaran belief traditionally holds that the universe simply came into being, there was no divine spark behind it nor was there any single being that directed it. Instead, the multitude of spirits that make up the Aether (the realm of spirits) were spawned from this cosmic beginning, and each began to shape reality as they saw fit, slowly turning the Universe into what there is today. 
 
-*Overview*
+These spirits interact with mortals on a personal level. They are very present, and very powerful, capable of directly changing the hearts and thoughts of those who are of a weaker will. To counteract this, Tajara believe, mortals must constantly be on the vigil for any spirits who may attempt to harm them, and that protective rituals must be observed on a consistent basis. 
 
-The oldest and most widespread religious sect on Ahdomai, the teachings of Tajr-kii S'randarr (roughly translated as "We who follow S'randarr") pervade almost every aspect of modern Tajaran culture, from sun motifs in paintings to turns of phrase referring to "the Light".
+Perhaps the second most important element of Tajaran spiritualism is the veil. These veils are worn from the age of six months on, and have been present throughout the history of the Tajara. The veils of today are much more advanced than their older counterparts, with holographic displays and the ability to switch between active modes. These veils exist to protect the souls of the Tajara, for it is believed that the windows to the soul are present in the eyes. Tajara typically only will show their eyes to very close friends, family, or loved ones. Forcefully removing the veil from a Tajara, without suitable replacement, is a very serious crime among the Tajara and carries a long sentence of imprisonment.
 
-The Tajr-kii hold that S'randarr and Messa are locked in eternal battle over the fate of the dead. When someone dies, the soul travels to Messa's realm, known as The Bounty (the stripmined section of Ahdomai know as Messa's Bounty is said to be a partial physical manifestation of Her realm). The Bounty is said to be a desolate wasteland, where souls are drained of energy to fuel Messa and reduced to dark, mindless husks, before eventually fading into nothingness. The hope is that S'randarr's ever-watchful Eye can locate the soul before it is drained, and can be lifted from the Bounty to be safely stored within S'randarr Himself (the process is known as Ascension).
+Magic and ritual is accepted as a fact of life among the general populace. Rituals will commonly involve acidic destruction of items offered to spirits, and runes that are used to channel and contain practical magics. The application of magic can be anything from rain-dancing rituals, to something as complex as attempting to cause hearts to stop from afar. The more intense rituals will require larger sacrifices and more of a time commitment than those that are “lesser,” with anything that would cause wounds or heal wounds taking more time. 
 
-There, the soul melds with the network of other souls stored there, gaining vast knowledge stretching back to the very beginnings of the Tajaran species. Some souls are even said to act as mouthpieces for S'randarr, their whispers reaching the ears of the devout to lend guidance or consolation.
+Most magic involves either a use of runed stones or the usage of patterns scrawled upon the ground. Runes are considered to be a much more powerful form of magic, though the process for creating them requires one to go through lengthy acidic etching into the stones. Drawn runes, such as those made upon the ground or on objects, are for “weak” magic, such as the curing of a cold or wishing for luck. These runes are much more common than the runed variant, and can be commonly seen around Tajara on human stations. 
 
-S'randarr does not imprison them, however. If at any point a soul wishes to leave, they are taken to a place called That Which Comes After, which is said to be a large floating island of light with a door in the center. When the soul steps through the door, it is reincarnated within an unborn child to experience life once more. The child is said to retain certain traits from its soul's previous incarnations, and every incarnation allows the soul itself to grow in power. As such, souls that have been through many reincarnations - so-called "old souls" - are especially valuable to Messa, and therefore S'randarr must be doubly determined to locate these old souls so they cannot fuel Messa's powers.
+Many Tajara will keep a small token that they, or their loved ones, have runed for good fortune and general health. These tokens can take many shapes or sizes, but they are almost universally a small item that one could keep on them easily. Giving away this token is a taken as a method of declaring one’s affection for another, and is not something to be taken lightly. Having the token stolen can lead to a Tajara being quite distressed. 
 
-However, S'randarr's failing is that He is unchanging. While He is vastly stronger than Messa in direct confrontation, Her ability to change and grow allows Her to best Him with indirect methods, such as the aforementioned redirecting the dead to Her realm so She can siphon their power.
-
-*Taji-kiar Ajarr*
-
-Rough Translation: Those who Ascend
-
-This holiday is practiced at the dawn of the equivalent of spring time on Ahdomai. It has symbolic meaning of souls freed from Messa and The Bounty, symbolized by Winter, returning to life to begin their cycle again. For those who have lost parts of their family during this time, this is a time of public mourning and recognition of those souls, and prayers to S'randarr for their rescue from Messa. It is believed that these focused thoughts help S'randarr find those lost souls, the thoughts of the living guiding His way.
-
-*Origins Story*
-
-In the beginning, there was Al-Benj'rir. Al-Benj'rir lived in the sea of S'ri, or a sea of pure energy. From this sea He created S'randarr, followed by Messa. S'randarr created his island of S'ranjir, and his lantern to guide the S'ri. This made Messa greedy, and caused her to try to take more of the S'ri for herself, creating a throne of clouds. Al-Benj'rir caught wind of Messa's actions and scattered the rest of the S'ri throughout the universe. From this Ahdomai and the life on it was formed. S'randarr moved S'ranjir to protect Ahdomai' S'ri. Messa now looks to make her throne of clouds a true throne, while S'randarr wishes to let the balence of S'ri guide it's self, and for his sister to let the universe not be controlled, but live.
-
-
-**Tajr-kii Messa**
-
-*Core Fundamentals of Living*
-
-There are two main principles of Tajr-kii Messa, everything is a cycle of death that should not be broken, and embrace change in any form it may come in. The end goal of life is to bring as much to Messa as one can when they die, also referred to as Assimilation. Another core behavior principle is to act in the moment and on impulse.
-
-*Core Fundamentals of Belief*
-
-Followers believe in many of the same things that those who practice Tajr-kii S'randarr do, but choose to worship Messa rather than S'randarr. Death is more freely accepted to be able to become one with Messa, and assist her in her fight with S'randarr. Anything that can lead to more of that, such as a larger population to be offering souls with, is focused, and will be desired by those who follow Messa. They will wish to grow in knowledge and enrich their soul with that knowledge, so that Messa may have that much more power over S'randarr.
-
-*Cycle of Death and Change*
-
-Those who follow Messa are highly against cloning, as it does not promote change, prevents the cycle of death, and it clings to old ways. This process may be means also to pull one's soul back from The Bounty, depriving Messa of more energy. Cyborgification would be preferable as it offers a change of shell the soul is in. Medical treatment is still allowed with this, but if it were to cause a major change physically, it should be embraced. As such, the use of prosthetic replacements to limbs and body parts would be rather frowned upon, but not restricted, due to some extent of change involved, but attempt to hold old form. The preferable option would be to leave a limb lost.
-
-*Messa Passing Borders*
-
-It is widely believed by followers that death is controlled by Messa. When she wishes to feast upon the souls of the living, she will influence the world to bring about death, so that their souls may come to the Bounty for her to feast on. This could come in the form of natural disasters, or influences to those living in the world, cut off from S'randarr's wisdom and assistance. Injuries caused from natural disasters are seen as ways for Messa to "taste" one's soul.
-
-*Holidays*
-
-There is no official holiday for those who practice Tajr-kii Messa, due to it's widespread discrimination and attempts at exterminating it's followers in local Ahdomai govenrments. There is however, some emphasis on the celebration of the change of seasons, and seasonal cycles. The best time for celebration is the time between the equivalent of fall and winter, to symbolize Messa taking life from Ahdomai, and furthering her power from that.
+Upon death, bodies are typically burned in large basins filled with oils after death. This is done as burial is assumed to trap fragments of the soul, whereas burning will free even the weakest parts of the soul from the shattered body back into the Aether to be reborn again as a new soul. These rituals are elaborate, with family and friends coming together to revel in the rebirth of the lost Tajaran’s soul. Funerals tend to, as a result, be an odd mixture of sadness for the lost while still having joy that they will return to the world with a reborn soul.
 
 ____
 

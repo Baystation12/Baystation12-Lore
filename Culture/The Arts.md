@@ -1,11 +1,11 @@
 # The Arts of the 26th Century
 
-As Humanity has progressed through the ages, so has its culture. From the early days of pottery to the dimensional surrealism of today- from the classical music of 18th century Europe to the so called "Post-Electradelic," the arts have changed and turned as years have gone by. Here, you can see what's changed since the 21st Century.
+As Humanity has progressed through the ages, so has its culture. From the early days of pottery to the dimensional surrealism of today - from the classical music of 18th century Europe to the so called "Post-Electradelic," the arts have changed and turned as years have gone by. Here, you can see what's changed since the 21st Century.
 
 ## Music
 
 As humanity has progressed, so as the way it fills leisure activities. Beginning with the 21st Century and on into the 22nd Century,
-music expansion fell with the problems that fell upon humanity. Music became darker, and heavier- Synthetic sounds mixed with the
+music expansion fell with the problems that fell upon humanity. Music became darker, and heavier - synthetic sounds mixed with the
 brass and wood of older music to create a "Post-Industrial" style, with what can only be described in 21st Century terms as "Nine Inch
 Nails meets Bob Dylan." As time went by, Jazz became more popular, and started to involve synthetic sounds as well. Bass music,
 electronic drums, off-beat patterns with static helped fill the already insane patterns of Jazz Music which rose to new prominence in 
