@@ -16,6 +16,8 @@ This is the universe of Today.
 
 * [Big Brother and the Government](https://baystation12.net/lore/Section-8) - This talks about Sol Gov, the government behind Humanity, and the governments behind the various other races.
 
+* [Uncle Sam in 2561](https://baystation12.net/lore/Organizations/SCG/DF/Defense Forces) - Here you can find everything you wish to know about Sol Gov's Defense Forces, and the types of ships in each Fleet. Hell, even the structure of the Infantry.
+
 * [Colonies, From Mining Hubs to New New New York!](https://baystation12.net/lore/Section-4) - A listed page that lets you read up on the major systems and colonies *(All player-submitted. Please refer to the forums if you wish to add some)*
 
 * [Bluespace? Supermatter?! Welcome to SCIENCE!!!](http://baystation12.net/lore/Section-7) - Science, something very important in the 26th Century, and the crazy things that it entails.
