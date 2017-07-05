@@ -19,7 +19,7 @@ ____
 
 #### Did You Know:
 
-The farthest system in Human-controlled space that has a functioning colony is known as the "Trajan" System, named after the ancient 
+The farthest system in Sol Gov-controlled space that has a functioning colony is known as the "Trajan" System, named after the ancient 
 Roman Emperor in the earlier years of Anno Domini.
 
 ____
@@ -33,7 +33,7 @@ ____
 
 #### Did You Know:
 
-Cloning works through a mesh lace, which is a prosthetic that can be attached to your body.
+Cloning works through a mesh lace, which is a prosthetic that can be attached to your body. It is incredibly expensive.
 
 ____
 

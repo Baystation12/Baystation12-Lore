@@ -1,4 +1,4 @@
-# Humans, Aliens, and Monsters Oh My!
+﻿# Humans, Aliens, and Monsters Oh My!
 
 
 ##WHAT IS THAT THING!
@@ -64,30 +64,11 @@ Positronic intelligence really took off in the 26th century, and it is not uncom
 
 With cloning on the forefront of human scientific advancement, cheap mass production of bodies is a very real and rather ethically grey industry. Vat-grown humans tend to be paler than baseline, with no appendix and fewer inherited genetic disabilities, but a weakened metabolism. From this baseline version, there are two other variants. 
 
-* Grav-Adapted Humans: Heavier and stronger than a baseline human, gravity-adapted people have thick radiation-resistant skin with a high lead content, denser bones, and recessed eyes beneath a prominent brow in order to shield them from the glare of a dangerously bright, alien sun. This comes at the cost of mobility, flexibility, and increased oxygen requirements to support their robust metabolism.
-* Space-Adapted Humans: Lithe and frail, these sickly folk were engineered for work in environments that lack both light and atmosphere. As such, they're quite resistant to asphyxiation as well as toxins, but they suffer from weakened bone structure and a marked vulnerability to bright lights. 
+**Grav-Adapted Humans** 
 
+Heavier and stronger than a baseline human, gravity-adapted people have thick radiation-resistant skin with a high lead content, denser bones, and recessed eyes beneath a prominent brow in order to shield them from the glare of a dangerously bright, alien sun. This comes at the cost of mobility, flexibility, and increased oxygen requirements to support their robust metabolism.
 
-##What's This About Monsters?
+**Space-Adapted Humans**
 
-Space is a very dangerous place, and not just because there's no air. Various creatures lurk throughout the stars, all wanting to eat you. The most common are the Carp, Pikes, the main focus of the Xenobiological field - the Slimes, Giant Spiders, and Cortical Borers.
-
-*The Carp*
-
-The Carp are a breed of well...space fish, that come from the phoron giant Erebus. Somehow, scientists aren't quite sure yet, the Carp are imbued with the Phoron in their DNA, allowing for them to travel unaided through the vast void of Space, without gravity, air, anything. They are very dangerous to space travellers are they are highly aggressive and carnivorous. They often break windows and the like on space stations hoping to get in to eat the crew.
-
-*The Pikes*
-
-The more dangerous cousins of the Carp, Pikes are larger, stronger, and overall much much more dangerous than the Carp. They are extremely volatile creatures, more so than the Carp, and attack any living or moving things, even other Pikes and Carp. They also come from Erebus, though how these creatures, and the carp, came into existance - is still unknown.
-
-*The Slimes*
-
-Slimes" as they are commonly known, are an alien species of mostly unknown origin. Found originally in the Asteroid Belt in Nyx, where Brinkburn resides, the species are almost entirely hostile to other forms of life, eat any organic matter, and from what has been studied so far, lack any form of conscious mind. They can be mutated into various other sub-species, which are color-coded due to the "animal's" color changing with the mutation. These mutations bring about a variety of strange traits with them, and have led many to believe that "Slimes" have some relation to Phoron and maybe even Bluespace itself.
-
-
-*The Spiders*
-
-The bluespace travel, and usage of Phoron seems to have altered the genes of spiders that live on the Ships and Stations, their bodies becoming huge and grosteque. They have also become extremely aggressive to space travellers, and are a serious threat. They originally come from Earth, yes, but Phoron seems to have done something different with them than what it does with other species, changing Spiders into something far worse than what they used to be.
-
-
+Lithe and frail, these sickly folk were engineered for work in environments that lack both light and atmosphere. As such, they're quite resistant to asphyxiation as well as toxins, but they suffer from weakened bone structure and a marked vulnerability to bright lights. 
 ____

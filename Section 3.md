@@ -40,7 +40,8 @@ A renown arms manufacturing and general security equipment company. Commonly kno
 ## Smaller Corporations
 
 These seven are not the only companies around. There's dozens of others, and you can find them all here:
-[Smaller Corporations](https://baystation12.net/lore/Corporations/Smaller)
+
+### [Smaller Corporations](https://baystation12.net/lore/Corporations/Smaller)
 
 ## The Free Trade Union
 

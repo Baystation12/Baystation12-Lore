@@ -4,14 +4,6 @@ The Unathi (Ew-nath-ee) are a race of tall, reptilian humanoids that possess bot
 
 ## An Overview
 
-**Naming**
-
-Unathi name themselves in manners that are heavy on I's and O's and S's, along with very harsh K's and G's. Unless introductions have been made, using an Unathi's first name is not recommended.
-
-Not only that, but how they name is strange. The first name of an Unathi is usually their family name, while the last name is a clan name. This means that Dreekius Gnarrssis is a member of the Gnarrssis Clan, but his family is the name Dreekius. No two family names are the same, but members in a family will often end up with the same names, especially fathers and sons. Daughters keep the name of their family. Once an Unathi reaches adulthood, they may take their own name or keep their family name.
-
-*Gios Insthys is a member of the Insthys Clan, but his father comes from a line of Gios. Once Gios became a full-grown, he took the name Garr Insthys.*
-
 **Biology**
 
 Unathi are a race of tall, reptilian humanoids that possess both crocodile-like and serpent-like features. Their scales are hard and plate-like, save for the softer ones that line the inside of their legs, armpits, and groin.
@@ -38,7 +30,16 @@ Intimate gestures between Unathi include twining necks, twining tails, and touch
 
 Baring the throat is the single most meaningful expression of trust in a lover or superior, often used as shows of extreme trust, compassion or admittance of shame, and within honourable contexts, clawing or biting the exposed throat is perfectly allowed.
 
-Female Unathi are treated as valuable property by males. For more information see Unathi Culture.
+Female Unathi are treated as valuable property by males. For more information see [Unathi Culture](https://baystation12.net/lore/Species/Unathi/Unathi-Culture).
+
+**Naming**
+
+Unathi name themselves in manners that are heavy on I's and O's and S's, along with very harsh K's and G's. Unless introductions have been made, using an Unathi's first name is not recommended.
+
+Not only that, but how they name is strange. The first name of an Unathi is usually their family name, while the last name is a clan name. This means that Dreekius Gnarrssis is a member of the Gnarrssis Clan, but his family is the name Dreekius. No two family names are the same, but members in a family will often end up with the same names, especially fathers and sons. Daughters keep the name of their family. Once an Unathi reaches adulthood, they may take their own name or keep their family name.
+
+*Gios Insthys is a member of the Insthys Clan, but his father comes from a line of Gios. Once Gios became a full-grown, he took the name Garr Insthys.*
+
 
 **Diet**
 
@@ -55,6 +56,7 @@ Unathi are a species deeply rooted in family and tradition. Settlements are made
 many Unathi walking along with. A plate of Bor, dried meats with herb rub and a chilled sauce made from the thick, sweet leaves of a local plant sits next to you. 
 You can hear the matriarch singing in her raspy voice from just up the way, as there aren't any doors on most of the huts. Today she adds to our Skein, as you have been born a son, your seventh one. Above, flies several ships leaving port in the great City of Mumbak, in the Northern Pole, and just in sight by the naked eye, a great space station floating across the horizon. A basic cyborg unit is just near your farm, tending to a female gnar who just gave birth to a new litter. The watering season is beginning soon, so you will have work enough ahead for these new ones. Across the horizon you can see a Metal Forest, great hulking masses of twisted, red metal from an age long forgotten. Remnants of the Precursors.*
 
+
 ### A Short History
 
 Moghes was once a massive jungle of a world, with the poles and mountain ranges being the coldest places to find on the strange world. The Precursors were a different people to the Unathi of today, and were a far more aggressive species than the Unathi of today, which is surprising with how aggressive the Unathi themselves are. The Precursors had the technological level of mid-21st Century Earth before the near total extinction of life on the planet.
@@ -70,9 +72,9 @@ Most general history assumes that the precursors were not Unathi, but many have 
 
 Their homes are constructed out of sturdy sandstone and most, if not all, have special chambers that are called 'Sun Gardens'. They act much like living rooms do for humans; they are the face of the home. Guests will most often visit this room first, and if it is poorly kept or decorated, it reflets badly on the clan. Common decorations include wall trophies, carvings in the wall consisting of symbols or hieroglyphs detailing the clan's history (which may instead be supplemented by a mural), colorful rocks, and exotic or good-looking common plants. Wealthier homes will also have humid baths to enjoy, although most settlements have public, communal baths for all to enjoy.
 
-Unathi of the heartland live by a simple mindset; If it isn't broke, don't try and fix it. Things are separated by need and want, with the former taking priority. In higher castes or wealthier clans, the gap is, of course, less intense. Women are treated as they are for the exact same reasons. They are property, but valuable property. They're the means to advance a clan's bloodline and also to mind every day necessities and needs when the expendable males are too busy. Females are often assigned to a male that is responsible for them (such as their father, or husband, or brother in the even both of the previous men are dead or away). Their caretaker will also be expected to bear the shame and punishment for the female if they error. Touching another male's female, even if it's consensual is bad without permission or transferred ownership. Not only with the female's caretaker call for a bane (a disagreement fight) as soon as possible, but the others in their clan and settlement will look very poorly on them.
+Unathi live by a simple mindset; If it isn't broke, don't try and fix it. Things are separated by need and want, with the former taking priority. In higher castes or wealthier clans, the gap is, of course, less intense. Women are treated as they are for the exact same reasons. They are property, but valuable property. They're the means to advance a clan's bloodline and also to mind every day necessities and needs when the expendable males are too busy. Females are often assigned to a male that is responsible for them (such as their father, or husband, or brother in the even both of the previous men are dead or away). Their caretaker will also be expected to bear the shame and punishment for the female if they error. Touching another male's female, even if it's consensual is bad without permission or transferred ownership. Not only with the female's caretaker call for a bane (a disagreement fight) as soon as possible, but the others in their clan and settlement will look very poorly on them.
 
-Unathi society in the heartland is determined by a rigid caste system, which determines their social standing. Those who serve in the military are generally considered to be above the simple, working class - or peons, as they're called. Council members, like elders and village leaders, have authority over both previous castes, with warlords (the leader of a large settlement) above them and overlords (the leader of a capital) at the very top.
+Unathi society is determined by a rigid caste system, which determines their social standing. Those who serve in the military are generally considered to be above the simple, working class - or peons, as they're called. Council members, like elders and village leaders, have authority over both previous castes, with warlords (the leader of a large settlement) above them and overlords (the leader of a capital) at the very top.
 
 Water is one of the most favored currencies in Unathi society, as they lack any kind of real paper money or treasury system. Their major way of buying and selling involves bartering, though forms of currency differ regionally.
 
@@ -197,10 +199,15 @@ The 15 primary City States are as Follow:
 * Koja
 
 Mumbak, Si'gek Nels'thar, Instha, and No'lesk City all exist in the Poles, each great trading ports for offworlders (though none as big as Mumbak in terms of Interregional, Moghesian Trade).
+
 Durzakrag, Sen uuma, and Saris Nirz are the City States of the Diamond Peaks, the largest settlements of the region. Often resembling great castles due to their sturdy, defensive walls.
+
 Lo, Morr, and Pak are Precursor Bunkers which are now home to Desert Clan City States. The vast, empty bunkers are now filled with homes, shops, and escape from the harsh surface above.
+
 Wasgaelli and Gaza'lor are both Flaoting Cities of the Swamps. Everything in them is built on great boats or platforms or rafts, anything, and rarely land. They could be compared to rinky-dink versions of Venice, but much more defended. 
+
 Koja is the sole standing City State of the Savannahs, built out of one of the Great Trees, Koja is surrounded in farms and ranches whose meat and agriculture are brought to the Poles to sell to offworlders. 
+
 Barra Gei and Lemo are nomadic settlements, the largest of their kind, each with nearly 100 Ogashes of their own. They travel throughout the Svannahs, Poles and Deserts, living from place to place and rarely being in the same place twice. 
 
 ### Disease
