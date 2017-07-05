@@ -35,11 +35,11 @@ There are a variety of committees tasked with organizing the primary missions an
 
 Not only are there everything mentioned above, but there's the political manuervering and backstabbing nature of politicians in the 26th century through their various Coalitions. The main food groups that control the Assemblies, and many other smaller representative governments on colonies are as follow:
 
-* [SFR](https://baystatio12.net/lore/Organizations/Political Coalitions/SFR) – Center right/right wing.
-* [SNO](https://baystatio12.net/lore/Organizations/Political Coalitions/SNO) – Right wing/far right.
-* [PAC](https://baystatio12.net/lore/Organizations/Political Coalitions/PAC) – Center/center left.
-* [UGLS](https://baystatio12.net/lore/Organizations/Political Coalitions/UGLS) – Center left/left wing.
-* [LDDF](https://baystatio12.net/lore/Organizations/Political Coalitions/LDDF) – Far left.
+* [SFR](https://baystatio12.net/lore/Organizations/Political%Coalitions/SFR) â€“ Center right/right wing.
+* [SNO](https://baystatio12.net/lore/Organizations/Political%Coalitions/SNO) â€“ Right wing/far right.
+* [PAC](https://baystatio12.net/lore/Organizations/Political%Coalitions/PAC) â€“ Center/center left.
+* [UGLS](https://baystatio12.net/lore/Organizations/Political%Coalitions/UGLS) â€“ Center left/left wing.
+* [LDDF](https://baystatio12.net/lore/Organizations/Political%Coalitions/LDDF) â€“ Far left.
 
 
 ### Corporations in SolGov:
