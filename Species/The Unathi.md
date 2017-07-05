@@ -180,8 +180,8 @@ With the strange structure of Unathi society comes to the political, cultural, a
 There are plenty of villages, settlements and other such things across the planet of Moghes, but the real capitals are the City-States. Vast cities filled with a variety of different clans dot across the landscape, 15 of these esteemed capitals exist. The largest of them is Mumbak, currently controlled by the Issek Clan, has as many as 30 different Clans living in it, or near its borders. The city itself is a sprawling thing, covering a great swathe of land. Old style factories sit in the city, filling the air with smog, shipyards and docks fillwed with rusted old things and brand new merchant vessels from offworld lay in the city. Favelas filled with the homes of millions of unathi sit next to the great markets where offworlders trade with Unathi merchants, and travellers can rest and recover. This is common for each of the polar city states, as they offer relatively the same services but with different clans and even things for sale. The city states of the interior of the planet, such as the great Boating City Wasgaelli, the Diamond Peak Fortress of Durzakrag, the Bunker Town of Lo, or the Thriving Moving Cities of the Savannahs atop their great Ogashes.
 The 15 primary City States are as Follow:
 
-* [Mumbak](https://baystation12.net/lore/Planets And Systems/UCS/Mumbak.md)
-* [Si'gek Nel'sthar](https://baystation12.net/lore/Planets And Systems/UCS/S'igek Nels'thar.md)
+* [Mumbak](https://baystation12.net/lore/Planets And Systems/UCS/Mumbak)
+* [Si'gek Nel'sthar](https://baystation12.net/lore/Planets And Systems/UCS/S'igek Nels'thar)
 * Instha
 ^ No'lesk City
 * Durzakrag Fortress
