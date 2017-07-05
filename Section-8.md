@@ -48,19 +48,19 @@ ____
 
 ## The Missions of Sol Gov
 
-### [Economic Mission](https://baystation12.net/lore/Organizations/SCG/Economics)
+### [Economic Mission](https://baystation12.net/lore/Organizations/SCG/SCG%20Economics)
 
 The Committee for Economic Development is responsible for managing the monetary interaction of colonies and corporations.
 
-### [Sapientarian Mission](https://baystation12.net/lore/Organizations/SCG/Sapience): 
+### [Sapientarian Mission](https://baystation12.net/lore/Organizations/SCG/SCG%20Sapience): 
 
 Once limited to humans, the Committee for Sapientarian Development now sets its sights on ensuring basic rights for all sapient life.
 
-### [Diplomatic Mission](https://baystation12.net/lore/Organizations/SCG/Diplomacy): 
+### [Diplomatic Mission](https://baystation12.net/lore/Organizations/SCG/SCG%20Diplomacy): 
 
 Once nothing more than the Committee that handles relations among member states and contact with the Skrell, it has expanded it's position with the inclusion of the Interstellar Assembly and the Expeditionary Corps' revival.
 
-### [Peacekeeping Mission](https://baystation12.net/lore/Organizations/SCG/Peace): 
+### [Peacekeeping Mission](https://baystation12.net/lore/Organizations/SCG/SCG%20Peace): 
 
 Unlike the United Nations on Old Earth, SolGov maintains its own standing police and military forces, both under the aegis of the Committee of Defense and Security.
 
