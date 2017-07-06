@@ -16,7 +16,7 @@ Itself was regarded for centuries as an uninteresting substellar companion to Ny
 
 * **[Brinkburn](https://baystation12.net/lore/Planets-and-Systems/Nyx/Brinkburn)** \- A martian planet, Brinkburn is small and dry yet is hot enough to be habitable. Possesses a dense ring system, theorised to be the fate of primordial moons, which makes it difficult to enter or exit orbit.
 
-* **[Hauler's Tragedy](https://baystation12.net/lore/Planets and Systems/Brinkburn)** \- A thick asteroid belt that's full of pirate activity, mining operations, and trade depots. Very few corporate interests are active in the area.
+* **[Hauler's Tragedy](https://baystation12.net/lore/Planets-and-Systems/Nyx/Brinkburn)** \- A thick asteroid belt that's full of pirate activity, mining operations, and trade depots. Very few corporate interests are active in the area.
 
 * **[Yuclite](https://baystation12.net/lore/Planets-and-Systems/Nyx/Yuclite)** \- A superearth near the outer edge of the habitable zone, [Yuclite][3] has 40% higher surface gravity than Earth. Has been a hotbed of xenoarcheology for decades, due to the remains of a civilization that existed on this world approximately 570 million years ago.
 
