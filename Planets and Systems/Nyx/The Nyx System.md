@@ -14,17 +14,17 @@ Itself was regarded for centuries as an uninteresting substellar companion to Ny
 
 * **Moros** (a.k.a. Cinder, Hell) - A mercurial planet, Moros is tidally locked to Nyx with a dayside surface temperature of 980K. Unsettled, although several geological surveys have been performed on the night side. Undergoing orbital decay due to the influence of Euthenia; expected to break apart due to tidal forces within 50 million years.
 
-* **[Brinkburn](https://baystation12.net/lore/Planets and Systems/Brinkburn)** \- A martian planet, Brinkburn is small and dry yet is hot enough to be habitable. Possesses a dense ring system, theorised to be the fate of primordial moons, which makes it difficult to enter or exit orbit.
+* **[Brinkburn](https://baystation12.net/lore/Planets-and-Systems/Nyx/Brinkburn)** \- A martian planet, Brinkburn is small and dry yet is hot enough to be habitable. Possesses a dense ring system, theorised to be the fate of primordial moons, which makes it difficult to enter or exit orbit.
 
 * **[Hauler's Tragedy](https://baystation12.net/lore/Planets and Systems/Brinkburn)** \- A thick asteroid belt that's full of pirate activity, mining operations, and trade depots. Very few corporate interests are active in the area.
 
-* **[Yuclite](https://baystation12.net/lore/Planets and Systems/Yuclite)** \- A superearth near the outer edge of the habitable zone, [Yuclite][3] has 40% higher surface gravity than Earth. Has been a hotbed of xenoarcheology for decades, due to the remains of a civilization that existed on this world approximately 570 million years ago.
+* **[Yuclite](https://baystation12.net/lore/Planets-and-Systems/Nyx/Yuclite)** \- A superearth near the outer edge of the habitable zone, [Yuclite][3] has 40% higher surface gravity than Earth. Has been a hotbed of xenoarcheology for decades, due to the remains of a civilization that existed on this world approximately 570 million years ago.
 
 * **Euthenia** \- A superneptune massing at 46 time that of Earth, [Euthenia][4] is one of the few planets still commonly called it's original survey designation. (The surveyor is noted to have a preference for ancient Greek mythology) As an ice giant, [Euthenia][4] has had consistent economic stability thanks to the presence of fuel depots supplied by the giants atmosphere.
 
 * **[Caldurk](https://baystation12.net/lore/Planets and Systems/Caldurk)** A mid-sized moon orbiting Brinkburn. It has the Mining Hub Republic of Caldurk on it, and is about the same size as Luna.
 
-* **[Roanake](https://baystation12.net/lore/Planets and Systems/Roanake)** a large moon that orbits Erebus itself- Roanake is blistering hot, and the second largest of Erebus' moons (the other having a numerical name still). It is also populated by the colony of Roanake, itself a Corporate Oligarcy.
+* **[Roanake](https://baystation12.net/lore/Planets-and-Systems/Nyx/Roanake)** a large moon that orbits Erebus itself- Roanake is blistering hot, and the second largest of Erebus' moons (the other having a numerical name still). It is also populated by the colony of Roanake, itself a Corporate Oligarcy.
 
 ### Notable Space Stations are:
 
