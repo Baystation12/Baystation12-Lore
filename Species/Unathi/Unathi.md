@@ -38,16 +38,18 @@ ____
 Unathi are a species deeply rooted in family and tradition. Settlements are made up of many clans with an average being somewhere around five and seven at a time to thriving capitols that protect (for a tribute) the other settlements around it. They are part of a large trade network and even have space ports for foreign ships to dock at and unload their goods.
 
 
-*Imagine sitting on the top of your hut in your small clan village, just under the shade of one of the Savannah's great trees. THe light of Sunset glistens a great purple hue across the sky as it shimmers against the Diamond Peaks. You can see smoke rising from the Mountain Ranges, as Day Peaced Times rages on. A herd of Sissaliks bustle near by, led on by several farmers in traditional robes. A nomad clan moves in the distance, their great Ogashes moving steadily along with several Sissaliks and other animals along with, and
-many Unathi walking along with. A plate of Bor, dried meats with herb rub and a chilled sauce made from the thick, sweet leaves of a local plant sits next to you. 
-You can hear the matriarch singing in her raspy voice from just up the way, as there aren't any doors on most of the huts. Today she adds to our Skein, as you have been born a son, your seventh one. Above, flies several ships leaving port in the great City of Mumbak, in the Northern Pole, and just in sight by the naked eye, a great space station floating across the horizon. A basic cyborg unit is just near your farm, tending to a female gnar who just gave birth to a new litter. The watering season is beginning soon, so you will have work enough ahead for these new ones. Across the horizon you can see a Metal Forest, great hulking masses of twisted, red metal from an age long forgotten. Remnants of the Precursors.*
+*Imagine sitting on the top of your hut in your small clan village, just under the shade of one of the Savannah's great trees. THe light of Sunset glistens a great purple hue across the sky as it shimmers against the Diamond Peaks across the horizon. You can see smoke rising from the Mountain Ranges, as Day Peaced Times rages on. A herd of Sissaliks bustle near by, led on by several farmers in traditional robes. A nomad clan in the distance, their great Ogashes moving steadily along with several Sissaliks and other animals alongside many more Unathi.*
+
+*A plate of Bor, dried meats with herb rub and a chilled sauce made from the thick, sweet leaves of a local plant sits next to you.*
+
+*You can hear the matriarch singing in her raspy voice from just up the way, as there aren't any doors on most of the huts. Today she adds to our Skein, as one of your wive's eggs broke, bringing a new son, your seventh. In the sky above, several ships leaving port in the great City of Mumbak dash through the air, and just in sight for the naked eye, a great space station floating with the stars. A basic cyborg unit is near you, tending to a female gnar who just gave birth to a new litter. The watering season is beginning soon, so you will have work enough ahead for these new ones. Across the horizon you can see a Metal Forest, great hulking masses of twisted, red metal from an age long forgotten. Remnants of the Precursors.*
 
 
 ### [A Short History](https://baystation12.net/lore/Species/Unathi/History)
 
 Long ago, there lived a race of aliens with great, technological power. Now they are no more and their ruins dot the brutal, dying world that the Unathi now call home. 
 
-### The Unathi Way of Life](https://baystation12.net/lore/Species/Unathi/Culture)
+### [The Unathi Way of Life](https://baystation12.net/lore/Species/Unathi/Culture)
 
 The ultraconservative, highly traditionalist Unathi live by a simple mindset; If it isn't broke, don't try and fix it.
 
@@ -55,7 +57,7 @@ The ultraconservative, highly traditionalist Unathi live by a simple mindset; If
 
 Mad Max meets Halo in surprising ways for Unathi Technology
 
-### [Military](https://baystation12.net/lore/Species/Unathi/Military
+### [Military](https://baystation12.net/lore/Species/Unathi/Military)
 
 Powerful and Brutal, Unathi Warriors are some of the most dangerous in Known Space, but they're definitely not the type to stab you in the back.
 
