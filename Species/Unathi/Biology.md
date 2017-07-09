@@ -6,8 +6,7 @@ like, save for the softer ones that line the inside of their legs, armpits, and 
 Males stand six to seven feet tall, while females are about a half of a foot shorter on average. Females also tend to possess rounder 
 snouts than their male counterparts. Both stand on plantigrade legs with clawed feet that make wearing standard shoes painful.
 
-The life expectancy of a Moghes Unathi who has decent living conditions is about 70 years. Those with more advanced medical care outside of 
-Moghes often live longer.
+The oldest Unathi live to be in their late 250s, but most don't make it that far, often dropping off into the 100s or far earlier.
 
 As a cold-blooded species, they suffer fatigue and even short comas when exposed to extremely low temperatures. Their hearts have two 
 valves that are spread across their chest, which makes it sound as if they have two heartbeats at once. Unlike humans, their ribs are in 
