@@ -10,4 +10,4 @@ With the rapidly improving conditions of intergalactic travel being made availab
 
 Grayson Manufactories, true to its name, mines, refines, and produces iron, steel, aluminum, and other metals for use in casing and other production before selling them. They are also known for reviving their old traditions of supplying general materials ready for assembly for construction projects. These parts are interchangeable and considered somewhat cheap, but have proven to be generally and consecutively reliable.
 
-As of current, Grayson Manufactories has a fairly neutral stance on the other trans-stellars-- though has a history of maintaining a monopoly on its trade through heavy competition and even rumors of industrial sabotage and use of strikebreakers.
+As of current, Grayson Manufactories has a fairly neutral stance on the other trans-stellars - though has a history of maintaining a monopoly on its trade through heavy competition and even rumors of industrial sabotage and use of strikebreakers.

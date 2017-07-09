@@ -1,6 +1,6 @@
 # The Tajara
 
-Tajaran (Ta-jaw-run, plural Ta-jaw-rah) are a humanoid race possessing feline features. Hailing from Ahdomai, the smaller of two twin planets, they possess insulative fur and felinoid stability to better survive in their harsh native environment.
+Tajaran (Ta-jaw-run, plural Ta-jaw-rah) are a humanoid race possessing feline features. Hailing from [Ahdomai](https://baystation12.net/lore/Planets-and-Systems/XenoHomeworlds/Ahdomai), the smaller of two twin planets, they possess insulative fur and felinoid stability to better survive in their harsh native environment.
 
 ____
 
