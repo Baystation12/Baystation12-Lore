@@ -38,6 +38,23 @@
 
 Skrell first found this planet about year 2300 on their research flight. They found a smaller planet with developed life. They first tried sending signals towards the planet, but when they got no response, they used their large-scale scanners and surveillance drones to search for any intelligent lifeform activity, like cities or industry. When they found nothing, they decided to colonise the planet, as it resembled Qerrbalak in terms of climatic conditions.
 
+## Stellar system
+
+The star that Harr'qac is orbiting is called Harr'kelm. It is classified as F7-type main-sequence star (F7V), a yellow-white dwarf, slightly larger and more massive than Sol, but less dense. Harr'kelm is also more than twice as luminous as Sol.
+
+The system contains five planets:
+
+* **Quok-rau** - A small planet close to Harr'kelm. Not inhabited, as it is too hot.
+  *Distance from Harr'kelm: 0.8 AU*
+* **Harr'qac** - The only currently inhabited planet, as well as the only one located in the habitable zone.
+  *Distance from Harr'kelm: 1.59 AU*
+* **Harr'lex** - An uninhabited cold terrestrial planet orbiting further than Harr'qac. There is currently a mission being prepared to set up bases here. 
+  *Distance from Harr'kelm: 4.5 AU*
+* **** - A gas giant. Not inhabited. The possibilities of setting up mining stations are being discussed.
+  *Distance from Harr'kelm: 8 AU*
+* **** - A gas giant cold enough to have liquid H2. Not inhabited.
+  *Distance from Harr'kelm: 41 AU*
+
 ## Geography
 
 ![Map][2]
@@ -45,6 +62,12 @@ Skrell first found this planet about year 2300 on their research flight. They fo
 *The map is somewhat illustrative.*
 
 The planet consists of 40% ocean, but small lakes are very common, and planet itself seems nearly as humid as Qerrbalak. Some of the surface consists of swamps and jungles, but most is more like temperate forests or grasslands, which are more humid, rainy, and generally contain more water. There are three main continents: **Qrriuwenne**, the western continent; **Xi-Gerr-Ni**, the eastern continent; and **Gorron'arqeli**, the southern continent. Between the three, there is an ocean called **Kor'xil**, in which a quite large island of **Korm** resides.
+
+<!--
+### Climate
+
+TBD
+-->
 
 ### Flora and fauna
 
