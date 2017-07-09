@@ -25,6 +25,19 @@ The reproductive system of a Unathi is very similar to that of Earth reptiles. F
 between one and three. They have a six month gestation period, after which they are laid in a humid, warm area. After two to three weeks, 
 the fetus is fully developed and hatches from the egg, ready to start the cycle anew.
 
+## Behaviour
+
+Irritation or heightened emotion is expressed by thumping the tail against the ground. Verbal exclamations are also common, as are short barks, rattling of the throat, or 'chuffing' (forceful exhalations of air from low in the throat). Anxious or worried Unathi might sway (similar to snakes), rattle the heavy scaling on their neck, hiss, or sample air more often than necessary. When cold, a Unathi will usually bristle their scales in a manner analogous to human goosebumps. Overheated Unathi become sluggish and drowsy.
+
+It is a social faux-pass to use a Unathi's first name, to touch their tail, or to touch them at all before introductions are undertaken. When speaking to superiors, it is considered formal and respectful to refer to them by the extended name of their command. A clan leader would be referred to by the name of their clan, a squad leader by the name of their squad.
+
+Intimate gestures between Unathi include twining necks, twining tails, and touching foreheads/muzzles. Hugging is usually considered something done by children, avoided by adults. In moments of privacy, when speaking to a very intimate other, a Unathi might refer to them by their own name.
+
+Baring the throat is the single most meaningful expression of trust in a lover or superior, often used as shows of extreme trust, compassion or admittance of shame, and within honourable contexts, clawing or biting the exposed throat is perfectly allowed.
+
+Female Unathi are treated as valuable property by males.
+
+
 ## Disease
 
 *Black egg* Syndrome is a genetic defect found in some females in semi-rare cases, and even rarer in males (Though it manifests in it's own 
