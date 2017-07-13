@@ -44,20 +44,20 @@ The star that Harr'qac is orbiting is called Harr'kelm. It is classified as F7-t
 
 The system contains five planets:
 
-* **Quok-rau** - A small planet close to Harr'kelm. Not inhabited, as it is too hot.
-  *Distance from Harr'kelm: 0.8 AU*
+* **Quok-rau** - A small planet close to Harr'kelm. Not inhabited, as it is too hot.  
+  *Distance from Harr'kelm: 0.8 AU*  
   *Orbital period: 0.63 year*
-* **Harr'qac** - The only currently inhabited planet, as well as the only one located in the habitable zone.
-  *Distance from Harr'kelm: 1.59 AU*
+* **Harr'qac** - The only currently inhabited planet, as well as the only one located in the habitable zone.  
+  *Distance from Harr'kelm: 1.59 AU*  
   *Orbital period: 1.79 year*
-* **Harr'lex** - An uninhabited cold terrestrial planet orbiting further than Harr'qac. There is currently a mission being prepared to set up bases here. 
-  *Distance from Harr'kelm: 4.5 AU*
+* **Harr'lex** - An uninhabited cold terrestrial planet orbiting further than Harr'qac. There is currently a mission being prepared to set up bases here.  
+  *Distance from Harr'kelm: 4.5 AU*  
   *Orbital period: 8.47 years*
-* **** - A gas giant. Not inhabited. The possibilities of setting up mining stations are being discussed.
-  *Distance from Harr'kelm: 8 AU*
+* **Xip-li** - A gas giant. Not inhabited. The possibilities of setting up mining stations are being discussed.  
+  *Distance from Harr'kelm: 8 AU*  
   *Orbital period: 20.07 years*
-* **** - A gas giant cold enough to have liquid H2. Not inhabited.
-  *Distance from Harr'kelm: 41 AU*
+* **Riq'ma** - A gas giant cold enough to have liquid H2. Not inhabited.  
+  *Distance from Harr'kelm: 41 AU*  
   *Orbital period: 232.96 years*
 
 *Note: Orbital periods are relative to Earth years.*
