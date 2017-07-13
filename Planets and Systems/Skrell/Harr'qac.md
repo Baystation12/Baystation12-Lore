@@ -46,14 +46,21 @@ The system contains five planets:
 
 * **Quok-rau** - A small planet close to Harr'kelm. Not inhabited, as it is too hot.
   *Distance from Harr'kelm: 0.8 AU*
+  *Orbital period: 0.63 year*
 * **Harr'qac** - The only currently inhabited planet, as well as the only one located in the habitable zone.
   *Distance from Harr'kelm: 1.59 AU*
+  *Orbital period: 1.79 year*
 * **Harr'lex** - An uninhabited cold terrestrial planet orbiting further than Harr'qac. There is currently a mission being prepared to set up bases here. 
   *Distance from Harr'kelm: 4.5 AU*
+  *Orbital period: 8.47 years*
 * **** - A gas giant. Not inhabited. The possibilities of setting up mining stations are being discussed.
   *Distance from Harr'kelm: 8 AU*
+  *Orbital period: 20.07 years*
 * **** - A gas giant cold enough to have liquid H2. Not inhabited.
   *Distance from Harr'kelm: 41 AU*
+  *Orbital period: 232.96 years*
+
+*Note: Orbital periods are relative to Earth years.*
 
 ## Geography
 
@@ -63,11 +70,9 @@ The system contains five planets:
 
 The planet consists of 40% ocean, but small lakes are very common, and planet itself seems nearly as humid as Qerrbalak. Some of the surface consists of swamps and jungles, but most is more like temperate forests or grasslands, which are more humid, rainy, and generally contain more water. There are three main continents: **Qrriuwenne**, the western continent; **Xi-Gerr-Ni**, the eastern continent; and **Gorron'arqeli**, the southern continent. Between the three, there is an ocean called **Kor'xil**, in which a quite large island of **Korm** resides.
 
-<!--
 ### Climate
 
-TBD
--->
+In general, Harr'qac is very similar to Qerrbalak. Its climate is warmer and more humid than the climate of Earth. Thanks to the axial tilt of around 30°, the climate on the poles and at the equator is more life-friendly.
 
 ### Flora and fauna
 
