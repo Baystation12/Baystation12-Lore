@@ -1,6 +1,6 @@
 # The Skrell
 
-*The Skrell (skrel) are a species of amphibious humanoids, distinguished by their green-blue gelatinous appearance and head tentacles. Skrell come from the world of Qerrbalak, a humid planet with plenty of swamps and jungles. Currently more technologically advanced than humanity, they emphasise the study of the mind above all else.*
+*The Skrell (skrel) are a species of amphibious humanoids, distinguished by their green-blue gelatinous appearance and head tentacles. Skrell come from the world of [Qerrbalak](https://baystation12.net/lore/Planets-and-Systems/XenoHomeworlds/Qerrbalak), a humid planet with plenty of swamps and jungles. Currently more technologically advanced than humanity, they emphasise the study of the mind above all else.*
 
 ____
 
