@@ -1,4 +1,4 @@
-﻿# So You Want to Learn About the Corporate World?
+# So You Want to Learn About the Corporate World?
 
 Everything you'll encounter out in the Nyx System will probably have a label on it, from either NanoTrasen, Githari Exports, Hesphaistos Industries, one of the other Trans-Stellar Corporations, or even the Free Trade Union; marketing is everywhere. That is why you should know your ways around their inner workings, and what they're about. 
 
@@ -40,7 +40,8 @@ A renown arms manufacturing and general security equipment company. Commonly kno
 ## Smaller Corporations
 
 These seven are not the only companies around. There's dozens of others, and you can find them all here:
-[Smaller Corporations](https://baystation12.net/lore/Corporations/Smaller)
+
+### [Smaller Corporations](https://baystation12.net/lore/Corporations/Smaller)
 
 ## The Free Trade Union
 

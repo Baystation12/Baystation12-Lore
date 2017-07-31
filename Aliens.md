@@ -12,15 +12,15 @@ One of the more prominent species in our area of the Galaxy, Humanity has certai
 
 [**Skrell**](https://baystation12.net/lore/Species/The-Skrell)
 
-Hailing from the jungles and marshes of [Qerr'balak](https://baystation12.net/lore/Planets-and-Systems/Qerrbalak), Humanity's oldest ally, and one of the two most powerful known civilizations: the Skrell. They are far more technologically advanced than Humanity, and have been around this point for near 600 years, with technological advancements stagnating (though still far ahead of Humanity). They are at the top of Galactic prowess, with them being the firsrt Empire Humanity ever met in the stars. They are responsible for many advancements that Humanity has acquired, and for keeping the Peace, mostly, between the younger species. 
+Hailing from the jungles and marshes of [Qerr'balak](https://baystation12.net/lore/Planets-and-Systems/XenoHomeworlds/Qerrbalak), Humanity's oldest ally, and one of the two most powerful known civilizations: the Skrell. They are far more technologically advanced than Humanity, and have been around this point for near 600 years, with technological advancements stagnating (though still far ahead of Humanity). They are at the top of Galactic prowess, with them being the firsrt Empire Humanity ever met in the stars. They are responsible for many advancements that Humanity has acquired, and for keeping the Peace, mostly, between the younger species. 
 
-[**Unathi**](http://baystation12.net/lore/Species/The-Unathi)
+[**Unathi**](http://baystation12.net/lore/Species//Unathi/Unathi)
 
-a proud race of reptilians hailing from the desert planet of [Moghes](https://baystation12.net/lore/Planets-and-Systems/Moghes), the Unathi are a recent addition to the International Community. They are a highly sexist society, and to some, considered xenophobic too. They are very much in keeping with their own traditions and staying out of intergalactic affairs, and as such, it is rare to see them out in the stars and away from home.
+a proud race of reptilians hailing from the desert planet of [Moghes](https://baystation12.net/lore/Planets-and-Systems/XenoHomeworlds/Moghes), the Unathi are a recent addition to the International Community. They are a highly sexist society, and to some, considered xenophobic too. They are very much in keeping with their own traditions and staying out of intergalactic affairs, and as such, it is rare to see them out in the stars and away from home.
 
 [**Tajara**](https://baystation12.net/lore/Species/The-Tajara)
 
-A newer addition to the galactic community from [Ahdomai](https://baystation12.net/lore/Planets-and-Systems/Ahdomai), the Tajara are a form of cheap labor throughout the stars, and they haven't been found to do much else. For a long time until a revolution took place they were ruled over by a class known as the "Slavemasters" and in recent years finally made it on their own into the stars, but society is still very divided for them. They're based around family, traditions, and hard work.
+A newer addition to the galactic community from [Ahdomai](https://baystation12.net/lore/Planets-and-Systems/XenoHomeworlds/Ahdomai), the Tajara are a form of cheap labor throughout the stars, and they haven't been found to do much else. For a long time until a revolution took place they were ruled over by a class known as the "Slavemasters" and in recent years finally made it on their own into the stars, but society is still very divided for them. They're based around family, traditions, and hard work.
 
 [**Resomii**](http://baystation12.net/lore/Species/Resomi)
 
@@ -64,30 +64,11 @@ Positronic intelligence really took off in the 26th century, and it is not uncom
 
 With cloning on the forefront of human scientific advancement, cheap mass production of bodies is a very real and rather ethically grey industry. Vat-grown humans tend to be paler than baseline, with no appendix and fewer inherited genetic disabilities, but a weakened metabolism. From this baseline version, there are two other variants. 
 
-* Grav-Adapted Humans: Heavier and stronger than a baseline human, gravity-adapted people have thick radiation-resistant skin with a high lead content, denser bones, and recessed eyes beneath a prominent brow in order to shield them from the glare of a dangerously bright, alien sun. This comes at the cost of mobility, flexibility, and increased oxygen requirements to support their robust metabolism.
-* Space-Adapted Humans: Lithe and frail, these sickly folk were engineered for work in environments that lack both light and atmosphere. As such, they're quite resistant to asphyxiation as well as toxins, but they suffer from weakened bone structure and a marked vulnerability to bright lights. 
+**Grav-Adapted Humans** 
 
+Heavier and stronger than a baseline human, gravity-adapted people have thick radiation-resistant skin with a high lead content, denser bones, and recessed eyes beneath a prominent brow in order to shield them from the glare of a dangerously bright, alien sun. This comes at the cost of mobility, flexibility, and increased oxygen requirements to support their robust metabolism.
 
-##What's This About Monsters?
+**Space-Adapted Humans**
 
-Space is a very dangerous place, and not just because there's no air. Various creatures lurk throughout the stars, all wanting to eat you. The most common are the Carp, Pikes, the main focus of the Xenobiological field - the Slimes, Giant Spiders, and Cortical Borers.
-
-*The Carp*
-
-The Carp are a breed of well...space fish, that come from the phoron giant Erebus. Somehow, scientists aren't quite sure yet, the Carp are imbued with the Phoron in their DNA, allowing for them to travel unaided through the vast void of Space, without gravity, air, anything. They are very dangerous to space travellers are they are highly aggressive and carnivorous. They often break windows and the like on space stations hoping to get in to eat the crew.
-
-*The Pikes*
-
-The more dangerous cousins of the Carp, Pikes are larger, stronger, and overall much much more dangerous than the Carp. They are extremely volatile creatures, more so than the Carp, and attack any living or moving things, even other Pikes and Carp. They also come from Erebus, though how these creatures, and the carp, came into existance - is still unknown.
-
-*The Slimes*
-
-Slimes" as they are commonly known, are an alien species of mostly unknown origin. Found originally in the Asteroid Belt in Nyx, where Brinkburn resides, the species are almost entirely hostile to other forms of life, eat any organic matter, and from what has been studied so far, lack any form of conscious mind. They can be mutated into various other sub-species, which are color-coded due to the "animal's" color changing with the mutation. These mutations bring about a variety of strange traits with them, and have led many to believe that "Slimes" have some relation to Phoron and maybe even Bluespace itself.
-
-
-*The Spiders*
-
-The bluespace travel, and usage of Phoron seems to have altered the genes of spiders that live on the Ships and Stations, their bodies becoming huge and grosteque. They have also become extremely aggressive to space travellers, and are a serious threat. They originally come from Earth, yes, but Phoron seems to have done something different with them than what it does with other species, changing Spiders into something far worse than what they used to be.
-
-
+Lithe and frail, these sickly folk were engineered for work in environments that lack both light and atmosphere. As such, they're quite resistant to asphyxiation as well as toxins, but they suffer from weakened bone structure and a marked vulnerability to bright lights. 
 ____
