@@ -1,5 +1,7 @@
 # The Peacekeeping Mission
 
+[Link back to Sol Gov](https://baystation12.net/lore/Organizations/Sol/Sol-Gov)
+
 Unlike the United Nations on Old Earth, SolGov maintains its own standing police and military forces, both under the aegis of the Committee of Defense and Security. Somewhat controversially, the CDS is also responsible for managing intelligence, counterterrorism, and border security in SolGov territory. While accusations of abuse by internal security are nothing new, the current cold war with the Terran Confederacy has internal tensions at an all time high as almost all communications traffic is being monitored. Gateways and space lanes have become increasingly militarized, and it's not uncommon for pilots to be detained indefinitely if their flight paths come too close to any sensitive assets. Though the most visible portions of the CDS are the **Defense Forces** and the **Colonial Marshal Bureau**, it also manages the **Office of Interstellar Intelligence**, the **Bureau of Counterterrorism**, the **Assembly Security Agency**, the **Emergency Management Bureau**, the **Rescue Service**, the **Bureau of Border Security**, the **Defense Intelligence Agency**, the **Bounty Office**, the **Bureau of Corrections**, and the **Home Guard**.
 
 ## [Defense Forces](https://baystation12.net/lore/Organizations/SCG/Defense Forces):
