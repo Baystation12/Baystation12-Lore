@@ -3,9 +3,10 @@
 As population has grown, so has the need for more land. As technology has progressed, so has the ability to acquire more land. Colonization has led to the spreading of Humanity, Skrell, and Resomii across various star systems, with Humanity covering many many systems all on its own. This is a list of the notable colonies that have been founded throughout the stars, stretching from Sol to Nyx.
 
 ## Sol
+  * [Mars](https://baystation12.net/lore/Planets-and-Systems/Sol/Mars)
   * [Earth](https://baystation12.net/lore/Planets-and-Systems/Sol/Earth)
   * [Luna](https://baystation12.net/lore/Planets-and-Systems/Sol/Luna)
-  * [Mars](https://baystation12.net/lore/Planets-and-Systems/Sol/Mars)
+  * [Venus](https://baystation12.net/lore/Planets-and-Systems/Sol/Venus)
   * [Pluto](https://baystation12.net/lore/Planets-and-Systems/Sol/Pluto)
   * [Phobos](https://baystation12.net/lore/Planets-and-Systems/Sol/Phobos)
   * [Ceres](https://baystation12.net/lore/Planets-and-Systems/Sol/Ceres)
