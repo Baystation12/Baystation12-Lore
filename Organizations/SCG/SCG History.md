@@ -1,5 +1,7 @@
 # History of Sol Central Government
 
+[Link back to Sol Gov](https://baystation12.net/lore/Organizations/Sol/Sol-Gov)
+
 When Humanity first started colonizing the Solar System, it was under the banner of the Old Earth, nation-states like China, America, and India planted their flags in the dirt of planets and moons throughout the system. Shortly behind them the private corporations followed, establishing corporate outposts and research stations away from the prying eyes of Earth. As the situation on Earth deteriorated, the colonies funded by corporations grew more powerful in the absence of oversight, and the colonies that eventually lost contact with their parent nation-states were left on their own. While some withered, being forced to fend for themselves, and others disappeared entirely, the strongest banded together and started to form some of the settlements and governments that we know so well today. As the flow of people from Earth grew, so did the settlements that had survived.
 
 When Old Earth eked out a unified government under the banner of the Terran Commonwealth, it found a Solar System that had grown and developed independent of Earther control. When the Commonwealth re-exerted its power over its colonies, many places found themselves underrepresented by a body that did not have Colonial interests in mind. Eventually, war broke out. A few Martian colonies band together to form the Ares Confederation, and fight to gain their freedom. The first interstellar wars take a toll on development, but end in victory for the Commonwealth.
