@@ -1,5 +1,7 @@
 # The Defense Forces
 
+[Link back to Sol Gov](https://baystation12.net/lore/Organizations/Sol/Sol-Gov)
+
 The Defense Forces of Sol Gov can be separted into a few categories:
 
 ## [The Fleet](https://baystation12.net/lore/Organizations/SCG/DF/Fleet)
