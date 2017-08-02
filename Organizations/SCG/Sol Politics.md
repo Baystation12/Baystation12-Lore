@@ -1,5 +1,7 @@
 # How Sol Gov Works
 
+[Link back to Sol Gov](https://baystation12.net/lore/Organizations/Sol/Sol-Gov)
+
 The Sol Gov is a incredibly slow, super giant of a bureaucratic nightmare. Beware all those who continue to read.
 
 ## Bureaucracy is Key
