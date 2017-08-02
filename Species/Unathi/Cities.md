@@ -10,8 +10,8 @@ things for sale. The city states of the interior of the planet, such as the grea
 Durzakrag, the Bunker Town of Lo, or the Thriving Moving Cities of the Savannahs atop their great Ogashes.
 The 15 primary City States are as Follow:
 
-* [Mumbak](https://baystation12.net/lore/Planets And Systems/UCS/Mumbak.md)
-* [Si'gek Nel'sthar](https://baystation12.net/lore/Planets And Systems/UCS/S'igek Nels'thar.md)
+* [Mumbak](https://baystation12.net/lore/Planets-And-Systems/UCS/Mumbak.md)
+* [Si'gek Nel'sthar](https://baystation12.net/lore/Planets-And-Systems/UCS/S'igek-Nels'thar.md)
 * Instha
 ^ No'lesk City
 * Durzakrag Fortress

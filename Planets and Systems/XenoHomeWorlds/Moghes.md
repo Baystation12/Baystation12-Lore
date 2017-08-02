@@ -1,6 +1,6 @@
 # Moghes 
 ![landscape][1]
-The planet **Moghes** is home of the [Unathi](baystation12.net/Species/unathi), and is dominated primarily by deserts, and deep crags that go far into the ground, filled with tall jungle trees or blistering irradiated hellholes as a result of an ancient nuclear disaster. Evidence of this previous, older race manifests itself in the form of ruins that dot themselves across the surface. Traces of swamp-land and jungles are present, showing that, at one time, Moghes was a lush world filled with a thriving ecosystem. The planet is 1/6 smaller than the size of Earth, and it's only sun is close enough to make it uncomfortable for non-natives. It has a single moon. Despite the doomsday event that burned away most of the plant life and water on the planet, Moghes is still home to three large oceans called Malawi and Tanganyika, and Iksess, but each of them are comparably to the Dead Sea on Earth. Lakes, the very few that exist, are often extremely irradiated, with most clean water being found underground. Sand storms are common at the equator and rain is only semi-common at the polar caps which have become tropical oasis compared to their ancient days as arctic palaces
+The planet **Moghes** is home of the [Unathi](baystation12.net/Species/Unathi/Unathi), and is dominated primarily by deserts, and deep crags that go far into the ground, filled with tall jungle trees or blistering irradiated hellholes as a result of an ancient nuclear disaster. Evidence of this previous, older race manifests itself in the form of ruins that dot themselves across the surface. Traces of swamp-land and jungles are present, showing that, at one time, Moghes was a lush world filled with a thriving ecosystem. The planet is 1/6 smaller than the size of Earth, and it's only sun is close enough to make it uncomfortable for non-natives. It has a single moon. Despite the doomsday event that burned away most of the plant life and water on the planet, Moghes is still home to three large oceans called Malawi and Tanganyika, and Iksess, but each of them are comparably to the Dead Sea on Earth. Lakes, the very few that exist, are often extremely irradiated, with most clean water being found underground. Sand storms are common at the equator and rain is only semi-common at the polar caps which have become tropical oasis compared to their ancient days as arctic palaces
 
 ## Overview
 
@@ -51,33 +51,8 @@ Gnars are a hardy animal of the Deserts, usually found around Glass Dunes. They'
 
 Losseks come from the diamond peaks entirely, never venturing far out. They somewhat resemeble gorillas in shape and size, but their fur is far thicker, and their face makes you think more of a spider than an ape. The giant, red beasts are known to live in caves in small groups of six or seven, and very very aggressive to non-Losseks. They're omnivores, and are keen to eating unweary adventurers. 
 
-## City States
+## [City States](https://baystation12.net/lore/Species/Unathi/Cities)
 
-There are plenty of villages, settlements and other such things across the planet of Moghes, but the real capitals are the City-States. Vast cities filled with a variety of different clans dot across the landscape, 15 of these esteemed capitals exist. The largest of them is Mumbak, currently controlled by the Issek Clan, has as many as 30 different Clans living in it, or near its borders. The city itself is a sprawling thing, covering a great swathe of land. Old style factories sit in the city, filling the air with smog, shipyards and docks fillwed with rusted old things and brand new merchant vessels from offworld lay in the city. Favelas filled with the homes of millions of unathi sit next to the great markets where offworlders trade with Unathi merchants, and travellers can rest and recover. This is common for each of the polar city states, as they offer relatively the same services but with different clans and even things for sale. The city states of the interior of the planet, such as the great Boating City Wasgaelli, the Diamond Peak Fortress of Durzakrag, the Bunker Town of Lo, or the Thriving Moving Cities of the Savannahs atop their great Ogashes.
-The 15 primary City States are as Follow:
-
-* Mumbak
-* [Si'gek Nel'sthar](https://baystation12.net/lore/Planets And Systems/S'igek Nels'thar.md)
-* Instha
-^ No'lesk City
-* Durzakrag Fortress
-* Bunker Town of Lo
-* Morr Bunker Town
-* Pak Bunker
-* The Moving City of Barra Gei
-* The Moving City of Lemo
-* Saris Nirz Fortress
-* Wasgaelli
-* Gaza'lor
-* Sen Uuma Fortress
-* Koja
-
-Mumbak, Si'gek Nels'thar, Instha, and No'lesk City all exist in the Poles, each great trading ports for offworlders (though none as big as Mumbak).
-Durzakrag, Sen uuma, and Saris Nirz are the City States of the Diamond Peaks, the largest settlements of the region. Often resembling great castles due to their sturdy, defensive walls.
-Lo, Morr, and Pak are Precursor Bunkers which are now home to Desert Clan City States. The vast, empty bunkers are now filled with homes, shops, and escape from the harsh surface above.
-Wasgaelli and Gaza'lor are both Flaoting Cities of the Swamps. Everything in them is built on great boats or platforms or rafts, anything, and rarely land. They could be compared to rinky-dink versions of Venice, but much more defended. 
-Koja is the sole standing City State of the Savannahs, built out of one of the Great Trees, Koja is surrounded in farms and ranches whose meat and agriculture are brought to the Poles to sell to offworlders. 
-Barra Gei and Lemo are nomadic settlements, the largest of their kind, each with nearly 100 Ogashes of their own. They travel throughout the Svannahs, Poles and Deserts, living from place to place and rarely being in the same place twice. 
-
+There are plenty of villages, settlements and other such things across the planet of Moghes, but the real capitals are the City-States. 
   
 [1]: http://i.imgur.com/Fl7JpRu.png?1

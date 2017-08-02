@@ -1,8 +1,6 @@
 # Humans, Aliens, and Monsters Oh My!
 
 
-##WHAT IS THAT THING!
-
 As you may have noticed from your time on our server, Humanity is not alone in the stars. So far, there are nine other alien civilizations that we have discovered, and that's just the start of our galaxy! Who knows what else lurks in the dark corners...
 Anyways, these species were already described on the previous Section in short little paragraphs that gave you a basic idea. This section is meant to give you a more comprehensive understanding of these Aliens, and perhaps prepare you to even play them!
 
@@ -14,7 +12,7 @@ One of the more prominent species in our area of the Galaxy, Humanity has certai
 
 Hailing from the jungles and marshes of [Qerr'balak](https://baystation12.net/lore/Planets-and-Systems/XenoHomeworlds/Qerrbalak), Humanity's oldest ally, and one of the two most powerful known civilizations: the Skrell. They are far more technologically advanced than Humanity, and have been around this point for near 600 years, with technological advancements stagnating (though still far ahead of Humanity). They are at the top of Galactic prowess, with them being the firsrt Empire Humanity ever met in the stars. They are responsible for many advancements that Humanity has acquired, and for keeping the Peace, mostly, between the younger species. 
 
-[**Unathi**](http://baystation12.net/lore/Species//Unathi/Unathi)
+[**Unathi**](http://baystation12.net/lore/Species/Unathi/Unathi)
 
 a proud race of reptilians hailing from the desert planet of [Moghes](https://baystation12.net/lore/Planets-and-Systems/XenoHomeworlds/Moghes), the Unathi are a recent addition to the International Community. They are a highly sexist society, and to some, considered xenophobic too. They are very much in keeping with their own traditions and staying out of intergalactic affairs, and as such, it is rare to see them out in the stars and away from home.
 

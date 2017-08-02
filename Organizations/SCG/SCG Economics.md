@@ -1,5 +1,7 @@
 # Economic Mission: 
 
+[Link back to Sol Gov](https://baystation12.net/lore/Organizations/Sol/Sol-Gov)
+
 The Committee for Economic Development is responsible for managing the monetary interaction of colonies and corporations. It ensures the free travel of goods, services, people, and fiscal capital. It is the regulatory body responsible for maintaining the Thaler, investigating fraud between member states, establishing safe trade routes, preventing the sale and transport of contraband across the gateway network, and ensuring the stability of the interstellar economy. As instant communication between systems is still expensive if it's required to be quicker and more detailed than a basic black and white fax, so the CED is responsible for maintaining communication channels, especially the stock market, which would be almost impossible to coordinate without the SolGov quantum communication arrays across human space. Organizations managed by the CED include the **Bureau of Natural Resources**, the **Gateway Administration**, the **Customs and Trade Bureau**, the **Bureau of Energy**, the **Solar Bank**, the **Bureau of Finance**, the **Astronomical Society**, the **Census Bureau**, the **Patent and Trademark Office**, the **Communications Bureau**, the **Interstellar Postal Service**, and the **Bureau of Research**.
 
 ## Gateway Administration:
