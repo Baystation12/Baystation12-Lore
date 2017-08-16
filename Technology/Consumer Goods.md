@@ -1,8 +1,8 @@
-#Consumer Goods
+# Consumer Goods
 The following is a list of microlores for different products found in-game.  'Microlore' is a term for lore that can be found about an item after examining it and opening the 'examine' tab.
 ___
 
-##Smokeables
+## Smokeables
 
 **Trans-Stellar Duty-Frees:** The Trans-Stellar Duty-Free cigarette is an unbranded cigarette produced for the purpose of selling in areas with with high volumes of civilian and tourist traffic. They are about as average as cigarettes get, and have been regularly rated by critics as "tasteless". However, due to their low price, nonexistent tariffs, and omnipresent marketing, they are still the most well-known and widespread cigarettes in human space.
 
@@ -29,7 +29,7 @@ ___
 **Smoking Pipe:** ClassiCo Men's Accessories and Haberdashers is a widespread company based on Venus. They seek to create quality goods to give people a more 'classy' look. Most of their items are high-end and expensive, but generally high quality.
 ___
 
-##Drinks
+## Drinks
 
 **Space Cola:** Space Cola is the most popular drink made by [Robust Industries LLC.](https://baystation12.net/lore/Section%203). While it is only slightly different from traditional cola recipes, its blend of syrups and sugars is enticing to children and adults alike.
 

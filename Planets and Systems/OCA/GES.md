@@ -3,7 +3,7 @@
 
 * **Location**  -  Carnelia, Orion Ceta A 
 * Government -  Space station
-* Admiral -Esteban de Losa
+* Admiral - Esteban de Losa
 * Population - 1,200 permanent
 
 ### History

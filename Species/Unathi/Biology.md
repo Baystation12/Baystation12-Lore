@@ -1,7 +1,6 @@
 # Unathi Biology
 
-Unathi are a race of tall, reptilian humanoids that possess both crocodile-like and serpent-like features. Their scales are hard and plate- 
-like, save for the softer ones that line the inside of their legs, armpits, and groin.
+Unathi are a race of tall, reptilian humanoids that possess both crocodile-like and serpent-like features. Their scales are hard and plate-like, save for the softer ones that line the inside of their legs, armpits, and groin.
 
 Males stand six to seven feet tall, while females are about a half of a foot shorter on average. Females also tend to possess rounder 
 snouts than their male counterparts. Both stand on plantigrade legs with clawed feet that make wearing standard shoes painful.

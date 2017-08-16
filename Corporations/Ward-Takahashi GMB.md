@@ -1,11 +1,11 @@
-#Ward-Takahashi GMB
+# Ward-Takahashi GMB
 
-###Corporation History
+### Corporation History
 
 Ward G.M.B. and Takahashi Electronics were both prominent manufacturers prior to merging, originating on Earth in the mid 2400s. Ward started out as a military contractor before shifting towards the lucrative civilian gun market, based off status symbols and self-defense. It was this first market that Ward targeted with its Chevron range of sporting rifles, which came in specially designed cases and with buzzword-loaded advertising. The brand took off, and soon Ward leveraged this recognition into sports equipment and making tools. A series of acquisitions all over meant that Ward now had an even 60% share in weapons, sporting goods, and tools, not to mention a next-to-complete monopoly on any high-quality machined parts in human space by 2460. Takahashi Electronics was founded by Hideo Takahashi as a non-profit corporation meant for designing new circuits. While Takahashi was a visionary, profits dipped and he was forced to bring in shareholders who quickly and aggressively started on steep increases in licensing their chips. As profits soared, Takahashi was forced out entirely and the company started acquiring the manufacturers of these chips, producing new designs in-house and keeping their patents secret (via bribing of the right governments, of course). By the year 2450, Takahashi was a household name in consumer electronics and home appliances.
 
 While both companies had dealt with each other before, their wildly disparate industries meant that the news in 2512 that they would be merging caught quite a few people off guard. However, this did not stop profits from soaring as they rode out the Phoron boom, providing the furnishings for the new mining colonies as well as arming those tasked with protecting the colonies.
 
-###Modern Day
+### Modern Day
 
 Look inside any piece of consumer electronics, and the Ward-Takahashi GMB logo is probably stamped on each and every chip inside. Pick up a gun and you'll see the same etched into the side. Ward-Takahashi may not be involved in heavy industry like Grayson Manufactories Ltd., but they make a huge portion of the finished goods in any at least moderately wealthy colony. While nowhere close as infamous as Nanotrasen, they maintain a large and excessively well-trained security force. The prevailing opinion is that their primary purpose is demonstrating whatever new rifle model Ward-Takahashi's put out this year, but there have been allegations in the past of their use as a 'patent enforcement' tool, or even contracted out to other TSC's. For now, it looks like Ward-Takashi GMB will continue to maintain their high-quality brand image, and profit from it.

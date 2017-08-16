@@ -43,7 +43,7 @@ Examining Resomi society shows some remainders of their roots as pack hunters, s
 
 A breeding pair of Resomii, generally supported by their family, will lay a clutch of 4-6 eggs and tend to them until they hatch. The average lifespan of a Resomi prior to any genetic interference is 60 years, though some of the oldest have been recorded to live up to 100 years. Fertility has become a large facet of modern culture, as males have a rather short fertility window of roughly 10 years, in comparison to their female counterparts that never naturally lose their fertility until around the age of 50. It's common for male Resomii to take leaves of absence from their professions during their fertile in order to mate and raise hatchlings, while females tend to choose one long stretch to have a few clutches, and then return to the workforce.
 
-Aging brings along a collection of issues- Lost feathers are generally replaced with more muted colors, Metabolisms slow and immune systems become suppressed. Even hearing, the most valuable of Resomi senses, begins to deteriorate, which has led to no small market in "hearing restoration" medicine and technology, to varying degrees of effectiveness.
+Aging brings along a collection of issues - lost feathers are generally replaced with more muted colors, metabolism slows and the immune system becomes suppressed. Even hearing, the most valuable of Resomi senses, begins to deteriorate, which has led to no small market in "hearing restoration" medicine and technology, to varying degrees of effectiveness.
 
 ### Language
 

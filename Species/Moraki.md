@@ -59,7 +59,7 @@ To Not be Forgotten
 
 The Moraki Idea, as it is called in layman's terms, holds to the idea that they are the spreaders of Civilization, Life, or Creation. To exist is to be subject to the Flame, subject to the Moraki, and this idea they must spread to the lesser beings throughout the Void.
 
-The Void is a term used to describe all things without the Light- basically, anything that the Moraki do not control, as it has not been touched by their Flame. They must bring an IS to the Void, and shape it to the Moraki.
+The Void is a term used to describe all things without the Light - basically, anything that the Moraki do not control, as it has not been touched by their Flame. They must bring an IS to the Void, and shape it to the Moraki.
 
 The purveyors of the Void are known as Void Knights or *Syko Zeyynk*. These are the explorers, the “Protectors of the Flame” that many Moraki youths aspire to be. They discover new worlds, find more Egyno to support the Empire, and explore the vastness of space. Their Mantra is as follows:
 

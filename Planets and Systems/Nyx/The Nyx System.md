@@ -24,7 +24,7 @@ Itself was regarded for centuries as an uninteresting substellar companion to Ny
 
 * **[Caldurk](https://baystation12.net/lore/Planets and Systems/Caldurk)** A mid-sized moon orbiting Brinkburn. It has the Mining Hub Republic of Caldurk on it, and is about the same size as Luna.
 
-* **[Roanake](https://baystation12.net/lore/Planets-and-Systems/Nyx/Roanake)** a large moon that orbits Erebus itself- Roanake is blistering hot, and the second largest of Erebus' moons (the other having a numerical name still). It is also populated by the colony of Roanake, itself a Corporate Oligarcy.
+* **[Roanake](https://baystation12.net/lore/Planets-and-Systems/Nyx/Roanake)** a large moon that orbits Erebus itself - Roanake is blistering hot, and the second largest of Erebus' moons (the other having a numerical name still). It is also populated by the colony of Roanake, itself a Corporate Oligarchy.
 
 ### Notable Space Stations are:
 

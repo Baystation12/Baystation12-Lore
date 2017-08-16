@@ -1,7 +1,7 @@
 # Penal Colony, Phobos
 
 * **Location** - Phobos, Sol
-* **Capital** -Eseredge 
+* **Capital** - Eseredge 
 * Official languages - Sol Common, Galactic Common 
 * Other languages - Gutter 
 * Demonym -  Phobosian 

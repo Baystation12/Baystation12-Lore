@@ -1,6 +1,7 @@
 # Unathi Clans
 
-##**Gresis Clan:** The Gresis Clan, one of the most powerful in the Diamond Peaks area, is one very centralized around religion. Members 
+## **Gresis Clan:**
+The Gresis Clan, one of the most powerful in the Diamond Peaks area, is one very centralized around religion. Members 
 of this clan are clearly identified, as they wear symbols of pickaxes being illuminated on their clothes, showing their pride in their 
 work. Starting at the age of around eight, every member works in mining. They do this as they believe the work helps to properly educate 
 their young to truly appreciate the luxuries in life. On top of this, they are followers of the Fruitful Lights religion, believing that 
@@ -14,7 +15,8 @@ interferences with the purpose that the Precursors created them for, and because
 the area. While not completely stopping it, they have more or less driven off-worlders out of the area they inhabit. They seek to 
 fulfill the purpose they believe they were sent there for, and do not intend to let others stop them in their path.
 
-## **Ulig'vas and Jez'vik Clan:** The Ulig’vas, and Jez’vik clans are individually small, and have always been like that. They are both 
+## **Ulig'vas and Jez'vik Clan:**
+The Ulig’vas, and Jez’vik clans are individually small, and have always been like that. They are both 
 also practicers of Grand Stratagem. The Ulig’vas are hunters, seeing each prey they kill as a means to better themselves, and learn more 
 about life. The Jez’vik however, are more militant fighters, trying to keep their supplies secure as they transport goods throughout the 
 deserts. Both of their nomadic ways though the deserts have proven that a small reliable group, was better than a larger one. However, 
@@ -30,7 +32,8 @@ size, and ability to cover larger ground more successfully now, they have been a
 travel into the Savannahs to trade the excess food for water, and other supplies, and pick up good to transport to other areas. As they 
 travel together, in much happier times, they are ever vigilant to not let the mistakes of the past repeat.
 
-## **Issarik Clan:** The Issarik Clan, has always taught that curiosity, and discovery, was key to survival. With every new advancement, 
+## **Issarik Clan:**
+The Issarik Clan, has always taught that curiosity, and discovery, was key to survival. With every new advancement, 
 their odds of surviving increased, and without the curiosity to drive discovery, you would die. Such teachings are still ingrained in 
 their beliefs, and their current leader, Koszes Issarik, has kept it that way. The Issarik Clan currently resides in the Northern Pole 
 of Moghes, and has been now for decades after the discoveries of Precursor technology. They are devout worshipers of the Precursor 
@@ -41,7 +44,8 @@ it.Their engineering skill is known throughout the Northern Pole, and they are u
 and more advanced weaponry, such as energy swords, or laser rifles. Progress is a means to make their clan, and their race, great, and 
 they seek to get to the point where they can join the stars with the rest of the Galaxy.
 
-## **Zes'lin Clan:** The Zesli’n Clan, are a tribe of boaters in the Derzin Swamps. They were a clan that had lived in the Savanahs, 
+## **Zes'lin Clan:**
+The Zesli’n Clan, are a tribe of boaters in the Derzin Swamps. They were a clan that had lived in the Savanahs, 
 devout followers of the Hand of the Vine movement, but clan leader Issek decided that in pursuit to spread plant life throughout Moghes, 
 they must cleanse the toxicity of the swamps to make it more habitable. Though this goal has not been accomplished fully, Derzin Swamps 
 has over a long period of time, gradually recovered and become more habitable. Even to this day, the clan is firm that their efforts to 
@@ -51,7 +55,8 @@ the swamps, where they before did not dare, to clean a larger area faster. In ad
 his clan more like the males, sending them out to do tasks that the men used to do, before they spent most of their days cleaning. The 
 cleansing will not only help the planet, but it will bring us closer to our faith, and serve a great purpose.
 
-## **Tessereck Clan:** The Tessereck Clan, is an very odd clan, living in the deserts of the equator, in a long lost military bomb 
+## **Tessereck Clan:**
+The Tessereck Clan, is an very odd clan, living in the deserts of the equator, in a long lost military bomb 
 shelter, capable of housing nearly three hundred individuals. How they originally came to be, was twenty exiles, male and female, from 
 three different clans, Tesak, Ser’vize, and Recksesua, banding together to survive. They created the name above, as to preserve the 
 memory of those that discarded them. The discovery of this shelter save them from the radiated wastes outside, but it provided them with 
@@ -67,7 +72,8 @@ but now, they are expanding their horizons. Their huge population, amassing an o
 easy to spread out, and do the jobs required, and with their new gear, and their overall versatility, they are moving on to do jobs for 
 clans in need of assistance, and willing to pay. Though discarded, they will show this world the mark that they may leave upon it.
 
-## **I'lesk Clan:** The I’lesk Clan, is one that has used its fortunate past for others. Desa, a clan leader from centuries ago, found 
+## **I'lesk Clan:**
+The I’lesk Clan, is one that has used its fortunate past for others. Desa, a clan leader from centuries ago, found 
 Precursor texts of medical procedures. By studying these texts, the clan became a valued asset for the Southern Pole of Moghes, as some 
 of the best doctors around. Their knowledge of the medical field thanks to these texts has allowed them to gain a significant amount of 
 influence, and power, with many clans not so much as touching them for fear of being denied service in the future. However, this does 
@@ -78,14 +84,16 @@ outside the clan, is promptly branded, and exiled off-world, in an attempt to ke
 already had to exile his eldest son for this reason. He leads the clan with an iron fist, to keep everyone in line, and the knowledge 
 from the texts hidden. Knowledge is power, and none know this better than the I’lesk clan.
 
-## **Insthyr Clan:** A smaller clan that borders between the most northern parts of the Diamond Peaks and the Poles, the Insthyrs are 
+## **Insthyr Clan:**
+A smaller clan that borders between the most northern parts of the Diamond Peaks and the Poles, the Insthyrs are 
 often a part of conflict due to their location. Their capital is one of the larger ports in the North Pole, and is often common to the 
 trade of weapons, food, and water for the region. Not only that, but with their close vicinity to the Diamond Peaks, raiders from the 
 region often come to the Insthyr in hopes to take their profit. Hard workers, sturdy fighters, and stiff traders, the Insthyrs are 
 commonly known to be staunch followers of the Fruitful Lights, and their leader Gogriss uses the faith as law for his people, if you can 
 even call it faith. They often let clanmembers travel off world in looks for more craft that they can bring back to Moghes. 
 
-## **Nels'thar Clan:** The Nels'thar clan are the dominant power in the southern pole city of S'igek Nels'thar. They poses a
+## **Nels'thar Clan:**
+The Nels'thar clan are the dominant power in the southern pole city of S'igek Nels'thar. They poses a
 n ancient mass driver which they have made functional and used to great effect, now having contact with NanoTrasen and several other 
 human organizations, and having gone as far as to make a bid for the Interstellar Assembly. Aliger Nels'thar is the current ruler of the 
 Nels'thar Clan, he is driving his people to gather technology, either that of the precursors or from off world sources. The clan 
