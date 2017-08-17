@@ -7,10 +7,10 @@
 * **Location** -  Harr'qac, Harr'kelm system 
 * **Capital** - The University of Harr'qac, Government District
 * Demonym - Harr'qaci 
-* Government - Republican confederacy 
-  * Qerr-Kirri - Xilas Tal 
-  * Qerr-Kirri - Lowb Quac 
-  * Qerr-Kirri - Ulaq Virr
+* Government - Various city-states organized in a confederacy
+  * Qerr-Kirri - Xilas Tal (Qrriuwenne)
+  * Qerr-Kirri - Lowb Quac (Xi-Gerr-Ni)
+  * Qerr-Kirri - Ulaq Virr (Gorron'arqeli)
 * Discovery and colonization - c. 2300  
 * Population - 2,010,050,049
 * Created by: Superbee29 
@@ -36,7 +36,7 @@
 
 ## History
 
-Skrell first found this planet about year 2300 on their research flight. They found a smaller planet with developed life. They first tried sending signals towards the planet, but when they got no response, they used their large-scale scanners and surveillance drones to search for any intelligent lifeform activity, like cities or industry. When they found nothing, they decided to colonise the planet, as it resembled Qerrbalak in terms of climatic conditions.
+Skrell first found this planet about the year 2300 on their research flight. They found a smaller planet with developed life. They first tried sending signals towards the planet, but when they got no response, they used their large-scale scanners and surveillance drones to search for any intelligent lifeform activity, like cities or industry. When they found nothing, they decided to colonise the planet, as it resembled Qerrbalak in terms of climatic conditions.
 
 ## Stellar system
 
@@ -125,7 +125,24 @@ Harr'qaci Skrell usually build circular houses, which often have many entrances 
 
 ## Government
 
-Similliarly to Qerrbalak, there are many city-states governing themselves. However, when colonising the planet, Skrell chose to try a similar form of government, with some novel additions. City-states on each continent are grouped together. Qerr-Skria of these city-states elect a representative of their continent, called Qerr-Kirri. This way, cities manage themselves, they decide about continent-wide things together and are represented by one Skrell for each continent when discussing global decisions. The three Qerr-Kirris meet in Government District of the University of Harr'qac and are very respected amongst the population.
+Similarly to Qerrbalak, there are many self-governing city states. However, when establishing them, the Harr'qaci Skrell chose to implement some novel additions. While the city-states are mostly politically independent state subjects, they are organized in a global confederacy, and they decide on the common course of their actions together. Those decisions mostly concern, besides other internal things, their exterior policy; however, while being in agreement, there is usually enough space for the city-states to vary their implementation according to their specific situation. This does not mean that the common decisions are compulsory - the individual city-states can choose to implement them their own way or not implement them at all. However, seeing this cooperation as a much more efficient process, the city-states of Harr'qac usually deviate only slightly from the common decision, as they themselves usually do not *want* to deviate much from the common goal.
+
+This confederacy is divided into three sub-confederacies - one for each continent - for the sake of easier organization in general, and to make discussions concerning continent-specific situations more efficient. Representing each of the continents are the Qerr-Kirris, backed by their councils. They meet in the Government District of the University of Harr'qac.
+
+In case of a serious crisis, when the sub-confederacy and Qerr-Kirri system would not be quick enough to react, the General Council, or Qrri-Kerr'a, takes place, with either a representative or the Qerr-Skrria personally representing each city-state.
+
+### Foreign relations
+
+* **Skrellian space** - Warm and active contact, trade, travel and cultural exchange. Harr'qac is a part of the Skrellian space after all.
+* **Sol Central Government** - Amicable and warm due to the history between the Skrell and the Humans.
+* **Terran Confederacy** - Formal contact, mostly trading, due to being further away. The conflict between the Sol Central Government and the Terran Confederacy tends to be overlooked, as Harr'qaci Skrell feel they shouldn't favoritise any side of it.
+* **Moghes Hegemony** - No formal contact.
+* **Ahdomai** - Not much, minor trade.
+* **Dionaea Gestalts** - Amicable.
+* **The Positronic Union** - Contacts are being established on the basis of research.
+* **Resomi Empire** - Minor contact through complex trade routes.
+* **Free Trade Union** - Minor trade contact, rather supportive.
+* **Human corporate space** - Trade contacts.
 
 ## Education
 
