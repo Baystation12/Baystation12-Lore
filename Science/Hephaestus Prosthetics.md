@@ -1,4 +1,4 @@
-#Hephaestus Industries Prosthetic Lineup
+# Hephaestus Industries Prosthetic Lineup
 
 As of general position on the prosthetics market, Hephaestus is definitely not negligible, but not the greatest either, that position should be held by Zeng-Hu Pharmaceuticals. Hephaestus has seen some cooperation with them, namely during development of X-06 and X-07 models.
 
@@ -10,11 +10,11 @@ The X series features models specialized for a given role in the military, or fo
 
 Less powerful versions stripped of some features or replaced with lower quality components can be ordered. They do retain their model name, but are only classified as Hephaestus Industries Fidelity (HIF) models. Those see comparatively higher demand to X series.
 
-##Prosthetic models
+## Prosthetic models
 
 Honoring the naming scheme that the TSC sticks to, the main HIF and X series models are Prometheus, Minotaurus, Helios, Icarus, Adrasteia, Ares, and Nostos.
 
-###X-01 Prometheus
+### X-01 Prometheus
 
 Prometheus has been developed as one of the first, to alleviate as many issues as possible for veterans that may have lost a limb, or other body part. However this does not only include issues associated with getting used to the new body part, but also the social and official aspects that were associated with any prosthetic compartment, as at the time of development, biomechanical augmentations were on the rise, causing moral disputes over both actual augmentations and regular prosthetic replacements. They saw use not just with veterans, but with wealthy citizens as well.
 
@@ -46,7 +46,7 @@ Helios also features virtualization of the battlefield, giving the user an optio
 
 The actual capabilities of a given Helios unit depend on the outfit of the prosthetics and external modules mounted. While maintenance is relatively easy, allowing for withering harsh environmental conditions for long periods of time behind enemy lines, implementation costs and repairs are high, even among Hephaestus price range.
 
-###X-04 Icarus
+### X-04 Icarus
 
 Another aspect Hephaestus decided to focus on to outfit the military were specifically recon and scout units. From that alone, it is likely needless to say this prosthetic focuses on low weight, broad operation range and period, and high speed and maneuverability. Integrity-wise, Icarus is not much more durable than regular human bodyparts. As for energy requirement, depending on user, it is actually fairly efficient, powered from nutrients the user consumes, which typically causes carrying a plenfitul supply on longer missions.
 
@@ -54,7 +54,7 @@ Limbs can be also further augmented to integrate a wingsuit, this has been taken
 
 Icarus can actually be configured to be so unintrusive it can be combined with other prosthetic models to a small extent, most compatible ones being the Helios and Nostos. Veteran field medics and recon specialists often make use of these combinations, should they afford the cost and the time to accustom to changes. The procedure is regarded very risky as commanding officers and medics on the field are commonly targeted. Despite the maneuverability of Icarus combined with acute awareness of Helios making for a very hard-to-kill individual, Icarus users are a prized kill, which makes for great creativity in effort of dispatching them.
 
-###X-05 Adrasteia
+### X-05 Adrasteia
 
 After accomodating most of, if not the entire spectrum of military use with its prosthetics product range, Hephaestus moved on to applications more suiting (though not exclusively) for private applications in the mercenary realm. The first released one was Adrasteia, suited for specialists, assassins, or pilots of small spacecraft and aircraft.
 
@@ -71,7 +71,7 @@ That is why, among other things, Adrasteia was designed to be modular to a small
 
 The specific Adrasteia unit can be composed of nearly any combination of those upgrades and is modifiable, which is of course heftily paid to Hephaestes due to repeated 'non-essential' maintenance, but the quality and leancy that Adrasteia offers seems to be worth the cost for quite a part of the more shady side of the universe.
 
-###X-06 Ares
+### X-06 Ares
 
 Ares is favoured mostly among people who favour tactics and martial arts over guns and lasers, but also among civilians. Although it may be suggested such a person may simply order a customized Adrasteia, it is very rare for this to occur. It was introduced fairly recently in the beginning of 26th century, only months apart from Nostos. Since its release, professional martial artists, military veterans, wealthy, unfortunate citizens, and even some mercenaries have their prior prosthetics removed or their limb stumps cleaned out, and replaced with the Ares unit.
 
@@ -81,7 +81,7 @@ Ares has even managed to come so far in this regard as to possess the feature th
 
 Of course, a superb production as this one is among the most complicated to perform on a client; the entire process of application takes approximately two months on average, and for some time the person is rendered without any prosthetic, which may pose a large issue for some. Furthermore, even though there is no maintenance cost, repair is lengthy and expensive, as is the fabrication. However, to most clients requesting Ares, having the hope of having their arm back again, to use it just like they used to, having waited for this opportunity for years, it is a small price to pay.
 
-###X-07 Nostos
+### X-07 Nostos
 
 As one of the newest prosthesis, it was in development for the longest time, nearly a century, and it would not be finished without a great contribution from Zeng-Hu Pharmaceuticals. While primarily purposed for medical personnel, field medics have been seen using Nostos, which introduced optional light armor plating shortly after release.
 

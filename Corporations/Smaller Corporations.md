@@ -47,7 +47,7 @@ A colonial start-up, O'Neill Manufacturing meets the demands of a growing commun
 
 - **Xion Industrial**
 
-Xion was founded in the mid 23rd century, originally manufacturing industrial equipment, but during the Robotics Boom of the 24th Century, Xion reinvented itself into the company we see today- constructing a vast variety of different industrial drone tech. They quickly grew in size and power, becoming a well known name in Sol and paving the way for the robotic replacement of human workers in certain industrial fields.
+Xion was founded in the mid 23rd century, originally manufacturing industrial equipment, but during the Robotics Boom of the 24th Century, Xion reinvented itself into the company we see today - constructing a vast variety of different industrial drone tech. They quickly grew in size and power, becoming a well known name in Sol and paving the way for the robotic replacement of human workers in certain industrial fields.
 
 Today, they are far less powerful than they were then. Rather than moving forward with the newer innovations such as positronic technology, Xion continues to mass-produce their cheap drones. In more recent years, they've introduced a new line of prosthetic equipment, which prioritizes function over design, for use in the industrial sector.
 

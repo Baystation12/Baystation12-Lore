@@ -2,9 +2,9 @@
 
 ## An overview
 
-Humanity has spread out into the stars in staggering numbers from its home of Earth in the Sol System, and in all shapes in sizes- from personal vessels, pirate ships, and trans-stellar corporations to colonizing, governments, and religious spread. They've quickly become one of the more powerful civilizations, nearing the strengthes of the Skrell and Resomii. This has come though, at quite the cost. Over the course of human history, especially of that beginning in the 21st Century, Humanity has had to tackle many different problems to get to where it is today. 
+Humanity has spread out into the stars in staggering numbers from its home of Earth in the Sol System, and in all shapes in sizes - from personal vessels, pirate ships, and trans-stellar corporations to colonizing, governments, and religious spread. They've quickly become one of the more powerful civilizations, nearing the strengthes of the Skrell and Resomii. This has come though, at quite the cost. Over the course of human history, especially of that beginning in the 21st Century, Humanity has had to tackle many different problems to get to where it is today. 
 
-Now, most likely if you're reading this you're probably a human, or you're looking for more insight into Humanity. In general, they come in all shapes in sizes, names, ethnicities- they are a very mixed species, yet somehow they work together. 
+Now, most likely if you're reading this you're probably a human, or you're looking for more insight into Humanity. In general, they come in all shapes in sizes, names, ethnicities - they are a very mixed species, yet somehow they work together. 
 
 **Today**
 

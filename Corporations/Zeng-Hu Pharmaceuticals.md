@@ -1,6 +1,6 @@
 # Zeng-Hu Pharmaceuticals
 
-*"Zeng-Hu doesn't just buy out corporations... it's more insidious than that. They engulf them. They always ask nicely at first, but if that doesn't work, they begin plotting, conspiring. First they cut off your customers – suddenly, a huge shipment of your products disappears after being seized by an overzealous border control agent, or you lose your biggest customer after their board of directors decides they doesn't want to deal with you anymore. Then, they cut off your suppliers. How are you supposed to make a product when your production facilities don't have power, or supplies, or air? And then, finally, what do they do? They ask nicely again. And you know what? You always say yes."* -Anonymous Former Employee, 2559
+*"Zeng-Hu doesn't just buy out corporations... it's more insidious than that. They engulf them. They always ask nicely at first, but if that doesn't work, they begin plotting, conspiring. First they cut off your customers – suddenly, a huge shipment of your products disappears after being seized by an overzealous border control agent, or you lose your biggest customer after their board of directors decides they doesn't want to deal with you anymore. Then, they cut off your suppliers. How are you supposed to make a product when your production facilities don't have power, or supplies, or air? And then, finally, what do they do? They ask nicely again. And you know what? You always say yes."* - Anonymous Former Employee, 2559
 
 ## About
 

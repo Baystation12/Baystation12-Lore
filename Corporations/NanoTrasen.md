@@ -74,11 +74,11 @@ ___
 NanoTrasen ships vary from research vessels to military-grade patrol ships. Stations vary from industrial complexes to weapons platforms.
 
 - NS* = NanoTrasen Science. The bread and butter of NanoTrasen's industry, this classification, while second in number to the sheet swarm of transports, is primary what the company is about, furthering their everyday profit margins.
-- NT* = NanoTrasen Transport. Cargo, holding, supply, passenger ships- All are filed under transport, and do the grunt work in swarms for the company
-- ND* = NanoTrasen Defense. A class licensed for varying levels of hard weaponry- Considered primarily for asset protection.
+- NT* = NanoTrasen Transport. Cargo, holding, supply, passenger ships - All are filed under transport, and do the grunt work in swarms for the company
+- ND* = NanoTrasen Defense. A class licensed for varying levels of hard weaponry - Considered primarily for asset protection.
 - NR* = NanoTrasen Response. These can vary from communications to medical care, acting as support to other parts of the corporation, that other ships don't quite fall under... Or occasionally do, under a different guise.
 - NA* = NanoTrasen Administration. These tend to be central bases, and are almost never ships with notable exceptions being semi-personal vessels of the CEO, Board of Directors, and similar entities.
-- NB* = NanoTrasen Business. Sales, marketing, product delivery- These tend to be almost exclusively bases or, more rarely, stations. They handle the actual movement of money, PR, and other such fun affects of the company.
+- NB* = NanoTrasen Business. Sales, marketing, product delivery - These tend to be almost exclusively bases or, more rarely, stations. They handle the actual movement of money, PR, and other such fun affects of the company.
 - N*S = Station. The fun things floating in space that don't tend to go places.
 - N*V = Vessel. Spaceships and similarly travelling crafts.
 - N*B = Base. These tend to refer to planetside installations of all varieties, and their names are their locations.

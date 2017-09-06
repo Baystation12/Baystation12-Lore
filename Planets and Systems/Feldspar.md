@@ -7,7 +7,7 @@
 * Demonym  - Feldian, Feldspathic 
 * Government  - Democratic representative republic 
 * Head Administrator -  Donovan Carter
-* Population -150,000 
+* Population - 150,000 
 *  Currency   Thaler   
 * Created by:   Footman 
 
