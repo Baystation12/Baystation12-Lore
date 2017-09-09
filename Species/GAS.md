@@ -57,12 +57,13 @@ They are unlikely to have ever touched a gun or been involved in any kind of fig
 Mostly items used for negative things or to inflict things on others would be unknown. While they went through extensive training, they are valuable creatures and would be sheltered from much of the negativity of humanity. This would also include people being mean or cruel to them.
 
 #### TL;DR
+
 ##### DO:
 - Remember you're not wild; weird social behaviours will have been stopped by the researchers
 - Consider whether you'd have experienced something before you react
 - Keep in mind, if your character wasn't a good candidate they never would have been sent to the torch
 
-##### DON'T
+##### DON'T:
 - Make large social errors or faux pas
 - Act jaded or emotionless
 - Be a dick to people
