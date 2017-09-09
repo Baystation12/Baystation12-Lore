@@ -7,11 +7,98 @@ Giant armoured serpentids (GAS) are characterised by the fundamental differences
 
 Physically, although they look intimidating, they aren’t very good at handling situations where they aren’t in control. If they catch prey off guard they can easily kill it, but if they’re the ones surprised they are unable to defend themselves and struggle to fight back. As such, they would much rather run or hide than fight back in such a case.
 
+![Reference Picture][1]
+
+Roleplaying Guide:
+-------------
+
+The giant armoured serpentids as a species have a unique mentality that will make roleplaying as them a challenge. To help, I've done some theory crafting about how their mentality and background will affect their behaviour on the torch.
+
+### Speech:
+
+The speech pattern is one of the most important things to work on. It could take some practice to write in the correct style. Please don't hesitate to message the current maintainer for giant armoured serpentids if you would like someone to see how well you're doing.
+
+When most adult humans talk, they subconsciously optimise their sentence structure. Using longer words and complex phrasing is common. Giant armoured serpentids aren't very good at this. They will split each thought or piece of information into a small segment, stringing them together using conjunctions like *and* *but* and *or*.
+
+For example, where a human might say: Today I went to store to buy eggs, but it was closed since it was so hot. I went home empty handed.
+
+A giant armoured serpentid might say: Today I went to the store and I was buying eggs and it was very hot so the store was closed so I went home and I didn't get to buy eggs.
+
+They both communicate the same information, but the giant armoured serpentid sounds almost like it's rambling. The sentence structure is technically correct grammatically but stylistically it does poorly. The giant armoured serpentid also uses short and simple words. They typically won't use complex adjectives, but will instead use an adverb with a simple adjective.
+
+Notice there is no stuttering and no redundancy. They use run on sentences but don't repeat themselves. They also speak clearly and distinctly. Though their voice sounds slightly tinny through the speaker, they do have a tone of voice which, although similar, is distinguishable by those who have practised.
+
+#### TL;DR
+
+##### DO:
+- Use lots of small thoughts
+- The word *and* is your best friend
+- Avoid complex grammar and language
+
+##### DON'T:
+- Stutter or slur your words
+- Use incorrect grammar or made up words
+- Repeat ideas or be redundant
+
+### Behaviour:
+
+When considering how you'll react to things when playing a giant armoured serpentid there are a couple of things to keep in mind. One of the most important is considering which external experiences and personal behaviours are new and which they have experienced or have been extinguished.
+
+There are a lot of things "wild" (here on called unacclimated) giant armoured serpentids do. For example, one social behaviour is they help groom others in their colonies.
+
+You are not playing an unacclimated giant armoured serpentid though, exclusively acclimated (have gone through the research program) giant armoured serpentids will be playable. You need to view all of their natural behaviours through this lens.
+
+Yes, giant armoured serpentids groom each other. However, think of what the research team would have done had one of the giant armoured serpentids attempted to groom them. The goal of the researchers is to train giant armoured serpentids to live with humans. They would know that grooming humans would be seen as unacceptable and would tell them not to do it (the fact their mouths are like garburators/garbage disposals to flesh doesn't help either).
+
+This would also include many items around the ship. They likely will have seen a mech before and all the research equipment. The rest would be job-based.
+
+They are unlikely to have ever touched a gun or been involved in any kind of fighting. Flashes, stun grenades, tasers, hardsuits, and many more things would be totally alien to them
+
+Mostly items used for negative things or to inflict things on others would be unknown. While they went through extensive training, they are valuable creatures and would be sheltered from much of the negativity of humanity. This would also include people being mean or cruel to them.
+
+#### TL;DR
+##### DO:
+- Remember you're not wild; weird social behaviours will have been stopped by the researchers
+- Consider whether you'd have experienced something before you react
+- Keep in mind, if your character wasn't a good candidate they never would have been sent to the torch
+
+##### DON'T
+- Make large social errors or faux pas
+- Act jaded or emotionless
+- Be a dick to people
+
+### Learning and Memory:
+
+So, you can learn perfectly by watching alone. Yeah ok, but there are some hard limits to this. For this next chunk, when talking about perfect learning etc., I mean of normal behaviours, not useless behaviours. Those are a whole other ball game.
+
+First, you can only learn from watching your own species. Watching a human do something isn't going to be the least bit helpful. If a human wants to teach you to do something you don't know at all, they're going to have to grab your arms and help move you to the right spot. You don't have the right neurones to learn from watching humans.
+
+Your learning is perfect, yeah, but your memory is limited. The behaviours you know, you remember perfectly. There is no "yes I think that I'm able to do this thing". You know it or you don't: binary. After observing a new behaviour you have about an hour to decide if you're going to keep it. Also if you don't practice your behaviours, you lose them in a couple of days. Since there's only so much time to practice, you know a very specialised skillset. You're not going to know how to set up an engine because you saw someone do it once a week ago.
+
+Also, keep in mind that while you have the skills to do your job, you will lack some level of knowledge relating to those skills. If you're a chemist, you'd be super good at mixing chemicals. You'd know which chemicals and in which proportions mix to make what and how to do so. You will likely be able to recite facts about each one, like dylovene being a broad antitoxin. But if someone walks into the infirmary puking and saying they sting, you'll have no clue that they're likely suffering from toxins. If they're coughing blood and gasping you won't make the connection that you should probably give them peridaxon and dexalin plus. Especially with the new medical system where things are more obfuscated.
+
+In the case where you are caught out not knowing something, you're not going to panic or try something out. You lack the intellectual creativity that humans have for problem-solving. There's no "that didn't work, let's think of what to do next". If you, ICly, don't know what to do, go ask someone else for help. You seek leadership and direction from those who are more capable.
+
+Remember too that you have great interpersonal skills. Socially, you remember a great deal and are quite in tune with both your emotions and those of humans. These social connections aren't behaviours and so are processed differently in your brain so aren't subject to the same restrictions as your memory for behaviours.
+
+#### TL;DR
+
+##### DO:
+- Seek others for help when your character doesn't know what to do
+- Forget information not vital to your job between rounds
+- Make friends and remember people, they aren't covered by the behaviour system
+
+##### DON'T:
+- Come up with solutions to problems
+- Experiment or try new things
+- Know skills out of your niche
+- Use IC events as an excuse to know information your character shouldn't
+- Learn things from watching humans
+
+Finally, although rounds are not canon, please don't move one giant armoured serpentid character between multiple jobs. Each is trained to do one specific job on the Torch and they can't switch. If you play that character in another job, they have to be an entirely different person completely separate from the other one. I recommend using different characters or at least changing your name.
 
 Biology and Biological History:
 -------------
-
-![Reference Picture][1]
 
 *GAS and human height comparison, art by Strider Den, http://striderden.deviantart.com/*
 
