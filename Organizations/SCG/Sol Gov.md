@@ -38,7 +38,7 @@ The assemblies largely form a basis for diplomacy and trade across human space, 
 
 While member states manage affairs that fall under SolGov's jurisdiction within their own borders, including trade agreement and diplomacy between individual member states; gateways and the spaces between states are SolGov's jurisdiction, and any SolGov personnel and outposts within a member state are considered immune from that state's laws. SolGov's main presence can be found on most colonies and stations in the form of aid missions and schools, in space protecting gateways and establishing navigational beacons in nebulae, and even on the frontier, as Colonial Marshals track down criminals that have fled from SolGov administered systems to what they think is safe anonymity. Most of SolGov's revenue comes from taxes on the use of its gateways, communication systems, and secure trade routes, typically higher for non-members, as well as regular funding by corporations and individual member states. While SolGov has no say over legal interactions between member states, it is permitted by its charter to negotiate with other political entities, human or otherwise. While the many organizations of SolGov are staffed by SolGov citizens, member states often send their own personnel to serve and gain experience.
 
-A more indepth study can be found here: [Sol Gov's Inner Workings](https://baystation12.net/lore/Organizations/SCG/SCG-Politics)
+A more indepth study can be found here: [Sol Gov's Inner Workings](https://baystation12.net/lore/Organizations/SCG/Sol-Politics)
 
 ### The Charter
 
