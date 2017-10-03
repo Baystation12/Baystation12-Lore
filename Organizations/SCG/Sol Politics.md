@@ -55,7 +55,3 @@ While the issue of nationality and citizenship has only grown more complex with 
 ### Membership: 
 
 Once eligible for either assembly, human states and organizations need only petition their respective assembly and their membership will be put to a majority vote. While on several occasions, a poor Sapient Rights record, or outstanding conflict will prevent membership, most applicants are accepted in a timely manner. Non-Corporate Members of SolGov, in addition to having a say in the common direction of mankind, have more tangible economic and social benefits: access to SolGov trade routes; the ability to base facilities within gateways; military protection from aggressors, human or otherwise; access to the SolGov quantum communications network; and the promise of aid in the event of a disaster. In exchange, member states pay taxes to SolGov, pledge support, both in times of war and peace, and are subject to the SolGov charter.
-
-### What's the Universal Declaration of Rights?
-
-All right here, laid out for you: [Universal Declaration of Rights](https://baystation12.net/lore/UDoR)
