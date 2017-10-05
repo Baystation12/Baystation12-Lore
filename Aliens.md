@@ -47,9 +47,9 @@ As you can imagine, not every species gets along, and those who don't get along 
 
 The Vox were once a large star-faring civilization that were extremely advanced for their time, according to the Vox, at least. It is said that they unlocked the very code of life itself, forming it, and shaping it to their very will. So says the Vox, at least. The Vox also say they know the secrets of the universe and will sell it to you for the low, low price of twenty thalers. Its unfortunate, but you can’t put much stock into Vox history. It is in a constant state of flux, changing at will to suit a crafty Vox merchant or a prideful Vox scavenger. Whatever their history is, it must be long as they’ve been in space as long as recorded history cares to remember them.
 
-[**Moraki**](https://baystation12.net/lore/Species/Moraki)
+[**Bogani**](https://baystation12.net/lore/Species/Bogani)
 
-The Moraki Imperiate is a vast empire far "North" of Known Space that recently made contact with the known species with a grand invasion of the Positronic Union, and assaults in both Skrell Space and Sol Gov. To the common man, not much is known, but they are a omnicidal, highly theocratic species that think other species are a scourge on the Universe, and they are there to destroy them or enslave them. Eugenics is probably the best thing ever to them. They also have a subspecies that has been genetically engineered into slavery. They breath Chlorine, and they hate everyone. 
+The Bogani Imperiate is a vast empire far "North" of Known Space that recently made contact with the known species with a grand invasion of the Positronic Union, and assaults in both Skrell Space, Sol Gov, and the Terran Confederacy. To the common man, not much is known, but they are omnicidal, highly theocratic, and think other species are a scourge on the Universe, and they are there to destroy them or enslave them. Eugenics is probably the best thing ever to them. They also have various slave species that has been genetically engineered into servitude. They breath Chlorine, and they hate everyone. 
 ____
 
 ## Anything Else?
