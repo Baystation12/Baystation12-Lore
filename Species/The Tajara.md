@@ -24,7 +24,7 @@ Tajara ears are long and upright, these are capable of swiveling around to locat
 
 Tajara have sets of five digits per hand or foot, but they to be shorter and fatter. They have a set of retractable claws originating from a second set of knuckles. Tajara claws are always visible. The Tajara are digitigrade, this in turn forces Tajara to wear modified footwear. Due to their stubby fingers and claws they also need to wear modified gloves.
 
-Tajara have a notably longer sleep cycle than humans, the wake period being between 36-48 hours with a subsequent sleep cycle of 20-28 hours. This pattern is often punctuated by several small naps between 5-30 minutes.
+Tajara have a notably longer sleep cycle than humans, the wake period being between 36-48 hours with a subsequent sleep cycle of 20-28 hours.
 
 The average Tajara body is slender and highly flexible. Sexual dimorphism, except for overall size, is low between males and females. The only real exception being mammary glands, which are normally internal, but come out when the female is caring for her children. Most of their internal systems are like Terran felines, this includes their gastrological, cardiovascular and lymphatic systems. This has led many to believe that the tajara originate from somewhat the same place as Terran felines.
 
