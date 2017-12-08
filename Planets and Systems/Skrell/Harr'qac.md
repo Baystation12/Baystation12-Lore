@@ -186,5 +186,5 @@ Also, there is a global space exploration incentive, including the Harr'kelm sys
 
 Harr'qac also enjoys a steady influx of tourists. Most of them are Skrell from nearby systems who want to see the exotic nature of Harr'qac's native life in their own eyes. **Gor-Lo**, a Garden-city, is too visited a lot by tourists.
 
-[1]: https://wiki.baystation12.net/images/thumb/c/c2/Harrqac.png/100px-Harrqac.png
+[1]: https://i.imgur.com/21cNspn.png
 [2]: http://i.imgur.com/a2LTkue.png
